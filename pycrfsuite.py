@@ -34,8 +34,16 @@ import pycrfsuite
 # Both use tab command to separate values placed on the same line
 #R (relationship) lines in the SemEval .ann files should be skipped here
 
-inputfile = open('train/S0010938X1500195X.ann')#just an example with the first file of the training set
-outputfile = open('train/S0010938X1500195X.txt', w)
+#just an example with the first file of the training set
+inputfile = open('CRFtrain/S0010938X1500195X.ann')
+outputfile = open('CRFtrain/S0010938X1500195X.txt', 'w')
+
+for line in inputfile:
+	target_text=inputfile.readlines()
+	outputfile.writelines(target_text)
+
+inputfile=close()
+outputfile=close()
 
 
 
