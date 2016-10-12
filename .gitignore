@@ -1,5 +1,6 @@
-# Log folder
+# Log folder and testing files
 logs/
+test.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
