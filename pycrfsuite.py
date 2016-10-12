@@ -32,8 +32,14 @@ import pycrfsuite
 #B-NP w[0]=alloys pos[0]=NNPS __EOS__
 
 # Both use tab command to separate values placed on the same line
+#R (relationship) lines in the SemEval .ann files should be skipped here
+
+inputfile = open('train/S0010938X1500195X.ann')#just an example with the first file of the training set
+outputfile = open('train/S0010938X1500195X.txt', w)
 
 
+
+############################################################################
 #Feature extraction
 def word2features(sent, i):
     word = sent[i][0]
