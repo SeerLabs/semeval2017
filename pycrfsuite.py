@@ -47,7 +47,7 @@ outputfile=close()
 
 
 
-############################################################################
+############PART OF THE TUTORIAL CODE################################################
 #Feature extraction
 def word2features(sent, i):
     word = sent[i][0]
