@@ -10,6 +10,9 @@ from __future__ import print_function
 
 import collections
 import nltk
+import logging
+
+logger = logging.getLogger("gen_keyphrase_core")
 
 def leaves(tree):
     """Finds NP (nounphrase) leaf nodes of a chunk tree."""
@@ -63,9 +66,11 @@ def gen_keyphrases(text):
     chunker = nltk.RegexpParser(grammar)
 
     toks = nltk.regexp_tokenize(text, sentence_re)
+    logger.info("tokens: %(1)d"%{"1":len(toks)})
     postoks = nltk.tag.pos_tag(toks)
-
+    logger.info("postoks: %(1)d"%{"1":len(postoks)})
     tree = chunker.parse(postoks)
+    logger.info(tree)
 
     stopwords = nltk.corpus.stopwords.words('english')
     terms = get_terms(tree, lemmatizer, stopwords)
