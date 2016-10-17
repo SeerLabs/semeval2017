@@ -6,5 +6,5 @@ sentence extraction from Wikipedia:
 
 2. procesWikiSearchResults.py : Generate sentences from wiki search results. Each sentence contains one or multiple of the phrases. 
 
-For example, the ann file: `dataExample/S2352179115300041.ann`. `wikiQuery.py` generates `dataExample/S2352179115300041-wikisearch.ann`. `procesWikiSearchResults.py` uses `dataExample/S2352179115300041-wikisearch.ann` and generates `dataExample/S2352179115300041-wikisearch-sentences.ann`.  
+For example, consider the ann file: `dataExample/S2352179115300041.ann`. `wikiQuery.py` generates `dataExample/S2352179115300041-wikisearch.ann`. `procesWikiSearchResults.py` uses `dataExample/S2352179115300041-wikisearch.ann` and generates `dataExample/S2352179115300041-wikisearch-sentences.ann`.  
 
