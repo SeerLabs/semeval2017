@@ -18,8 +18,6 @@ import pycrfsuite
 # mark the first keyphrase in the sequence with "__EOS__"
 # at the end of each file add an empty line to separate blocks
 
-# Brill tag set
-#http://www.ling.gu.se/~lager/mogul/brill-tagger/penn.html
 
 ###EXAMPLE####
 #T1 Process 5 14  oxidation
@@ -35,17 +33,43 @@ import pycrfsuite
 #R (relationship) lines in the SemEval .ann files should be skipped here
 
 #just an example with the first file of the training set
-inputfile = open('CRFtrain/S0010938X1500195X.ann')
-outputfile = open('CRFtrain/S0010938X1500195X.txt', 'w')
+from fileinput import close
+from _io import open
+import fileinput
 
-for line in inputfile:
-	target_text=inputfile.readlines()
-	outputfile.writelines(target_text)
+#method to split only the keyphrases from the list
+def find_between( s, first, last ):
+    try:
+        start = s.index(first) + len( first )
+        end = s.index( last, start )
+        return s[start:end]
+    except ValueError:
+        return ""
 
-inputfile=close()
-outputfile=close()
 
+#hardcoded relative path to annotation file in training data
+ann='scienceie2017_train/CRFtrain/S0010938X1500195X.ann'
+txt_mod='scienceie2017_train/CRFtrain/S0010938X1500195X.txt'
 
+#Open the annotated file and create Python list for its contents
+with open(ann) as f:
+      
+    content=f.readlines()
+        #print(content)
+f.close()
+
+with open(txt_mod, 'w+') as f2:
+    content2=[]
+    for i in content:
+        
+        #print(find_between(i, "\t", "\n"))
+    
+        #f2.write(find_between(i, "\t", "\n") +'\n')
+        content2.append(find_between(i, "\t", "\n") +'\n')
+    #print(content2)
+    for j in content2:
+        f2.write(find_between(j, "\t", "\n") +'\n')
+f2.close()
 
 ############PART OF THE TUTORIAL CODE################################################
 #Feature extraction
