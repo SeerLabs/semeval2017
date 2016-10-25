@@ -156,8 +156,8 @@ def normaliseAnnotations(file_anno, remove_anno):
 if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
     folder_gold = "/data/jxw394/semeval2017/data/dev/"
-    folder_pred = "/data/jxw394/semeval2017/out/"
-    remove_anno = "rel"  # "", "rel" or "types"
+    folder_pred = "/data/jxw394/semeval2017/out/scix_eke-2.0/dev/"
+    remove_anno = "types"  # "", "rel" or "types"
     if len(sys.argv) >= 2:
         folder_gold = sys.argv[1]
     if len(sys.argv) >= 3:
