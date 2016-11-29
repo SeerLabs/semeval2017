@@ -1,5 +1,6 @@
 ##############################
 #Agnese Chiatti Nov., 21 2016#
+#Modified: Nov, 28 2016
 ##############################
 
 import os
@@ -8,8 +9,6 @@ import io
 
 #Returns a List containing annotated phrases for a given txt
 #(Assumes filename notation is the same and only formats change)
-
-
 
 def get_ann_phrases(target_folder, twintxt):
 
@@ -113,28 +112,31 @@ def get_offs(target_folder, twintxt):
     f_targ.close()
     return offs
 
-
+#Keyphrases are split in keywords and returned together with a IOB format label and the relative offset
 def get_kw(train_folder, f):
     keyphrases= get_ann_phrases(train_folder, f)
     #labels= get_ann_labels(train_folder, f)
     offsets= get_offs(train_folder, f)
+    #categories= get_ann_labels(train_folder, f)
     #print(keyphrases)
-    #print(offsets)
-    keywords=[]        
+    #print(categories)
+    keywords=[]
+    
+    j=0        
     for c in keyphrases:
-        j=keyphrases.index(c)
         
         #retrieve same position in offsets list 
         rangeof=offsets[j]
-        #print(rangeof)
+        
         try:
-            #length=float(range[1])-float(range[0])
+            
             newstart=rangeof[0]
-            #print(length)
+            
             i=0
             for d in c:
                 kw=[]
                 kw.append(d)
+                
                 if i==0:
                     kw.append('B-KP')
                     start=rangeof[0]
@@ -146,15 +148,15 @@ def get_kw(train_folder, f):
                     kw.append('I-KP')
                     start=str(newstart)
                     end=str(newstart+len(d))
-                    #if newstart+len(d) == float(range[1]):
-                        #end of phrase
                     newstart=newstart+len(d)+1   
                     i+=1
                 kw.append(start)
                 kw.append(end)
                 keywords.append(kw)
+            j+=1
         except:
             #relational line reached - no keyphrase line
+            j+=1
             continue
                 
     return keywords
