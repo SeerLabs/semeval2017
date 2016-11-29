@@ -1,10 +1,12 @@
-
 ##############################################################
 #Agnese Chiatti 
 #Creation Date: Nov., 21 2016 
 #Modified: Nov., 24 2016
-#added level-1 POS tags, phrae-level tags
-#
+#added level-1 POS tags, phrase-level tags, IOB labels
+#Modified: Nov, 28 2016
+#replaced regex-based tokenizer with WhitespaceTokenizer 
+#to better handle symbols and units. This solved span conflicts.
+#Added offsets/spans to the output files
 ##############################################################
 
 import os
@@ -37,13 +39,12 @@ stanford_bidirectional_tagger_path ="C:/semeval/stanford-postagger-full-2015-12-
 stanford_postagger_jar_path ="C:/semeval/stanford-postagger-full-2015-12-09/stanford-postagger-3.6.0.jar"
 
 #TO-DO: Folders will be changed to taos paths after debugging
-train_folder= "C:/semeval/train2/" #folder containing training data
-output_folder= "C:/semeval/out/" #folder for pre-processed output - will contain files in the right format for CRF 
+train_folder= "C:/semeval/sub-train2/" #folder containing training data
+output_folder= "C:/semeval/out_sub/" #folder for pre-processed output - will contain files in the right format for CRF 
 dev_folder="C:/semeval/dev/" # folder containing development data
 
 #Define stopword list
 stopwords = nltk.corpus.stopwords.words('english')
-
 
 #Initialize Stanford POS Tagger
 stan= StanfordPOSTagger(stanford_bidirectional_tagger_path,stanford_postagger_jar_path,encoding="utf8",java_options="-mx8g")
@@ -66,9 +67,16 @@ for f in flist_train:
         continue
     #print(f)
     
+    
     with io.open(os.path.join(train_folder, f), mode='r', encoding="utf-8") as f_train:
     
         text= f_train.read()
+        
+        #Retrieve annotated features for the currently-open training file
+        keywords=get_kw(train_folder,f)
+        #origin_offs=get_offs(train_folder,f)  
+        #print(keywords)
+        
         
         #Split each sentence on a separate line 
         toktext=sentence_splitter.tokenize(text)
@@ -82,8 +90,7 @@ for f in flist_train:
             sss.append(start)
             sss.append(end)
             sentence_spans.append(sss)
-        #Retrieve annotated features for the currently-open training file
-        keywords=get_kw(train_folder,f)            
+                  
         #print(keywords)
         #Create output files with a similar name as the input files
         outputfile = f.split(".")[0] + "__output.txt"
@@ -95,27 +102,24 @@ for f in flist_train:
         z=0
         for s in toktext:
             #outf.write("---BOS---\n") #Beginning of sentence
-            sentence_re = r'''(?x)        # set flag to allow verbose regexps
-                (?:[A-Z])(?:\.[A-Z])+\.?    # abbreviations, e.g. U.S.A.
-                | \w+(?:-\w+)*            # words with optional internal hyphens
-                | \$?\d+(?:\.\d+)?%?        # currency and percentages, e.g. $12.40, 82%
-                | \.\.\.                # ellipsis
-                | [][.,;"'?():-_`]        # these are separate tokens
-            '''
+            
             
             #Remove punctuation
             '''table = dict.fromkeys(i for i in range(sys.maxunicode) if unicodedata.category(chr(i)).startswith('P'))
             sout=s.translate(table)'''
             
-            tokenizer = nltk.RegexpTokenizer(sentence_re)
-            tokenwords = tokenizer.tokenize(s)
+            tokenizer = WhitespaceTokenizer()
+            tokenwords = WhitespaceTokenizer().tokenize(s)
             t_spans = tokenizer.span_tokenize(s)
+            t_spans_l=[]
+            
             #tokenwords2=word_tokenize(s)
             word_spans_=[]
-            t_spans_l=[]
+            
             
             for w in t_spans:
                 t_spans_l.append(w)
+            #print(t_spans_l)
             
             for t in tokenwords:
                 
@@ -157,36 +161,8 @@ for f in flist_train:
             #print(tokenwords2)
             #print(word_spans_)
             #print(keywords)
-            #backup spans before punct removal to solve inconsistencies
-            '''w_spans_np=WhitespaceTokenizer().span_tokenize(s)
-            word_spans_np=[]
-            for w in w_spans_np:
-                wss=[]
-                start=w[0]
-                end=w[1]
-                
-                wss.append(start)
-                wss.append(end)
-                word_spans_np.append(wss)
-            print(word_spans_np)
-                        
-            '''
-            #Tokenize and track word spans
-            '''tokenwords=WhitespaceTokenizer().tokenize(sout)
-            w_spans=WhitespaceTokenizer().span_tokenize(sout)
-            
-            word_spans=[]
-            
-            for w in w_spans:
-                wss=[]
-                start=w[0]
-                end=w[1]
-                
-                wss.append(start)
-                wss.append(end)
-                word_spans.append(wss)
-            #print(word_spans)'''
-            
+            #print(origin_offs)
+           
             
             #For each cleaned sentence: chunk phrases and parse tree
             #same module of Hung-Hsuan Chen & Jian Wu code (EKE 3.0)
@@ -320,7 +296,6 @@ for f in flist_train:
                 tags='\t'.join(postag[i])
                 outf.write(tags)
                 
-                        
                                
                 #Write relative phrase-level tag if found in subset NP, PP, VP or label as "Other"
                 if w in phraseout:
@@ -330,19 +305,24 @@ for f in flist_train:
                 else:
                     outf.write("\tOTHER")
                 
+                
                 #add ground-truth labels
                 label="O"
+                
                 for c in keywords:
-                    if w==c[0] and (str(word_spans_[i][0])==c[2]) and (str(word_spans_[i][1])==c[3]) :
+                    if w==c[0] and (str(word_spans_[i][0])==c[2]) and (str(word_spans_[i][1])==c[3]):
                         
                         label= c[1]
+                       
                         
                         
                     else:
-                        continue #print(keywords[i][0])
-                        
-                        #print(w + "\t"+ keywords[i][0]+"\t" +str(word_spans[i][0])+ "\t"+ keywords[i][2] +"O")
+                        continue 
+                       
                 outf.write("\t"+label)
+                
+                outf.write(" "+str(word_spans_[i][0]))
+                outf.write(" "+str(word_spans_[i][1]))
                 
                 word_length=len(w)
                
@@ -358,20 +338,10 @@ for f in flist_train:
                 else:
                     outf.write("\tLOWERCASE")
                     
-                #if (w=='.')|(w==','):
-                    #outf.write("\tallPunct")
-                #if (w=='[')|(w==']')|(w=='(')|(w==')'):
-                    #outf.write("\tallParenth")
-                    
                 if not(w.isalpha()):
                     outf.write("\tContainSymbol")
                 else:
                     outf.write("\tallAlpha")
-                
-                #TO-DO: ann-derived features\IOB notation
-                
-                
-                
                 
                 outf.write("\n")
                 wordcount +=1 
