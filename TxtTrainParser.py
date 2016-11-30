@@ -2,7 +2,7 @@
 #Agnese Chiatti 
 #Creation Date: Nov., 21 2016 
 #Modified: Nov., 24 2016
-#added level-1 POS tags, phrase-level tags, IOB labels
+#added level-1 POS tags, phrae-level tags
 #Modified: Nov, 28 2016
 #replaced regex-based tokenizer with WhitespaceTokenizer 
 #to better handle symbols and units. This solved span conflicts.
@@ -39,8 +39,8 @@ stanford_bidirectional_tagger_path ="C:/semeval/stanford-postagger-full-2015-12-
 stanford_postagger_jar_path ="C:/semeval/stanford-postagger-full-2015-12-09/stanford-postagger-3.6.0.jar"
 
 #TO-DO: Folders will be changed to taos paths after debugging
-train_folder= "C:/semeval/sub-train2/" #folder containing training data
-output_folder= "C:/semeval/out_sub/" #folder for pre-processed output - will contain files in the right format for CRF 
+train_folder= "C:/semeval/train2/" #folder containing training data
+output_folder= "C:/semeval/out/" #folder for pre-processed output - will contain files in the right format for CRF 
 dev_folder="C:/semeval/dev/" # folder containing development data
 
 #Define stopword list
@@ -52,7 +52,7 @@ stan= StanfordPOSTagger(stanford_bidirectional_tagger_path,stanford_postagger_ja
 # Nltk sentence split based on periods. 
 punkt_param= PunktParameters()
 #avoid i.e., e.g., Fig. or Tab. being split in separate sentences
-punkt_param.abbrev_types = set([ 'i.e', 'e.g', 'fig', 'tab', 'no', 'et', 'al'])
+punkt_param.abbrev_types = set([ 'i.e', 'e.g', 'fig', 'tab', 'no', 'et', 'al', 'Figs'])
 sentence_splitter = PunktSentenceTokenizer(punkt_param)
 
 flist_train= os.listdir(train_folder)
@@ -77,6 +77,13 @@ for f in flist_train:
         #origin_offs=get_offs(train_folder,f)  
         #print(keywords)
         
+        #Extracting positive examples of keywords from the paragraph, given the ground truth offsets
+        '''for k in keywords:
+            start=k[2]
+            end=k[3]
+            
+        
+        print(text[264:349])'''
         
         #Split each sentence on a separate line 
         toktext=sentence_splitter.tokenize(text)
@@ -91,7 +98,7 @@ for f in flist_train:
             sss.append(end)
             sentence_spans.append(sss)
                   
-        #print(keywords)
+        #print(keywords)'''
         #Create output files with a similar name as the input files
         outputfile = f.split(".")[0] + "__output.txt"
     
@@ -102,7 +109,13 @@ for f in flist_train:
         z=0
         for s in toktext:
             #outf.write("---BOS---\n") #Beginning of sentence
-            
+            sentence_re = r'''(?x)        # set flag to allow verbose regexps
+                (?:[A-Z])(?:\.[A-Z])+\.?    # abbreviations, e.g. U.S.A.
+                | \w+(?:-\w+)*            # words with optional internal hyphens
+                | \$?\d+(?:\.\d+)?%?        # currency and percentages, e.g. $12.40, 82%
+                | \.\.\.                # ellipsis
+                | [][.,;"'?():-_`]        # these are separate tokens
+            '''
             
             #Remove punctuation
             '''table = dict.fromkeys(i for i in range(sys.maxunicode) if unicodedata.category(chr(i)).startswith('P'))
@@ -120,14 +133,15 @@ for f in flist_train:
             for w in t_spans:
                 t_spans_l.append(w)
             #print(t_spans_l)
-            
+            k=0
             for t in tokenwords:
                 
-                index=tokenwords.index(t)
-                w=t_spans_l[index]
+                #index=tokenwords.index(t)
+                #print(t[len(t)-1])
+                w=t_spans_l[k]
                 try:
                     #previous word
-                    t_prev=tokenwords[index-1]
+                    #t_prev=tokenwords[index-1]
                     #for w in t_spans:
                     wss=[]
                     length=w[1]-w[0]
@@ -151,18 +165,50 @@ for f in flist_train:
                             start=newstart
                             end=start+length
                             newstart=end+1
-                        
+                    if t[len(t)-1]==',' or t[len(t)-1]=='.':
+                        end= end -1      
                     wss.append(start)
                     wss.append(end)
                     word_spans_.append(wss)
+                    k+=1
                 except:
+                    k+=1
                     continue
             #print(tokenwords)
             #print(tokenwords2)
             #print(word_spans_)
             #print(keywords)
             #print(origin_offs)
-           
+            #backup spans before punct removal to solve inconsistencies
+            '''w_spans_np=WhitespaceTokenizer().span_tokenize(s)
+            word_spans_np=[]
+            for w in w_spans_np:
+                wss=[]
+                start=w[0]
+                end=w[1]
+                
+                wss.append(start)
+                wss.append(end)
+                word_spans_np.append(wss)
+            print(word_spans_np)
+                        
+            '''
+            #Tokenize and track word spans
+            '''tokenwords=WhitespaceTokenizer().tokenize(sout)
+            w_spans=WhitespaceTokenizer().span_tokenize(sout)
+            
+            word_spans=[]
+            
+            for w in w_spans:
+                wss=[]
+                start=w[0]
+                end=w[1]
+                
+                wss.append(start)
+                wss.append(end)
+                word_spans.append(wss)
+            #print(word_spans)'''
+            
             
             #For each cleaned sentence: chunk phrases and parse tree
             #same module of Hung-Hsuan Chen & Jian Wu code (EKE 3.0)
@@ -296,6 +342,7 @@ for f in flist_train:
                 tags='\t'.join(postag[i])
                 outf.write(tags)
                 
+                    
                                
                 #Write relative phrase-level tag if found in subset NP, PP, VP or label as "Other"
                 if w in phraseout:
@@ -308,17 +355,18 @@ for f in flist_train:
                 
                 #add ground-truth labels
                 label="O"
-                
+                #num_equal_words='0'
                 for c in keywords:
-                    if w==c[0] and (str(word_spans_[i][0])==c[2]) and (str(word_spans_[i][1])==c[3]):
+                    if (str(word_spans_[i][0])==c[2]) and (str(word_spans_[i][1])==c[3]):
                         
                         label= c[1]
-                       
+                        #num_equal_words+=1
                         
                         
                     else:
-                        continue 
-                       
+                        continue #print(keywords[i][0])
+                        
+                        #print(w + "\t"+ keywords[i][0]+"\t" +str(word_spans[i][0])+ "\t"+ keywords[i][2] +"O")
                 outf.write("\t"+label)
                 
                 outf.write(" "+str(word_spans_[i][0]))
@@ -338,10 +386,20 @@ for f in flist_train:
                 else:
                     outf.write("\tLOWERCASE")
                     
+                #if (w=='.')|(w==','):
+                    #outf.write("\tallPunct")
+                #if (w=='[')|(w==']')|(w=='(')|(w==')'):
+                    #outf.write("\tallParenth")
+                    
                 if not(w.isalpha()):
                     outf.write("\tContainSymbol")
                 else:
                     outf.write("\tallAlpha")
+                
+                #TO-DO: ann-derived features\IOB notation
+                
+                
+                
                 
                 outf.write("\n")
                 wordcount +=1 
