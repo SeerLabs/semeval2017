@@ -1,0 +1,14 @@
+T0	KEYPHRASE_NOTYPES 18 71	interpolation functions and support point coordinates
+T1	KEYPHRASE_NOTYPES 194 200	NS-FEM
+T2	KEYPHRASE_NOTYPES 242 267	spurious low-energy modes.
+T3	KEYPHRASE_NOTYPES 279 316	non-physical penalty energy functions
+T4	KEYPHRASE_NOTYPES 322 336	stabilize them.
+T5	KEYPHRASE_NOTYPES 528 549	deformation gradients.
+T6	KEYPHRASE_NOTYPES 555 586	first order hexahedral elements,
+T7	KEYPHRASE_NOTYPES 686 803	27 support points and a second order tensor-product interpolation of the deformation gradient by Lagrange polynomials.
+T8	KEYPHRASE_NOTYPES 843 891	16 support points with 8 points being coincident
+T9	KEYPHRASE_NOTYPES 1009 1031	integrated tetrahedron
+T10	KEYPHRASE_NOTYPES 1051 1079	bubble mode in the gradients
+T11	KEYPHRASE_NOTYPES 1355 1394	positions of support points for various
+T12	KEYPHRASE_NOTYPES 1395 1398	CAG
+T13	KEYPHRASE_NOTYPES 1403 1420	SFEM formulations.

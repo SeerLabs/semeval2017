@@ -1,0 +1,19 @@
+T0	KEYPHRASE_NOTYPES 0 21	Isogeometric analysis
+T1	KEYPHRASE_NOTYPES 33 60	numerical simulation method
+T2	KEYPHRASE_NOTYPES 92 118	NURBS-based representation
+T3	KEYPHRASE_NOTYPES 122 132	CAD models.
+T4	KEYPHRASE_NOTYPES 198 211	NURBS objects
+T5	KEYPHRASE_NOTYPES 215 247	parameterize the physical domain.
+T6	KEYPHRASE_NOTYPES 259 274	physical domain
+T7	KEYPHRASE_NOTYPES 373 387	NURBS surfaces
+T8	KEYPHRASE_NOTYPES 392 405	NURBS volumes
+T9	KEYPHRASE_NOTYPES 459 481	non-hexahedral domains
+T10	KEYPHRASE_NOTYPES 568 642	Galerkin projection introduces finite-dimensional spaces of test functions
+T11	KEYPHRASE_NOTYPES 744 765	isogeometric analysis
+T12	KEYPHRASE_NOTYPES 811 834	domain parameterization
+T13	KEYPHRASE_NOTYPES 844 865	NURBS basis functions.
+T14	KEYPHRASE_NOTYPES 931 955	resulting test functions
+T15	KEYPHRASE_NOTYPES 1059 1101	solution of partial differential equations
+T16	KEYPHRASE_NOTYPES 1202 1225	two-dimensional domains
+T17	KEYPHRASE_NOTYPES 1284 1307	NURBS parameterizations.
+T18	KEYPHRASE_NOTYPES 1467 1493	discretized function space

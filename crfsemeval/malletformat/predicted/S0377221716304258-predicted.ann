@@ -1,0 +1,14 @@
+T0	KEYPHRASE_NOTYPES 0 16	Two-state models
+T1	KEYPHRASE_NOTYPES 43 61	fit complex traces,
+T2	KEYPHRASE_NOTYPES 91 125	approximate fitting of large M3PPs.
+T3	KEYPHRASE_NOTYPES 178 183	MMPPs
+T4	KEYPHRASE_NOTYPES 424 456	definition of several approaches
+T5	KEYPHRASE_NOTYPES 482 518	composing multiple small-sized MMPPs
+T6	KEYPHRASE_NOTYPES 533 552	Kronecker operators
+T7	KEYPHRASE_NOTYPES 656 677	composition operators
+T8	KEYPHRASE_NOTYPES 789 804	fitting methods
+T9	KEYPHRASE_NOTYPES 818 830	EM algorithm
+T10	KEYPHRASE_NOTYPES 926 948	superposition operator
+T11	KEYPHRASE_NOTYPES 987 1028	statistical multiplexing of several MMPPs,
+T12	KEYPHRASE_NOTYPES 1208 1213	MMPPs
+T13	KEYPHRASE_NOTYPES 1321 1388	numerical evaluation of queueing models by matrix geometric methods

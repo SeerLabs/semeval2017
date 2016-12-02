@@ -1,0 +1,77 @@
+Correlation	NN	NP	B-KP 0 11	[1]	[11]	CAPITALIZED	allAlpha
+of	IN	PP	I-KP 12 14	[2]	[2]	LOWERCASE	allAlpha
+charm-quark–charm-antiquark	NN	NP	I-KP 15 42	[3]	[27]	LOWERCASE	ContainSymbol
+in	IN	PP	I-KP 43 45	[4]	[2]	LOWERCASE	allAlpha
+γp	NN	NP	B-KP 46 48	[5]	[2]	LOWERCASE	allAlpha
+scattering	NN	NP	I-KP 49 59	[6]	[10]	LOWERCASE	allAlpha
+are	VBP	VP	O 60 63	[7]	[3]	LOWERCASE	allAlpha
+calculated	VBN	VP	O 64 74	[8]	[10]	LOWERCASE	allAlpha
+in	IN	PP	O 75 77	[9]	[2]	LOWERCASE	allAlpha
+the	DT	OTHER	O 78 81	[10]	[3]	LOWERCASE	allAlpha
+kt-factorization	JJ	NP	B-KP 82 98	[11]	[16]	LOWERCASE	ContainSymbol
+approach.	NN	NP	I-KP 99 107	[12]	[9]	LOWERCASE	ContainSymbol
+
+We	PRP	OTHER	O 109 111	[1]	[2]	CAPITALIZED	allAlpha
+apply	VBP	VP	O 112 117	[2]	[5]	LOWERCASE	allAlpha
+different	JJ	NP	O 118 127	[3]	[9]	LOWERCASE	allAlpha
+unintegrated	JJ	NP	B-KP 128 140	[4]	[12]	LOWERCASE	allAlpha
+gluon	NN	NP	I-KP 141 146	[5]	[5]	LOWERCASE	allAlpha
+distributions	NNS	NP	I-KP 147 160	[6]	[13]	LOWERCASE	allAlpha
+(uGDF)	NN	NP	O 161 167	[7]	[6]	LOWERCASE	ContainSymbol
+used	VBN	VP	O 168 172	[8]	[4]	LOWERCASE	allAlpha
+in	IN	OTHER	O 173 175	[9]	[2]	LOWERCASE	allAlpha
+the	DT	OTHER	O 176 179	[10]	[3]	LOWERCASE	allAlpha
+literature.	NN	NP	O 180 190	[11]	[11]	LOWERCASE	ContainSymbol
+
+The	DT	OTHER	O 192 195	[1]	[3]	CAPITALIZED	allAlpha
+results	NNS	NP	O 196 203	[2]	[7]	LOWERCASE	allAlpha
+of	IN	OTHER	O 204 206	[3]	[2]	LOWERCASE	allAlpha
+our	PRP$	OTHER	O 207 210	[4]	[3]	LOWERCASE	allAlpha
+calculations	NNS	NP	O 211 223	[5]	[12]	LOWERCASE	allAlpha
+are	VBP	VP	O 224 227	[6]	[3]	LOWERCASE	allAlpha
+compared	VBN	VP	O 228 236	[7]	[8]	LOWERCASE	allAlpha
+with	IN	OTHER	O 237 241	[8]	[4]	LOWERCASE	allAlpha
+very	RB	OTHER	O 242 246	[9]	[4]	LOWERCASE	allAlpha
+recent	JJ	NP	O 247 253	[10]	[6]	LOWERCASE	allAlpha
+experimental	JJ	NP	O 254 266	[11]	[12]	LOWERCASE	allAlpha
+results	NNS	NP	O 267 274	[12]	[7]	LOWERCASE	allAlpha
+from	IN	OTHER	O 275 279	[13]	[4]	LOWERCASE	allAlpha
+the	DT	OTHER	O 280 283	[14]	[3]	LOWERCASE	allAlpha
+FOCUS	NNP	NP	O 284 289	[15]	[5]	CAPITALIZED	allAlpha
+Collaboration.	NNP	NP	O 290 303	[16]	[14]	CAPITALIZED	ContainSymbol
+
+The	DT	OTHER	O 305 308	[1]	[3]	CAPITALIZED	allAlpha
+CCFM	NN	NP	B-KP 309 313	[2]	[4]	CAPITALIZED	allAlpha
+uGDF	NN	NP	I-KP 314 318	[3]	[4]	LOWERCASE	allAlpha
+developed	VBD	VP	O 319 328	[4]	[9]	LOWERCASE	allAlpha
+recently	RB	OTHER	O 329 337	[5]	[8]	LOWERCASE	allAlpha
+by	IN	PP	O 338 340	[6]	[2]	LOWERCASE	allAlpha
+Kwieciński	NNP	NP	O 341 351	[7]	[10]	CAPITALIZED	allAlpha
+et	FW	OTHER	O 352 354	[8]	[2]	LOWERCASE	allAlpha
+al.	FW	OTHER	O 355 357	[9]	[3]	LOWERCASE	ContainSymbol
+gives	VBZ	VP	O 359 364	[10]	[5]	LOWERCASE	allAlpha
+a	DT	OTHER	O 365 366	[11]	[1]	LOWERCASE	allAlpha
+good	JJ	NP	O 367 371	[12]	[4]	LOWERCASE	allAlpha
+description	NN	NP	O 372 383	[13]	[11]	LOWERCASE	allAlpha
+of	IN	OTHER	O 384 386	[14]	[2]	LOWERCASE	allAlpha
+the	DT	OTHER	O 387 390	[15]	[3]	LOWERCASE	allAlpha
+data.	NN	NP	O 391 395	[16]	[5]	LOWERCASE	ContainSymbol
+
+New	JJ	NP	O 397 400	[1]	[3]	CAPITALIZED	allAlpha
+observables	NNS	NP	O 401 412	[2]	[11]	LOWERCASE	allAlpha
+are	VBP	VP	O 413 416	[3]	[3]	LOWERCASE	allAlpha
+suggested	VBN	VP	O 417 426	[4]	[9]	LOWERCASE	allAlpha
+for	IN	PP	O 427 430	[5]	[3]	LOWERCASE	allAlpha
+future	JJ	NP	O 431 437	[6]	[6]	LOWERCASE	allAlpha
+studies.	NN	NP	O 438 445	[7]	[8]	LOWERCASE	ContainSymbol
+
+Predictions	NNS	NP	O 447 458	[1]	[11]	CAPITALIZED	allAlpha
+and	CC	OTHER	O 459 462	[2]	[3]	LOWERCASE	allAlpha
+perspectives	NNS	NP	O 463 475	[3]	[12]	LOWERCASE	allAlpha
+for	IN	OTHER	O 476 479	[4]	[3]	LOWERCASE	allAlpha
+the	DT	OTHER	O 480 483	[5]	[3]	LOWERCASE	allAlpha
+HERA	NNP	NP	B-KP 484 488	[6]	[4]	CAPITALIZED	allAlpha
+energies	NNS	NP	I-KP 489 497	[7]	[8]	LOWERCASE	allAlpha
+are	VBP	VP	O 498 501	[8]	[3]	LOWERCASE	allAlpha
+presented.	NN	NP	O 502 511	[9]	[10]	LOWERCASE	ContainSymbol
+

@@ -1,0 +1,22 @@
+T0	KEYPHRASE_NOTYPES 59 83	micrometeorological data
+T1	KEYPHRASE_NOTYPES 93 120	best prediction performance
+T2	KEYPHRASE_NOTYPES 175 194	standard algorithms.
+T3	KEYPHRASE_NOTYPES 225 254	dynamic aggregation of models
+T4	KEYPHRASE_NOTYPES 296 301	D-SDC
+T5	KEYPHRASE_NOTYPES 336 363	high prediction performance
+T6	KEYPHRASE_NOTYPES 463 485	prediction performance
+T7	KEYPHRASE_NOTYPES 542 555	training data.
+T8	KEYPHRASE_NOTYPES 620 639	prediction horizons
+T9	KEYPHRASE_NOTYPES 702 742	D-SDC involves unnecessary training data
+T10	KEYPHRASE_NOTYPES 814 828	extracted data
+T11	KEYPHRASE_NOTYPES 834 850	training periods
+T12	KEYPHRASE_NOTYPES 942 955	training data.
+T13	KEYPHRASE_NOTYPES 988 1027	feature mapping and algorithms of D-SDC
+T14	KEYPHRASE_NOTYPES 1037 1079	avoid extracting unnecessary training data.
+T15	KEYPHRASE_NOTYPES 1113 1154	combination of several algorithms: kernel
+T16	KEYPHRASE_NOTYPES 1170 1200	PLS regression, k-means, D-SDC,
+T17	KEYPHRASE_NOTYPES 1206 1216	linear SVR.
+T18	KEYPHRASE_NOTYPES 1247 1265	several parameters.
+T19	KEYPHRASE_NOTYPES 1339 1358	tune the parameters.
+T20	KEYPHRASE_NOTYPES 1512 1534	prediction performance
+T21	KEYPHRASE_NOTYPES 1571 1588	genetic algorithm
