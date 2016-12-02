@@ -6,8 +6,8 @@ def word2features(sent, i):
 
     features = {
         'bias': 1.0,
-        'word.lower()': word.lower(),
-        'word[-3:]': word[-3:],
+        'word.lower()': word.lower(), #if the whole word is lower case 
+        'word[-3:]': word[-3:], 
         'word[-2:]': word[-2:],
         'word.isupper()': word.isupper(),
         'word.istitle()': word.istitle(),
