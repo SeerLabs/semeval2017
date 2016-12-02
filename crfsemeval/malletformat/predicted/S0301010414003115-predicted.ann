@@ -1,0 +1,13 @@
+T0	KEYPHRASE_NOTYPES 31 54	B3LYP/aug-cc-pVTZ level
+T1	KEYPHRASE_NOTYPES 80 140	calculations of the lowest electronic singlet excited states
+T2	KEYPHRASE_NOTYPES 150 181	coupled cluster linear response
+T3	KEYPHRASE_NOTYPES 223 227	CCSD
+T4	KEYPHRASE_NOTYPES 355 406	all-electron atomic natural orbital (ANO) basis set
+T5	KEYPHRASE_NOTYPES 469 493	cc-pVTZ basis set on the
+T6	KEYPHRASE_NOTYPES 494 506	oxygen atoms.
+T7	KEYPHRASE_NOTYPES 678 697	excitation energies.
+T8	KEYPHRASE_NOTYPES 703 717	comparison the
+T9	KEYPHRASE_NOTYPES 718 733	EOM-CCSD method
+T10	KEYPHRASE_NOTYPES 877 895	transition moments
+T11	KEYPHRASE_NOTYPES 918 925	LR-CCSD.
+T12	KEYPHRASE_NOTYPES 927 943	Abelian symmetry

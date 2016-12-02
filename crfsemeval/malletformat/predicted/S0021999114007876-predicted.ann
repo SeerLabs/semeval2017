@@ -1,0 +1,17 @@
+T0	KEYPHRASE_NOTYPES 8 31	work, light propagation
+T1	KEYPHRASE_NOTYPES 37 54	scattering medium
+T2	KEYPHRASE_NOTYPES 60 96	piece-wise constant refractive index
+T3	KEYPHRASE_NOTYPES 107 135	radiative transport equation
+T4	KEYPHRASE_NOTYPES 149 166	Light propagation
+T5	KEYPHRASE_NOTYPES 193 218	constant refractive index
+T6	KEYPHRASE_NOTYPES 241 262	RTE and the equations
+T7	KEYPHRASE_NOTYPES 313 331	Fresnel reflection
+T8	KEYPHRASE_NOTYPES 417 431	coupled system
+T9	KEYPHRASE_NOTYPES 435 439	RTEs
+T10	KEYPHRASE_NOTYPES 568 586	Monte Carlo method.
+T11	KEYPHRASE_NOTYPES 622 684	RTE model describes light propagation accurately in comparison
+T12	KEYPHRASE_NOTYPES 694 712	Monte Carlo method.
+T13	KEYPHRASE_NOTYPES 745 789	neglecting internal refractive index changes
+T14	KEYPHRASE_NOTYPES 893 912	DOT reconstructions
+T15	KEYPHRASE_NOTYPES 944 1003	incorporating a model for internal refractive index changes
+T16	KEYPHRASE_NOTYPES 1011 1041	image reconstruction procedure.

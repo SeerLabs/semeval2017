@@ -1,0 +1,7 @@
+T0	KEYPHRASE_NOTYPES 119 138	shear-thinning case
+T1	KEYPHRASE_NOTYPES 156 177	shear-thickening case
+T2	KEYPHRASE_NOTYPES 459 485	flows with power-law index
+T3	KEYPHRASE_NOTYPES 558 581	correct algebraic decay
+T4	KEYPHRASE_NOTYPES 634 715	condition(11)(u¯′,v¯′)=nη(n-1)(u¯,v¯)asη→∞,at some suitably large value of η=η∞≫1.
+T5	KEYPHRASE_NOTYPES 724 738	Newtonian case
+T6	KEYPHRASE_NOTYPES 891 943	case(12)(u¯′,v¯′)=w¯∞(u¯,v¯)asη→∞,where w∞=-2∫0∞u¯dη.

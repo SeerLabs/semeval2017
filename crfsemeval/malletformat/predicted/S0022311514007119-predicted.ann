@@ -1,0 +1,13 @@
+T0	KEYPHRASE_NOTYPES 101 125	bcc Fe lattice parameter.
+T1	KEYPHRASE_NOTYPES 211 232	Monte Carlo algorithm
+T2	KEYPHRASE_NOTYPES 241 297	determine the lowest energy configuration of the cluster
+T3	KEYPHRASE_NOTYPES 367 373	helium
+T4	KEYPHRASE_NOTYPES 477 564	conjugate gradient algorithm, yielding a single vacancy formation energy Evac of 1.72eV.
+T5	KEYPHRASE_NOTYPES 717 729	create voids
+T6	KEYPHRASE_NOTYPES 775 799	formation energy of each
+T7	KEYPHRASE_NOTYPES 815 833	Next, helium atoms
+T8	KEYPHRASE_NOTYPES 945 959	MC scheme [29]
+T9	KEYPHRASE_NOTYPES 980 1005	low energy configurations.
+T10	KEYPHRASE_NOTYPES 1126 1131	He–He
+T11	KEYPHRASE_NOTYPES 1212 1240	conjugate gradient algorithm.
+T12	KEYPHRASE_NOTYPES 1247 1253	bubble

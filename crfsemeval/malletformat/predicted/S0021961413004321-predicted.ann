@@ -1,0 +1,16 @@
+T0	KEYPHRASE_NOTYPES 34 40	alloys
+T1	KEYPHRASE_NOTYPES 196 210	enthalpic data
+T2	KEYPHRASE_NOTYPES 228 236	solution
+T3	KEYPHRASE_NOTYPES 274 331	chemical potential data calculated from phase equilibrium
+T4	KEYPHRASE_NOTYPES 361 385	excess entropy of mixing
+T5	KEYPHRASE_NOTYPES 477 498	configurational parts.
+T6	KEYPHRASE_NOTYPES 547 616	deviation from the entropy of a mechanical mixture of the end members
+T7	KEYPHRASE_NOTYPES 830 888	excess entropy coming from non-random atomic distributions
+T8	KEYPHRASE_NOTYPES 932 965	neutron scattering investigations
+T9	KEYPHRASE_NOTYPES 980 1000	computer simulations
+T10	KEYPHRASE_NOTYPES 1054 1090	total excess entropy (from enthalpic
+T11	KEYPHRASE_NOTYPES 1298 1319	vibrational entropies
+T12	KEYPHRASE_NOTYPES 1339 1363	temperature dependencies,
+T13	KEYPHRASE_NOTYPES 1398 1414	entropic effects.
+T14	KEYPHRASE_NOTYPES 1473 1490	experimental data
+T15	KEYPHRASE_NOTYPES 1575 1635	structural details (short-range order) depend on temperature.

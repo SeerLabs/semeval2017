@@ -1,0 +1,77 @@
+Correlation	B-KP	0,11
+of	I-KP	12,14
+charm-quark–charm-antiquark	I-KP	15,42
+in	I-KP	43,45
+γp	B-KP	46,48
+scattering	I-KP	49,59
+are	O	60,63
+calculated	O	64,74
+in	O	75,77
+the	O	78,81
+kt-factorization	B-KP	82,98
+approach.	I-KP	99,107
+
+We	O	109,111
+apply	O	112,117
+different	O	118,127
+unintegrated	B-KP	128,140
+gluon	I-KP	141,146
+distributions	I-KP	147,160
+(uGDF)	O	161,167
+used	O	168,172
+in	O	173,175
+the	O	176,179
+literature.	O	180,190
+
+The	O	192,195
+results	O	196,203
+of	O	204,206
+our	O	207,210
+calculations	O	211,223
+are	O	224,227
+compared	O	228,236
+with	O	237,241
+very	O	242,246
+recent	O	247,253
+experimental	O	254,266
+results	O	267,274
+from	O	275,279
+the	O	280,283
+FOCUS	O	284,289
+Collaboration.	O	290,303
+
+The	O	305,308
+CCFM	B-KP	309,313
+uGDF	I-KP	314,318
+developed	O	319,328
+recently	O	329,337
+by	O	338,340
+Kwieciński	O	341,351
+et	O	352,354
+al.	O	355,357
+gives	O	359,364
+a	O	365,366
+good	O	367,371
+description	O	372,383
+of	O	384,386
+the	O	387,390
+data.	O	391,395
+
+New	O	397,400
+observables	O	401,412
+are	O	413,416
+suggested	O	417,426
+for	O	427,430
+future	O	431,437
+studies.	O	438,445
+
+Predictions	O	447,458
+and	O	459,462
+perspectives	O	463,475
+for	O	476,479
+the	O	480,483
+HERA	B-KP	484,488
+energies	I-KP	489,497
+are	O	498,501
+presented.	O	502,511
+

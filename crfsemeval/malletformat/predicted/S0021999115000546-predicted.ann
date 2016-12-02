@@ -1,0 +1,10 @@
+T0	KEYPHRASE_NOTYPES 4 32	particular phase field model
+T1	KEYPHRASE_NOTYPES 93 191	dimensional thermal phase field model of [7] and two dimensional thermal-solutal phase field model
+T2	KEYPHRASE_NOTYPES 219 235	physical problem
+T3	KEYPHRASE_NOTYPES 257 291	dissipative, or entropy increasing,
+T4	KEYPHRASE_NOTYPES 350 354	PDEs
+T5	KEYPHRASE_NOTYPES 489 528	forms involving variational derivatives
+T6	KEYPHRASE_NOTYPES 564 586	free energy functional.
+T7	KEYPHRASE_NOTYPES 614 633	free energy reduces
+T8	KEYPHRASE_NOTYPES 677 711	equilibrium if the domain boundary
+T9	KEYPHRASE_NOTYPES 811 830	relaxational aspect
