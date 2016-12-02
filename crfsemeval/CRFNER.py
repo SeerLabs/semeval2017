@@ -15,7 +15,7 @@ import random
 import pickle
 
 from FeatureExtraction import sent2labels,sent2features
-from PhraseEval import phrasesFromTestSen,phrasesFromTestSenJustExtraction,phrase_extraction_report
+from PhraseEval import phrasesFromTestSenJustExtraction,phrase_extraction_report
 from DataExtraction import convertCONLLFormJustExtractionSemEval
 
 def main():
