@@ -7,7 +7,7 @@ We are looking at three problems (each problem takes a document as input):
 3. **Multi label classification**: Extract and classify the phrases from a sentence one or multiple of the classes mentioned above.
 
 
-We have three folders: dev, train and test. Each of these folders have three sub-folders: nolabel, onelabel and multilabel. Each folder corresponds to one of the problems mentioned above. Each folder contains three files: train, test and dev. A file contains both text lines and blank lines. A text line has four columns separated by `space`: 1. A word from a sentence, 2. POS-Tag, 3. Chunk-Tag and 4. Class label. A blank line denotes the end of a sentence.
+We have three folders: `dev`, `train` and `test`. Each of these folders have three sub-folders: `nolabel`, `onelabel` and `multilabel`. Each folder corresponds to one of the problems mentioned above. Each folder contains the **CoNLL style annotation** of files. Each folder has two sub-folders: 1. `withtokenindex`, and `withouttokenindex`. The `withouttokenindex` files are to be used during training. The `withtokenindex` files are to be used during prediction, so we can predict phrases with their token indices, as required by the SemEval competition. A file contains both text lines and blank lines. A text line in a `withouttokenindex` file has four columns separated by `space`: 1. A word from a sentence, 2. POS-Tag, 3. Chunk-Tag and 4. Class label. A line in a `withtokenindex` file has all that information + the token index. A blank line denotes the end of a sentence.
 
 The tagging is done according to the [CoNLL NER task guideline](http://www.cnts.ua.ac.be/conll2003/ner/):
 
