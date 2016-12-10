@@ -89,6 +89,7 @@ trajectories NNS I-NP O 516,528
 arise VBP I-VP O 529,534
 from IN I-PP O 535,539
 a DT I-NP O 540,541
+short-time JJ I-NP I-KP 542,552
 quantum NN I-NP I-KP 553,560
 propagator NN I-NP I-KP 561,571
 when WRB O O 572,576

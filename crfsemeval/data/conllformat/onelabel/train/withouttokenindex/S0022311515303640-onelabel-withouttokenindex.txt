@@ -13,6 +13,7 @@ reactors NNS I-NP I-M
 [1,2]. VBP I-VP O
 
 The DT I-NP O
+transmutation-created JJ I-NP I-M
 inert NN I-NP I-M
 gas, NN I-NP I-M
 especially RB O O
@@ -45,6 +46,7 @@ He PRP B-NP I-M
 in IN I-PP I-T
 a DT I-NP I-T
 perfect JJ I-NP I-T
+body-centred-cubic JJ I-NP I-M
 (bcc) NN I-NP I-T
 Fe NNP I-NP I-M
 lattice, NN I-NP I-M

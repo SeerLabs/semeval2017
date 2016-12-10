@@ -20,6 +20,7 @@ geometry NN I-NP I-KP 102,110
 by IN I-PP O 120,122
 adopting VBG I-VP O 123,131
 a DT I-NP O 132,133
+pan-cake JJ I-NP I-KP 134,142
 geometry NN I-NP I-KP 143,151
 of IN I-PP I-KP 152,154
 the DT I-NP I-KP 155,158
@@ -162,6 +163,7 @@ considerable JJ I-NP O 992,1004
 increase NN I-NP I-KP 1005,1013
 in IN I-PP I-KP 1014,1016
 the DT I-NP I-KP 1017,1020
+sub-assembly JJ I-NP I-KP 1021,1033
 length NN I-NP I-KP 1034,1040
 that WDT B-NP O 1041,1045
 was VBD I-VP O 1046,1049

@@ -5,6 +5,7 @@ we PRP B-NP O
 propose VBP I-VP O
 a DT I-NP O
 general JJ I-NP O
+agent-based JJ I-NP O
 distributed VBN I-VP O
 framework NN I-NP I-KP
 where WRB O O
@@ -57,6 +58,7 @@ the DT I-NP O
 agents. NN I-NP I-KP
 
 This DT I-NP O
+agent-based JJ I-NP I-KP
 system NN I-NP I-KP
 aims VBZ I-VP O
 to TO I-VP O
@@ -105,6 +107,7 @@ two CD I-NP I-KP
 problem NN I-NP I-KP
 domains, NN I-NP I-KP
 Permutation NNP I-NP B-KP
+Flow-shop NNP I-NP I-KP
 Scheduling NNP I-NP I-KP
 and CC O I-KP
 Capacitated NNP I-NP I-KP
@@ -137,6 +140,7 @@ the DT I-NP O
 results NNS I-NP O
 for IN I-PP O
 Permutation NNP I-NP I-KP
+Flow-shop NNP I-NP I-KP
 Scheduling NNP I-NP I-KP
 are VBP I-VP O
 commensurate NN I-NP O

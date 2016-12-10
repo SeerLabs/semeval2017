@@ -41,6 +41,7 @@ outside IN I-PP I-P
 the DT I-NP I-P
 technology NN I-NP I-P
 and CC O I-P
+non-negative JJ I-NP I-P
 values NNS I-NP I-P
 for IN I-PP I-P
 points NNS I-NP I-P
@@ -146,6 +147,7 @@ is VBZ I-VP I-P
 measured VBN I-VP I-P
 following VBG I-VP I-P
 the DT I-NP I-P
+Pareto-Koopmans NNPS I-NP I-P
 notion NN I-NP I-P
 of IN I-PP I-P
 efficiency; NN I-NP I-P
@@ -175,6 +177,7 @@ to TO I-VP O
 be VB I-VP O
 used VBN I-VP O
 for IN I-PP O
+cross-period JJ I-NP O
 evaluation NN I-NP O
 of IN I-PP O
 returns NNS I-NP O

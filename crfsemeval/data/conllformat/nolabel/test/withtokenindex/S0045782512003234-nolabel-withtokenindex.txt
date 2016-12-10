@@ -96,6 +96,7 @@ importance NN I-NP O 596,606
 in IN I-PP O 607,609
 providing VBG I-VP I-KP 610,619
 sufficient JJ I-NP I-KP 620,630
+load-carrying JJ I-NP I-KP 631,644
 capacity. NN I-NP I-KP 645,653
 
 However, NNP I-NP O 655,662

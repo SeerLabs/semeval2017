@@ -4,7 +4,9 @@ the DT I-NP O
 shape NN I-NP I-T
 optimisation NN I-NP I-T
 of IN I-PP O
+two- JJ I-NP I-M
 and CC O I-M
+three-dimensional JJ I-NP I-M
 solids NNS I-NP I-M
 by IN I-PP O
 combining VBG I-VP I-P

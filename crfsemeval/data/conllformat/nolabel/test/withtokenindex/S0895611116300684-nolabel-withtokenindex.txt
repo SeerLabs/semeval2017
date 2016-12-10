@@ -50,9 +50,11 @@ work NN I-NP O 268,272
 referred VBD I-VP O 273,281
 to TO I-VP O 282,284
 as IN I-PP O 285,287
+scale-adaptive JJ I-NP I-KP 288,302
 [SA]), NN I-NP O 303,308
 which WDT B-NP O 310,315
 includes VBZ I-VP O 316,324
+curvature-dependent JJ I-NP I-KP 325,344
 polygonization NN I-NP I-KP 345,359
 (e.g. IN I-PP O 360,364
 increasing/decreasing VBG I-VP I-KP 366,387
@@ -129,6 +131,7 @@ of IN I-PP O 794,796
 techniques NNS I-NP O 797,807
 (known VBN I-NP O 808,814
 as IN I-PP O 815,817
+model-based JJ I-NP I-KP 818,829
 methods) NN I-NP O 830,838
 (Preim NN I-NP O 839,845
 and CC O O 846,849

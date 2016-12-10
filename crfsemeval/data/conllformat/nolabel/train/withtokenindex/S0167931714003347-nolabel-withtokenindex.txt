@@ -23,10 +23,12 @@ During IN I-PP O 138,144
 fragmentation NN I-NP I-KP 145,158
 testing, IN I-PP I-KP 159,166
 the DT I-NP O 168,171
+film-substrate JJ I-NP I-KP 172,186
 couple NN I-NP I-KP 187,193
 is VBZ I-VP O 194,196
 strained VBN I-VP I-KP 197,205
 under IN I-PP I-KP 206,211
+uni-axial JJ I-NP I-KP 212,221
 tension NN I-NP I-KP 222,229
 and CC O O 230,233
 observed VBD I-VP O 234,242
@@ -100,6 +102,7 @@ testing NN I-NP I-KP 661,668
 is VBZ I-VP O 669,671
 best RBS I-NP O 672,676
 performed JJ I-NP I-KP 677,686
+in-situ JJ I-NP I-KP 687,694
 with IN I-PP I-KP 695,699
 LM NNP I-NP I-KP 700,702
 or CC O I-KP 703,705
@@ -172,6 +175,7 @@ lag NN I-NP I-KP 1079,1082
 model NN I-NP I-KP 1083,1088
 [8,13,14]. NN I-NP O 1089,1098
 
+In-situ JJ I-NP O 1100,1107
 fragmentation NN I-NP O 1108,1121
 testing VBG I-VP O 1122,1129
 with IN I-PP O 1130,1134

@@ -62,6 +62,7 @@ to TO I-VP O 354,356
 show VB I-VP O 357,361
 that IN I-PP O 362,366
 these DT I-NP O 367,372
+widely-used JJ I-NP O 373,384
 approaches NNS I-NP O 385,395
 need VBP I-VP O 396,400
 to TO I-VP O 401,403
@@ -80,6 +81,7 @@ paper NN I-NP O 469,474
 proposes VBZ I-VP O 475,483
 an DT I-NP O 484,486
 extended JJ I-NP O 487,495
+Role-Based JJ I-NP I-KP 496,506
 Access NNP I-NP I-KP 507,513
 Control NNP I-NP O 514,521
 (RBAC) NNP I-NP O 522,528
@@ -96,6 +98,7 @@ System. NNP I-NP I-KP 598,604
 
 Also, VB I-VP O 606,610
 a DT I-NP O 612,613
+real-life JJ I-NP I-KP 614,623
 system NN I-NP I-KP 624,630
 is VBZ I-VP O 631,633
 presented VBN I-VP O 634,643

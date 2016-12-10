@@ -1,5 +1,6 @@
 Inspired VBN I-VP O
 by IN I-PP O
+energy-fueled JJ I-NP O
 phenomena NNS I-NP O
 such JJ I-NP O
 as IN I-PP O
@@ -56,6 +57,7 @@ energy NN I-NP O
 [41,58]. NN I-NP O
 
 The DT I-NP O
+energy-consuming JJ I-NP O
 uniaxial JJ I-NP I-KP
 polar NN I-NP I-KP
 agents NNS I-NP I-KP
@@ -170,6 +172,7 @@ an DT I-NP O
 energy NN I-NP I-KP
 consuming, NN I-NP I-KP
 anisotropic, IN I-PP I-KP
+non-Newtonian JJ I-NP I-KP
 fluid NN I-NP I-KP
 [37,33,32,41]. NN I-NP O
 

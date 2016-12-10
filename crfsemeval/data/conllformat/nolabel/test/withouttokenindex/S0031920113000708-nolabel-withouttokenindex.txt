@@ -167,6 +167,7 @@ segments NNS I-NP I-KP
 about IN I-PP O
 a DT I-NP O
 jerk, NN I-NP I-KP
+A=a2-a1, NNP I-NP O
 where WRB O O
 a2 NN I-NP O
 is VBZ I-VP O

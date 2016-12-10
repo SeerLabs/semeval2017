@@ -36,6 +36,7 @@ method NN I-NP I-M
 
 In IN I-PP O
 an DT I-NP O
+N-dimensional JJ I-NP O
 vector NN I-NP O
 space, VBD I-VP O
 the DT I-NP I-M
@@ -51,6 +52,7 @@ technique NN I-NP O
 that WDT B-NP O
 finds VBZ I-VP I-P
 the DT I-NP I-P
+mutually-uncorrelated JJ I-NP I-P
 vectors NNS I-NP I-P
 onto IN I-PP O
 which WDT I-NP O
@@ -108,6 +110,7 @@ original JJ I-NP O
 KPIs NNP I-NP O
 constitute NN I-NP O
 the DT B-NP O
+N-dimensional NNP I-NP I-M
 vector NN I-NP I-M
 space NN I-NP I-M
 basis, NN I-NP I-M

@@ -1,3 +1,4 @@
+First-principles NNS I-NP I-P
 calculations NNS I-NP I-P
 have VBP I-VP O
 clarified VBN I-VP O
@@ -22,6 +23,7 @@ results NNS I-NP O
 show VBP I-VP O
 that IN I-PP O
 the DT I-NP O
+W-encapsulated JJ I-NP I-P
 Si12 NNP I-NP I-P
 hexagonal JJ I-NP I-P
 prism NN I-NP I-P

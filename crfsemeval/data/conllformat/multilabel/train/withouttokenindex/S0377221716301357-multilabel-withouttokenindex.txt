@@ -41,6 +41,7 @@ constraints, NN I-NP I-T
 such JJ I-NP O
 as IN I-PP O
 variable JJ I-NP I-T
+cut-off NN I-NP I-T
 grade, NN I-NP I-T
 grade NN I-NP B-T
 blending, NN I-NP I-T
@@ -63,6 +64,7 @@ Indeed, NN I-NP O
 it PRP B-NP O
 is VBZ I-VP O
 a DT I-NP O
+general-purpose JJ I-NP I-P
 algorithm NN I-NP I-P
 and CC O O
 should MD I-VP O
@@ -93,6 +95,7 @@ methods NNS I-NP O
 for IN I-PP O
 solving VBG I-VP O
 the DT I-NP O
+sub-problems. NN I-NP O
 
 Finally, NNP I-NP O
 another DT I-NP O
@@ -144,6 +147,7 @@ then RB O O
 to TO I-VP O
 use VB I-VP O
 an DT I-NP O
+LP-rounding JJ I-NP I-P
 procedure NN I-NP I-P
 to TO I-VP O
 get VB I-VP O

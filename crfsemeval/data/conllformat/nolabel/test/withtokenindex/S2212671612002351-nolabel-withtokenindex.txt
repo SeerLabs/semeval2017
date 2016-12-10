@@ -11,6 +11,7 @@ prism NN I-NP I-KP 53,58
 was VBD I-VP O 59,62
 proposed VBN I-VP O 63,71
 for IN I-PP O 72,75
+single-lens JJ I-NP I-KP 76,87
 stereovision NN I-NP I-KP 88,100
 system. NN I-NP I-KP 101,107
 
@@ -86,6 +87,7 @@ extend VB I-VP I-KP 516,522
 the DT I-NP I-KP 523,526
 application NN I-NP I-KP 527,538
 of IN I-PP I-KP 539,541
+single-lens JJ I-NP I-KP 542,553
 stereovision NN I-NP I-KP 554,566
 system NN I-NP I-KP 567,573
 using VBG I-VP O 574,579

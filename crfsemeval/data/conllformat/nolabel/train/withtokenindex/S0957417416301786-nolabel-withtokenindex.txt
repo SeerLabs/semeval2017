@@ -2,6 +2,7 @@ These DT I-NP O 0,5
 results NNS I-NP O 6,13
 demonstrate VBP I-VP O 14,25
 that IN I-PP O 26,30
+SW-SVR NNP I-NP I-KP 31,37
 predicts NNS I-NP O 38,46
 complicated VBD I-VP O 47,58
 micrometeorological JJ I-NP I-KP 59,78
@@ -37,6 +38,7 @@ little JJ I-NP O 271,277
 extracted VBN I-VP O 278,287
 data NNS I-NP O 288,292
 by IN I-PP O 293,295
+D-SDC NNP I-NP I-KP 296,301
 is VBZ I-VP O 302,304
 effective JJ I-NP O 305,314
 for IN I-PP O 315,318
@@ -58,12 +60,14 @@ to TO I-VP O 426,428
 be VB I-VP O 429,431
 solved VBN I-VP O 432,438
 in IN I-PP O 439,441
+SW-SVR. NNP I-NP I-KP 442,448
 
 Firstly, IN I-PP O 450,457
 the DT I-NP O 459,462
 prediction NN I-NP O 463,473
 performance NN I-NP O 474,485
 of IN I-PP O 486,488
+SW-SVR NNP I-NP I-KP 489,495
 sometimes RB O O 496,505
 deteriorates VBZ I-VP O 506,518
 despite IN I-PP O 519,526
@@ -99,6 +103,7 @@ because IN I-PP O 676,683
 data NNS I-NP O 684,688
 extracted VBN I-NP O 689,698
 by IN I-PP O 699,701
+D-SDC NNP I-NP I-KP 702,707
 involves NNS I-NP O 708,716
 unnecessary JJ I-NP O 717,728
 training NN I-NP I-KP 729,737
@@ -109,6 +114,7 @@ accurate JJ I-NP O 754,762
 prediction. NN I-NP O 763,773
 
 If IN I-PP O 775,777
+D-SDC NNP I-NP I-KP 778,783
 extracts VBZ I-VP O 784,792
 the DT I-NP O 793,796
 same JJ I-NP O 797,801
@@ -126,6 +132,7 @@ the DT I-NP O 864,867
 prediction NN I-NP O 868,878
 performance NN I-NP O 879,890
 of IN I-PP O 891,893
+SW-SVR NNP I-NP I-KP 894,900
 never RB O O 901,906
 deteriorates VBZ I-VP O 907,919
 due JJ I-NP O 920,923
@@ -146,6 +153,7 @@ mapping NN I-NP O 996,1003
 and CC O O 1004,1007
 algorithms NN I-NP O 1008,1018
 of IN I-PP O 1019,1021
+D-SDC NNP I-NP I-KP 1022,1027
 so RB O O 1028,1030
 as IN I-PP O 1031,1033
 to TO B-PP O 1034,1036
@@ -156,6 +164,7 @@ training NN I-NP O 1066,1074
 data. NN I-NP O 1075,1079
 
 Meanwhile, NNP I-NP O 1081,1090
+SW-SVR NNP I-NP I-KP 1092,1098
 is VBZ I-VP O 1099,1101
 based VBN I-VP O 1102,1107
 on IN I-PP O 1108,1110
@@ -168,6 +177,8 @@ kernel NNS I-NP B-KP 1148,1154
 approximation, VBP I-VP I-KP 1155,1168
 PLS NNP I-NP B-KP 1170,1173
 regression, VB I-VP I-KP 1174,1184
+k-means, JJ I-NP B-KP 1186,1193
+D-SDC, NNP I-NP B-KP 1195,1200
 and CC O O 1202,1205
 linear JJ I-NP I-KP 1206,1212
 SVR. NNP I-NP I-KP 1213,1216
@@ -180,6 +191,7 @@ several JJ I-NP O 1247,1254
 parameters. NNS I-NP O 1255,1265
 
 Therefore, NNP I-NP O 1267,1276
+SW-SVR NNP I-NP I-KP 1278,1284
 has VBZ I-VP O 1285,1288
 more JJR I-NP O 1289,1293
 varied JJ I-NP O 1294,1300

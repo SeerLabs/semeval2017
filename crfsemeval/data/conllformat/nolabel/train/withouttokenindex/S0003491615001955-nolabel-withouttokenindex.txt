@@ -66,6 +66,7 @@ nuclear JJ I-NP I-KP
 physics, NN I-NP I-KP
 within IN I-PP O
 the DT I-NP O
+so-called JJ I-NP O
 “MIT NNP I-NP I-KP
 bag NN I-NP I-KP
 model” NN I-NP I-KP
@@ -76,6 +77,7 @@ nucleon NN I-NP I-KP
 
 In IN I-PP O
 the DT I-NP O
+bag-model JJ I-NP O
 one CD I-NP O
 envisages VBZ I-VP O
 the DT I-NP O
@@ -170,6 +172,7 @@ the DT I-NP O
 physics NNS I-NP O
 of IN I-PP O
 the DT I-NP O
+bag-model JJ I-NP I-KP
 nucleon NN I-NP I-KP
 [19]. NN I-NP O
 

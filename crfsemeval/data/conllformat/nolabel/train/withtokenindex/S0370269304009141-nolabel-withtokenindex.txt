@@ -2,6 +2,7 @@ Longitudinal JJ I-NP I-KP 0,12
 beam NN I-NP I-KP 13,17
 and CC O I-KP 18,21
 target VB I-VP I-KP 22,28
+single-spin JJ I-NP I-KP 29,40
 asymmetries NNS I-NP I-KP 41,52
 have VBP I-VP O 53,57
 been VBN I-VP O 58,62
@@ -40,6 +41,8 @@ be VB I-VP O 257,259
 signals NNS I-NP O 260,267
 of IN I-PP O 268,270
 the DT I-NP O 271,274
+so-called JJ I-NP O 275,284
+T-odd JJ I-NP I-KP 285,290
 fragmentation NN I-NP I-KP 291,304
 functions NNS I-NP I-KP 305,314
 [5], VBP I-VP O 315,318
@@ -61,6 +64,7 @@ receive VB I-VP I-KP 404,411
 contributions NNS I-NP I-KP 412,425
 also RB O I-KP 426,430
 from IN I-PP I-KP 431,435
+T-odd NNP I-NP B-KP 436,441
 distribution NN I-NP I-KP 442,454
 functions NNS I-NP I-KP 455,464
 [13–16], VBP I-VP O 465,472
@@ -81,6 +85,7 @@ of IN I-PP I-KP 548,550
 the DT I-NP I-KP 551,554
 contributions NNS I-NP I-KP 555,568
 of IN I-PP I-KP 569,571
+T-odd NNP I-NP I-KP 572,577
 distribution NN I-NP I-KP 578,590
 functions NNS I-NP I-KP 591,600
 has VBZ I-VP O 601,604
@@ -159,10 +164,12 @@ functions. NN I-NP I-KP 1018,1027
 We PRP I-NP O 1029,1031
 consider VBP I-VP O 1032,1040
 both DT I-NP O 1041,1045
+single-particle JJ I-NP I-KP 1046,1061
 inclusive JJ I-NP I-KP 1062,1071
 DIS, NNP I-NP I-KP 1072,1075
 e+p→e′+h+X, NN I-NP B-KP 1077,1087
 and CC O O 1089,1092
+single-jet JJ I-NP I-KP 1093,1103
 inclusive JJ I-NP I-KP 1104,1113
 DIS, NNP I-NP I-KP 1114,1117
 e+p→e′+jet+X. NN I-NP B-KP 1119,1131
@@ -186,6 +193,8 @@ proof NN I-NP I-KP 1233,1238
 for IN I-PP I-KP 1239,1242
 observables NNS I-NP I-KP 1243,1254
 containing VBG I-NP I-KP 1255,1265
+subleading-twist JJ I-NP I-KP 1266,1282
+transverse-momentum JJ I-NP I-KP 1283,1302
 dependent JJ I-NP I-KP 1303,1312
 functions NNS I-NP I-KP 1313,1322
 (only RB O O 1323,1328
@@ -193,6 +202,7 @@ recently RB O O 1329,1337
 proofs VB I-VP I-KP 1338,1344
 for IN I-PP I-KP 1345,1348
 the DT I-NP I-KP 1349,1352
+leading-twist JJ I-NP I-KP 1353,1366
 case NN I-NP I-KP 1367,1371
 have VBP I-VP O 1372,1376
 been VBN I-VP O 1377,1381

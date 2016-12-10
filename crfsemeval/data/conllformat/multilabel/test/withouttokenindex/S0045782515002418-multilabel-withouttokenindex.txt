@@ -15,6 +15,7 @@ popular JJ I-NP O
 type NN I-NP O
 of IN I-PP O
 unstructured JJ I-NP I-P
+high-order NN I-NP I-P
 method NN I-NP I-P
 (at NNP I-NP O
 least JJS I-NP O
@@ -33,6 +34,7 @@ FR NNP I-NP B-P
 schemes VBZ I-VP I-P
 utilise VB I-VP O
 a DT I-NP O
+high-order JJ I-NP I-P
 (nodal) JJ I-NP O
 polynomial JJ I-NP O
 basis NN I-NP O
@@ -58,6 +60,7 @@ do VBP I-VP O
 not RB I-VP O
 explicitly RB O O
 enforce VB I-VP I-P
+inter-element JJ I-NP I-P
 solution NN I-NP I-P
 continuity. NN I-NP I-P
 

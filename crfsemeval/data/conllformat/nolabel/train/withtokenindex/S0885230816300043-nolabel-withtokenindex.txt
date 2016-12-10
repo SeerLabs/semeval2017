@@ -39,6 +39,7 @@ model. NN I-NP I-KP 233,238
 
 However, NNP I-NP O 240,247
 training VBG I-NP I-KP 249,257
+show-based JJ I-NP I-KP 258,268
 aCMLLR NN I-NP I-KP 269,275
 transforms NNS I-NP I-KP 276,286
 on IN I-PP O 287,289
@@ -93,6 +94,7 @@ the DT I-NP O 587,590
 aNAT JJ I-NP I-KP 591,595
 model NN I-NP I-KP 596,601
 and CC O O 602,605
+show-based JJ I-NP O 606,616
 aCMLLR NN I-NP I-KP 617,623
 transforms NNS I-NP I-KP 624,634
 was VBD I-VP O 635,638

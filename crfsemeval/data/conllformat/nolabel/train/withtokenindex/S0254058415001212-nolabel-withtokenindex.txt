@@ -16,12 +16,14 @@ potential JJ I-NP O 88,97
 to TO I-VP O 98,100
 replace VB I-VP O 101,108
 current JJ I-NP O 109,116
+Ni-base NNP I-NP I-KP 117,124
 superalloys NN I-NP I-KP 125,136
 used VBN I-VP O 137,141
 in IN I-PP O 142,144
 the DT I-NP O 145,148
 production NN I-NP I-KP 149,159
 of IN I-PP I-KP 160,162
+aero-engine JJ I-NP I-KP 163,174
 components. NN I-NP I-KP 175,185
 
 Investment NN I-NP I-KP 187,197

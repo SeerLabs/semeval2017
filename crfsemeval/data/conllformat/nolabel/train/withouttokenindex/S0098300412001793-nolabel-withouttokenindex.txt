@@ -81,6 +81,7 @@ CALCMIN NNP I-NP I-KP
 (Brandelik, NNP I-NP O
 2009) CD I-NP O
 and CC O O
+HYPER-FORM NNP I-NP I-KP
 (De NNP I-NP O
 Bjerg NNP I-NP O
 et VBD I-VP O
@@ -121,6 +122,7 @@ magnetite NN I-NP I-KP
 and CC O I-KP
 ilmenite; NN I-NP I-KP
 and CC O O
+PX-NOM NNP I-NP I-KP
 (Sturm, NNP I-NP O
 2002) CD I-NP O
 for IN I-PP O

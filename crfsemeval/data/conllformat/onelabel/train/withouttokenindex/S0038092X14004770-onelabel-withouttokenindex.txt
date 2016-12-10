@@ -75,6 +75,7 @@ of IN I-PP O
 consideration NN I-NP O
 of IN I-PP O
 the DT I-NP O
+non-linear JJ I-NP O
 impacts NNS I-NP O
 of IN I-PP O
 shading VBG I-VP I-P
@@ -149,6 +150,7 @@ compromised JJ I-NP O
 due JJ I-NP O
 to TO I-VP O
 the DT I-NP O
+non-linear JJ I-NP I-P
 cell NN I-NP I-P
 mismatch NN I-NP I-P
 effects. NN I-NP I-P
@@ -156,6 +158,7 @@ effects. NN I-NP I-P
 An DT I-NP O
 effective JJ I-NP I-P
 shading NN I-NP I-P
+sub-model NN I-NP I-P
 therefore NN I-NP O
 needs NNS I-NP O
 to TO I-VP O

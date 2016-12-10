@@ -86,6 +86,7 @@ of IN I-PP O 517,519
 this DT I-NP O 520,524
 simple JJ I-NP O 525,531
 and CC O O 532,535
+straight-forward JJ I-NP O 536,552
 approach. NN I-NP O 553,561
 
 In IN I-PP O 563,565

@@ -22,6 +22,7 @@ population NN I-NP I-P
 et CC O O
 al., JJ I-NP O
 2006; CD I-NP O
+Rivest-Henault JJ I-NP O
 et NN I-NP O
 al., VBZ I-VP O
 2012; CD I-NP O
@@ -59,6 +60,7 @@ the DT I-NP O
 “sum NN I-NP O
 of IN I-PP O
 the DT I-NP O
+Gaussian-blurred NNP I-NP O
 intensity NN I-NP O
 values NNS I-NP O
 in IN I-PP O

@@ -31,6 +31,7 @@ region NN I-NP O
 and CC O O
 a DT I-NP O
 thinner, JJ I-NP O
+non-porous, JJ I-NP O
 inner JJ I-NP O
 region NN I-NP O
 [2,3]. NN I-NP O
@@ -110,6 +111,7 @@ of IN I-PP O
 ionic JJ I-NP I-T
 migration NN I-NP I-T
 in IN I-PP O
+barrier-type NN I-NP O
 and CC O O
 porous JJ I-NP O
 anodic JJ I-NP I-M
@@ -222,6 +224,7 @@ barrier NN I-NP I-M
 layer NN I-NP I-M
 by IN I-PP I-P
 either DT I-NP I-P
+field-assisted JJ I-NP I-P
 dissolution NN I-NP I-P
 of IN I-PP O
 the DT I-NP O
@@ -232,6 +235,7 @@ pore NN I-NP I-M
 bases VBZ I-VP I-M
 [8] CD I-NP O
 or CC O O
+field-assisted JJ I-NP I-P
 flow NN I-NP I-P
 of IN I-PP I-P
 alumina NN I-NP I-M

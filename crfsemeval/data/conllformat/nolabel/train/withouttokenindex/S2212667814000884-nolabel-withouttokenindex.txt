@@ -57,6 +57,7 @@ of IN I-PP O
 lightning. NN I-NP I-KP
 
 The DT I-NP O
+Schrödinger-electrostatic JJ I-NP I-KP
 algorithm NN I-NP I-KP
 was VBD I-VP O
 propounded VBN I-VP O

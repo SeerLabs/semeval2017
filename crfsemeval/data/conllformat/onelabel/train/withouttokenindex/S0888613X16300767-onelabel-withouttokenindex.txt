@@ -9,6 +9,7 @@ depiction NN I-NP O
 of IN I-PP O
 an DT I-NP I-T
 apposite JJ I-NP I-T
+well-supported JJ I-NP I-T
 statistical JJ I-NP I-T
 model. NN I-NP I-T
 
@@ -113,6 +114,7 @@ on IN I-PP O
 in IN B-PP O
 further, NN I-NP O
 more RBR I-NP O
+gene-specific, JJ I-NP O
 experiments. NN I-NP O
 
 It PRP I-NP O

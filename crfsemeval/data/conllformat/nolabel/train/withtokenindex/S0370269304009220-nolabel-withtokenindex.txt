@@ -26,6 +26,7 @@ should MD I-VP O 146,152
 reduce VB I-VP O 153,159
 to TO I-VP O 160,162
 N=1/2 NNP I-NP I-KP 163,168
+super-Yang–Mills NNS I-NP I-KP 169,185
 theory NN I-NP I-KP 186,192
 with IN I-PP I-KP 193,197
 adjoint NN I-NP I-KP 198,205
@@ -50,6 +51,7 @@ singlet NN I-NP I-KP 323,330
 representation NN I-NP I-KP 331,345
 of IN I-PP O 346,348
 the DT I-NP O 349,352
+R-symmetry NNP I-NP I-KP 353,363
 group NN I-NP I-KP 364,369
 SU(2)R. NNP I-NP B-KP 370,376
 In IN I-PP O 378,380
@@ -112,6 +114,7 @@ the DT I-NP O 751,754
 case NN I-NP O 755,759
 of IN I-PP O 760,762
 N=1/2 NNP I-NP I-KP 763,768
+super-Yang–Mills NNS I-NP I-KP 769,785
 theory, NNS I-NP I-KP 786,792
 such JJ I-NP O 794,798
 field NN I-NP I-KP 799,804

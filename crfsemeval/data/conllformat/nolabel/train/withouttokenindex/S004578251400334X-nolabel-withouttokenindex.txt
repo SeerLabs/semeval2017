@@ -25,6 +25,7 @@ the DT I-NP O
 problem NN I-NP O
 of IN I-PP O
 generating VBG I-VP I-KP
+high-order NN I-NP I-KP
 meshes NNS I-NP I-KP
 for IN I-PP I-KP
 high JJ I-NP I-KP
@@ -47,6 +48,7 @@ require VB I-VP O
 a DT I-NP O
 dense JJ I-NP I-KP
 linear JJ I-NP I-KP
+boundary-layer NN I-NP I-KP
 mesh. NN I-NP I-KP
 
 It PRP I-NP O
@@ -68,7 +70,9 @@ interpolation NN I-NP I-KP
 [18] NNP I-NP O
 where WRB O O
 a DT I-NP O
+high-order JJ I-NP I-KP
 coarse NN I-NP I-KP
+boundary-layer NN I-NP I-KP
 prismatic JJ I-NP I-KP
 mesh NN I-NP I-KP
 is VBZ I-VP O
@@ -85,6 +89,7 @@ that WDT B-NP O
 defines VBZ I-VP O
 the DT I-NP O
 coarse JJ I-NP I-KP
+high-order NN I-NP I-KP
 prisms. NN I-NP I-KP
 
 The DT I-NP O

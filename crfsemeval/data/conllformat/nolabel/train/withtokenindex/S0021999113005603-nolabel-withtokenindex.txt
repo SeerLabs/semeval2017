@@ -5,6 +5,7 @@ elements NNS I-NP O 16,24
 reach VBP I-VP O 25,30
 a DT I-NP O 31,32
 relaxed JJ I-NP O 33,40
+steady-state, JJ I-NP O 41,53
 measurements NNS I-NP O 55,67
 are VBP I-VP O 68,71
 obtained VBN I-VP O 72,80
@@ -23,9 +24,11 @@ element NN I-NP I-KP 148,155
 is VBZ I-VP O 156,158
 divided VBN I-VP O 159,166
 into IN I-PP O 167,171
+spatially-oriented JJ I-NP I-KP 172,190
 bins NNS I-NP I-KP 191,195
 in IN I-PP O 196,198
 the DT I-NP O 199,202
+y-direction NN I-NP O 203,214
 in IN I-PP O 215,217
 order NN I-NP O 218,223
 to TO I-VP O 224,226
@@ -33,6 +36,7 @@ resolve VB I-VP I-KP 227,234
 the DT I-NP I-KP 235,238
 velocity NN I-NP I-KP 239,247
 and CC O I-KP 248,251
+shear-stress JJ I-NP I-KP 252,264
 profiles. NN I-NP I-KP 265,273
 
 Velocity NN I-NP O 275,283
@@ -62,6 +66,7 @@ relationship NN I-NP I-KP 426,438
 [25]. NN I-NP O 439,443
 
 A DT I-NP O 445,446
+least-squares JJ I-NP I-KP 447,460
 polynomial JJ I-NP I-KP 461,471
 fit NN I-NP I-KP 472,475
 to TO I-VP O 476,478
@@ -97,6 +102,7 @@ macro NN I-NP I-KP 658,663
 solver. NN I-NP I-KP 664,670
 
 A DT I-NP O 672,673
+least-squares JJ I-NP I-KP 674,687
 fit NN I-NP I-KP 688,691
 is VBZ I-VP O 692,694
 applied VBN I-VP O 695,702
@@ -172,6 +178,7 @@ from IN I-PP O 1172,1176
 the DT I-NP O 1177,1180
 compressed VBN I-NP I-KP 1181,1191
 wall NN I-NP I-KP 1192,1196
+micro-element JJ I-NP I-KP 1197,1210
 solution NN I-NP I-KP 1211,1219
 (16), NN I-NP O 1220,1224
 at IN I-PP O 1226,1228

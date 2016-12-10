@@ -100,6 +100,7 @@ of IN I-PP O 624,626
 production NN I-NP O 627,637
 in IN I-PP O 638,640
 the DT I-NP O 641,644
+long-term JJ I-NP O 645,654
 first JJ I-NP O 655,660
 year NN I-NP O 661,665
 production NN I-NP O 666,676

@@ -95,6 +95,7 @@ they PRP I-NP O
 aim VBP I-VP O
 to TO I-VP O
 allow VB I-VP O
+end-to-end JJ I-NP O
 communication NN I-NP O
 to TO I-VP O
 occur VB I-VP O

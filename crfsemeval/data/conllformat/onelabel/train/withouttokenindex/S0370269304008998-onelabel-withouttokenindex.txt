@@ -61,10 +61,14 @@ O7, NNP I-NP I-P
 φB,+(k+) NNP I-NP O
 is VBZ I-VP O
 the DT I-NP O
+leading-twist JJ I-NP I-P
+B-meson NNP I-NP I-P
+wave-function NN I-NP I-P
 with IN I-PP I-P
 k+ NN I-NP I-P
 being VBG I-NP I-P
 a DT B-NP I-P
+light-cone JJ I-NP I-P
 component NN I-NP I-P
 of IN I-PP I-P
 the DT I-NP I-P
@@ -74,11 +78,14 @@ momentum, NN I-NP I-P
 φ⊥V(u) NN I-NP O
 is VBZ I-VP O
 the DT I-NP O
+leading-twist JJ I-NP I-P
+light-cone JJ I-NP I-P
 distribution NN I-NP I-P
 amplitude NN I-NP I-P
 (LCDA) NN I-NP O
 of IN I-PP O
 the DT I-NP O
+transversely-polarized JJ I-NP O
 vector NN I-NP O
 meson NN I-NP O
 V, NNP I-NP O
@@ -107,6 +114,7 @@ and CC O O
 TiII NNP I-NP O
 are VBP I-VP O
 the DT I-NP O
+hard-perturbative JJ I-NP O
 kernels NNS I-NP O
 calculated VBN I-VP O
 to TO I-VP O
@@ -117,6 +125,8 @@ the DT I-NP O
 latter JJ I-NP O
 containing VBG I-VP O
 the DT I-NP O
+so-called JJ I-NP O
+hard-spectator NN I-NP O
 contributions. NN I-NP O
 
 The DT I-NP I-P
@@ -185,6 +195,7 @@ Refs. NNP I-NP O
 Very RB O O
 recently, VB I-VP O
 the DT I-NP O
+hard-spectator JJ I-NP I-T
 contribution NN I-NP I-T
 arising VBG I-VP I-T
 from IN I-PP I-T
@@ -197,6 +208,7 @@ also RB I-VP O
 been VBN I-VP O
 calculated VBN I-VP O
 in IN I-PP O
+next-to-next-to-leading JJ I-NP I-P
 order NN I-NP O
 (NNLO) NN I-NP O
 in IN I-PP O

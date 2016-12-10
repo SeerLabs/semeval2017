@@ -180,6 +180,7 @@ free JJ I-NP I-P
 corrosion NN I-NP I-P
 potential JJ I-NP I-P
 (Ecorr) JJ I-NP O
+pre-determined JJ I-NP O
 under IN I-PP O
 immersed JJ I-NP O
 conditions NNS I-NP O

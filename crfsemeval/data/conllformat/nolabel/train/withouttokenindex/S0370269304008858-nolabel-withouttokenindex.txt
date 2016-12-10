@@ -45,6 +45,8 @@ approximation NN I-NP I-KP
 [10], VBZ I-VP O
 that IN I-PP O
 the DT I-NP O
+so-called JJ I-NP O
+quasi-partonic JJ I-NP O
 operators NNS I-NP O
 in IN I-PP O
 N=1 NNP I-NP O
@@ -77,6 +79,7 @@ anomalous JJ I-NP I-KP
 dimension NN I-NP I-KP
 matrices NNS I-NP I-KP
 for IN I-PP I-KP
+twist-2 NN I-NP I-KP
 operators NNS I-NP I-KP
 are VBP I-VP O
 fixed VBN I-VP I-KP
@@ -113,6 +116,7 @@ out, RP O O
 that IN I-PP O
 here RB I-NP O
 all DT I-NP O
+twist-2 JJ I-NP I-KP
 operators NNS I-NP I-KP
 enter VBP I-VP O
 in IN I-PP O
@@ -128,6 +132,7 @@ fixed VBN I-VP O
 completely RB O O
 by IN I-PP O
 the DT I-NP O
+super-conformal JJ I-NP I-KP
 invariance NN I-NP I-KP
 and CC O O
 its PRP$ I-NP O
@@ -151,6 +156,7 @@ the DT I-NP I-KP
 matrix JJ I-NP I-KP
 elements NNS I-NP I-KP
 of IN I-PP I-KP
+quasi-partonic JJ I-NP I-KP
 operators NNS I-NP I-KP
 in IN I-PP I-KP
 the DT I-NP I-KP
@@ -183,6 +189,7 @@ small JJ I-NP O
 sector NN I-NP O
 of IN I-PP O
 the DT I-NP O
+quasi-partonic JJ I-NP O
 operators NNS I-NP O
 [13]. VBP I-VP O
 
@@ -207,12 +214,14 @@ integrable JJ I-NP O
 Evolution NN I-NP I-KP
 equations NNS I-NP I-KP
 for IN I-PP I-KP
+quasi-partonic JJ I-NP I-KP
 operators NNS I-NP I-KP
 are VBP I-VP O
 written VBN I-VP O
 in IN I-PP O
 an DT I-NP O
 explicitly RB O O
+super-conformal JJ I-NP O
 form NN I-NP O
 in IN I-PP O
 Ref. NNP I-NP O

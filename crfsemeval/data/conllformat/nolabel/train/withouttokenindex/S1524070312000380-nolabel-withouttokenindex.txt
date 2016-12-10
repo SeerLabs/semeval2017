@@ -12,6 +12,7 @@ directly RB I-VP O
 based VBN I-VP O
 on IN I-PP O
 the DT I-NP O
+NURBS-based JJ I-NP I-KP
 representation NN I-NP I-KP
 of IN I-PP I-KP
 CAD NNP I-NP B-KP
@@ -20,9 +21,12 @@ models. NN I-NP I-KP
 It PRP I-NP O
 exploits VBZ I-VP O
 the DT I-NP O
+tensor-product NN I-NP O
 structure NN I-NP O
 of IN I-PP O
+2- JJ I-NP O
 or CC O O
+3-dimensional JJ I-NP O
 NURBS NNP I-NP I-KP
 objects NNS I-NP I-KP
 to TO I-VP O
@@ -61,7 +65,9 @@ in IN I-PP O
 order NN I-NP O
 to TO I-VP O
 represent VB I-VP O
+non-quadrangular JJ I-NP O
 or CC O O
+non-hexahedral JJ I-NP O
 domains NNS I-NP O
 without IN I-PP O
 splitting, JJ I-NP I-KP
@@ -76,6 +82,7 @@ representation.The NN I-NP O
 Galerkin NNP I-NP I-KP
 projection NN I-NP I-KP
 introduces NNS I-NP O
+finite-dimensional JJ I-NP O
 spaces NNS I-NP O
 of IN I-PP O
 test NN I-NP O
@@ -160,7 +167,9 @@ test NN I-NP I-KP
 functions. NN I-NP I-KP
 
 For IN I-PP O
+one- JJ I-NP O
 and CC O O
+two-dimensional JJ I-NP O
 domains NNS I-NP O
 we PRP B-NP O
 consider VBP I-VP I-KP

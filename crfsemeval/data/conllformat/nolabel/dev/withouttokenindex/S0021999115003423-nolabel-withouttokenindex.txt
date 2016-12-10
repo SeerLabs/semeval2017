@@ -148,6 +148,7 @@ be VB I-VP O
 applied VBN I-VP O
 directly RB O O
 to TO I-VP O
+multi-cell JJ I-NP I-KP
 image NN I-NP I-KP
 data NNS I-NP I-KP
 sets NNS I-NP I-KP
@@ -177,6 +178,7 @@ of IN I-PP O
 2d CD I-NP O
 single JJ I-NP O
 and CC O O
+multi-cell JJ I-NP O
 image NN I-NP I-KP
 data NNS I-NP I-KP
 sets. NN I-NP I-KP

@@ -2,6 +2,7 @@ Longitudinal JJ I-NP I-T
 beam NN I-NP I-T
 and CC O I-T
 target VB I-VP I-T
+single-spin JJ I-NP I-T
 asymmetries NNS I-NP I-T
 have VBP I-VP O
 been VBN I-VP O
@@ -40,6 +41,8 @@ be VB I-VP O
 signals NNS I-NP O
 of IN I-PP O
 the DT I-NP O
+so-called JJ I-NP O
+T-odd JJ I-NP I-P
 fragmentation NN I-NP I-P
 functions NNS I-NP I-P
 [5], VBP I-VP O
@@ -61,6 +64,7 @@ receive VB I-VP I-P
 contributions NNS I-NP I-P
 also RB O I-P
 from IN I-PP I-P
+T-odd NNP I-NP B-P
 distribution NN I-NP I-P
 functions NNS I-NP I-P
 [13–16], VBP I-VP O
@@ -81,6 +85,7 @@ of IN I-PP I-T
 the DT I-NP I-T
 contributions NNS I-NP I-T
 of IN I-PP I-T
+T-odd NNP I-NP I-P
 distribution NN I-NP I-P
 functions NNS I-NP I-P
 has VBZ I-VP O
@@ -159,10 +164,12 @@ functions. NN I-NP I-P
 We PRP I-NP O
 consider VBP I-VP O
 both DT I-NP O
+single-particle JJ I-NP I-P
 inclusive JJ I-NP I-P
 DIS, NNP I-NP I-P
 e+p→e′+h+X, NN I-NP B-P
 and CC O O
+single-jet JJ I-NP I-P
 inclusive JJ I-NP I-P
 DIS, NNP I-NP I-P
 e+p→e′+jet+X. NN I-NP B-P
@@ -186,6 +193,8 @@ proof NN I-NP I-T
 for IN I-PP I-T
 observables NNS I-NP I-T
 containing VBG I-NP I-T
+subleading-twist JJ I-NP I-T
+transverse-momentum JJ I-NP I-T
 dependent JJ I-NP I-T
 functions NNS I-NP I-T
 (only RB O O
@@ -193,6 +202,7 @@ recently RB O O
 proofs VB I-VP I-T
 for IN I-PP I-T
 the DT I-NP I-T
+leading-twist JJ I-NP I-T
 case NN I-NP I-T
 have VBP I-VP O
 been VBN I-VP O

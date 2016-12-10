@@ -80,6 +80,7 @@ Betsch NNP I-NP O 526,532
 [45] NNP I-NP O 533,537
 formulated VBD I-VP O 538,548
 the DT I-NP O 549,552
+node-to-segment JJ I-NP O 553,568
 contact NN I-NP O 569,576
 method NN I-NP O 577,583
 and CC O O 584,587
@@ -98,6 +99,7 @@ recently, NNS I-NP O 664,672
 an DT B-NP O 674,676
 energy NN I-NP I-KP 677,683
 and CC O I-KP 684,687
+momentum-conserving JJ I-NP I-KP 688,707
 temporal JJ I-NP I-KP 708,716
 discretization NN I-NP I-KP 717,731
 scheme NN I-NP I-KP 732,738

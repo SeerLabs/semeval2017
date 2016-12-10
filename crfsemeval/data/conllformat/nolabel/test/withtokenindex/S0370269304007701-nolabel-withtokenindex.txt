@@ -19,6 +19,7 @@ solutions NNS I-NP O 114,123
 are VBP I-VP O 124,127
 obtained VBN I-VP O 128,136
 from IN I-PP O 137,141
+semi-classical JJ I-NP I-KP 142,156
 arguments NNS I-NP I-KP 157,166
 in IN I-PP I-KP 167,169
 weak JJ I-NP I-KP 170,174
@@ -47,6 +48,7 @@ is VBZ I-VP O 318,320
 that IN I-PP O 321,325
 of IN B-PP O 326,328
 fermionic JJ I-NP I-KP 329,338
+zero-energy JJ I-NP I-KP 339,350
 modes NNS I-NP I-KP 351,356
 trapped VBN I-VP I-KP 357,364
 on IN I-PP I-KP 365,367
@@ -58,11 +60,13 @@ presence NN I-NP O 390,398
 requires, NN I-NP O 399,407
 according VBG I-VP O 409,418
 to TO I-VP O 419,421
+well-known JJ I-NP O 422,432
 arguments NNS I-NP O 433,442
 [1,2], VBP I-VP O 443,448
 an DT I-NP O 450,452
 assignment NN I-NP I-KP 453,463
 of IN I-PP I-KP 464,466
+half-integer JJ I-NP I-KP 467,479
 fermion NN I-NP I-KP 480,487
 number NN I-NP I-KP 488,494
 to TO I-VP I-KP 495,497
@@ -80,6 +84,7 @@ reaction NN I-NP I-KP 553,561
 of IN I-PP I-KP 562,564
 the DT I-NP I-KP 565,568
 fermion NN I-NP I-KP 569,576
+zero-modes NNS I-NP I-KP 577,587
 on IN I-PP I-KP 588,590
 the DT I-NP I-KP 591,594
 soliton NN I-NP I-KP 595,602
@@ -132,6 +137,7 @@ isolation, NN I-NP O 856,865
 there EX O O 867,872
 is VBZ I-VP O 873,875
 no DT I-NP O 876,878
+particle-like JJ I-NP O 879,892
 state NN I-NP O 893,898
 available JJ I-NP O 899,908
 for IN I-PP O 909,912

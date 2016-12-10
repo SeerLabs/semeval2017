@@ -7,6 +7,7 @@ of IN I-PP O
 paramagnetic, NN I-NP I-M
 that WDT B-NP O
 means VBZ I-VP O
+non-ferromagnetic JJ I-NP I-M
 Nickel NNP I-NP I-M
 based VBN I-VP I-M
 alloys. NN I-NP I-M
@@ -77,6 +78,7 @@ of IN I-PP I-P
 ferromagnetic JJ I-NP I-P
 impurities NNS I-NP I-P
 in IN I-PP O
+non-magnetic JJ I-NP O
 metallic JJ I-NP O
 materials NNS I-NP O
 is VBZ I-VP O
@@ -108,6 +110,7 @@ ferromagnetic JJ I-NP O
 materials NNS I-NP O
 show VBP I-VP O
 the DT I-NP O
+well-known JJ I-NP O
 hysteresis NN I-NP I-P
 behaviour, NN I-NP I-P
 those DT B-NP O
@@ -148,5 +151,6 @@ to TO I-VP O
 detect VB I-VP O
 them PRP I-NP O
 in IN I-PP O
+non-magnetic JJ I-NP O
 materials. NN I-NP O
 

@@ -112,6 +112,7 @@ Peskin NNP I-NP O 735,741
 (in NNP I-NP O 747,750
 our PRP$ B-NP O 751,754
 case, NN I-NP O 755,759
+tailor-made NN I-NP O 761,772
 for IN I-PP O 773,776
 Cartesian JJ I-NP I-KP 777,786
 staggered VBN I-NP I-KP 787,796

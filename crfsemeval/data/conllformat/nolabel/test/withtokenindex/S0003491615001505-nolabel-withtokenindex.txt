@@ -43,6 +43,7 @@ particles NNS I-NP O 256,265
 moving VBG I-NP O 266,272
 in IN I-PP O 273,275
 a DT I-NP O 276,277
+space-time JJ I-NP O 278,288
 continuum. NN I-NP O 289,298
 
 Recall NN I-NP O 301,307
@@ -87,6 +88,7 @@ is VBZ I-VP O 525,527
 formulated VBN I-VP O 528,538
 in IN I-PP O 539,541
 continuum NN I-NP O 542,551
+space-time. NN I-NP O 552,562
 
 Of IN I-PP O 565,567
 course, NN I-NP O 568,574
@@ -143,10 +145,12 @@ extended VBN I-VP O 871,879
 to TO I-VP O 880,882
 describe VB I-VP O 883,891
 massless JJ I-NP I-KP 892,900
+spin-1/2 JJ I-NP I-KP 901,909
 particles NNS I-NP I-KP 910,919
 moving VBG I-VP O 920,926
 in IN I-PP O 927,929
 continuum JJ I-NP O 930,939
+space-time JJ I-NP O 940,950
 by IN I-PP O 951,953
 considering VBG I-VP O 954,965
 the DT I-NP O 966,969
@@ -159,6 +163,7 @@ lattice NN I-NP I-KP 1007,1014
 model. NN I-NP I-KP 1015,1020
 
 An DT I-NP O 1022,1024
+in-depth, JJ I-NP O 1025,1033
 general JJ I-NP O 1035,1042
 treatment NN I-NP O 1043,1052
 of IN I-PP O 1053,1055

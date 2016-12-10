@@ -8,22 +8,26 @@ applied VBN I-NP O
 earlier RBR O O
 in IN I-PP O
 the DT I-NP O
+light-quark JJ I-NP I-KP
 sector, NN I-NP I-KP
 we PRP B-NP O
 have VBP I-VP O
 evaluated VBN I-VP I-KP
+transverse-momentum JJ I-NP I-KP
 dependencies NNS I-NP I-KP
 of IN I-PP O
 charmed JJ I-NP I-KP
 hadrons NNS I-NP I-KP
 in IN I-PP O
 central JJ I-NP I-KP
+heavy-ion NN I-NP I-KP
 reactions NNS I-NP I-KP
 at IN I-PP O
 RHIC. NNP I-NP O
 
 For IN I-PP O
 the DT I-NP O
+charm-quark JJ I-NP I-KP
 distributions NNS I-NP I-KP
 at IN I-PP O
 hadronization NN I-NP I-KP
@@ -54,6 +58,7 @@ matter. NN I-NP O
 The DT I-NP O
 resulting VBG I-NP O
 J/ψ NNP I-NP O
+(mT-)spectra JJ I-NP O
 differ NN I-NP O
 in IN I-PP O
 slope NN I-NP O
@@ -67,6 +72,7 @@ of IN I-PP O
 (harder NN I-NP O
 for IN I-PP O
 pQCD JJ I-NP I-KP
+c-quarks), NN I-NP O
 and CC O O
 the DT I-NP O
 integrated JJ I-NP I-KP
@@ -84,7 +90,8 @@ thermal JJ I-NP O
 case. NN I-NP O
 
 For IN I-PP O
-we PRP I-NP O
+D-mesons, NNP I-NP I-KP
+we PRP B-NP O
 found VBD I-VP O
 that IN I-PP O
 the DT I-NP O
@@ -95,6 +102,7 @@ slope NN I-NP I-KP
 parameters NNS I-NP I-KP
 of IN I-PP O
 the DT I-NP O
+pT-spectra JJ I-NP I-KP
 in IN I-PP O
 the DT I-NP O
 two CD I-NP O
@@ -126,6 +134,7 @@ elliptic JJ I-NP I-KP
 flow NN I-NP I-KP
 pattern NN I-NP I-KP
 of IN I-PP O
+D-mesons NNP I-NP I-KP
 was VBD I-VP O
 found VBN I-VP O
 to TO I-VP O
@@ -134,6 +143,7 @@ essentially RB O O
 preserved VBN I-VP O
 in IN I-PP O
 the DT I-NP O
+single-electron JJ I-NP I-KP
 decay NN I-NP I-KP
 spectra, NN I-NP I-KP
 rendering VBG I-VP O
@@ -173,6 +183,7 @@ a DT I-NP O
 complimentary JJ I-NP I-KP
 probe NN I-NP I-KP
 for IN I-PP O
+charm-quark JJ I-NP I-KP
 reinteractions NNS I-NP I-KP
 in IN I-PP O
 the DT I-NP O

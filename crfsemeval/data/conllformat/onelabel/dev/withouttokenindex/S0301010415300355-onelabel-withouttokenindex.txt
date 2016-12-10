@@ -1,5 +1,6 @@
 Alternatively RB O O
 to TO I-VP O
+H-atom NNP I-NP I-P
 photodetachment NN I-NP I-P
 from IN I-PP O
 the DT I-NP O

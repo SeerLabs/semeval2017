@@ -1,6 +1,7 @@
 Certainly RB O O
 therefore RB O O
 the DT I-NP O
+see-saw JJ I-NP I-KP
 mechanism NN I-NP I-KP
 is VBZ I-VP O
 an DT I-NP O
@@ -50,6 +51,7 @@ sectors, NN I-NP I-KP
 and CC O O
 the DT I-NP O
 essentially RB O O
+hierarchy-free JJ I-NP I-KP
 masses NNS I-NP I-KP
 implied VBN I-VP I-KP
 by IN I-PP I-KP

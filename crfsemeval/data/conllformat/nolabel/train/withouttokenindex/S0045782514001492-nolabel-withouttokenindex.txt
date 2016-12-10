@@ -80,6 +80,7 @@ Betsch NNP I-NP O
 [45] NNP I-NP O
 formulated VBD I-VP O
 the DT I-NP O
+node-to-segment JJ I-NP O
 contact NN I-NP O
 method NN I-NP O
 and CC O O
@@ -98,6 +99,7 @@ recently, NNS I-NP O
 an DT B-NP O
 energy NN I-NP I-KP
 and CC O I-KP
+momentum-conserving JJ I-NP I-KP
 temporal JJ I-NP I-KP
 discretization NN I-NP I-KP
 scheme NN I-NP I-KP

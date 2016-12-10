@@ -56,6 +56,7 @@ to TO I-VP O 334,336
 image NN I-NP I-KP 337,342
 the DT I-NP I-KP 343,346
 detailed JJ I-NP I-KP 347,355
+3-D JJ I-NP I-KP 356,359
 velocity NN I-NP I-KP 360,368
 structure NN I-NP I-KP 369,378
 under IN I-PP O 379,384

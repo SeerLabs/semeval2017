@@ -121,6 +121,7 @@ electrodes. NN I-NP I-KP 694,704
 They PRP I-NP O 706,710
 developed VBD I-VP O 711,720
 a DT I-NP O 721,722
+semi-quantitative JJ I-NP I-KP 723,740
 model NN I-NP I-KP 741,746
 for IN I-PP O 747,750
 pit NN I-NP I-KP 751,754
@@ -167,6 +168,7 @@ average JJ I-NP O 1005,1012
 current JJ I-NP O 1013,1020
 density NN I-NP O 1021,1028
 in IN I-PP O 1029,1031
+Fe-Co NNP I-NP I-KP 1032,1037
 thin JJ I-NP I-KP 1038,1042
 films. NN I-NP I-KP 1043,1048
 

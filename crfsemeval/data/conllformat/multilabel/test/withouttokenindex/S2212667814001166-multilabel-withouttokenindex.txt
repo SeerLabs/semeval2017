@@ -3,6 +3,7 @@ with IN B-PP O
 the DT I-NP O
 expansion NN I-NP I-T
 of IN I-PP I-T
+computer-based JJ I-NP I-T
 climate NN I-NP I-T
 simulations, NN I-NP I-T
 efficient JJ I-NP O
@@ -37,6 +38,7 @@ combining VBG I-VP I-P
 window JJ I-NP I-P
 query NN I-NP I-P
 and CC O I-P
+time-varying JJ I-NP I-P
 data NNS I-NP I-P
 mining NN I-NP I-P
 techniques. NN I-NP I-P
@@ -57,6 +59,7 @@ various JJ I-NP O
 queries NNS I-NP I-P
 on IN I-PP O
 3d CD I-NP I-P
+time-varying JJ I-NP I-P
 datasets, NN I-NP I-P
 such JJ I-NP O
 as IN I-PP O
@@ -68,6 +71,7 @@ value. NN I-NP O
 
 A DT I-NP O
 new JJ I-NP O
+time-varying JJ I-NP I-P
 data NNS I-NP I-P
 analysis NN I-NP I-P
 algorithm NN I-NP I-P
@@ -97,6 +101,8 @@ visual JJ I-NP I-T
 analysis NN I-NP I-T
 system, NN I-NP I-T
 with IN I-PP O
+tiled-LCD JJ I-NP I-M
+ultra-resolution JJ I-NP I-M
 display. NN I-NP I-M
 
 Experimental JJ I-NP O

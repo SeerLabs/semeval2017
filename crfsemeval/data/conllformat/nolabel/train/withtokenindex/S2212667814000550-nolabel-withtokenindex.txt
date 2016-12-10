@@ -1,4 +1,5 @@
 The DT I-NP O 0,3
+low-carbon JJ I-NP I-KP 4,14
 economic JJ I-NP I-KP 15,23
 development NN I-NP I-KP 24,35
 has VBZ I-VP O 36,39
@@ -28,6 +29,7 @@ way NN I-NP O 187,190
 to TO I-VP O 191,193
 achieve VB I-VP O 194,201
 the DT I-NP O 202,205
+low-carbon JJ I-NP O 206,216
 lifestyle. NN I-NP O 217,226
 
 Based VBN I-VP O 228,233
@@ -40,6 +42,7 @@ of IN I-PP O 265,267
 the DT I-NP O 268,271
 connotation NN I-NP O 272,283
 of IN I-PP O 284,286
+low-carbon JJ I-NP I-KP 287,297
 consumption NN I-NP I-KP 298,309
 and CC O O 310,313
 its PRP$ I-NP O 314,317
@@ -53,6 +56,7 @@ is VBZ I-VP O 365,367
 concluded VBN I-VP O 368,377
 that IN I-PP O 378,382
 the DT I-NP O 383,386
+low-carbon JJ I-NP I-KP 387,397
 consumption NN I-NP I-KP 398,409
 requires VBZ I-VP O 410,418
 us PRP I-NP O 419,421
@@ -60,6 +64,7 @@ to TO I-VP O 422,424
 abide VB I-VP O 425,430
 by IN I-PP O 431,433
 the DT I-NP O 434,437
+life-style JJ I-NP O 438,448
 of IN I-PP O 449,451
 knowledge NN I-NP O 452,461
 and CC O O 462,465
@@ -73,6 +78,7 @@ that IN I-PP O 500,504
 the DT I-NP O 505,508
 development NN I-NP I-KP 509,520
 of IN I-PP I-KP 521,523
+low-carbon JJ I-NP I-KP 524,534
 economy NN I-NP I-KP 535,542
 is VBZ I-VP O 543,545
 a DT I-NP O 546,547

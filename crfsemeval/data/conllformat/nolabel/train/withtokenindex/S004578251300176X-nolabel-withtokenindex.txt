@@ -11,6 +11,7 @@ of IN I-PP I-KP 66,68
 components NNS I-NP I-KP 69,79
 to TO I-VP I-KP 80,82
 (near) VB I-VP I-KP 83,89
+net-shape NN I-NP I-KP 90,99
 with IN I-PP O 100,104
 high JJ I-NP O 105,109
 product NN I-NP O 110,117
@@ -21,6 +22,7 @@ a DT I-NP O 131,132
 hardmetal JJ I-NP I-KP 133,142
 (such JJ I-NP O 143,148
 as IN I-PP O 149,151
+WC-Co) NNP I-NP O 152,158
 cold JJ I-NP O 159,163
 compaction NN I-NP O 164,174
 of IN I-PP O 175,177
@@ -33,6 +35,7 @@ body” NN I-NP O 201,206
 is VBZ I-VP O 207,209
 followed VBN I-VP O 210,218
 by IN I-PP O 219,221
+liquid-phase JJ I-NP I-KP 222,234
 sintering NN I-NP I-KP 235,244
 from IN I-PP O 245,249
 the DT I-NP O 250,253

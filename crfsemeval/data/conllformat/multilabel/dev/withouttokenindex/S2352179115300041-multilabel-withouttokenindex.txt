@@ -2,6 +2,7 @@ The DT I-NP O
 main JJ I-NP O
 drawback NN I-NP O
 of IN I-PP O
+thermo-oxidation NN I-NP I-P
 in IN I-PP O
 most JJS O O
 actual JJ I-NP O
@@ -100,6 +101,7 @@ treatment NN I-NP I-T
 of IN I-PP I-T
 ITER NNP I-NP I-M
 carbon NN I-NP I-M
+co-deposits NNS I-NP I-T
 [1–3], NNP I-NP O
 so IN I-PP O
 the DT I-NP O
@@ -138,6 +140,7 @@ to TO I-VP O
 tritium VB I-VP I-M
 trapped VBN I-VP O
 in IN I-PP O
+co-deposited JJ I-NP O
 carbon NN I-NP I-M
 layers, NN I-NP I-M
 ITER NNP I-NP B-M
@@ -169,13 +172,16 @@ experimental JJ I-NP O
 nuclear JJ I-NP I-M
 fusion NN I-NP I-M
 devices NNS I-NP I-M
-TCV, NNP I-NP B-M
+(DIII-D, JJ I-NP O
+TCV, NNP I-NP I-M
 etc.) NN I-NP O
 
 and CC O O
 new JJ I-NP O
 ones NNS I-NP O
+(JT-60SA, JJ I-NP O
 KSTAR, NNP I-NP I-M
+Wenderstein-7X) NNP I-NP O
 use NN I-NP O
 carbon NN I-NP I-M
 elements, NN I-NP I-M
@@ -184,6 +190,7 @@ the DT I-NP O
 removal NN I-NP I-T
 of IN I-PP I-T
 carbon NN I-NP I-M
+co-deposits NNS I-NP I-T
 is VBZ I-VP O
 still RB I-VP O
 necessary JJ I-NP O

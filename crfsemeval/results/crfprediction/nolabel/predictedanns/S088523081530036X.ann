@@ -1,0 +1,4 @@
+T0	KEYPHRASE_NOTYPES 256 260	DNNs
+T1	KEYPHRASE_NOTYPES 968 992	class probability output
+T2	KEYPHRASE_NOTYPES 154 202	network, obtaining a class posterior probability
+T3	KEYPHRASE_NOTYPES 856 862	frames;

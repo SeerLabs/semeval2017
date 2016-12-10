@@ -17,16 +17,20 @@ the DT I-NP O 99,102
 recent JJ I-NP O 103,109
 progress NN I-NP O 110,118
 in IN I-PP O 119,121
+aberration-corrected JJ I-NP I-KP 122,142
 transmission NN I-NP I-KP 143,155
 electron NN I-NP I-KP 156,164
 microscopy NN I-NP I-KP 165,175
+(AC-TEM) JJ I-NP O 176,184
 capable JJ I-NP O 185,192
 of IN I-PP O 193,195
+sub-Ångstrom JJ I-NP I-KP 196,208
 resolution. NN I-NP I-KP 209,219
 
 The DT I-NP O 221,224
 examples NNS I-NP O 225,233
 include VBP I-VP O 234,241
+AC-TEM JJ I-NP I-KP 242,248
 observations NNS I-NP I-KP 249,261
 of IN I-PP I-KP 262,264
 the DT I-NP I-KP 265,268
@@ -57,6 +61,7 @@ defect NN I-NP I-KP 417,423
 [3]. NN I-NP O 424,427
 
 The DT I-NP O 429,432
+AC-TEM NNP I-NP O 433,439
 has VBZ I-VP O 440,443
 been VBN I-VP O 444,448
 also RB O O 449,453
@@ -70,6 +75,7 @@ of IN I-PP O 494,496
 the DT I-NP O 497,500
 process NN I-NP I-KP 501,508
 of IN I-PP I-KP 509,511
+self-assembly NN I-NP I-KP 512,525
 of IN I-PP I-KP 526,528
 graphene JJ I-NP I-KP 529,537
 nanoribbons NNS I-NP I-KP 538,549
@@ -92,6 +98,7 @@ sidewall NN I-NP I-KP 648,656
 
 Based VBN I-VP O 662,667
 on IN I-PP O 668,670
+AC-TEM NNP I-NP I-KP 671,677
 observations NNS I-NP I-KP 678,690
 of IN I-PP O 691,693
 transformation NN I-NP O 694,708
@@ -104,6 +111,7 @@ into IN I-PP O 740,744
 fullerene, NN I-NP I-KP 745,754
 a DT I-NP O 756,757
 new JJ I-NP O 758,761
+‘top-down’ JJ I-NP I-KP 762,772
 mechanism NN I-NP I-KP 773,782
 for IN I-PP I-KP 783,786
 the DT I-NP I-KP 787,790
@@ -126,6 +134,7 @@ step NN I-NP O 884,888
 in IN I-PP O 889,891
 the DT I-NP O 892,895
 proposed VBN I-NP I-KP 896,904
+‘top-down’ JJ I-NP I-KP 905,915
 mechanism NN I-NP I-KP 916,925
 of IN I-PP I-KP 926,928
 the DT I-NP I-KP 929,932
@@ -143,6 +152,7 @@ as IN I-PP O 1002,1004
 a DT I-NP O 1005,1006
 result NN I-NP O 1007,1013
 of IN I-PP O 1014,1016
+knock-on JJ I-NP I-KP 1017,1025
 damage NN I-NP I-KP 1026,1032
 by IN I-PP I-KP 1033,1035
 electrons NNS I-NP I-KP 1036,1045
@@ -151,6 +161,7 @@ the DT I-NP I-KP 1049,1052
 imaging VBG I-NP I-KP 1053,1060
 electron NN I-NP I-KP 1061,1069
 beam NN I-NP I-KP 1070,1074
+(e-beam). NN I-NP I-KP 1075,1083
 
 The DT I-NP O 1085,1088
 subsequent JJ I-NP I-KP 1089,1099
@@ -202,10 +213,13 @@ explaining VBG I-VP O 1365,1375
 mechanisms NNS I-NP O 1376,1386
 of IN I-PP O 1387,1389
 the DT I-NP O 1390,1393
+e-beam JJ I-NP I-KP 1394,1400
 assisted JJ I-NP I-KP 1401,1409
+self-assembly NN I-NP I-KP 1410,1423
 and CC O O 1424,1427
 structural JJ I-NP I-KP 1428,1438
 transformations NNS I-NP I-KP 1439,1454
 in IN I-PP I-KP 1455,1457
+graphene-like JJ I-NP I-KP 1458,1471
 structures. NN I-NP I-KP 1472,1482
 

@@ -36,6 +36,7 @@ the DT I-NP O
 experimentally RB O I-M
 observed JJ I-NP I-M
 values NNS I-NP I-M
+⩽1019m-2s-1 JJ I-NP O
 [16]. NN I-NP O
 
 Moreover, NNP I-NP O
@@ -132,6 +133,7 @@ ions: NN I-NP I-M
 first RB O O
 is VBZ I-VP O
 the DT I-NP O
+“near-divertor” JJ I-NP O
 ionization NN I-NP I-P
 of IN I-PP O
 W NNP I-NP I-M

@@ -1,5 +1,6 @@
 We PRP I-NP O
 consider VBP I-VP O
+finite-time, JJ I-NP I-P
 future NN I-NP I-P
 (sudden NN I-NP I-P
 or CC O I-P
@@ -24,6 +25,7 @@ of IN I-PP O
 state NN I-NP O
 parameter NN I-NP O
 is VBZ I-VP O
+time-dependent. JJ I-NP O
 
 Recently, NNP I-NP O
 example NN I-NP I-T

@@ -9,6 +9,7 @@ QCD NNP I-NP I-KP 36,39
 computation NN I-NP I-KP 40,51
 of IN I-PP I-KP 52,54
 nucleon–nucleon JJ I-NP I-KP 55,70
+low-energy JJ I-NP I-KP 71,81
 interactions. NN I-NP I-KP 82,94
 
 It PRP I-NP O 96,98
@@ -26,6 +27,7 @@ field NN I-NP I-KP 167,172
 whose WP$ B-NP O 173,178
 potential JJ I-NP O 179,188
 is VBZ I-VP O 189,191
+non-vanishing, JJ I-NP O 192,205
 but CC O O 207,210
 whose WP$ I-NP O 211,216
 field NN I-NP I-KP 217,222
@@ -38,6 +40,7 @@ tuning VBG I-VP I-KP 244,250
 the DT I-NP I-KP 251,254
 background NN I-NP I-KP 255,265
 field, VBD I-VP I-KP 266,271
+phase-shifts NNS I-NP I-KP 273,285
 at IN I-PP I-KP 286,288
 any DT I-NP I-KP 289,292
 (but NNP I-NP I-KP 293,297

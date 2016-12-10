@@ -79,6 +79,7 @@ describes VBZ I-VP O
 the DT I-NP O
 autocorrelation NN I-NP I-KP
 and CC O O
+time-varying JJ I-NP I-KP
 volatility NN I-NP I-KP
 of IN I-PP O
 the DT I-NP O
@@ -87,6 +88,8 @@ time NN I-NP I-KP
 series NN I-NP I-KP
 by IN I-PP O
 using VBG I-VP O
+ARIMA- NNP I-NP I-KP
+GARCH-M NNP I-NP I-KP
 model. NN I-NP I-KP
 
 The DT I-NP O

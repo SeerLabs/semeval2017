@@ -123,6 +123,7 @@ feasible JJ I-NP O 747,755
 platform NN I-NP O 756,764
 for IN I-PP O 765,768
 deploying VBG I-VP I-KP 769,778
+on-demand, JJ I-NP I-KP 779,788
 small JJ I-NP I-KP 790,795
 sized VBN I-VP I-KP 796,801
 HPC NNP I-NP I-KP 802,805

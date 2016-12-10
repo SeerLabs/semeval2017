@@ -21,6 +21,7 @@ of IN I-PP O
 a DT I-NP O
 dispersion NN I-NP I-M
 of IN I-PP I-M
+ultra-fine JJ I-NP I-M
 oxide NN I-NP I-M
 particles NNS I-NP I-M
 throughout IN I-PP I-M
@@ -83,6 +84,7 @@ for IN I-PP O
 the DT I-NP O
 formation NN I-NP O
 of IN I-PP O
+nano-scale JJ I-NP I-M
 He PRP B-NP I-M
 bubbles VBZ I-VP I-M
 therefore RB I-VP O
@@ -90,6 +92,7 @@ reducing VBG I-VP I-T
 swelling VBG I-VP I-P
 compared VBN I-VP O
 to TO I-VP O
+non-ODS JJ I-NP I-M
 steels NNS I-NP I-M
 [12–15]. VBP I-VP O
 

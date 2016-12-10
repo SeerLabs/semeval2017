@@ -6,6 +6,7 @@ societal JJ I-NP O 30,38
 benefits, NN I-NP O 39,47
 especially RB O O 49,59
 for IN I-PP O 60,63
+e-learning JJ I-NP I-KP 64,74
 in IN I-PP O 75,77
 digital JJ I-NP O 78,85
 or CC O O 86,88
@@ -23,6 +24,7 @@ space NN I-NP I-KP 149,154
 constraints NNS I-NP I-KP 155,166
 of IN I-PP O 167,169
 traditional JJ I-NP O 170,181
+bricks-and-mortar NN I-NP I-KP 182,199
 libraries. NN I-NP I-KP 200,209
 
 The DT I-NP O 211,214

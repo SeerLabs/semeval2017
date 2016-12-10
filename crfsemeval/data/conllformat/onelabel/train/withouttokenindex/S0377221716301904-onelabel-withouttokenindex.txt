@@ -8,6 +8,7 @@ allows VBZ I-VP O
 to TO I-VP O
 analyze VB I-VP I-T
 the DT I-NP I-T
+long-run JJ I-NP I-T
 impact NN I-NP I-T
 of IN I-PP I-T
 the DT I-NP I-T
@@ -51,8 +52,10 @@ in IN I-PP O
 expectation NN I-NP O
 of IN I-PP O
 an DT I-NP O
+energy-only JJ I-NP O
 market NN I-NP O
 and CC O O
+cost-based JJ I-NP O
 redispatch. NN I-NP O
 
 In IN I-PP O
@@ -122,6 +125,7 @@ networks NNS I-NP O
 we PRP B-NP O
 illustrate VBP I-VP O
 that IN I-PP O
+energy-only JJ I-NP O
 markets NNS I-NP O
 can MD I-VP O
 lead VB I-VP O

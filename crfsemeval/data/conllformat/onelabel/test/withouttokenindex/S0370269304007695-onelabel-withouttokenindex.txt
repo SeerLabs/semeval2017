@@ -63,6 +63,7 @@ deceleration NN I-NP O
 of IN I-PP O
 the DT I-NP O
 produced VBN I-NP I-M
+(pre-)hadrons NNS I-NP I-M
 due JJ I-NP O
 to TO I-VP O
 FSI NNP I-NP I-P
@@ -77,6 +78,7 @@ that IN I-PP O
 in IN B-PP O
 particular JJ I-NP O
 the DT I-NP I-P
+z-dependence NN I-NP I-P
 of IN I-PP I-P
 RMh NNP I-NP I-M
 is VBZ I-VP O
@@ -113,6 +115,7 @@ be VB I-VP O
 interpreted VBN I-VP O
 as IN I-PP O
 an DT I-NP O
+in-medium JJ I-NP I-P
 change NN I-NP I-P
 of IN I-PP I-P
 the DT I-NP I-P

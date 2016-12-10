@@ -112,6 +112,7 @@ fabrication NN I-NP O 732,743
 of IN I-PP O 744,746
 very RB I-NP I-KP 747,751
 sensitive JJ I-NP I-KP 752,761
+low-cost JJ I-NP I-KP 762,770
 devices NNS I-NP I-KP 771,778
 for IN I-PP O 779,782
 biosensing NN I-NP I-KP 783,793
@@ -172,6 +173,7 @@ in IN B-PP O 1130,1132
 lasers. NN I-NP I-KP 1133,1139
 
 Absorption NNP I-NP O 1141,1151
+cross-sections NNS I-NP O 1152,1166
 of IN I-PP O 1167,1169
 polarons NNS I-NP O 1170,1178
 are VBP I-VP O 1179,1182
@@ -210,6 +212,7 @@ through IN I-PP O 1386,1393
 contacting VBG I-VP I-KP 1394,1404
 electrodes NNS I-NP I-KP 1405,1415
 and CC O O 1416,1419
+field-dependent JJ I-NP I-KP 1420,1435
 charge NN I-NP I-KP 1436,1442
 mobility NN I-NP I-KP 1443,1451
 measurements NNS I-NP I-KP 1452,1464

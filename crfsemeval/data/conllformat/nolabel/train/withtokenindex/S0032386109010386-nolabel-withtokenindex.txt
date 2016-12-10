@@ -15,12 +15,14 @@ types NNS I-NP O 80,85
 of IN I-PP O 86,88
 chemical NN I-NP I-KP 89,97
 reactions: NN I-NP I-KP 98,107
+step-growth JJ I-NP B-KP 109,120
 polymerization NN I-NP I-KP 121,135
 and CC O O 136,139
 free JJ I-NP I-KP 140,144
 radical JJ I-NP I-KP 145,152
 polymerization. NN I-NP I-KP 153,167
 
+Step-growth JJ I-NP I-KP 169,180
 polymerization NN I-NP I-KP 181,195
 is VBZ I-VP O 196,198
 widely RB I-VP O 199,205

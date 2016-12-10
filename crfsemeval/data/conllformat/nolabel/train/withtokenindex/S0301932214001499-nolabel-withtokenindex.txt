@@ -81,6 +81,7 @@ film NN I-NP I-KP 523,527
 thickness, NN I-NP I-KP 528,537
 followed VBN I-VP O 539,547
 by IN I-PP O 548,550
+in-depth JJ I-NP O 551,559
 statistical JJ I-NP I-KP 560,571
 analyses NNS I-NP I-KP 572,580
 of IN I-PP I-KP 581,583
@@ -221,6 +222,7 @@ order NN I-NP O 1408,1413
 of IN I-PP O 1414,1416
 and CC I-PP O 1417,1420
 often RB I-PP O 1421,1426
+sub-mm), JJ I-NP O 1427,1434
 (ii) IN I-PP O 1436,1440
 the DT I-NP O 1441,1444
 highly RB O O 1445,1451

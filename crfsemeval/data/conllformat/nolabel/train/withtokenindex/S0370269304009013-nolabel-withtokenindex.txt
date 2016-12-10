@@ -10,6 +10,7 @@ for IN I-PP O 62,65
 determination NN I-NP I-KP 66,79
 of IN I-PP I-KP 80,82
 the DT I-NP I-KP 83,86
+P-parity NNP I-NP I-KP 87,95
 of IN I-PP O 96,98
 the DT I-NP O 99,102
 Θ+ NNP I-NP O 103,105
@@ -56,6 +57,7 @@ for IN I-PP O 332,335
 determination NN I-NP I-KP 336,349
 of IN I-PP I-KP 350,352
 the DT I-NP I-KP 353,356
+P-parity NNP I-NP I-KP 357,365
 of IN I-PP O 366,368
 the DT I-NP O 369,372
 Θ+ NN I-NP O 373,375
@@ -67,6 +69,7 @@ Refs. NNP I-NP O 403,407
 
 [15,16] NN I-NP O 409,416
 for IN I-PP O 417,420
+pp-collision, NN I-NP I-KP 421,433
 and CC O O 435,438
 in IN I-PP O 439,441
 Ref. NNP I-NP O 442,445
@@ -169,6 +172,7 @@ on IN I-PP O 970,972
 conservation NN I-NP I-KP 973,985
 of IN I-PP I-KP 986,988
 the DT I-NP I-KP 989,992
+P-parity, NNP I-NP I-KP 993,1001
 total JJ I-NP B-KP 1003,1008
 angular JJ I-NP I-KP 1009,1016
 momentum NN I-NP I-KP 1017,1025

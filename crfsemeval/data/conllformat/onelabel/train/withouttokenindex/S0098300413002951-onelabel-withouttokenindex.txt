@@ -2,6 +2,7 @@ Hitherto, NNP I-NP O
 the DT I-NP O
 investigation NN I-NP I-T
 of IN I-PP I-T
+fossil-orientation NN I-NP I-T
 was VBD I-VP O
 only RB I-VP O
 used VBN I-VP O
@@ -29,6 +30,9 @@ of IN I-PP O
 virtual JJ I-NP I-P
 methods NNS I-NP I-P
 (e.g., JJ I-NP O
+macro-CT, JJ I-NP I-P
+µ-CT, JJ I-NP B-P
+nano-CT, JJ I-NP B-P
 etc.) NN I-NP O
 
 it PRP I-NP O
@@ -45,6 +49,7 @@ fossil JJ I-NP I-M
 mass NN I-NP I-M
 occurrences NNS I-NP I-M
 in IN I-PP O
+three-dimensional JJ I-NP O
 detail. NN I-NP O
 
 Although, VB I-VP O
@@ -55,7 +60,9 @@ paleontological JJ I-NP O
 studies NNS I-NP O
 deal VBP I-VP O
 with IN I-PP O
+3D-visualization NN I-NP I-P
 of IN I-PP O
+fossil-elements, JJ I-NP I-M
 no DT I-NP O
 mass NN I-NP O
 occurrence NN I-NP O

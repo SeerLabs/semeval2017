@@ -39,6 +39,7 @@ the DT I-NP O
 contribution NN I-NP I-P
 of IN I-PP I-P
 the DT I-NP I-P
+iso-vector, JJ I-NP I-P
 scalar JJ I-NP I-T
 δ NN I-NP I-T
 field NN I-NP I-T
@@ -150,6 +151,7 @@ the DT I-NP I-P
 description NN I-NP I-P
 of IN I-PP I-P
 the DT I-NP I-P
+iso-vector JJ I-NP I-P
 equation NN I-NP I-P
 of IN I-PP I-P
 state. NN I-NP I-P

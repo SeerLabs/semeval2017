@@ -13,6 +13,7 @@ to TO I-VP O 82,84
 designing VBG I-VP O 85,94
 solvers NNS I-NP I-KP 95,102
 for IN I-PP I-KP 103,106
+large-scale JJ I-NP I-KP 107,118
 problems NNS I-NP I-KP 119,127
 in IN I-PP I-KP 128,130
 computational JJ I-NP I-KP 131,144
@@ -29,6 +30,7 @@ a DT I-NP O 208,209
 number NN I-NP I-KP 210,216
 of IN I-PP I-KP 217,219
 independent JJ I-NP I-KP 220,231
+sub-problems, NN I-NP I-KP 232,244
 which WDT B-NP O 246,251
 are VBP I-VP O 252,255
 then RB I-VP O 256,260
@@ -37,7 +39,10 @@ in IN I-PP O 269,271
 appropriate JJ I-NP O 272,283
 ways. NN I-NP O 284,288
 
+NURBS- JJ I-NP O 290,296
+(Non-Uniform JJ I-NP O 297,309
 Rational NNP I-NP I-KP 310,318
+B-spline) NNP I-NP O 319,328
 based VBN I-VP O 329,334
 isogeometric JJ I-NP I-KP 335,347
 analysis NN I-NP I-KP 348,356
@@ -73,6 +78,7 @@ domain NN I-NP O 545,551
 into IN I-PP O 552,556
 several JJ I-NP I-KP 557,564
 subdomains, JJ I-NP I-KP 565,575
+NURBS-based JJ I-NP I-KP 577,588
 IGA NNP I-NP I-KP 589,592
 is VBZ I-VP O 593,595
 particularly RB I-VP O 596,608
@@ -141,6 +147,7 @@ and CC O O 1023,1026
 for IN I-PP O 1027,1030
 interfaces NNS I-NP I-KP 1031,1041
 with IN I-PP I-KP 1042,1046
+T-joints, NNP I-NP I-KP 1047,1055
 i.e. NN I-NP O 1057,1060
 hanging VBG I-VP I-KP 1062,1069
 nodes). NNS I-NP O 1070,1076

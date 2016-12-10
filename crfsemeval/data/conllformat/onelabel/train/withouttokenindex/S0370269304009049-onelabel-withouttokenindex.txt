@@ -15,9 +15,11 @@ problem. NN I-NP I-T
 
 In IN I-PP O
 the DT I-NP O
+light-cone JJ I-NP I-P
 Hamiltonian JJ I-NP I-P
 approach NN I-NP I-P
 [1] VBD I-VP O
+light-cone JJ I-NP I-T
 wave NN I-NP I-T
 functions NNS I-NP I-T
 can MD I-VP O
@@ -35,6 +37,7 @@ necessary JJ I-NP O
 to TO I-VP O
 have VB I-VP O
 reliable JJ I-NP I-M
+light-cone JJ I-NP I-M
 wave NN I-NP I-M
 functions NNS I-NP I-M
 if IN I-PP O
@@ -107,15 +110,18 @@ resulting VBG I-NP I-P
 wave JJ I-NP I-P
 functions NNS I-NP I-P
 into IN I-PP I-P
+light-cone JJ I-NP I-P
 form NN I-NP I-P
 with IN I-PP O
 the DT I-NP O
 help NN I-NP O
 of IN I-PP O
 kinematical JJ I-NP I-P
+on-shell NN I-NP I-P
 equations. NN I-NP I-P
 
 The DT I-NP O
+light-cone JJ I-NP O
 Hamiltonian NNP I-NP O
 in IN I-PP O
 a DT I-NP O
@@ -184,6 +190,7 @@ simple JJ I-NP I-P
 Hamiltonian JJ I-NP I-P
 with IN I-PP I-P
 a DT I-NP I-P
+two-body JJ I-NP I-P
 potential NN I-NP I-P
 [6]. NN I-NP O
 

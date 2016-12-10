@@ -144,6 +144,7 @@ the DT I-NP O 921,924
 width NN I-NP O 925,930
 of IN I-PP O 931,933
 the DT I-NP O 934,937
+crack-band, NN I-NP O 938,948
 which WDT B-NP O 950,955
 in IN I-PP O 956,958
 the DT I-NP O 959,962
@@ -226,6 +227,7 @@ the DT I-NP O 1443,1446
 assumptions NNS I-NP O 1447,1458
 of IN I-PP O 1459,1461
 the DT I-NP O 1462,1465
+crack-band NN I-NP O 1466,1476
 approach. NN I-NP O 1477,1485
 
 This DT I-NP O 1487,1491
@@ -233,6 +235,7 @@ approach NN I-NP O 1492,1500
 of IN I-PP O 1501,1503
 applying VBG I-VP O 1504,1512
 the DT I-NP O 1513,1516
+crack-band NN I-NP I-KP 1517,1527
 approach NN I-NP I-KP 1528,1536
 only RB O O 1537,1541
 to TO I-VP O 1542,1544

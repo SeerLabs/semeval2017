@@ -4,6 +4,7 @@ cases NNS I-NP O
 confirm VBP I-VP O
 that IN I-PP O
 the DT I-NP O
+high-order JJ I-NP I-KP
 discretisation NN I-NP I-KP
 retains VBZ I-VP O
 exponential JJ I-NP O

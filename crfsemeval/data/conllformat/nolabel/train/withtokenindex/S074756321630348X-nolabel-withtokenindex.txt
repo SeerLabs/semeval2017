@@ -32,6 +32,7 @@ games NNS I-NP I-KP 202,207
 (SNG) VBP I-VP O 208,213
 are VBP I-VP O 214,217
 generally RB O O 218,227
+free-to-play JJ I-NP O 228,240
 and CC O O 241,244
 do VBP I-VP O 245,247
 not RB I-VP O 248,251
@@ -42,6 +43,7 @@ but CC O O 275,278
 users NNS I-NP O 279,284
 can MD I-VP O 285,288
 make VB I-VP O 289,293
+in-game JJ I-NP O 294,301
 purchases NNS I-NP O 302,311
 to TO I-VP O 312,314
 advance VB I-VP O 315,322

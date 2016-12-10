@@ -57,9 +57,11 @@ expansion NN I-NP I-KP 367,376
 method NN I-NP I-KP 377,383
 [20] NN I-NP O 384,388
 and CC O O 389,392
+two-layer JJ I-NP I-KP 393,402
 version NN I-NP I-KP 403,410
 of IN I-PP I-KP 411,413
 CCS NNP I-NP I-KP 414,417
+(2L-CCS). NN I-NP O 418,426
 
 [21] IN I-PP O 428,432
 The DT I-NP I-KP 433,436
@@ -67,17 +69,20 @@ Hamiltonian JJ I-NP I-KP 437,448
 consists VBZ I-VP O 449,457
 of IN I-PP O 458,460
 a DT I-NP O 461,462
+1-dimensional JJ I-NP I-KP 463,476
 tunnelling NN I-NP I-KP 477,487
 mode NN I-NP I-KP 488,492
 coupled VBD I-VP O 493,500
 to TO I-VP O 501,503
 an DT I-NP O 504,506
+(M−1)-dimensional JJ I-NP I-KP 507,524
 harmonic NN I-NP I-KP 525,533
 bath, NN I-NP I-KP 534,538
 hence NN I-NP O 540,545
 it PRP B-NP O 546,548
 is VBZ I-VP O 549,551
 a DT I-NP O 552,553
+system-bath NN I-NP I-KP 554,565
 problem NN I-NP I-KP 566,573
 which WDT B-NP O 574,579
 bears VBZ I-VP O 580,585
@@ -85,6 +90,7 @@ some DT I-NP O 586,590
 similarity NN I-NP O 591,601
 to TO I-VP O 602,604
 the DT I-NP O 605,608
+Caldeira-Leggett NNP I-NP I-KP 609,625
 model NN I-NP I-KP 626,631
 of IN I-PP I-KP 632,634
 tunnelling VBG I-VP I-KP 635,645
@@ -97,6 +103,7 @@ system NN I-NP O 663,669
 This DT I-NP O 679,683
 Hamiltonian JJ I-NP I-KP 684,695
 is VBZ I-VP O 696,698
+non-dissipative, JJ I-NP O 699,714
 however RB O O 716,723
 and CC O O 724,727
 the DT I-NP O 728,731
@@ -108,6 +115,7 @@ the DT I-NP O 756,759
 same JJ I-NP O 760,764
 frequency. NN I-NP O 765,774
 
+System-bath NN I-NP I-KP 776,787
 models NNS I-NP I-KP 788,794
 play VBP I-VP O 795,799
 an DT I-NP O 800,802
@@ -135,6 +143,7 @@ device NN I-NP I-KP 934,940
 for IN I-PP O 955,958
 which WDT I-NP O 959,964
 the DT I-NP O 965,968
+Caldeira-Leggett NNP I-NP I-KP 969,985
 model NN I-NP I-KP 986,991
 provides VBZ I-VP O 992,1000
 a DT I-NP O 1001,1002
@@ -147,6 +156,7 @@ conductance NN I-NP I-KP 1039,1050
 phenomena NN I-NP I-KP 1051,1060
 in IN I-PP O 1061,1063
 the DT I-NP O 1064,1067
+spin-bath JJ I-NP I-KP 1068,1077
 regime NN I-NP I-KP 1078,1084
 [25]. NN I-NP O 1085,1089
 

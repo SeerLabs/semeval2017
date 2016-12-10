@@ -134,6 +134,7 @@ Evolution NNP I-NP I-KP 886,895
 
 Lautenberger NNP I-NP O 909,921
 and CC O O 922,925
+Fernandez-Pello NNP I-NP O 926,941
 [12] NNP I-NP O 942,946
 have VBP I-VP O 947,951
 recently RB I-VP O 952,960

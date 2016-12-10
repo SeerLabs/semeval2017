@@ -134,6 +134,7 @@ the DT I-NP O
 weighted JJ I-NP O
 average NN I-NP O
 of IN I-PP O
+firm-level JJ I-NP O
 indices. NN I-NP O
 
 Weights NNS I-NP O

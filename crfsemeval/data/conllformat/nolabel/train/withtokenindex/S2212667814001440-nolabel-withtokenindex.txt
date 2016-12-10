@@ -4,6 +4,7 @@ paper, NN I-NP O 8,13
 we PRP B-NP O 15,17
 present VBP I-VP O 18,25
 a DT I-NP O 26,27
+tele-operated JJ I-NP I-KP 28,41
 mobile NN I-NP I-KP 42,48
 robot NN I-NP I-KP 49,54
 system NN I-NP I-KP 55,61

@@ -92,6 +92,7 @@ collisional JJ I-NP I-KP
 plasmas NN I-NP I-KP
 with IN I-PP O
 a DT I-NP O
+non-negligible JJ I-NP O
 level NN I-NP O
 of IN I-PP O
 degeneracy. NN I-NP O
@@ -113,6 +114,7 @@ for IN I-PP O
 studying VBG I-VP O
 transport NN I-NP I-KP
 in IN I-PP I-KP
+semi-conductors NNS I-NP I-KP
 [11] NNS I-NP O
 but CC O O
 no DT I-NP O
@@ -120,6 +122,7 @@ such JJ I-NP O
 method NN I-NP O
 exists NNS I-NP O
 for IN I-PP O
+fully-ionised JJ I-NP I-KP
 plasmas. NN I-NP I-KP
 
 Some DT I-NP O
@@ -137,6 +140,7 @@ of IN I-PP O
 codes, NN I-NP O
 for IN I-PP O
 example, JJ I-NP O
+Particle-In-Cell NNP I-NP O
 (PIC) NNP I-NP O
 codes. NN I-NP O
 

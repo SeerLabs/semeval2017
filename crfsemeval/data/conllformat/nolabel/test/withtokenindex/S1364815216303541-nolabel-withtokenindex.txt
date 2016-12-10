@@ -37,6 +37,7 @@ document VB I-VP O 216,224
 how WRB O O 225,228
 a DT I-NP O 229,230
 representative JJ I-NP O 231,245
+cross-section NN I-NP O 246,259
 of IN I-PP O 260,262
 Utah's NNP I-NP I-KP 263,269
 adult NN I-NP I-KP 270,275
@@ -78,6 +79,7 @@ range NN I-NP I-KP 492,497
 of IN I-PP I-KP 498,500
 water NN I-NP I-KP 501,506
 and CC O I-KP 507,510
+non-water JJ I-NP I-KP 511,520
 issues. NN I-NP I-KP 521,527
 
 A DT I-NP O 529,530
@@ -93,6 +95,7 @@ familiarity NN I-NP I-KP 602,613
 with IN I-PP I-KP 614,618
 water NN I-NP I-KP 619,624
 cost, NN I-NP I-KP 625,629
+lawn-watering JJ I-NP O 631,644
 behaviors, NN I-NP I-KP 645,654
 participation NN I-NP B-KP 656,669
 in IN I-PP I-KP 670,672

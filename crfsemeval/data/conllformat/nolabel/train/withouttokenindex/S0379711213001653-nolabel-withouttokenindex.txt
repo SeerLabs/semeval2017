@@ -1,6 +1,7 @@
 With IN I-PP O
 development NN I-NP O
 of IN I-PP O
+performance-based JJ I-NP I-KP
 design, NN I-NP I-KP
 some DT B-NP O
 studies NNS I-NP O

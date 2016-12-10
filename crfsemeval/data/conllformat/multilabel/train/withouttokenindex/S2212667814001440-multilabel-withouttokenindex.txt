@@ -4,6 +4,7 @@ paper, NN I-NP O
 we PRP B-NP O
 present VBP I-VP O
 a DT I-NP O
+tele-operated JJ I-NP I-M
 mobile NN I-NP I-M
 robot NN I-NP I-M
 system NN I-NP I-M

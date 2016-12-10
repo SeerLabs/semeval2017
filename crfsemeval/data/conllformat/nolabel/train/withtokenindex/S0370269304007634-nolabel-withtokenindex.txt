@@ -20,6 +20,7 @@ exact JJ I-NP O 105,110
 correspondence NN I-NP O 111,125
 between IN I-PP O 126,133
 Einstein's NNP I-NP I-KP 134,144
+post-Newtonian JJ I-NP I-KP 145,159
 equations NNS I-NP I-KP 160,169
 of IN I-PP I-KP 170,172
 gravity NN I-NP I-KP 173,180
@@ -74,6 +75,7 @@ extended JJ I-NP O 471,479
 solution NN I-NP O 480,488
 in IN I-PP O 489,491
 certain JJ I-NP O 492,499
+non-abelian JJ I-NP I-KP 500,511
 gauge NN I-NP I-KP 512,517
 theories. NN I-NP I-KP 518,526
 

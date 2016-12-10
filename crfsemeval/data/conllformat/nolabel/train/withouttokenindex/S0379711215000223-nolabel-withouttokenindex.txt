@@ -134,6 +134,7 @@ Evolution NNP I-NP I-KP
 
 Lautenberger NNP I-NP O
 and CC O O
+Fernandez-Pello NNP I-NP O
 [12] NNP I-NP O
 have VBP I-VP O
 recently RB I-VP O

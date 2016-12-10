@@ -1,3 +1,4 @@
+Two-state JJ I-NP I-KP
 models NNS I-NP I-KP
 are VBP I-VP O
 often RB I-VP O
@@ -39,6 +40,7 @@ descriptors NNS I-NP I-KP
 due JJ I-NP O
 to TO I-VP O
 the DT I-NP O
+non-linearity NN I-NP O
 of IN I-PP O
 their PRP$ I-NP O
 underlying JJ I-NP I-KP
@@ -75,6 +77,7 @@ traces NNS I-NP O
 by IN I-PP O
 composing VBG I-VP I-KP
 multiple JJ I-NP I-KP
+small-sized JJ I-NP I-KP
 MMPPs NNP I-NP I-KP
 or CC O I-KP
 MAPs NNP I-NP I-KP
@@ -106,6 +109,7 @@ fitting, NN I-NP O
 offering VBG I-VP O
 a DT I-NP O
 different JJ I-NP O
+trade-off NN I-NP O
 between IN I-PP O
 computational JJ I-NP O
 cost NN I-NP O

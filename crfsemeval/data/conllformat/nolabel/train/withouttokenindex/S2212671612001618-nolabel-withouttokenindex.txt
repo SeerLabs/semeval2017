@@ -2,6 +2,7 @@ This DT I-NP O
 paper NN I-NP O
 presents VBZ I-VP O
 a DT I-NP O
+non-fragile JJ I-NP I-KP
 controller NN I-NP I-KP
 design NN I-NP I-KP
 method NN I-NP I-KP
@@ -27,6 +28,7 @@ for IN I-PP O
 the DT I-NP O
 existence NN I-NP O
 of IN I-PP O
+non-fragile JJ I-NP I-KP
 state NN I-NP I-KP
 feedback NN I-NP I-KP
 controller NN I-NP I-KP
@@ -44,6 +46,7 @@ the DT I-NP I-KP
 solutions NNS I-NP I-KP
 to TO I-VP O
 obtain VB I-VP O
+non-fragile JJ I-NP I-KP
 state NN I-NP I-KP
 feedback NN I-NP I-KP
 controllers. NN I-NP I-KP

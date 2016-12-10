@@ -20,7 +20,9 @@ mechanism, NN I-NP I-KP 103,112
 with IN I-PP O 114,118
 conduction NN I-NP O 119,129
 between IN I-PP O 130,137
+Fe3+-O-Mo-O-Fe2+. NNP I-NP I-KP 138,154
 
+Double-exchange NNP I-NP I-KP 156,171
 mechanisms, NN I-NP I-KP 172,182
 as IN I-PP O 184,186
 proposed VBN I-NP O 187,195
@@ -84,6 +86,7 @@ of IN I-PP I-KP 543,545
 Fe NNP I-NP I-KP 546,548
 electrons NNS I-NP I-KP 549,558
 through IN I-PP O 559,566
+Fe2+-O-Fe3+ NNP I-NP I-KP 567,578
 exchange NN I-NP I-KP 579,587
 could MD I-VP O 588,593
 also RB I-VP O 594,598

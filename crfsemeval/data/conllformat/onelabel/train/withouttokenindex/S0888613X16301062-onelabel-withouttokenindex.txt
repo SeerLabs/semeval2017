@@ -93,6 +93,7 @@ decomposable JJ I-NP I-P
 negation NN I-NP I-P
 normal JJ I-NP I-P
 form NN I-NP I-P
+(d-DNNF). NN I-NP O
 
 These DT I-NP O
 differences NNS I-NP O

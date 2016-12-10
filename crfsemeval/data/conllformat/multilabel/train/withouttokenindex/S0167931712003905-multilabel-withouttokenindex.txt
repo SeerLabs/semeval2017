@@ -6,6 +6,7 @@ developed VBN I-VP O
 a DT I-NP O
 technique NN I-NP O
 for IN I-PP O
+site-specific JJ I-NP I-T
 nanowire NN I-NP I-T
 size NN I-NP I-T
 reduction NN I-NP I-T
@@ -59,6 +60,7 @@ current JJ I-NP O
 density NN I-NP O
 of IN I-PP O
 the DT I-NP O
+as-deposited JJ I-NP I-M
 wire NN I-NP I-M
 and CC O O
 one CD I-NP O
@@ -89,6 +91,7 @@ These DT I-NP O
 results NNS I-NP O
 suggest VBP I-VP O
 that IN I-PP O
+FIB-milling NNP I-NP I-P
 is VBZ I-VP O
 a DT I-NP O
 potential JJ I-NP O
@@ -104,6 +107,7 @@ towards IN I-PP I-T
 the DT I-NP I-T
 observation NN I-NP I-T
 of IN I-PP I-T
+size- JJ I-NP I-T
 and CC O I-T
 quantum JJ I-NP I-T
 effects, NN I-NP I-T

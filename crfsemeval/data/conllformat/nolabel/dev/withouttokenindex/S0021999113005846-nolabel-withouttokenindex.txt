@@ -65,6 +65,7 @@ response NN I-NP I-KP
 is VBZ I-VP O
 composed VBN I-VP O
 of IN I-PP O
+shallow-water JJ I-NP I-KP
 waves, NN I-NP I-KP
 possibly RB O O
 including VBG I-VP O
@@ -112,6 +113,7 @@ is VBZ I-VP O
 a DT I-NP O
 large JJ I-NP O
 amplitude JJ I-NP O
+near-resonant JJ I-NP O
 response, NN I-NP O
 the DT B-NP O
 size NN I-NP O
@@ -131,6 +133,7 @@ in IN I-PP O
 numerical JJ I-NP I-KP
 solutions NNS I-NP I-KP
 of IN I-PP O
+near-resonantly RB I-NP I-KP
 forced VBN I-NP I-KP
 waves, IN I-PP I-KP
 we PRP I-NP O
@@ -147,6 +150,7 @@ discretisation) NN I-NP O
 could MD I-VP O
 lead VB I-VP O
 to TO I-VP O
+non-trivial JJ I-NP O
 errors NNS I-NP O
 in IN I-PP O
 the DT I-NP O

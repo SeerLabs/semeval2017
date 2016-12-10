@@ -32,6 +32,8 @@ groups NNS I-NP I-KP
 into IN I-PP O
 a DT I-NP O
 poly(butyl JJ I-NP O
+methacrylate-co-hydroxyehtyl JJ I-NP I-KP
+acrylate-co-ethyl JJ I-NP I-KP
 acrylate) NN I-NP O
 random NN I-NP O
 copolymer NN I-NP I-KP
@@ -57,6 +59,7 @@ on IN I-PP O
 MMA, NNP I-NP I-KP
 BA, NNP I-NP B-KP
 and CC O O
+2-hydroxyethyl JJ I-NP I-KP
 methacrylate NN I-NP I-KP
 (HEMA). NN I-NP O
 

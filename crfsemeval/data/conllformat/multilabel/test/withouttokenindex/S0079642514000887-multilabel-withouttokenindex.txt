@@ -83,8 +83,10 @@ bonding NN I-NP I-T
 information NN I-NP I-T
 [64–67], IN I-PP O
 the DT I-NP O
+state-of-the-art NN I-NP O
 in IN I-PP O
 situ JJ I-NP O
+high-resolution NN I-NP O
 TEM NNP I-NP I-P
 technique NN I-NP O
 allows VBZ I-VP O
@@ -99,6 +101,7 @@ individual JJ I-NP I-P
 object NN I-NP I-P
 at IN I-PP O
 the DT I-NP O
+nano-scale JJ I-NP O
 precision NN I-NP O
 but CC O O
 to TO I-VP O
@@ -121,6 +124,7 @@ capabilities NNS I-NP O
 of IN I-PP O
 a DT I-NP O
 conventional JJ I-NP O
+high-resolution NN I-NP O
 TEM NNP I-NP I-P
 and CC O O
 AFM NNP I-NP I-P
@@ -167,6 +171,7 @@ usefulness NN I-NP O
 of IN I-PP O
 these DT I-NP O
 advanced JJ I-NP O
+in-situ JJ I-NP O
 TEM NNP I-NP I-P
 techniques NNS I-NP I-P
 is VBZ I-VP O

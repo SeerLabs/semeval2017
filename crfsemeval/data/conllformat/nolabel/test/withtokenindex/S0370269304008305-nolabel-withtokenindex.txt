@@ -1,5 +1,6 @@
 Correlation NN I-NP I-KP 0,11
 of IN I-PP I-KP 12,14
+charm-quark–charm-antiquark NN I-NP I-KP 15,42
 in IN I-PP I-KP 43,45
 γp JJ I-NP I-KP 46,48
 scattering NN I-NP I-KP 49,59
@@ -7,6 +8,7 @@ are VBP I-VP O 60,63
 calculated VBN I-VP O 64,74
 in IN I-PP O 75,77
 the DT I-NP O 78,81
+kt-factorization NN I-NP I-KP 82,98
 approach. NN I-NP I-KP 99,107
 
 We PRP I-NP O 109,111

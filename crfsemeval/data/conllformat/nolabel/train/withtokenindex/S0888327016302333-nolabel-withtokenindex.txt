@@ -9,9 +9,11 @@ determined VBN I-VP O 38,48
 by IN I-PP O 49,51
 either DT I-NP O 52,58
 a DT I-NP I-KP 59,60
+parametric-model-based JJ I-NP I-KP 61,83
 method NN I-NP I-KP 84,90
 or CC O O 91,93
 a DT I-NP I-KP 94,95
+nonparametric-model-based JJ I-NP I-KP 96,121
 method NN I-NP I-KP 122,128
 [8]. NN I-NP O 129,132
 
@@ -59,6 +61,7 @@ often RB I-VP O 384,389
 referred VBN I-VP O 390,398
 to TO I-VP O 399,401
 as IN I-PP O 402,404
+frequency-domain JJ I-NP I-KP 405,421
 Volterra NNP I-NP I-KP 422,430
 system NN I-NP I-KP 431,437
 identification NN I-NP I-KP 438,452

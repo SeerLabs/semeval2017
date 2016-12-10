@@ -10,6 +10,8 @@ the DT I-NP O
 prediction NN I-NP I-T
 of IN I-PP I-T
 the DT I-NP I-T
+three-dimensional JJ I-NP I-T
+space-time JJ I-NP I-T
 kinetics NNS I-NP I-T
 of IN I-PP I-T
 neutrons NNS I-NP I-M
@@ -19,6 +21,7 @@ relatively RB O O
 large, JJ I-NP O
 finite, JJ I-NP O
 heterogeneous, NN I-NP O
+three-dimensional JJ I-NP O
 reactor NN I-NP I-M
 core. NN I-NP I-M
 
@@ -42,6 +45,7 @@ diffusion NN I-NP I-P
 theory NN I-NP I-P
 applied VBN I-VP I-P
 to TO I-VP I-P
+three-dimensional JJ I-NP I-P
 systems, NN I-NP I-P
 with IN I-PP O
 inputs NNS I-NP O
@@ -53,6 +57,7 @@ neutron NN I-NP I-M
 transport NN I-NP I-P
 solutions NNS I-NP I-P
 of IN I-PP O
+two-dimensional JJ I-NP I-P
 lattice NN I-NP I-P
 geometries. NN I-NP I-P
 
@@ -82,6 +87,7 @@ Development NNP I-NP O
 Nuclear NNP I-NP O
 Energy NNP I-NP O
 Agency NNP I-NP O
+(OECD-NEA) NNP I-NP O
 has VBZ I-VP O
 sponsored VBN I-VP O
 an DT I-NP O
@@ -118,6 +124,8 @@ DRAGON NNP I-NP I-M
 lattice NN I-NP I-M
 code NN I-NP I-M
 and CC O O
+WIMS-D4 JJ I-NP I-M
+multi-group NN I-NP I-M
 library. NN I-NP I-M
 
 Results NNS I-NP O

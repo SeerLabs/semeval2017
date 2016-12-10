@@ -100,6 +100,7 @@ of IN I-PP O
 production NN I-NP O
 in IN I-PP O
 the DT I-NP O
+long-term JJ I-NP O
 first JJ I-NP O
 year NN I-NP O
 production NN I-NP O

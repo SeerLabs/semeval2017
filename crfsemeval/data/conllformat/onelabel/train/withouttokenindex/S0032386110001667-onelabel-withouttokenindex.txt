@@ -36,6 +36,8 @@ The DT I-NP O
 exclusive JJ I-NP O
 preparation NN I-NP I-P
 of IN I-PP I-P
+end-functionalized JJ I-NP I-P
+ring-opened JJ I-NP I-M
 polymers NNS I-NP I-M
 (realized VBN I-VP O
 by IN I-PP O

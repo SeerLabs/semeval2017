@@ -10,8 +10,10 @@ the DT I-NP O 48,51
 increased VBN I-NP O 52,61
 use NN I-NP O 62,65
 of IN I-PP O 66,68
+Ti-based JJ I-NP I-KP 69,77
 alloys NNS I-NP I-KP 78,84
 in IN I-PP O 85,87
+high-temperature JJ I-NP O 88,104
 structural JJ I-NP O 105,115
 applications. NN I-NP O 116,128
 
@@ -46,6 +48,7 @@ the DT I-NP I-KP 308,311
 oxidation NN I-NP I-KP 312,321
 behavior NN I-NP I-KP 322,330
 of IN I-PP I-KP 331,333
+Ti-based JJ I-NP I-KP 334,342
 alloys NNS I-NP I-KP 343,349
 [1–3]. VBP I-VP O 350,355
 
@@ -56,6 +59,7 @@ overcome VB I-VP O 372,380
 this DT I-NP O 381,385
 limitation NN I-NP O 386,396
 in IN I-PP O 397,399
+Ti-based JJ I-NP I-KP 400,408
 alloys NN I-NP I-KP 409,415
 has VBZ I-VP O 416,419
 led VBN I-VP O 420,423
@@ -71,12 +75,14 @@ oxidation NN I-NP I-KP 480,489
 resistance NN I-NP I-KP 490,500
 such JJ I-NP O 501,505
 as IN I-PP O 506,508
+β-21S JJ I-NP I-KP 509,514
 and CC O O 515,518
 also RB O O 519,523
 development NN I-NP I-KP 524,535
 of IN I-PP I-KP 536,538
 coatings NNS I-NP I-KP 539,547
 and CC O I-KP 548,551
+pre-oxidation NN I-NP I-KP 552,565
 techniques NNS I-NP I-KP 566,576
 [1,4–6]. VBP I-VP O 577,584
 

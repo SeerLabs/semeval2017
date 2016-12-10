@@ -26,6 +26,7 @@ of IN I-PP O
 and CC O O
 two CD I-NP I-KP
 dimensional JJ I-NP I-KP
+thermal-solutal JJ I-NP I-KP
 phase NN I-NP I-KP
 field NN I-NP I-KP
 model NN I-NP I-KP

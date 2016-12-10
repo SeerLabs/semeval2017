@@ -6,6 +6,7 @@ GDC NNP I-NP I-M
 and CC O O
 STFO NNP I-NP I-M
 on IN I-PP O
+single-crystalline JJ I-NP I-M
 YSZ NNP I-NP I-M
 substrates NNS I-NP I-M
 were VBD I-VP O
@@ -101,6 +102,7 @@ that WDT B-NP O
 is VBZ I-VP O
 correlated VBN I-VP O
 with IN I-PP O
+in-plane JJ I-NP I-P
 diffusion NN I-NP I-P
 of IN I-PP I-P
 oxygen NN I-NP I-P

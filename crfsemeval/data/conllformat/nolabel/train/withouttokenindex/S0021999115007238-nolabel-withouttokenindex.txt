@@ -3,6 +3,7 @@ inherent JJ I-NP O
 problem NN I-NP O
 of IN I-PP O
 the DT I-NP O
+phase-space JJ I-NP I-KP
 discretisation NN I-NP I-KP
 is VBZ I-VP O
 the DT I-NP O
@@ -146,6 +147,7 @@ of IN I-PP O
 The DT I-NP O
 simulation NN I-NP I-KP
 is VBZ I-VP O
+time-dependent JJ I-NP O
 and CC O O
 runs VBZ I-VP O
 for IN I-PP O
@@ -153,6 +155,7 @@ for IN I-PP O
 days NNS I-NP O
 with IN I-PP O
 a DT I-NP O
+time-step NN I-NP O
 of IN I-PP O
 600s. CD I-NP O
 

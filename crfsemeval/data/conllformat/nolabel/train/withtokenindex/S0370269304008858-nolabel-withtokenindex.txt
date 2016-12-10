@@ -45,6 +45,8 @@ approximation NN I-NP I-KP 255,268
 [10], VBZ I-VP O 275,279
 that IN I-PP O 281,285
 the DT I-NP O 286,289
+so-called JJ I-NP O 290,299
+quasi-partonic JJ I-NP O 300,314
 operators NNS I-NP O 315,324
 in IN I-PP O 325,327
 N=1 NNP I-NP O 328,331
@@ -77,6 +79,7 @@ anomalous JJ I-NP I-KP 507,516
 dimension NN I-NP I-KP 517,526
 matrices NNS I-NP I-KP 527,535
 for IN I-PP I-KP 536,539
+twist-2 NN I-NP I-KP 540,547
 operators NNS I-NP I-KP 548,557
 are VBP I-VP O 558,561
 fixed VBN I-VP I-KP 562,567
@@ -113,6 +116,7 @@ out, RP O O 756,759
 that IN I-PP O 761,765
 here RB I-NP O 766,770
 all DT I-NP O 771,774
+twist-2 JJ I-NP I-KP 775,782
 operators NNS I-NP I-KP 783,792
 enter VBP I-VP O 793,798
 in IN I-PP O 799,801
@@ -128,6 +132,7 @@ fixed VBN I-VP O 858,863
 completely RB O O 864,874
 by IN I-PP O 875,877
 the DT I-NP O 878,881
+super-conformal JJ I-NP I-KP 882,897
 invariance NN I-NP I-KP 898,908
 and CC O O 909,912
 its PRP$ I-NP O 913,916
@@ -151,6 +156,7 @@ the DT I-NP I-KP 1032,1035
 matrix JJ I-NP I-KP 1036,1042
 elements NNS I-NP I-KP 1043,1051
 of IN I-PP I-KP 1052,1054
+quasi-partonic JJ I-NP I-KP 1055,1069
 operators NNS I-NP I-KP 1070,1079
 in IN I-PP I-KP 1080,1082
 the DT I-NP I-KP 1083,1086
@@ -183,6 +189,7 @@ small JJ I-NP O 1244,1249
 sector NN I-NP O 1250,1256
 of IN I-PP O 1257,1259
 the DT I-NP O 1260,1263
+quasi-partonic JJ I-NP O 1264,1278
 operators NNS I-NP O 1279,1288
 [13]. VBP I-VP O 1289,1293
 
@@ -207,12 +214,14 @@ integrable JJ I-NP O 1369,1379
 Evolution NN I-NP I-KP 1389,1398
 equations NNS I-NP I-KP 1399,1408
 for IN I-PP I-KP 1409,1412
+quasi-partonic JJ I-NP I-KP 1413,1427
 operators NNS I-NP I-KP 1428,1437
 are VBP I-VP O 1438,1441
 written VBN I-VP O 1442,1449
 in IN I-PP O 1450,1452
 an DT I-NP O 1453,1455
 explicitly RB O O 1456,1466
+super-conformal JJ I-NP O 1467,1482
 form NN I-NP O 1483,1487
 in IN I-PP O 1488,1490
 Ref. NNP I-NP O 1491,1494

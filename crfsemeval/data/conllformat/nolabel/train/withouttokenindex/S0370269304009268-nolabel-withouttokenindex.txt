@@ -183,6 +183,7 @@ the DT I-NP I-KP
 LEP NNP I-NP I-KP
 results, VBD I-VP I-KP
 the DT I-NP O
+so-called JJ I-NP O
 intermediate NN I-NP I-KP
 Higgs NNP I-NP I-KP
 mass NN I-NP I-KP

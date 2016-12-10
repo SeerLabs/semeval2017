@@ -6,6 +6,7 @@ disturbances NNS I-NP I-KP 28,40
 in IN I-PP O 41,43
 ducts NNS I-NP I-KP 44,49
 of IN I-PP O 50,52
+slowly-varying JJ I-NP O 53,67
 geometry, NNS I-NP O 68,76
 such JJ I-NP O 78,82
 as IN I-PP O 83,85
@@ -30,6 +31,7 @@ first JJ I-NP O 190,195
 application NN I-NP O 196,207
 [1] NN I-NP O 208,211
 of IN I-PP O 212,214
+multiple-scales NNS I-NP I-KP 215,230
 analysis NN I-NP I-KP 231,239
 to TO I-VP O 240,242
 sound VB I-VP I-KP 243,248
@@ -80,6 +82,7 @@ ducts NNS I-NP I-KP 524,529
 [5]. VBP I-VP O 530,533
 
 The DT I-NP O 535,538
+multiple-scales NNS I-NP I-KP 539,554
 approach NN I-NP I-KP 555,563
 has VBZ I-VP O 564,567
 a DT I-NP O 568,569
@@ -131,6 +134,7 @@ has VBZ I-VP O 863,866
 been VBN I-VP O 867,871
 validated VBN I-VP O 872,881
 against IN I-PP O 882,889
+finite-element JJ I-NP I-KP 890,904
 methods NNS I-NP I-KP 905,912
 [6] NN I-NP O 913,916
 for IN I-PP O 917,920

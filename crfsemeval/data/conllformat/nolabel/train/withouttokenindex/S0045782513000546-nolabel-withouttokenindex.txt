@@ -59,6 +59,7 @@ on IN I-PP O
 a DT I-NP O
 lagged VBN I-NP I-KP
 and CC O I-KP
+non-lagged JJ I-NP I-KP
 backward NN I-NP I-KP
 Euler NNP I-NP I-KP
 time NN I-NP I-KP

@@ -40,6 +40,7 @@ within IN I-PP I-KP
 the DT I-NP I-KP
 framework NN I-NP I-KP
 of IN I-PP I-KP
+light-front JJ I-NP I-KP
 dynamics NNS I-NP I-KP
 with IN I-PP I-KP
 Karmanov's NNP I-NP B-KP

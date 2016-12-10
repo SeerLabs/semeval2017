@@ -21,12 +21,14 @@ exist VBP I-VP O 101,106
 only RB I-VP O 107,111
 in IN I-PP O 112,114
 the DT I-NP O 115,118
+shear-thinning JJ I-NP O 119,133
 case NN I-NP O 134,138
 for IN I-PP O 139,142
 n>12. NN I-NP O 143,147
 
 In IN I-PP O 149,151
 the DT I-NP O 152,155
+shear-thickening JJ I-NP I-KP 156,172
 case NN I-NP O 173,177
 they PRP B-NP O 178,182
 have VBP I-VP O 183,187
@@ -34,6 +36,7 @@ shown VBN I-VP O 188,193
 that IN I-PP O 194,198
 solutions NNS I-NP I-KP 199,208
 become VBP I-VP O 209,215
+non-differentiable JJ I-NP O 216,234
 at IN I-PP O 235,237
 some DT I-NP O 238,242
 critical JJ I-NP O 243,251
@@ -55,6 +58,7 @@ the DT I-NP O 349,352
 context NN I-NP O 353,360
 of IN I-PP O 361,363
 the DT I-NP O 364,367
+power-law NN I-NP I-KP 368,377
 model, NN I-NP I-KP 378,383
 we PRP B-NP O 385,387
 will MD I-VP O 388,392
@@ -73,6 +77,7 @@ will MD I-VP O 445,449
 consider VB I-VP O 450,458
 flows NNS I-NP I-KP 459,464
 with IN I-PP O 465,469
+power-law NN I-NP O 470,479
 index NN I-NP O 480,485
 in IN I-PP O 486,488
 the DT I-NP O 489,492
@@ -101,6 +106,7 @@ must MD I-VP O 613,617
 apply VB I-VP O 618,623
 the DT I-NP O 624,627
 Robin NNP I-NP I-KP 628,633
+condition(11)(u¯′,v¯′)=nη(n-1)(u¯,v¯)asη→∞,at JJ I-NP O 634,679
 some DT B-NP O 680,684
 suitably RB O O 685,693
 large JJ I-NP O 694,699
@@ -140,4 +146,5 @@ that IN I-PP O 878,882
 in IN B-PP O 883,885
 this DT I-NP O 886,890
 case(12)(u¯′,v¯′)=w¯∞(u¯,v¯)asη→∞,where JJ I-NP O 891,930
+w∞=-2∫0∞u¯dη. NN I-NP O 931,943
 

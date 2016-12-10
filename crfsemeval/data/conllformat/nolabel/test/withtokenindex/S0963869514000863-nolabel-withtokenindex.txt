@@ -35,6 +35,7 @@ significant JJ I-NP O 247,258
 effect. NN I-NP O 259,265
 
 Previously, NNP I-NP O 267,277
+multi-frequency NN I-NP I-KP 279,294
 EM NNP I-NP I-KP 295,297
 sensors NNS I-NP I-KP 298,305
 have VBP I-VP O 306,310
@@ -171,6 +172,7 @@ geometry NN I-NP I-KP 1122,1130
 is VBZ I-VP O 1131,1133
 included VBN I-VP O 1134,1142
 (e.g. JJ I-NP O 1143,1147
+two-dimensional JJ I-NP O 1149,1164
 axisymmetric NN I-NP O 1165,1177
 for IN I-PP O 1178,1181
 a DT I-NP O 1182,1183

@@ -67,6 +67,7 @@ a DT I-NP O
 gray JJ I-NP O
 level NN I-NP O
 is VBZ I-VP O
+non-bimodal. JJ I-NP O
 
 For IN I-PP O
 enhancing VBG I-VP I-KP
@@ -82,6 +83,7 @@ this DT I-NP O
 work, NN I-NP O
 an DT B-NP O
 improved JJ I-NP O
+median-based JJ I-NP I-KP
 Otsu NNP I-NP I-KP
 image NN I-NP I-KP
 thresholding VBG I-VP I-KP

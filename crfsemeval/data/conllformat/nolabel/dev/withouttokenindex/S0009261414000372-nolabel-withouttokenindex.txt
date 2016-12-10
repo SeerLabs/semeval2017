@@ -1,5 +1,6 @@
 It PRP I-NP O
 is VBZ I-VP O
+well-known JJ I-NP O
 that IN I-PP O
 the DT I-NP O
 optical JJ I-NP I-KP
@@ -87,6 +88,7 @@ instance, NN I-NP O
 in IN I-PP O
 widely RB I-NP O
 studied VBN I-NP O
+light-harvesting JJ I-NP I-KP
 complexes, NN I-NP I-KP
 there EX B-NP O
 are VBP I-VP O
@@ -142,6 +144,7 @@ influence NN I-NP I-KP
 of IN I-PP I-KP
 a DT I-NP I-KP
 neighbouring, JJ I-NP I-KP
+off-resonant, JJ I-NP I-KP
 molecule NN I-NP I-KP
 on IN I-PP I-KP
 photon NN I-NP I-KP

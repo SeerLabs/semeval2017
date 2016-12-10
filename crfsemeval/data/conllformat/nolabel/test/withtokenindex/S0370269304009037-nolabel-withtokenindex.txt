@@ -8,22 +8,26 @@ applied VBN I-NP O 46,53
 earlier RBR O O 54,61
 in IN I-PP O 62,64
 the DT I-NP O 65,68
+light-quark JJ I-NP I-KP 69,80
 sector, NN I-NP I-KP 81,87
 we PRP B-NP O 89,91
 have VBP I-VP O 92,96
 evaluated VBN I-VP I-KP 97,106
+transverse-momentum JJ I-NP I-KP 107,126
 dependencies NNS I-NP I-KP 127,139
 of IN I-PP O 140,142
 charmed JJ I-NP I-KP 143,150
 hadrons NNS I-NP I-KP 151,158
 in IN I-PP O 159,161
 central JJ I-NP I-KP 162,169
+heavy-ion NN I-NP I-KP 170,179
 reactions NNS I-NP I-KP 180,189
 at IN I-PP O 190,192
 RHIC. NNP I-NP O 193,197
 
 For IN I-PP O 199,202
 the DT I-NP O 203,206
+charm-quark JJ I-NP I-KP 207,218
 distributions NNS I-NP I-KP 219,232
 at IN I-PP O 233,235
 hadronization NN I-NP I-KP 236,249
@@ -54,6 +58,7 @@ matter. NN I-NP O 406,412
 The DT I-NP O 414,417
 resulting VBG I-NP O 418,427
 J/ψ NNP I-NP O 428,431
+(mT-)spectra JJ I-NP O 432,444
 differ NN I-NP O 445,451
 in IN I-PP O 452,454
 slope NN I-NP O 455,460
@@ -67,6 +72,7 @@ of IN I-PP O 479,481
 (harder NN I-NP O 484,491
 for IN I-PP O 492,495
 pQCD JJ I-NP I-KP 496,500
+c-quarks), NN I-NP O 501,510
 and CC O O 512,515
 the DT I-NP O 516,519
 integrated JJ I-NP I-KP 520,530
@@ -84,7 +90,8 @@ thermal JJ I-NP O 574,581
 case. NN I-NP O 582,586
 
 For IN I-PP O 588,591
-we PRP I-NP O 602,604
+D-mesons, NNP I-NP I-KP 592,600
+we PRP B-NP O 602,604
 found VBD I-VP O 605,610
 that IN I-PP O 611,615
 the DT I-NP O 616,619
@@ -95,6 +102,7 @@ slope NN I-NP I-KP 638,643
 parameters NNS I-NP I-KP 644,654
 of IN I-PP O 655,657
 the DT I-NP O 658,661
+pT-spectra JJ I-NP I-KP 662,672
 in IN I-PP O 673,675
 the DT I-NP O 676,679
 two CD I-NP O 680,683
@@ -126,6 +134,7 @@ elliptic JJ I-NP I-KP 812,820
 flow NN I-NP I-KP 821,825
 pattern NN I-NP I-KP 826,833
 of IN I-PP O 834,836
+D-mesons NNP I-NP I-KP 837,845
 was VBD I-VP O 846,849
 found VBN I-VP O 850,855
 to TO I-VP O 856,858
@@ -134,6 +143,7 @@ essentially RB O O 862,873
 preserved VBN I-VP O 874,883
 in IN I-PP O 884,886
 the DT I-NP O 887,890
+single-electron JJ I-NP I-KP 891,906
 decay NN I-NP I-KP 907,912
 spectra, NN I-NP I-KP 913,920
 rendering VBG I-VP O 922,931
@@ -173,6 +183,7 @@ a DT I-NP O 1130,1131
 complimentary JJ I-NP I-KP 1132,1145
 probe NN I-NP I-KP 1146,1151
 for IN I-PP O 1152,1155
+charm-quark JJ I-NP I-KP 1156,1167
 reinteractions NNS I-NP I-KP 1168,1182
 in IN I-PP O 1183,1185
 the DT I-NP O 1186,1189

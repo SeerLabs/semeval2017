@@ -36,6 +36,7 @@ the DT I-NP O 214,217
 lowest JJS I-NP O 218,224
 surfaces NNS I-NP O 225,233
 and CC O O 234,237
+non-adiabatic JJ I-NP O 238,251
 by IN I-PP O 252,254
 using VBG I-VP O 255,260
 the DT I-NP O 261,264
@@ -154,6 +155,7 @@ studied VBN I-VP O 977,984
 due JJ I-NP O 985,988
 to TO I-VP O 989,991
 their PRP$ I-NP O 992,997
+spin-forbidden JJ I-NP O 998,1012
 character. NN I-NP O 1013,1022
 
 It PRP I-NP O 1024,1026

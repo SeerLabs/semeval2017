@@ -4,6 +4,7 @@ is VBZ I-VP O
 focused VBN I-VP O
 on IN I-PP O
 the DT I-NP O
+water-gas JJ I-NP I-P
 shift NN I-NP I-P
 reaction NN I-NP I-P
 (WGSR), NNP I-NP O

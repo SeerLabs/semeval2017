@@ -90,6 +90,7 @@ Reissner–Nordström NNP I-NP I-KP 541,559
 AdS NNP I-NP I-KP 560,563
 background NN I-NP I-KP 564,574
 generates VBZ I-VP O 575,584
+non-singular JJ I-NP I-KP 585,597
 cosmology NN I-NP I-KP 598,607
 [14]. NN I-NP O 608,612
 
@@ -157,6 +158,7 @@ parameters, NN I-NP O 954,964
 we PRP B-NP O 966,968
 may MD I-VP O 969,972
 generate VB I-VP I-KP 973,981
+non-singular JJ I-NP I-KP 982,994
 cosmology NN I-NP I-KP 995,1004
 without IN I-PP I-KP 1005,1012
 creating VBG I-VP I-KP 1013,1021

@@ -129,6 +129,7 @@ it PRP B-NP O 723,725
 will MD I-VP O 726,730
 make VB I-VP O 731,735
 the DT I-NP O 736,739
+real-time JJ I-NP I-KP 740,749
 dynamics NNS I-NP I-KP 750,758
 control NN I-NP I-KP 759,766
 become VBP I-VP O 767,773

@@ -116,6 +116,7 @@ Commercially RB O O 692,704
 available JJ I-NP O 705,714
 ground, NN I-NP O 715,721
 granulated VBD I-VP O 723,733
+blast-furnace JJ I-NP I-KP 734,747
 slag NN I-NP I-KP 748,752
 “Calumite” NN I-NP I-KP 753,763
 was VBD I-VP O 764,767

@@ -1,3 +1,4 @@
+Max-linear JJ I-NP I-P
 programs NNS I-NP I-P
 have VBP I-VP O
 been VBN I-VP O
@@ -36,6 +37,7 @@ finding VBG I-VP O
 integer JJ I-NP I-P
 solutions NNS I-NP I-P
 to TO I-VP O
+max-linear JJ I-NP I-M
 programs.For NN I-NP O
 a DT B-NP O
 generic JJ I-NP I-M
@@ -48,6 +50,8 @@ that IN I-PP O
 integer JJR I-NP I-P
 solutions NNS I-NP I-P
 to TO I-VP O
+two-sided JJ I-NP I-M
+max-linear JJ I-NP I-M
 systems NNS I-NP I-M
 and CC O I-M
 programs NNS I-NP I-M

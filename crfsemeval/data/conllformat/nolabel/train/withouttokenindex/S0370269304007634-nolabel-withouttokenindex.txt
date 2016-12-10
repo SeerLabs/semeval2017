@@ -20,6 +20,7 @@ exact JJ I-NP O
 correspondence NN I-NP O
 between IN I-PP O
 Einstein's NNP I-NP I-KP
+post-Newtonian JJ I-NP I-KP
 equations NNS I-NP I-KP
 of IN I-PP I-KP
 gravity NN I-NP I-KP
@@ -74,6 +75,7 @@ extended JJ I-NP O
 solution NN I-NP O
 in IN I-PP O
 certain JJ I-NP O
+non-abelian JJ I-NP I-KP
 gauge NN I-NP I-KP
 theories. NN I-NP I-KP
 

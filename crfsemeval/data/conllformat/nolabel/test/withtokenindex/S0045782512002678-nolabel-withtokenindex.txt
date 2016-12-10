@@ -44,6 +44,7 @@ large JJ I-NP I-KP 245,250
 problems, NNS I-NP I-KP 251,259
 specially RB O O 261,270
 in IN I-PP O 271,273
+three-dimensions. NN I-NP O 274,290
 
 In IN I-PP O 292,294
 Ref. NNP I-NP O 295,298

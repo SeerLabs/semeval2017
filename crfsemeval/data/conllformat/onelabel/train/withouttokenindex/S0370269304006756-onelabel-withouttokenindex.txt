@@ -9,6 +9,7 @@ QCD NNP I-NP I-P
 computation NN I-NP I-P
 of IN I-PP I-T
 nucleon–nucleon JJ I-NP I-P
+low-energy JJ I-NP I-P
 interactions. NN I-NP I-P
 
 It PRP I-NP O
@@ -26,6 +27,7 @@ field NN I-NP I-M
 whose WP$ B-NP O
 potential JJ I-NP O
 is VBZ I-VP O
+non-vanishing, JJ I-NP O
 but CC O O
 whose WP$ I-NP O
 field NN I-NP I-P
@@ -38,6 +40,7 @@ tuning VBG I-VP I-P
 the DT I-NP I-P
 background NN I-NP I-P
 field, VBD I-VP I-P
+phase-shifts NNS I-NP I-T
 at IN I-PP I-T
 any DT I-NP I-T
 (but NNP I-NP I-T

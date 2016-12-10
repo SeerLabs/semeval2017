@@ -24,11 +24,13 @@ the DT I-NP I-T
 formation NN I-NP I-T
 of IN I-PP I-T
 the DT I-NP I-T
+Θ+-baryon NN I-NP I-T
 within IN I-PP O
 a DT I-NP O
 new JJ I-NP O
 approach NN I-NP O
 called VBN I-VP O
+parton-based JJ I-NP I-P
 Gribov–Regge NNP I-NP I-P
 theory. NN I-NP I-P
 
@@ -57,6 +59,7 @@ are VBP I-VP O
 treated VBN I-VP O
 within IN I-PP O
 a DT I-NP O
+self-consistent JJ I-NP I-P
 quantum NN I-NP I-P
 mechanical JJ I-NP I-P
 multiple NN I-NP I-P
@@ -127,6 +130,7 @@ partons NNS I-NP I-M
 described VBN I-VP O
 by IN I-PP O
 a DT I-NP O
+so-called JJ I-NP O
 “semihard NN I-NP I-M
 pomeron”—a NN I-NP O
 piece NN I-NP I-M
@@ -207,6 +211,7 @@ the DT I-NP I-P
 experimental JJ I-NP I-P
 yields NNS I-NP I-P
 on IN I-PP I-P
+(multi-)strange JJ I-NP I-M
 baryons NNS I-NP I-M
 [23]. VBP I-VP O
 

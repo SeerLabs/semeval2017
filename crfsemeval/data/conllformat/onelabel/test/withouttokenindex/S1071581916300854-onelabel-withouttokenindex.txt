@@ -12,6 +12,7 @@ problem: NN I-NP O
 the DT B-NP O
 design NN I-NP I-T
 of IN I-PP I-T
+mobile-friendly JJ I-NP I-T
 unique JJ I-NP I-T
 identifiers. NN I-NP I-T
 
@@ -25,6 +26,7 @@ the DT I-NP O
 design NN I-NP I-T
 of IN I-PP I-T
 other JJ I-NP I-T
+text-based JJ I-NP I-T
 services. NN I-NP I-T
 
 There EX I-NP O
@@ -95,6 +97,7 @@ and CC O O
 quirks. NN I-NP O
 
 The DT I-NP O
+mode-switching NN I-NP I-P
 that IN I-PP O
 most JJS O O
 touchscreen JJ I-NP O

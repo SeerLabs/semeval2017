@@ -4,7 +4,9 @@ the DT I-NP O 12,15
 shape NN I-NP I-KP 16,21
 optimisation NN I-NP I-KP 22,34
 of IN I-PP O 35,37
+two- JJ I-NP I-KP 38,42
 and CC O I-KP 43,46
+three-dimensional JJ I-NP I-KP 47,64
 solids NNS I-NP I-KP 65,71
 by IN I-PP O 72,74
 combining VBG I-VP I-KP 75,84

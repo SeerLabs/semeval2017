@@ -15,6 +15,7 @@ following: JJ I-NP O
 beginning NN I-NP O
 from IN I-PP O
 the DT I-NP O
+left-most JJ I-NP O
 vertex NN I-NP O
 of IN I-PP O
 a DT I-NP O
@@ -27,6 +28,7 @@ graph NN I-NP I-M
 and CC O O
 reach VB I-VP O
 the DT I-NP O
+right-most JJ I-NP O
 vertex, NN I-NP O
 referred VBD I-VP O
 to TO I-VP O

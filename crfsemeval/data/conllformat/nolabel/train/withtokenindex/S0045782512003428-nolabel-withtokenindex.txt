@@ -28,6 +28,7 @@ example, JJ I-NP O 163,170
 nodal JJ I-NP I-KP 172,177
 integration NN I-NP I-KP 178,189
 and CC O I-KP 190,193
+NS-FEM NNP I-NP I-KP 194,200
 are VBP I-VP O 201,204
 unstable JJ I-NP O 205,213
 involving VBG I-NP O 214,223
@@ -35,10 +36,12 @@ the DT B-NP O 224,227
 appearance NN I-NP O 228,238
 of IN I-PP O 239,241
 spurious JJ I-NP O 242,250
+low-energy JJ I-NP O 251,261
 modes. NN I-NP O 262,267
 
 They PRP I-NP O 269,273
 need VBP I-VP O 274,278
+non-physical JJ I-NP I-KP 279,291
 penalty NN I-NP I-KP 292,299
 energy NN I-NP I-KP 300,306
 functions NNS I-NP I-KP 307,316
@@ -106,6 +109,7 @@ and CC O O 704,707
 a DT I-NP O 708,709
 second JJ I-NP I-KP 710,716
 order NN I-NP I-KP 717,722
+tensor-product NN I-NP I-KP 723,737
 interpolation NN I-NP I-KP 738,751
 of IN I-PP O 752,754
 the DT I-NP O 755,758

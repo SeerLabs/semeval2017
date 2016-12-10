@@ -24,6 +24,7 @@ adaptive JJ I-NP I-KP
 meshes NNS I-NP I-KP
 [3,34,38]. VBP I-VP O
 
+R-adaptivity NNP I-NP I-KP
 – NNP I-NP O
 mesh JJ I-NP I-KP
 redistribution NN I-NP I-KP
@@ -105,6 +106,7 @@ resolution NN I-NP O
 and CC O O
 can MD I-VP O
 be VB I-VP O
+retro-fitted JJ I-NP O
 into IN I-PP O
 existing VBG I-VP O
 models. NN I-NP O
@@ -121,6 +123,7 @@ in IN I-PP I-KP
 different JJ I-NP I-KP
 directions NNS I-NP I-KP
 for IN I-PP I-KP
+r-adaptive JJ I-NP I-KP
 meshes NNS I-NP I-KP
 (e.g. VBP I-VP O
 [23,25]). NN I-NP O
@@ -151,6 +154,7 @@ a DT I-NP O
 useful JJ I-NP O
 form NN I-NP O
 of IN I-PP O
+r-adaptive JJ I-NP I-KP
 mesh JJ I-NP I-KP
 generation NN I-NP I-KP
 because IN I-PP O
@@ -217,4 +221,5 @@ and CC O I-KP
 climate NN I-NP I-KP
 prediction NN I-NP I-KP
 using VBG I-VP O
+r-adaptivity. JJ I-NP I-KP
 

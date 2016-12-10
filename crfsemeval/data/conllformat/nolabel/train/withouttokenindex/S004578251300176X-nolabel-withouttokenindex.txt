@@ -11,6 +11,7 @@ of IN I-PP I-KP
 components NNS I-NP I-KP
 to TO I-VP I-KP
 (near) VB I-VP I-KP
+net-shape NN I-NP I-KP
 with IN I-PP O
 high JJ I-NP O
 product NN I-NP O
@@ -21,6 +22,7 @@ a DT I-NP O
 hardmetal JJ I-NP I-KP
 (such JJ I-NP O
 as IN I-PP O
+WC-Co) NNP I-NP O
 cold JJ I-NP O
 compaction NN I-NP O
 of IN I-PP O
@@ -33,6 +35,7 @@ body” NN I-NP O
 is VBZ I-VP O
 followed VBN I-VP O
 by IN I-PP O
+liquid-phase JJ I-NP I-KP
 sintering NN I-NP I-KP
 from IN I-PP O
 the DT I-NP O

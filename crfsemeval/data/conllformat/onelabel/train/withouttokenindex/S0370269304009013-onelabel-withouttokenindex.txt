@@ -10,6 +10,7 @@ for IN I-PP O
 determination NN I-NP I-T
 of IN I-PP I-T
 the DT I-NP I-T
+P-parity NNP I-NP I-T
 of IN I-PP O
 the DT I-NP O
 Θ+ NNP I-NP O
@@ -56,6 +57,7 @@ for IN I-PP O
 determination NN I-NP I-T
 of IN I-PP I-T
 the DT I-NP I-T
+P-parity NNP I-NP I-T
 of IN I-PP O
 the DT I-NP O
 Θ+ NN I-NP O
@@ -67,6 +69,7 @@ Refs. NNP I-NP O
 
 [15,16] NN I-NP O
 for IN I-PP O
+pp-collision, NN I-NP I-P
 and CC O O
 in IN I-PP O
 Ref. NNP I-NP O
@@ -169,6 +172,7 @@ on IN I-PP O
 conservation NN I-NP I-P
 of IN I-PP I-P
 the DT I-NP I-P
+P-parity, NNP I-NP I-P
 total JJ I-NP B-P
 angular JJ I-NP I-P
 momentum NN I-NP I-P

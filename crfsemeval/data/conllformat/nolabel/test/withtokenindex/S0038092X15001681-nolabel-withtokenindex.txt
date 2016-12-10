@@ -135,6 +135,7 @@ of IN I-PP I-KP 762,764
 the DT I-NP I-KP 765,768
 string NN I-NP I-KP 769,775
 are VBP I-VP I-KP 776,779
+short-circuited. JJ I-NP I-KP 780,795
 
 For IN I-PP O 797,800
 both DT I-NP O 801,805

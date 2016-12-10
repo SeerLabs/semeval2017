@@ -155,12 +155,14 @@ techniques NNS I-NP I-KP
 is VBZ I-VP O
 the DT I-NP O
 HiPco NNP I-NP I-KP
+(high-pressure NN I-NP I-KP
 CO) NNP I-NP I-KP
 process, NN I-NP I-KP
 which WDT B-NP O
 does VBZ I-VP I-KP
 not RB I-VP I-KP
 use VB I-VP I-KP
+pre-formed JJ I-NP I-KP
 catalyst NN I-NP I-KP
 particles NNS I-NP I-KP
 unlike IN I-PP O

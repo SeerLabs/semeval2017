@@ -11,14 +11,17 @@ control VB I-VP I-KP 52,59
 liquid JJ I-NP I-KP 60,66
 state NN I-NP I-KP 67,72
 of IN I-PP O 73,75
+Al-Si NNP I-NP I-KP 76,81
 alloys NNS I-NP I-KP 82,88
 in IN I-PP O 89,91
 melting VBG I-VP I-KP 92,99
 and CC I-VP I-KP 100,103
 holding VBG I-VP I-KP 104,111
+sub-process NN I-NP I-KP 112,123
 of IN I-PP O 124,126
 the DT I-NP O 127,130
 pressure NN I-NP I-KP 131,139
+die-casting JJ I-NP I-KP 140,151
 process. NN I-NP I-KP 152,159
 
 Given VBN I-VP O 161,166

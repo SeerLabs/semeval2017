@@ -2,6 +2,7 @@ Longitudinal JJ I-NP I-KP
 beam NN I-NP I-KP
 and CC O I-KP
 target VB I-VP I-KP
+single-spin JJ I-NP I-KP
 asymmetries NNS I-NP I-KP
 have VBP I-VP O
 been VBN I-VP O
@@ -40,6 +41,8 @@ be VB I-VP O
 signals NNS I-NP O
 of IN I-PP O
 the DT I-NP O
+so-called JJ I-NP O
+T-odd JJ I-NP I-KP
 fragmentation NN I-NP I-KP
 functions NNS I-NP I-KP
 [5], VBP I-VP O
@@ -61,6 +64,7 @@ receive VB I-VP I-KP
 contributions NNS I-NP I-KP
 also RB O I-KP
 from IN I-PP I-KP
+T-odd NNP I-NP B-KP
 distribution NN I-NP I-KP
 functions NNS I-NP I-KP
 [13–16], VBP I-VP O
@@ -81,6 +85,7 @@ of IN I-PP I-KP
 the DT I-NP I-KP
 contributions NNS I-NP I-KP
 of IN I-PP I-KP
+T-odd NNP I-NP I-KP
 distribution NN I-NP I-KP
 functions NNS I-NP I-KP
 has VBZ I-VP O
@@ -159,10 +164,12 @@ functions. NN I-NP I-KP
 We PRP I-NP O
 consider VBP I-VP O
 both DT I-NP O
+single-particle JJ I-NP I-KP
 inclusive JJ I-NP I-KP
 DIS, NNP I-NP I-KP
 e+p→e′+h+X, NN I-NP B-KP
 and CC O O
+single-jet JJ I-NP I-KP
 inclusive JJ I-NP I-KP
 DIS, NNP I-NP I-KP
 e+p→e′+jet+X. NN I-NP B-KP
@@ -186,6 +193,8 @@ proof NN I-NP I-KP
 for IN I-PP I-KP
 observables NNS I-NP I-KP
 containing VBG I-NP I-KP
+subleading-twist JJ I-NP I-KP
+transverse-momentum JJ I-NP I-KP
 dependent JJ I-NP I-KP
 functions NNS I-NP I-KP
 (only RB O O
@@ -193,6 +202,7 @@ recently RB O O
 proofs VB I-VP I-KP
 for IN I-PP I-KP
 the DT I-NP I-KP
+leading-twist JJ I-NP I-KP
 case NN I-NP I-KP
 have VBP I-VP O
 been VBN I-VP O

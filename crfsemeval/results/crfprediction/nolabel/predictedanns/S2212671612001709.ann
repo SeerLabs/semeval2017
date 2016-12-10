@@ -1,0 +1,10 @@
+T0	KEYPHRASE_NOTYPES 210 237	obtain the deformed surface,
+T1	KEYPHRASE_NOTYPES 16 75	multi-axis NC tool-path generation for subdivision surfaces
+T2	KEYPHRASE_NOTYPES 362 418	procedure of tool path generation, the slicing procedure
+T3	KEYPHRASE_NOTYPES 243 261	deformation vector
+T4	KEYPHRASE_NOTYPES 555 564	machining.
+T5	KEYPHRASE_NOTYPES 330 353	cutter location surface.
+T6	KEYPHRASE_NOTYPES 93 162	algorithm includes two steps: model building and tool path generation.
+T7	KEYPHRASE_NOTYPES 658 677	subdivision surface
+T8	KEYPHRASE_NOTYPES 171 196	section of model building,
+T9	KEYPHRASE_NOTYPES 441 450	CL points.

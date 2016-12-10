@@ -4,6 +4,7 @@ stress NN I-NP I-KP 11,17
 state NN I-NP I-KP 18,23
 is VBZ I-VP O 24,26
 a DT I-NP O 27,28
+tri-axial JJ I-NP I-KP 29,38
 tensile NN I-NP I-KP 39,46
 stress NN I-NP I-KP 47,53
 designed VBN I-VP O 54,62
@@ -18,6 +19,7 @@ advancing VBG I-NP I-KP 97,106
 crack NN I-NP I-KP 107,112
 tip. NN I-NP I-KP 113,116
 
+Micro-scale JJ I-NP O 118,129
 lateral JJ I-NP O 130,137
 cracks NNS I-NP O 138,144
 have VBP I-VP O 145,149
@@ -77,6 +79,7 @@ considered VBN I-VP O 449,459
 separate JJ I-NP O 460,468
 to TO I-VP O 469,471
 any DT I-NP O 472,475
+nano-scale JJ I-NP O 476,486
 cracks NNS I-NP O 487,493
 that WDT B-NP O 494,498
 might MD I-VP O 499,504
@@ -97,6 +100,7 @@ here RB O O 590,594
 that IN I-PP O 595,599
 whether IN B-PP O 600,607
 the DT I-NP O 608,611
+micro-scale JJ I-NP O 612,623
 lateral JJ I-NP O 624,631
 cracks NNS I-NP O 632,638
 form VBP I-VP O 639,643
@@ -107,6 +111,7 @@ the DT I-NP O 660,663
 oxide NN I-NP I-KP 664,669
 or CC O O 670,672
 by IN I-PP O 673,675
+de-bonding NN I-NP I-KP 676,686
 at IN I-PP O 687,689
 the DT I-NP O 690,693
 interface NN I-NP O 694,703

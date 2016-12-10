@@ -28,6 +28,7 @@ example, JJ I-NP O
 nodal JJ I-NP I-KP
 integration NN I-NP I-KP
 and CC O I-KP
+NS-FEM NNP I-NP I-KP
 are VBP I-VP O
 unstable JJ I-NP O
 involving VBG I-NP O
@@ -35,10 +36,12 @@ the DT B-NP O
 appearance NN I-NP O
 of IN I-PP O
 spurious JJ I-NP O
+low-energy JJ I-NP O
 modes. NN I-NP O
 
 They PRP I-NP O
 need VBP I-VP O
+non-physical JJ I-NP I-KP
 penalty NN I-NP I-KP
 energy NN I-NP I-KP
 functions NNS I-NP I-KP
@@ -106,6 +109,7 @@ and CC O O
 a DT I-NP O
 second JJ I-NP I-KP
 order NN I-NP I-KP
+tensor-product NN I-NP I-KP
 interpolation NN I-NP I-KP
 of IN I-PP O
 the DT I-NP O

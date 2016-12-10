@@ -6,6 +6,7 @@ is VBZ I-VP O
 a DT I-NP O
 relatively RB O O
 new JJ I-NP O
+sintering-based JJ I-NP I-KP
 technique NN I-NP I-KP
 [17] NN I-NP O
 in IN I-PP O

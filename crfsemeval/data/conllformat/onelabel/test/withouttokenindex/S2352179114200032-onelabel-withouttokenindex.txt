@@ -7,6 +7,7 @@ developed VBN I-VP O
 and CC I-VP O
 tested VBN I-VP O
 with IN I-PP O
+a-C:H JJ I-NP I-M
 layers NNS I-NP I-M
 in IN I-PP O
 mind, NN I-NP O
@@ -81,6 +82,7 @@ e.g. NN I-NP O
 also RB O O
 for IN I-PP O
 beryllium NN I-NP I-M
+co-deposits NNS I-NP I-M
 [25] NN I-NP O
 and CC O O
 can MD I-VP O
@@ -88,6 +90,7 @@ be VB I-VP O
 expected VBN I-VP O
 for IN I-PP O
 other JJ I-NP O
+co-deposits NNS I-NP O
 formed VBN I-VP O
 in IN I-PP O
 plasma JJ I-NP I-M

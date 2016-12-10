@@ -12,10 +12,12 @@ for IN I-PP O 63,66
 the DT I-NP O 67,70
 development NN I-NP I-KP 71,82
 of IN I-PP I-KP 83,85
+radiation-induced JJ I-NP I-KP 86,103
 DSBs NNP I-NP I-KP 104,108
 [16,17]. NN I-NP O 109,116
 
 For IN I-PP O 118,121
+γ-ray JJ I-NP I-KP 122,127
 radiation, NN I-NP I-KP 128,137
 single JJ I-NP B-KP 139,145
 step NN I-NP I-KP 146,150
@@ -46,8 +48,10 @@ of IN I-PP O 275,277
 individual JJ I-NP O 278,288
 photon NN I-NP I-KP 289,295
 of IN I-PP I-KP 296,298
+γ-ray. JJ I-NP I-KP 299,304
 
 Whereas IN I-PP O 306,313
+photo-radiation NN I-NP I-KP 314,329
 causes NNS I-NP O 330,336
 DSBs NNP I-NP I-KP 337,341
 through IN I-PP O 342,349
@@ -116,6 +120,7 @@ effect NN I-NP O 719,725
 of IN I-PP O 726,728
 AA NNP I-NP I-KP 729,731
 against IN I-PP O 732,739
+photo-induced JJ I-NP I-KP 740,753
 damage NN I-NP I-KP 754,760
 may MD I-VP O 761,764
 reflect VB I-VP O 765,772
@@ -130,6 +135,7 @@ AA. NNP I-NP I-KP 806,808
 (2) NN I-NP O 810,813
 For IN I-PP O 814,817
 the DT I-NP O 818,821
+γ-ray NN I-NP I-KP 822,827
 induced VBD I-VP I-KP 828,835
 DSB, NNP I-NP I-KP 836,839
 the DT I-NP O 841,844
@@ -164,6 +170,7 @@ by IN I-PP O 980,982
 single JJ I-NP I-KP 983,989
 photon NN I-NP I-KP 990,996
 of IN I-PP I-KP 997,999
+γ-ray. JJ I-NP I-KP 1000,1005
 
 Surviving VBG I-VP O 1007,1016
 oxygen NN I-NP O 1017,1023

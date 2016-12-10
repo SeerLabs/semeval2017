@@ -136,6 +136,7 @@ energy. NN I-NP O 794,800
 is VBZ I-VP O 806,808
 considered VBN I-VP O 809,819
 the DT I-NP O 820,823
+cut-off NN I-NP O 824,831
 because IN I-PP O 832,839
 it PRP I-NP O 840,842
 is VBZ I-VP O 843,845

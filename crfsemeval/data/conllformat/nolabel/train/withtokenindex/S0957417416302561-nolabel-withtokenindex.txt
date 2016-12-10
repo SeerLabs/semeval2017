@@ -61,6 +61,7 @@ improvements NNS I-NP O 393,405
 upon IN I-PP O 406,410
 the DT I-NP O 411,414
 utilized JJ I-NP I-KP 415,423
+time-and-frequency NN I-NP I-KP 424,442
 EMG NNP I-NP I-KP 443,446
 feature NN I-NP I-KP 447,454
 extraction NN I-NP I-KP 455,465
@@ -115,6 +116,7 @@ Features NNS I-NP I-KP 770,778
 such JJ I-NP O 779,783
 as IN I-PP O 784,786
 the DT I-NP O 787,790
+TD-PSD NNP I-NP I-KP 791,797
 and CC O O 798,801
 the DT I-NP O 802,805
 DFT NNP I-NP I-KP 806,809
@@ -150,6 +152,7 @@ a DT I-NP O 975,976
 prosthesis NN I-NP I-KP 977,987
 controller NN I-NP I-KP 988,998
 for IN I-PP O 999,1002
+real-time JJ I-NP I-KP 1003,1012
 control, NN I-NP I-KP 1013,1020
 especially RB O O 1022,1032
 that IN I-PP O 1033,1037

@@ -18,6 +18,7 @@ its PRP$ I-NP O
 corresponding JJ I-NP O
 context) NN I-NP O
 is VBZ I-VP O
+fed-forward JJ I-NP O
 through IN I-PP O
 the DT I-NP O
 network, JJ I-NP O
@@ -41,12 +42,14 @@ DNNs NNP I-NP I-P
 particularly RB O O
 suitable JJ I-NP O
 for IN I-PP O
+real-time JJ I-NP O
 applications NNS I-NP O
 because, VBP I-VP O
 unlike IN I-PP O
 other JJ I-NP I-P
 approaches NNS I-NP I-P
 (i.e. JJ I-NP O
+i-vectors), JJ I-NP O
 we PRP B-NP O
 can MD I-VP O
 potentially RB I-VP O

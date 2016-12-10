@@ -21,12 +21,14 @@ exist VBP I-VP O
 only RB I-VP O
 in IN I-PP O
 the DT I-NP O
+shear-thinning JJ I-NP O
 case NN I-NP O
 for IN I-PP O
 n>12. NN I-NP O
 
 In IN I-PP O
 the DT I-NP O
+shear-thickening JJ I-NP I-P
 case NN I-NP O
 they PRP B-NP O
 have VBP I-VP O
@@ -34,6 +36,7 @@ shown VBN I-VP O
 that IN I-PP O
 solutions NNS I-NP I-M
 become VBP I-VP O
+non-differentiable JJ I-NP O
 at IN I-PP O
 some DT I-NP O
 critical JJ I-NP O
@@ -55,6 +58,7 @@ the DT I-NP O
 context NN I-NP O
 of IN I-PP O
 the DT I-NP O
+power-law NN I-NP I-P
 model, NN I-NP I-P
 we PRP B-NP O
 will MD I-VP O
@@ -73,6 +77,7 @@ will MD I-VP O
 consider VB I-VP O
 flows NNS I-NP I-M
 with IN I-PP O
+power-law NN I-NP O
 index NN I-NP O
 in IN I-PP O
 the DT I-NP O
@@ -101,6 +106,7 @@ must MD I-VP O
 apply VB I-VP O
 the DT I-NP O
 Robin NNP I-NP I-P
+condition(11)(u¯′,v¯′)=nη(n-1)(u¯,v¯)asη→∞,at JJ I-NP O
 some DT B-NP O
 suitably RB O O
 large JJ I-NP O
@@ -140,4 +146,5 @@ that IN I-PP O
 in IN B-PP O
 this DT I-NP O
 case(12)(u¯′,v¯′)=w¯∞(u¯,v¯)asη→∞,where JJ I-NP O
+w∞=-2∫0∞u¯dη. NN I-NP O
 

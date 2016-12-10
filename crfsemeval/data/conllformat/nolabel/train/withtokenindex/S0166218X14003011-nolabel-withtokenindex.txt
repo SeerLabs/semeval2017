@@ -17,6 +17,7 @@ sequences NNS I-NP I-KP 95,104
 of IN I-PP I-KP 105,107
 entries NNS I-NP I-KP 108,115
 of IN I-PP I-KP 116,118
+max-algebraic JJ I-NP I-KP 119,132
 matrix NN I-NP I-KP 133,139
 powers NNS I-NP I-KP 140,146
 with IN I-PP I-KP 147,151

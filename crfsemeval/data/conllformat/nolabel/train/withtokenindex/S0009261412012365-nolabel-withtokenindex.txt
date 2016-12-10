@@ -22,6 +22,7 @@ ionization NN I-NP I-KP 137,147
 [30]. NN I-NP O 148,152
 
 The DT I-NP O 154,157
+two-step JJ I-NP I-KP 158,166
 decay NN I-NP I-KP 167,172
 model NN I-NP I-KP 173,178
 [26] NNP I-NP O 179,183
@@ -30,6 +31,7 @@ applied VBN I-VP O 188,195
 to TO I-VP O 196,198
 explain VB I-VP O 199,206
 the DT I-NP O 207,210
+above-mentioned JJ I-NP O 211,226
 fragmentation NN I-NP I-KP 227,240
 of IN I-PP I-KP 241,243
 DCPD NNP I-NP I-KP 244,248

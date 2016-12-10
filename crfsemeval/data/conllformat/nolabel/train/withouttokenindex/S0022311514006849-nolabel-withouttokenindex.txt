@@ -19,6 +19,7 @@ to TO I-VP O
 be VB I-VP O
 stable JJ I-NP O
 using VBG I-NP O
+potential-based JJ I-NP I-KP
 methods NNS I-NP I-KP
 [6]. NN I-NP O
 
@@ -60,6 +61,7 @@ relaxed VBD I-VP O
 to TO I-VP O
 a DT I-NP O
 split NN I-NP O
+di-interstitial JJ I-NP I-KP
 [13] NNP I-NP O
 (Fig. NNP I-NP O
 1(b)); CD I-NP O
@@ -104,8 +106,10 @@ was VBD I-VP O
 extended VBN I-VP O
 to TO I-VP O
 include VB I-VP O
+tri-interstitials NNS I-NP I-KP
 [8] JJ I-NP O
 (a JJ I-NP O
+di-interstitial JJ I-NP I-KP
 with IN I-PP I-KP
 the DT I-NP I-KP
 fourth JJ I-NP I-KP
@@ -113,8 +117,10 @@ Oi NNP I-NP I-KP
 site NN I-NP I-KP
 occupied) NN I-NP O
 and CC O O
+quad-interstitials NNS I-NP I-KP
 [9] JJ I-NP O
 (two JJ I-NP O
+di-interstitials NNS I-NP I-KP
 on IN I-PP I-KP
 adjacent JJ I-NP I-KP
 sites, NN I-NP I-KP
@@ -148,6 +154,7 @@ supercell NN I-NP I-KP
 containing VBG I-VP O
 multiple JJ I-NP I-KP
 split JJ I-NP I-KP
+quad-interstitial JJ I-NP I-KP
 clusters; NN I-NP I-KP
 following VBG I-VP O
 the DT I-NP O
@@ -158,6 +165,7 @@ LSDA+U NNP I-NP I-KP
 calculations NNS I-NP O
 that IN I-PP O
 the DT I-NP O
+quad-interstitial JJ I-NP I-KP
 is VBZ I-VP O
 more RBR O O
 stable JJ I-NP O

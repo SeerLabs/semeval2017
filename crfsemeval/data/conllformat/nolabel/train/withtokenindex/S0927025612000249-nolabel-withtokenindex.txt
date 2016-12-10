@@ -139,8 +139,10 @@ the DT I-NP I-KP 842,845
 material NN I-NP I-KP 846,854
 using VBG I-VP O 855,860
 the DT I-NP O 861,864
+two-layer NN I-NP I-KP 865,874
 and CC O I-KP 875,878
 unified JJ I-NP I-KP 879,886
+visco-plasticity NN I-NP I-KP 887,903
 models NNS I-NP I-KP 904,910
 [3,4]. VBP I-VP O 911,916
 

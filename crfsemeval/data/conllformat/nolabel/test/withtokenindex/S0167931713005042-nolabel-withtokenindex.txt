@@ -2,6 +2,7 @@ We PRP I-NP O 0,2
 used VBD I-VP O 3,7
 2μm CD I-NP O 8,11
 of IN I-PP O 12,14
+ultra-nanocrystalline JJ I-NP I-KP 15,36
 diamond NN I-NP I-KP 37,44
 (UNCD) NNP I-NP O 45,51
 grown VBN I-VP O 52,57
@@ -53,6 +54,7 @@ subjected VBN I-VP O 325,334
 to TO I-VP O 335,337
 RCA NNP I-NP I-KP 338,341
 cleaning VBG I-NP I-KP 342,350
+(SC-1), JJ I-NP O 351,357
 followed VBN I-VP O 359,367
 by IN I-PP O 368,370
 ultrasonic JJ I-NP I-KP 371,381
@@ -94,10 +96,12 @@ the DT I-NP O 623,626
 resist NN I-NP O 627,633
 to TO I-VP O 634,636
 prevent VB I-VP I-KP 637,644
+e-beam JJ I-NP I-KP 645,651
 deflection NN I-NP I-KP 652,662
 due JJ I-NP I-KP 663,666
 to TO I-VP I-KP 667,669
 charge VB I-VP I-KP 670,676
+build-up NN I-NP I-KP 677,685
 on IN I-PP I-KP 686,688
 the DT I-NP I-KP 689,692
 surface NN I-NP I-KP 693,700

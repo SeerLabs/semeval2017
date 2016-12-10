@@ -29,6 +29,7 @@ are VBP I-VP I-KP 158,161
 indeed RB I-VP I-KP 162,168
 the DT I-NP I-KP 169,172
 predicted VBN I-NP I-KP 173,182
+super-partners. NN I-NP I-KP 183,197
 
 A DT I-NP O 199,200
 method NN I-NP O 201,207
@@ -58,6 +59,7 @@ to TO I-VP O 336,338
 charge VB I-VP I-KP 339,345
 asymmetry NN I-NP I-KP 346,355
 in IN I-PP O 356,358
+lepton-jet JJ I-NP I-KP 359,369
 invariant JJ I-NP I-KP 370,379
 mass NN I-NP I-KP 380,384
 distributions. NN I-NP I-KP 385,398
@@ -77,6 +79,7 @@ asymmetry NN I-NP I-KP 468,477
 between IN I-PP O 478,485
 squarks NNS I-NP I-KP 486,493
 and CC O O 494,497
+anti-squarks. NN I-NP I-KP 498,510
 
 Monte NNP I-NP I-KP 512,517
 Carlo NNP I-NP I-KP 518,523
@@ -101,9 +104,11 @@ are VBP I-VP O 636,639
 consistent JJ I-NP O 640,650
 with IN I-PP O 651,655
 a DT I-NP O 656,657
+spin-0 JJ I-NP I-KP 658,664
 slepton NN I-NP I-KP 665,672
 and CC O O 673,676
 a DT I-NP O 677,678
+spin-12χ˜20, JJ I-NP O 679,690
 but CC O O 692,695
 are VBP I-VP O 696,699
 not RB I-VP O 700,703

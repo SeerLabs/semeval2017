@@ -6,6 +6,7 @@ thought VBN I-VP O 18,25
 of IN I-PP O 26,28
 as IN B-PP O 29,31
 a DT I-NP O 32,33
+micro-crack JJ I-NP I-KP 34,45
 nucleation, NN I-NP I-KP 46,56
 specifically RB O O 58,70
 as IN I-PP O 71,73
@@ -26,6 +27,7 @@ face. NN I-NP I-KP 159,163
 
 Initially, IN I-PP O 165,174
 the DT I-NP O 176,179
+micro-cracks NNS I-NP I-KP 180,192
 may MD I-VP O 193,196
 be VB I-VP O 197,199
 dispersed VBN I-VP O 200,209
@@ -59,6 +61,7 @@ as IN I-PP O 373,375
 the DT I-NP O 376,379
 population NN I-NP O 380,390
 of IN I-PP O 391,393
+micro-cracks NNS I-NP I-KP 394,406
 increases. NNS I-NP O 407,416
 
 These DT I-NP O 418,423
@@ -106,6 +109,7 @@ structure, NN I-NP I-KP 668,677
 i.e. NN I-NP O 679,682
 where WRB O O 684,689
 two CD I-NP O 690,693
+micro-cracks NNS I-NP I-KP 694,706
 formed VBD I-VP O 707,713
 a DT I-NP O 714,715
 continuous JJ I-NP O 716,726

@@ -39,6 +39,7 @@ model. NN I-NP I-KP
 
 However, NNP I-NP O
 training VBG I-NP I-KP
+show-based JJ I-NP I-KP
 aCMLLR NN I-NP I-KP
 transforms NNS I-NP I-KP
 on IN I-PP O
@@ -93,6 +94,7 @@ the DT I-NP O
 aNAT JJ I-NP I-KP
 model NN I-NP I-KP
 and CC O O
+show-based JJ I-NP O
 aCMLLR NN I-NP I-KP
 transforms NNS I-NP I-KP
 was VBD I-VP O

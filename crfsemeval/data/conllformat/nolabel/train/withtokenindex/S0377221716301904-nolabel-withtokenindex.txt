@@ -8,6 +8,7 @@ allows VBZ I-VP O 37,43
 to TO I-VP O 44,46
 analyze VB I-VP I-KP 47,54
 the DT I-NP I-KP 55,58
+long-run JJ I-NP I-KP 59,67
 impact NN I-NP I-KP 68,74
 of IN I-PP I-KP 75,77
 the DT I-NP I-KP 78,81
@@ -51,8 +52,10 @@ in IN I-PP O 345,347
 expectation NN I-NP O 348,359
 of IN I-PP O 360,362
 an DT I-NP O 363,365
+energy-only JJ I-NP O 366,377
 market NN I-NP O 378,384
 and CC O O 385,388
+cost-based JJ I-NP O 389,399
 redispatch. NN I-NP O 400,410
 
 In IN I-PP O 412,414
@@ -122,6 +125,7 @@ networks NNS I-NP O 812,820
 we PRP B-NP O 821,823
 illustrate VBP I-VP O 824,834
 that IN I-PP O 835,839
+energy-only JJ I-NP O 840,851
 markets NNS I-NP O 852,859
 can MD I-VP O 860,863
 lead VB I-VP O 864,868

@@ -6,6 +6,7 @@ developed VBN I-VP O 20,29
 a DT I-NP O 30,31
 technique NN I-NP O 32,41
 for IN I-PP O 42,45
+site-specific JJ I-NP I-KP 46,59
 nanowire NN I-NP I-KP 60,68
 size NN I-NP I-KP 69,73
 reduction NN I-NP I-KP 74,83
@@ -59,6 +60,7 @@ current JJ I-NP O 367,374
 density NN I-NP O 375,382
 of IN I-PP O 383,385
 the DT I-NP O 386,389
+as-deposited JJ I-NP I-KP 390,402
 wire NN I-NP I-KP 403,407
 and CC O O 408,411
 one CD I-NP O 412,415
@@ -89,6 +91,7 @@ These DT I-NP O 577,582
 results NNS I-NP O 583,590
 suggest VBP I-VP O 591,598
 that IN I-PP O 599,603
+FIB-milling NNP I-NP I-KP 604,615
 is VBZ I-VP O 616,618
 a DT I-NP O 619,620
 potential JJ I-NP O 621,630
@@ -104,6 +107,7 @@ towards IN I-PP I-KP 693,700
 the DT I-NP I-KP 701,704
 observation NN I-NP I-KP 705,716
 of IN I-PP I-KP 717,719
+size- JJ I-NP I-KP 720,725
 and CC O I-KP 726,729
 quantum JJ I-NP I-KP 730,737
 effects, NN I-NP I-KP 738,745

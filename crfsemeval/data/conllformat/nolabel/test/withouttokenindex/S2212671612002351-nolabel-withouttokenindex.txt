@@ -11,6 +11,7 @@ prism NN I-NP I-KP
 was VBD I-VP O
 proposed VBN I-VP O
 for IN I-PP O
+single-lens JJ I-NP I-KP
 stereovision NN I-NP I-KP
 system. NN I-NP I-KP
 
@@ -86,6 +87,7 @@ extend VB I-VP I-KP
 the DT I-NP I-KP
 application NN I-NP I-KP
 of IN I-PP I-KP
+single-lens JJ I-NP I-KP
 stereovision NN I-NP I-KP
 system NN I-NP I-KP
 using VBG I-VP O

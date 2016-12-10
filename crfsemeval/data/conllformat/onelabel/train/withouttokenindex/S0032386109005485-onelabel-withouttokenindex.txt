@@ -3,6 +3,7 @@ miniemulsion NN I-NP I-P
 polymerization NN I-NP I-P
 is VBZ I-VP O
 a DT I-NP O
+water-in-oil JJ I-NP I-P
 (W/O) NNP I-NP O
 heterogeneous JJ I-NP I-P
 polymerization NN I-NP I-P
@@ -28,6 +29,7 @@ contains VBZ I-VP O
 aqueous JJ I-NP I-M
 droplets NNS I-NP I-M
 (including VBG I-VP O
+water-soluble JJ I-NP I-M
 monomers) NN I-NP O
 stably RB O O
 dispersed, VBZ I-VP O
@@ -35,6 +37,7 @@ with IN I-PP O
 the DT I-NP O
 aid NN I-NP O
 of IN I-PP O
+oil-soluble JJ I-NP I-M
 surfactants, NN I-NP I-M
 in IN I-PP O
 a DT I-NP O
@@ -61,9 +64,11 @@ speed NN I-NP I-M
 mechanical JJ I-NP I-M
 stirrer. NN I-NP I-M
 
+Oil-soluble JJ I-NP I-M
 nonionic JJ I-NP I-M
 surfactants NNS I-NP I-M
 with IN I-PP O
+hydrophilic-lipophilic JJ I-NP O
 balance NN I-NP O
 (HLB) NN I-NP O
 value NN I-NP O
@@ -111,6 +116,7 @@ particles NNS I-NP I-M
 of IN I-PP I-M
 hydrophilic JJ I-NP I-M
 and CC O I-M
+water-soluble JJ I-NP I-M
 polymers NNS I-NP I-M
 [86–89], VBP I-VP O
 polyaniline JJ I-NP I-M
@@ -158,6 +164,7 @@ been VBN I-VP O
 explored VBN I-VP O
 to TO I-VP O
 prepare VB I-VP O
+well-defined JJ I-NP O
 nanoparticles NNS I-NP I-M
 and CC O O
 nanogels. NN I-NP I-M

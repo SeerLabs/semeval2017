@@ -8,6 +8,7 @@ transient JJ I-NP I-KP
 response NN I-NP I-KP
 analysis NN I-NP I-KP
 on IN I-PP O
+full-scale JJ I-NP O
 motorway NN I-NP I-KP
 bridge NN I-NP I-KP
 structures NNS I-NP I-KP
@@ -28,6 +29,7 @@ study NN I-NP O
 to TO I-VP O
 assess VB I-VP O
 the DT I-NP O
+long-term JJ I-NP I-KP
 sustained JJ I-NP I-KP
 benefits NNS I-NP I-KP
 offered VBN I-VP O
@@ -76,6 +78,7 @@ order NN I-NP O
 to TO I-VP O
 assess VB I-VP I-KP
 the DT I-NP I-KP
+long-term JJ I-NP I-KP
 benefits NNS I-NP I-KP
 provided VBN I-VP O
 by IN I-PP O
@@ -97,6 +100,7 @@ simplified JJ I-NP I-KP
 approach NN I-NP I-KP
 for IN I-PP O
 the DT I-NP O
+on-site JJ I-NP O
 use NN I-NP O
 of IN I-PP O
 transient JJ I-NP I-KP

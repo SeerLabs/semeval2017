@@ -47,11 +47,13 @@ the DT I-NP O 310,313
 derivation NN I-NP I-KP 314,324
 of IN I-PP I-KP 325,327
 the DT I-NP I-KP 328,331
+semi-discrete JJ I-NP I-KP 332,345
 advection–diffusion NN I-NP I-KP 346,365
 problem NN I-NP I-KP 366,373
 as IN I-PP O 374,376
 applied VBN I-NP O 377,384
 to TO I-VP O 385,387
+wave-like JJ I-NP I-KP 388,397
 solutions, NN I-NP I-KP 398,407
 from IN I-PP O 409,413
 which WDT I-NP O 414,419

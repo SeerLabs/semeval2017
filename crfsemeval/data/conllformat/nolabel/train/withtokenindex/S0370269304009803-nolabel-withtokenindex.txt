@@ -26,6 +26,7 @@ in IN I-PP O 136,138
 terms NNS I-NP O 139,144
 of IN I-PP O 145,147
 a DT I-NP O 148,149
+non-linear JJ I-NP I-KP 150,160
 chiral JJ I-NP I-KP 161,167
 Lagrangian JJ I-NP I-KP 168,178
 with IN I-PP O 179,183
@@ -50,6 +51,7 @@ mesons. NN I-NP I-KP 273,279
 The DT I-NP O 281,284
 three CD I-NP O 285,290
 point NN I-NP O 291,296
+vector-pseudo JJ I-NP I-KP 297,310
 scalar JJ I-NP I-KP 311,317
 interaction NN I-NP I-KP 318,329
 is VBZ I-VP O 330,332
@@ -61,6 +63,7 @@ h NN I-NP I-KP 372,373
 stands VBZ I-VP O 374,380
 for IN I-PP O 381,384
 the DT I-NP O 385,388
+vector-pseudoscalar JJ I-NP I-KP 389,408
 coupling. NN I-NP I-KP 409,417
 
 Some DT I-NP O 419,423
@@ -141,6 +144,7 @@ amounts NNS I-NP I-KP 939,946
 
 The DT I-NP O 955,958
 strong JJ I-NP I-KP 959,965
+four-point JJ I-NP I-KP 966,976
 vertices NNS I-NP I-KP 977,985
 involving VBG I-VP I-KP 986,995
 pions NNS I-NP I-KP 996,1001

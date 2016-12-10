@@ -13,6 +13,7 @@ emotional JJ I-NP I-KP 74,83
 involvement NN I-NP I-KP 84,95
 in IN I-PP O 96,98
 current JJ I-NP O 99,106
+web-based JJ I-NP I-KP 107,116
 instructional JJ I-NP I-KP 117,130
 environment, NN I-NP I-KP 131,142
 here RB O O 144,148
@@ -25,6 +26,7 @@ that WDT B-NP O 178,182
 is VBZ I-VP O 183,185
 based VBN I-VP O 186,191
 on IN I-PP O 192,194
+inter-subjectivity NN I-NP O 195,213
 fusing VBG I-NP I-KP 214,220
 cognition NN I-NP I-KP 221,230
 with IN I-PP I-KP 231,235

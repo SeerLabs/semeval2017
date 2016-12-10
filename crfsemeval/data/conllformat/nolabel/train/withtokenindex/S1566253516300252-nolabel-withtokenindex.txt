@@ -12,6 +12,7 @@ conceptual JJ I-NP O 57,67
 opposite NN I-NP O 68,76
 to TO I-VP O 77,79
 the DT I-NP O 80,83
+afore-described JJ I-NP I-KP 84,99
 centralized NN I-NP I-KP 100,111
 methods, NN I-NP I-KP 112,119
 which WDT B-NP O 121,126

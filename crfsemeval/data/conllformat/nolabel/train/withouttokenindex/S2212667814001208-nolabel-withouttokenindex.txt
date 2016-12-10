@@ -123,6 +123,7 @@ feasible JJ I-NP O
 platform NN I-NP O
 for IN I-PP O
 deploying VBG I-VP I-KP
+on-demand, JJ I-NP I-KP
 small JJ I-NP I-KP
 sized VBN I-VP I-KP
 HPC NNP I-NP I-KP

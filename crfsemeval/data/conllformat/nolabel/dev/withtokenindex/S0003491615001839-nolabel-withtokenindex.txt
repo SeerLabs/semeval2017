@@ -38,6 +38,7 @@ perhaps RB I-NP O 214,221
 the DT I-NP O 222,225
 most RBS I-NP O 226,230
 known JJ I-NP O 231,236
+test-case NN I-NP O 237,246
 that IN I-PP O 247,251
 exhibits VBZ I-NP O 252,260
 a DT I-NP O 261,262
@@ -45,6 +46,7 @@ first JJ I-NP I-KP 263,268
 order NN I-NP I-KP 269,274
 phase NN I-NP I-KP 275,280
 transition NN I-NP I-KP 281,291
+(semi-heuristically RB O O 292,311
 described) NN I-NP O 312,322
 such JJ I-NP O 323,327
 as IN I-PP O 328,330

@@ -41,7 +41,9 @@ products. NN I-NP I-KP
 Such JJ I-NP O
 methods, NNS I-NP I-KP
 mostly RB O I-KP
+multi-step JJ I-NP I-KP
 and CC O I-KP
+time-consuming, JJ I-NP I-KP
 can MD I-VP O
 typically RB I-VP O
 be VB I-VP O
@@ -162,9 +164,11 @@ through IN I-PP O
 optical JJ I-NP I-KP
 means NNS I-NP I-KP
 is VBZ I-VP O
+well-known JJ I-NP O
 to TO I-VP O
 offer VB I-VP O
 direct, JJ I-NP O
+non-contact JJ I-NP O
 ways NNS I-NP O
 to TO I-VP O
 distinguish VB I-VP O
@@ -184,7 +188,9 @@ differences NNS I-NP O
 in IN I-PP O
 absorption NN I-NP I-KP
 of IN I-PP O
+left- JJ I-NP O
 and CC O O
+right-handed JJ I-NP O
 circularly NN I-NP O
 polarised VBN I-VP O
 light, NN I-NP O

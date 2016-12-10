@@ -6,6 +6,7 @@ design NN I-NP I-T
 of IN I-PP I-T
 high JJ I-NP I-T
 quality NN I-NP I-T
+real-time JJ I-NP I-T
 rotation NN I-NP I-M
 face NN I-NP I-M
 detection NN I-NP I-M
@@ -24,6 +25,7 @@ rotated VBD I-VP O
 face NN I-NP I-P
 detection, IN I-PP I-P
 the DT I-NP O
+multiple-MCT(Modified JJ I-NP O
 Census NNP I-NP I-P
 Transform) NNP I-NP O
 architecture, NN I-NP O
@@ -97,6 +99,7 @@ detection NN I-NP I-P
 device NN I-NP O
 can MD I-VP O
 conduct VB I-VP O
+real-time JJ I-NP I-P
 processing NN I-NP I-P
 at IN I-PP O
 speed NN I-NP O

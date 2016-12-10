@@ -144,6 +144,7 @@ the DT I-NP O 857,860
 cases, NN I-NP O 861,866
 by IN I-PP O 868,870
 a DT I-NP O 871,872
+non-appropriate JJ I-NP O 873,888
 choice NN I-NP O 889,895
 of IN I-PP O 896,898
 alloys NNS I-NP I-KP 899,905
@@ -176,6 +177,7 @@ the DT I-NP O 1071,1074
 design NN I-NP O 1075,1081
 documentation NN I-NP O 1082,1095
 during IN I-PP O 1096,1102
+post-weld JJ I-NP O 1103,1112
 heat NN I-NP O 1113,1117
 treatment. NN I-NP O 1118,1127
 

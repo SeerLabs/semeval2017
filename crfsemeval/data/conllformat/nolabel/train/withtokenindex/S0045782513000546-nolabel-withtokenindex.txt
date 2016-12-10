@@ -59,6 +59,7 @@ on IN I-PP O 364,366
 a DT I-NP O 367,368
 lagged VBN I-NP I-KP 369,375
 and CC O I-KP 376,379
+non-lagged JJ I-NP I-KP 380,390
 backward NN I-NP I-KP 391,399
 Euler NNP I-NP I-KP 400,405
 time NN I-NP I-KP 406,410

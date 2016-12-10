@@ -10,6 +10,7 @@ a DT I-NP O
 SITA NNP I-NP I-P
 pro JJ I-NP I-P
 line NN I-NP I-P
+t-15 NN I-NP I-P
 bubble JJ I-NP I-P
 tensiometer. NN I-NP I-P
 
@@ -116,6 +117,7 @@ the DT I-NP O
 aqueous JJ I-NP O
 PEDOT:PSS NNP I-NP I-M
 solutions NNS I-NP I-M
+shear-thinned JJ I-NP O
 significantly, NN I-NP O
 but CC O O
 the DT I-NP O

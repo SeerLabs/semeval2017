@@ -23,10 +23,12 @@ During IN I-PP O
 fragmentation NN I-NP I-P
 testing, IN I-PP I-P
 the DT I-NP O
+film-substrate JJ I-NP I-M
 couple NN I-NP I-M
 is VBZ I-VP O
 strained VBN I-VP I-P
 under IN I-PP I-P
+uni-axial JJ I-NP I-P
 tension NN I-NP I-P
 and CC O O
 observed VBD I-VP O
@@ -100,6 +102,7 @@ testing NN I-NP I-P
 is VBZ I-VP O
 best RBS I-NP O
 performed JJ I-NP I-T
+in-situ JJ I-NP I-T
 with IN I-PP I-T
 LM NNP I-NP I-T
 or CC O I-T
@@ -172,6 +175,7 @@ lag NN I-NP I-P
 model NN I-NP I-P
 [8,13,14]. NN I-NP O
 
+In-situ JJ I-NP O
 fragmentation NN I-NP O
 testing VBG I-VP O
 with IN I-PP O

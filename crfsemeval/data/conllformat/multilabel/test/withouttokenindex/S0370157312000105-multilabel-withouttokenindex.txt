@@ -55,6 +55,7 @@ form NN I-NP O
 of IN I-PP O
 the DT I-NP O
 Parameterised JJ I-NP I-P
+Post-Newtonian JJ I-NP I-P
 (PPN) NN I-NP O
 formalism NN I-NP O
 by IN I-PP O

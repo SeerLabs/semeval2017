@@ -2,6 +2,7 @@ These DT I-NP O
 results NNS I-NP O
 demonstrate VBP I-VP O
 that IN I-PP O
+SW-SVR NNP I-NP I-P
 predicts NNS I-NP O
 complicated VBD I-VP O
 micrometeorological JJ I-NP I-M
@@ -37,6 +38,7 @@ little JJ I-NP O
 extracted VBN I-VP O
 data NNS I-NP O
 by IN I-PP O
+D-SDC NNP I-NP I-P
 is VBZ I-VP O
 effective JJ I-NP O
 for IN I-PP O
@@ -58,12 +60,14 @@ to TO I-VP O
 be VB I-VP O
 solved VBN I-VP O
 in IN I-PP O
+SW-SVR. NNP I-NP I-P
 
 Firstly, IN I-PP O
 the DT I-NP O
 prediction NN I-NP O
 performance NN I-NP O
 of IN I-PP O
+SW-SVR NNP I-NP I-P
 sometimes RB O O
 deteriorates VBZ I-VP O
 despite IN I-PP O
@@ -99,6 +103,7 @@ because IN I-PP O
 data NNS I-NP O
 extracted VBN I-NP O
 by IN I-PP O
+D-SDC NNP I-NP I-P
 involves NNS I-NP O
 unnecessary JJ I-NP O
 training NN I-NP I-M
@@ -109,6 +114,7 @@ accurate JJ I-NP O
 prediction. NN I-NP O
 
 If IN I-PP O
+D-SDC NNP I-NP I-P
 extracts VBZ I-VP O
 the DT I-NP O
 same JJ I-NP O
@@ -126,6 +132,7 @@ the DT I-NP O
 prediction NN I-NP O
 performance NN I-NP O
 of IN I-PP O
+SW-SVR NNP I-NP I-P
 never RB O O
 deteriorates VBZ I-VP O
 due JJ I-NP O
@@ -146,6 +153,7 @@ mapping NN I-NP O
 and CC O O
 algorithms NN I-NP O
 of IN I-PP O
+D-SDC NNP I-NP I-P
 so RB O O
 as IN I-PP O
 to TO B-PP O
@@ -156,6 +164,7 @@ training NN I-NP O
 data. NN I-NP O
 
 Meanwhile, NNP I-NP O
+SW-SVR NNP I-NP I-P
 is VBZ I-VP O
 based VBN I-VP O
 on IN I-PP O
@@ -168,6 +177,8 @@ kernel NNS I-NP B-P
 approximation, VBP I-VP I-P
 PLS NNP I-NP B-P
 regression, VB I-VP I-P
+k-means, JJ I-NP B-P
+D-SDC, NNP I-NP B-P
 and CC O O
 linear JJ I-NP I-P
 SVR. NNP I-NP I-P
@@ -180,6 +191,7 @@ several JJ I-NP O
 parameters. NNS I-NP O
 
 Therefore, NNP I-NP O
+SW-SVR NNP I-NP I-P
 has VBZ I-VP O
 more JJR I-NP O
 varied JJ I-NP O

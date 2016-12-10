@@ -14,9 +14,11 @@ increments NNS I-NP I-KP
 using VBG I-VP O
 a DT I-NP O
 Setaram NNP I-NP I-KP
+Multi-detector NNP I-NP I-KP
 High NNP I-NP I-KP
 Temperature NNP I-NP I-KP
 Calorimeter NNP I-NP I-KP
+(MDHTC-96) JJ I-NP O
 using VBG I-VP O
 a DT I-NP O
 drop NN I-NP I-KP
@@ -126,6 +128,7 @@ min, NNS I-NP O
 long RB O O
 enough RB O O
 to TO I-VP O
+re-stabilize VB I-VP O
 the DT I-NP O
 monitored JJ I-NP O
 heat NN I-NP I-KP

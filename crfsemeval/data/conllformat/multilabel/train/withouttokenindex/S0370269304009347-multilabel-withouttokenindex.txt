@@ -14,6 +14,7 @@ with IN I-PP O
 the DT I-NP O
 statistics NNS I-NP I-P
 of IN I-PP I-P
+high-lying JJ I-NP I-P
 energy NN I-NP I-P
 levels NNS I-NP I-P
 [8,9]. VBP I-VP O

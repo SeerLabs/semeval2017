@@ -13,6 +13,7 @@ become VBN I-VP O 83,89
 feasible. JJ I-NP O 90,98
 
 However, NNP I-NP O 100,107
+full-atomistic JJ I-NP I-KP 109,123
 approaches NNS I-NP I-KP 124,134
 to TO I-VP O 135,137
 polymer VB I-VP I-KP 138,145
@@ -33,6 +34,7 @@ and CC O O 235,238
 appropriate JJ I-NP I-KP 239,250
 modeling NN I-NP I-KP 251,259
 or CC O O 260,262
+coarse-graining NN I-NP I-KP 263,278
 of IN I-PP I-KP 279,281
 the DT I-NP I-KP 282,285
 system NN I-NP I-KP 286,292
@@ -48,11 +50,13 @@ on IN I-PP O 330,332
 the DT I-NP O 333,336
 development NN I-NP O 337,348
 of IN I-PP O 349,351
+coarse-grained JJ I-NP I-KP 352,366
 models NNS I-NP I-KP 367,373
 for IN I-PP O 374,377
 polymers, JJ I-NP I-KP 378,386
 Mayer NNP I-NP O 388,393
 and CC O O 394,397
+Muller-Plathe NNP I-NP O 398,411
 have VBP I-VP O 412,416
 build VBN I-VP O 417,422
 up RP O O 423,425
@@ -120,6 +124,7 @@ their PRP$ I-NP O 840,845
 work, NN I-NP O 846,850
 they PRP B-NP O 852,856
 neglected VBD I-VP O 857,866
+long-range JJ I-NP O 867,877
 force NN I-NP O 878,883
 (van NN I-NP O 884,888
 der NN I-NP O 889,892

@@ -10,6 +10,7 @@ applied VBN I-VP O 40,47
 for IN I-PP O 48,51
 investigation NN I-NP O 52,65
 of IN I-PP O 66,68
+gas-sheared JJ I-NP I-KP 69,80
 film NN I-NP I-KP 81,85
 flow NN I-NP I-KP 86,90
 in IN I-PP O 91,93
@@ -120,6 +121,7 @@ the DT I-NP O 710,713
 simultaneous JJ I-NP O 714,726
 study NN I-NP O 727,732
 of IN I-PP O 733,735
+three-dimensional JJ I-NP I-KP 736,753
 wavy JJ I-NP I-KP 754,758
 structures NNS I-NP I-KP 759,769
 and CC O O 770,773

@@ -30,6 +30,7 @@ heavy JJ I-NP O 165,170
 so IN I-PP O 171,173
 that IN B-PP O 174,178
 the DT I-NP O 179,182
+constituent-quark JJ I-NP I-KP 183,200
 picture NN I-NP I-KP 201,208
 may MD I-VP O 209,212
 fit VB I-VP O 213,216
@@ -105,6 +106,7 @@ quark NN I-NP I-KP 578,583
 condensate, NN I-NP I-KP 584,594
 it PRP B-NP O 596,598
 gives VBZ I-VP O 599,604
+non-perturbative JJ I-NP O 605,621
 effects NNS I-NP O 622,629
 only RB O O 630,634
 by IN I-PP O 635,637
@@ -166,6 +168,7 @@ space NN I-NP I-KP 955,960
 expression NN I-NP I-KP 961,971
 for IN I-PP O 972,975
 the DT I-NP O 976,979
+charm-quark NN I-NP I-KP 980,991
 propagator. NN I-NP I-KP 992,1002
 
 This DT I-NP O 1004,1008
@@ -173,6 +176,7 @@ is VBZ I-VP O 1009,1011
 different JJ I-NP O 1012,1021
 from IN I-PP O 1022,1026
 the DT I-NP I-KP 1027,1030
+light-quark JJ I-NP I-KP 1031,1042
 sum NN I-NP I-KP 1043,1046
 rule NN I-NP I-KP 1047,1051
 where WRB O O 1052,1057

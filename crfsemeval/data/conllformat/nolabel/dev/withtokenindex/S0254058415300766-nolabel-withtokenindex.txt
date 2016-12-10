@@ -56,6 +56,7 @@ as IN I-PP O 366,368
 transition NN I-NP I-KP 369,379
 metal NN I-NP I-KP 380,385
 having VBG I-VP O 386,392
+un-paired JJ I-NP I-KP 393,402
 d JJ I-NP I-KP 403,404
 electrons NNS I-NP I-KP 405,414
 [2]. VBP I-VP O 415,418

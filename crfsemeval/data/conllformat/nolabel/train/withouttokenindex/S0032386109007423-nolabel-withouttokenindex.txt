@@ -134,6 +134,7 @@ segments NNS I-NP I-KP
 form VBP I-VP O
 an DT I-NP O
 interconnected JJ I-NP I-KP
+three-dimensional JJ I-NP I-KP
 network NN I-NP I-KP
 responsible JJ I-NP O
 for IN I-PP O
@@ -146,6 +147,7 @@ complementary JJ I-NP I-KP
 network NN I-NP I-KP
 of IN I-PP I-KP
 hydrophobic JJ I-NP I-KP
+non-sulfonated JJ I-NP I-KP
 segments NNS I-NP I-KP
 imparts VBZ I-VP O
 a DT I-NP O

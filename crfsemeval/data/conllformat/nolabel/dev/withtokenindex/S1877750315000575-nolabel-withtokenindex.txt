@@ -118,6 +118,7 @@ that IN I-PP O 737,741
 massive JJ I-NP I-KP 742,749
 use NN I-NP I-KP 750,753
 of IN I-PP I-KP 754,756
+real-time JJ I-NP I-KP 757,766
 information NN I-NP I-KP 767,778
 can MD I-VP O 779,782
 have VB I-VP O 783,787

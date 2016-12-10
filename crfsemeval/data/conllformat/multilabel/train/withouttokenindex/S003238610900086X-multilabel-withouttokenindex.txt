@@ -61,6 +61,7 @@ centres NNS I-NP I-M
 are VBP I-VP O
 identified VBN I-VP O
 with IN I-PP O
+pseudo-atoms NNS I-NP I-M
 repeating VBG I-NP O
 after IN I-PP O
 a DT I-NP O
@@ -113,6 +114,7 @@ approximation NN I-NP O
 to TO I-VP O
 the DT I-NP O
 monoclinic, JJ I-NP O
+pseudo-hexagonal JJ I-NP O
 structure NN I-NP O
 of IN I-PP O
 PE NNP I-NP I-M
@@ -179,6 +181,7 @@ the DT I-NP O
 wavelength. NN I-NP O
 
 The DT I-NP O
+i-th JJ I-NP O
 C NNP I-NP O
 atom NN I-NP O
 coordinate NN I-NP O

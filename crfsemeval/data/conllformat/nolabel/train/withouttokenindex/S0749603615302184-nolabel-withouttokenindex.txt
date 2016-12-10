@@ -35,6 +35,7 @@ DBR NNP I-NP I-KP
 stack NN I-NP I-KP
 and CC O O
 the DT I-NP O
+non-uniformity NN I-NP O
 of IN I-PP O
 the DT I-NP O
 DBR NNP I-NP I-KP
@@ -52,6 +53,7 @@ each DT I-NP O
 layer NN I-NP O
 (on VBZ I-VP O
 the DT I-NP O
+a-plane) JJ I-NP O
 through IN I-PP O
 the DT I-NP O
 thickness NN I-NP O
@@ -106,6 +108,7 @@ closer JJR I-NP O
 look NN I-NP O
 at IN I-PP O
 the DT I-NP O
+cross-sectional JJ I-NP I-KP
 STEM NNP I-NP I-KP
 data NNS I-NP I-KP
 and CC O O

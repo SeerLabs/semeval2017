@@ -3,6 +3,7 @@ are VBP I-VP O
 proposed VBN I-VP O
 for IN I-PP O
 modeling VBG I-VP I-T
+data-centric JJ I-NP I-P
 Web NNP I-NP I-P
 services NNS I-NP I-P
 which WDT B-NP O
@@ -22,6 +23,7 @@ formulas NNS I-NP I-P
 specifying VBG I-VP O
 input NN I-NP O
 constraints, VBD I-VP O
+control-flow JJ I-NP I-P
 constraints NNS I-NP I-P
 and CC O O
 state/output/action NN I-NP I-P
@@ -30,7 +32,9 @@ rules. NN I-NP I-P
 The DT I-NP O
 Linear JJ I-NP I-P
 Temporal NNP I-NP I-P
+First-Order NNP I-NP I-P
 Logic NNP I-NP I-P
+(LTL-FO) JJ I-NP O
 formulas NN I-NP O
 over IN I-PP O
 inputs, JJ I-NP O
@@ -53,11 +57,14 @@ that IN I-PP O
 automatic JJ I-NP O
 verification NN I-NP O
 of IN I-PP O
+LTL-FO NNP I-NP I-P
 properties NNS I-NP O
 of IN I-PP O
+data-centric JJ I-NP I-M
 Web NNP I-NP I-M
 services NNS I-NP I-M
 under IN I-PP O
+input-bounded JJ I-NP O
 constraints NNS I-NP O
 is VBZ I-VP O
 decidable JJ I-NP O
@@ -66,6 +73,7 @@ reducing VBG I-VP I-P
 Web NNP I-NP I-P
 services NNS I-NP I-P
 to TO I-VP I-P
+data-centric JJ I-NP I-T
 Web NNP I-NP I-T
 applications. NN I-NP I-T
 

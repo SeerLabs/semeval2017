@@ -41,11 +41,13 @@ field NN I-NP I-KP 251,256
 produced VBN I-VP O 257,265
 by IN I-PP O 266,268
 a DT I-NP O 269,270
+laser-driven JJ I-NP I-KP 271,283
 plasma NN I-NP I-KP 284,290
 wave. NN I-NP I-KP 291,295
 
 Sufficiently RB O O 297,309
 short, JJ I-NP O 310,315
+high-intensity NN I-NP I-KP 317,331
 laser NN I-NP I-KP 332,337
 pulses NNS I-NP I-KP 338,344
 can MD I-VP O 345,348
@@ -137,6 +139,7 @@ for IN I-PP O 850,853
 the DT I-NP O 854,857
 effects NNS I-NP O 858,865
 of IN I-PP O 866,868
+Stern–Gerlach-type JJ I-NP I-KP 869,887
 contributions NNS I-NP I-KP 888,901
 to TO I-VP O 902,904
 the DT I-NP O 905,908

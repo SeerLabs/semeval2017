@@ -42,6 +42,7 @@ usually RB I-VP O 235,242
 undefined JJ I-NP O 243,252
 especially RB O O 253,263
 for IN I-PP O 264,267
+un-experienced JJ I-NP I-KP 268,282
 managers. NN I-NP I-KP 283,291
 
 With IN I-PP O 293,297
@@ -91,6 +92,7 @@ problem. NN I-NP I-KP 560,567
 
 Next, IN I-PP O 569,573
 the DT I-NP O 575,578
+NSGA-II NNP I-NP I-KP 579,586
 algorithm NN I-NP I-KP 587,596
 is VBZ I-VP O 597,599
 utilized VBN I-VP O 600,608

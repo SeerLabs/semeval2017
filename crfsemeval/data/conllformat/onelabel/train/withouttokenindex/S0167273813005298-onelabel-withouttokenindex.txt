@@ -47,6 +47,7 @@ are VBP I-VP O
 found, JJ I-NP O
 indicative JJ I-NP O
 of IN I-PP O
+oxide-ion JJ I-NP I-P
 diffusion NN I-NP I-P
 pathway NN I-NP O
 along IN I-PP O

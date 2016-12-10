@@ -46,6 +46,7 @@ has VBZ I-VP O 297,300
 been VBN I-VP O 301,305
 derived VBN I-VP O 306,313
 from IN I-PP O 314,318
+in-situ JJ I-NP I-KP 319,326
 measurements NNS I-NP I-KP 327,339
 from IN I-PP O 340,344
 lakes NNS I-NP O 345,350
@@ -61,6 +62,7 @@ Pinnel, NNP I-NP O 397,403
 
 If IN I-PP O 412,414
 no DT I-NP O 415,417
+site-specific JJ I-NP O 418,431
 information NN I-NP O 432,443
 is VBZ I-VP O 444,446
 available, IN I-PP O 447,456
@@ -92,6 +94,7 @@ between IN B-PP O 583,590
 different JJ I-NP O 591,600
 ecosystem, JJ I-NP O 601,610
 i.e. JJ I-NP O 612,615
+ecosystem-specific JJ I-NP O 617,635
 sets NNS I-NP O 636,640
 of IN I-PP O 641,643
 optical JJ I-NP O 644,651
@@ -170,6 +173,7 @@ data NNS I-NP I-KP 1070,1074
 bank, VBD I-VP I-KP 1075,1079
 the DT I-NP O 1081,1084
 NASA NNP I-NP I-KP 1085,1089
+bio-Optical JJ I-NP I-KP 1090,1101
 Marine NNP I-NP I-KP 1102,1108
 Algorithm NNP I-NP I-KP 1109,1118
 Data NNP I-NP I-KP 1119,1123
@@ -178,6 +182,7 @@ set NN I-NP I-KP 1124,1127
 and CC O O 1136,1139
 the DT I-NP O 1140,1143
 SeaWiFS NNP I-NP I-KP 1144,1151
+Bio-Optical NNP I-NP I-KP 1152,1163
 Archive NNP I-NP I-KP 1164,1171
 and CC O I-KP 1172,1175
 Storage NNP I-NP I-KP 1176,1183

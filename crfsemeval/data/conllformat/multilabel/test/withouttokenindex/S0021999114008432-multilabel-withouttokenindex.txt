@@ -1,6 +1,7 @@
 The DT I-NP O
 validity NN I-NP I-T
 of IN I-PP I-T
+semi-classical JJ I-NP I-T
 boundary JJ I-NP I-T
 conditions NNS I-NP I-T
 for IN I-PP O
@@ -23,6 +24,7 @@ works NNS I-NP O
 which WDT B-NP O
 address VBP I-VP O
 the DT I-NP O
+non-uniqueness JJ I-NP I-P
 and CC O I-P
 the DT I-NP I-P
 symmetry NN I-NP I-P
@@ -50,6 +52,7 @@ cannot VBP I-VP O
 provide VB I-VP O
 reliable, JJ I-NP O
 i.e. JJ I-NP O
+well-resolved, JJ I-NP O
 results NNS I-NP O
 due JJ I-NP O
 to TO I-VP O
@@ -150,6 +153,7 @@ present VBP I-VP I-T
 simulations NNS I-NP I-T
 only RB O I-T
 for IN I-PP I-T
+non-zero JJ I-NP I-T
 bias NN I-NP I-T
 voltages NNS I-NP I-T
 VDS≠0 NNP I-NP O

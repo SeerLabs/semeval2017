@@ -28,7 +28,9 @@ can MD I-VP O
 be VB I-VP O
 concluded VBN I-VP O
 that IN I-PP O
+in-situ NN I-NP O
 formed VBD I-VP O
+Nb-based JJ I-NP I-M
 intermetallics NNS I-NP I-M
 compounds NNS I-NP I-M
 are VBP I-VP O
@@ -49,6 +51,7 @@ alloys. NN I-NP I-P
 
 The DT I-NP O
 primary JJ I-NP O
+α-Al JJ I-NP I-M
 dendritic JJ I-NP I-M
 grain NN I-NP I-M
 size NN I-NP O

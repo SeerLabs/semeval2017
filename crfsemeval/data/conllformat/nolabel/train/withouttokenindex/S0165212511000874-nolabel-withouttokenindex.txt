@@ -6,6 +6,7 @@ disturbances NNS I-NP I-KP
 in IN I-PP O
 ducts NNS I-NP I-KP
 of IN I-PP O
+slowly-varying JJ I-NP O
 geometry, NNS I-NP O
 such JJ I-NP O
 as IN I-PP O
@@ -30,6 +31,7 @@ first JJ I-NP O
 application NN I-NP O
 [1] NN I-NP O
 of IN I-PP O
+multiple-scales NNS I-NP I-KP
 analysis NN I-NP I-KP
 to TO I-VP O
 sound VB I-VP I-KP
@@ -80,6 +82,7 @@ ducts NNS I-NP I-KP
 [5]. VBP I-VP O
 
 The DT I-NP O
+multiple-scales NNS I-NP I-KP
 approach NN I-NP I-KP
 has VBZ I-VP O
 a DT I-NP O
@@ -131,6 +134,7 @@ has VBZ I-VP O
 been VBN I-VP O
 validated VBN I-VP O
 against IN I-PP O
+finite-element JJ I-NP I-KP
 methods NNS I-NP I-KP
 [6] NN I-NP O
 for IN I-PP O

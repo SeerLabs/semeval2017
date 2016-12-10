@@ -50,6 +50,7 @@ the DT I-NP O 313,316
 question NN I-NP O 317,325
 arises, NN I-NP O 326,332
 since IN I-PP O 334,339
+eleven-dimensional JJ I-NP O 340,358
 Minkowski NNP I-NP I-KP 359,368
 space NN I-NP I-KP 369,374
 is VBZ I-VP O 375,377
@@ -61,6 +62,7 @@ and CC O O 414,417
 the DT I-NP O 418,421
 theory NN I-NP O 422,428
 is VBZ I-VP O 429,431
+well-behaved JJ I-NP O 432,444
 around IN I-PP O 445,451
 it, JJ I-NP O 452,454
 why WRB O O 456,459
@@ -94,6 +96,7 @@ would MD I-VP O 626,631
 be VB I-VP O 632,634
 that IN I-PP O 635,639
 the DT I-NP O 640,643
+eleven-dimensional JJ I-NP I-KP 644,662
 theory NN I-NP I-KP 663,669
 dynamically RB O O 670,681
 predicted VBD I-VP O 682,691
@@ -106,6 +109,7 @@ could MD I-VP O 718,723
 only RB I-VP O 724,728
 be VB I-VP O 729,731
 a DT I-NP O 732,733
+four-dimensional JJ I-NP I-KP 734,750
 effective JJ I-NP I-KP 751,760
 theory. NN I-NP I-KP 761,767
 
@@ -138,6 +142,7 @@ the DT I-NP I-KP 919,922
 dynamical JJ I-NP I-KP 923,932
 fields NNS I-NP I-KP 933,939
 are VBP I-VP O 940,943
+ill-defined, JJ I-NP O 944,955
 lest IN I-PP O 957,961
 a DT I-NP O 962,963
 low JJ I-NP I-KP 964,967

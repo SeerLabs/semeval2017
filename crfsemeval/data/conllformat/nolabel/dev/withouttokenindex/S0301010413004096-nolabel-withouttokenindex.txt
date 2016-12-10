@@ -119,8 +119,10 @@ H2 NNP I-NP I-KP
 molecules NNS I-NP I-KP
 and CC O O
 an DT I-NP O
+aluminium-based JJ I-NP I-KP
 porous JJ I-NP I-KP
 MOF, NNP I-NP I-KP
+NOTT-300, NNP I-NP B-KP
 exhibiting VBG I-VP O
 moderate JJ I-NP O
 porosity, NN I-NP O
@@ -166,7 +168,9 @@ via IN I-PP O
 a DT I-NP O
 type NN I-NP O
 of IN I-PP O
+through-spacing JJ I-NP I-KP
 interaction NN I-NP I-KP
+(Al-O⋯H2). NN I-NP O
 
 Interestingly, NNP I-NP O
 the DT I-NP O

@@ -21,6 +21,7 @@ Switzerland) NNP I-NP I-M
 equipped VBD I-VP I-M
 with IN I-PP I-M
 a DT I-NP I-M
+H-270 JJ I-NP I-M
 diamond NN I-NP I-M
 indentor NN I-NP I-M
 (200μm NNP I-NP I-M

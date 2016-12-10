@@ -8,6 +8,7 @@ to TO I-VP O 36,38
 the DT I-NP O 39,42
 manufacture NN I-NP I-KP 43,54
 of IN I-PP I-KP 55,57
+self-folding JJ I-NP I-KP 58,70
 hydrogel NN I-NP I-KP 71,79
 scaffolds NNS I-NP I-KP 80,89
 by IN I-PP O 90,92
@@ -71,6 +72,7 @@ swelling NN I-NP I-KP 424,432
 of IN I-PP I-KP 433,435
 the DT I-NP I-KP 436,439
 PAA NNP I-NP B-KP 440,443
+inter-penetrating JJ I-NP I-KP 444,461
 network NN I-NP I-KP 462,469
 (IPN) NN I-NP O 470,475
 in IN I-PP O 476,478
@@ -123,6 +125,7 @@ of IN I-PP O 765,767
 producing VBG I-VP I-KP 768,777
 environmentally RB I-VP I-KP 778,793
 triggered VBN I-VP I-KP 794,803
+self-folding JJ I-NP I-KP 804,816
 all DT I-NP I-KP 817,820
 hydrogel NN I-NP I-KP 821,829
 scaffolds NNS I-NP I-KP 830,839
@@ -178,6 +181,7 @@ scaffolds, NNS I-NP I-KP 1145,1154
 and CC O O 1156,1159
 while IN I-PP O 1160,1165
 being VBG I-VP O 1166,1171
+non-fouling JJ I-NP O 1172,1183
 and CC O O 1184,1187
 nontoxic JJ I-NP O 1188,1196
 it PRP B-NP O 1197,1199

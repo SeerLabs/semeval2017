@@ -17,16 +17,20 @@ the DT I-NP O
 recent JJ I-NP O
 progress NN I-NP O
 in IN I-PP O
+aberration-corrected JJ I-NP I-P
 transmission NN I-NP I-P
 electron NN I-NP I-P
 microscopy NN I-NP I-P
+(AC-TEM) JJ I-NP O
 capable JJ I-NP O
 of IN I-PP O
+sub-Ångstrom JJ I-NP I-P
 resolution. NN I-NP I-P
 
 The DT I-NP O
 examples NNS I-NP O
 include VBP I-VP O
+AC-TEM JJ I-NP I-P
 observations NNS I-NP I-P
 of IN I-PP I-P
 the DT I-NP I-P
@@ -57,6 +61,7 @@ defect NN I-NP I-P
 [3]. NN I-NP O
 
 The DT I-NP O
+AC-TEM NNP I-NP O
 has VBZ I-VP O
 been VBN I-VP O
 also RB O O
@@ -70,6 +75,7 @@ of IN I-PP O
 the DT I-NP O
 process NN I-NP I-P
 of IN I-PP I-P
+self-assembly NN I-NP I-P
 of IN I-PP I-P
 graphene JJ I-NP I-P
 nanoribbons NNS I-NP I-P
@@ -92,6 +98,7 @@ sidewall NN I-NP I-M
 
 Based VBN I-VP O
 on IN I-PP O
+AC-TEM NNP I-NP I-P
 observations NNS I-NP I-P
 of IN I-PP O
 transformation NN I-NP O
@@ -104,6 +111,7 @@ into IN I-PP O
 fullerene, NN I-NP I-M
 a DT I-NP O
 new JJ I-NP O
+‘top-down’ JJ I-NP I-T
 mechanism NN I-NP I-T
 for IN I-PP I-T
 the DT I-NP I-T
@@ -126,6 +134,7 @@ step NN I-NP O
 in IN I-PP O
 the DT I-NP O
 proposed VBN I-NP I-T
+‘top-down’ JJ I-NP I-T
 mechanism NN I-NP I-T
 of IN I-PP I-T
 the DT I-NP I-T
@@ -143,6 +152,7 @@ as IN I-PP O
 a DT I-NP O
 result NN I-NP O
 of IN I-PP O
+knock-on JJ I-NP I-P
 damage NN I-NP I-P
 by IN I-PP I-P
 electrons NNS I-NP I-P
@@ -151,6 +161,7 @@ the DT I-NP I-P
 imaging VBG I-NP I-P
 electron NN I-NP I-P
 beam NN I-NP I-P
+(e-beam). NN I-NP I-P
 
 The DT I-NP O
 subsequent JJ I-NP I-T
@@ -202,10 +213,13 @@ explaining VBG I-VP O
 mechanisms NNS I-NP O
 of IN I-PP O
 the DT I-NP O
+e-beam JJ I-NP I-T
 assisted JJ I-NP I-T
+self-assembly NN I-NP I-T
 and CC O O
 structural JJ I-NP I-T
 transformations NNS I-NP I-T
 in IN I-PP I-T
+graphene-like JJ I-NP I-M
 structures. NN I-NP I-M
 

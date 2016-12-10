@@ -1,5 +1,7 @@
 Two CD I-NP O
 different JJ I-NP O
+micro-contact JJ I-NP I-M
+set-ups NNS I-NP I-M
 were VBD I-VP O
 used VBN I-VP O
 in IN I-PP O
@@ -10,6 +12,7 @@ The DT I-NP O
 asymmetrically RB O I-M
 heated JJ I-NP I-M
 measurement JJ I-NP I-M
+set-up JJ I-NP I-M
 (Fig. NN I-NP O
 2a) CD I-NP O
 allows NNS I-NP O
@@ -100,6 +103,7 @@ gradients NNS I-NP I-P
 are VBP I-VP O
 responsible JJ I-NP O
 for IN I-PP O
+thermo-voltages, JJ I-NP O
 which WDT B-NP O
 can MD I-VP O
 lead VB I-VP O
@@ -114,6 +118,7 @@ experiments NNS I-NP I-P
 Moreover, NNP I-NP O
 in IN I-PP O
 this DT I-NP O
+set-up JJ I-NP O
 temperature NN I-NP I-P
 cycles NNS I-NP I-P
 can MD I-VP O
@@ -128,6 +133,7 @@ require VBP I-VP O
 subsequent JJ I-NP O
 contacting NN I-NP I-P
 and CC O I-P
+de-contacting NN I-NP I-P
 of IN I-PP I-P
 different JJ I-NP I-P
 microelectrodes. NN I-NP I-M

@@ -15,22 +15,30 @@ import random
 import pickle
 
 from FeatureExtraction import sent2labels,sent2features
-from PhraseEval import phrasesFromTestSenJustExtraction,phrase_extraction_report
-from DataExtraction import convertCONLLFormJustExtractionSemEval
+from PhraseEval import phrasesFromTestSen,phrasesFromTestSenJustExtraction,phrasesFromTestSenJustExtractionCoNLLBIO,phrase_extraction_report
+from DataExtraction import convertCONLLFormJustExtraction
+
+TRAINTOTESTRATIO = 0.75
 
 def main():
-    train_sents = convertCONLLFormJustExtractionSemEval("semeval-ner-train.txt")
-    test_sents = convertCONLLFormJustExtractionSemEval("semeval-ner-test.txt")
+    train_sents = convertCONLLFormJustExtraction("data/forcrf/nolabel/semeval-train-nolabel.txt")
+    test_sents = convertCONLLFormJustExtraction("data/forcrf/nolabel/semeval-test-nolabel.txt")
     
-    pprint(train_sents[0])
-    pprint(test_sents[0])
-        
+    
     X_train = [sent2features(s) for s in train_sents]
     y_train = [sent2labels(s) for s in train_sents]
 
     X_test = [sent2features(s) for s in test_sents]
     y_test = [sent2labels(s) for s in test_sents]
 
+    pprint(train_sents[0][0]) 
+    pprint(X_train[0][0])
+    pprint(y_train[0]) 
+    
+    #pprint(X_train[0][1])
+    #pprint(X_train[0][2])
+    
+  
     crf = sklearn_crfsuite.CRF(\
     algorithm='lbfgs',\
     c1=0.1,\
@@ -46,7 +54,7 @@ def main():
     pickle.dump(crf,open("linear-chain-crf.model.pickle","wb"))
     y_pred = crf.predict(X_test)
      
-    # Use this if you need to do grid search on training data for parameter optimization.
+    # define fixed parameters and parameters to search
     '''    
     crf = sklearn_crfsuite.CRF(
         algorithm='lbfgs',
@@ -77,10 +85,8 @@ def main():
     sorted_labels = sorted(labels,key=lambda name: (name[1:], name[0]))
     print(metrics.flat_classification_report(y_test, y_pred, labels=sorted_labels, digits=3))
     
-    # Use this if you want to see how the phrase extraction works. This does NOT produce the ann files. 
     '''
-    test_sents_phrases=[phrasesFromTestSenJustExtraction(x) for x in test_sents]
-    pprint(test_sents_phrases[:10]) 
+    test_sents_phrases=[phrasesFromTestSenJustExtractionCoNLLBIO(x) for x in test_sents]
     print "gold standard phrases for test sentences created"
     
     test_sents_pls = []  #test sentences with predicted labels
@@ -92,9 +98,11 @@ def main():
             sent.append(nt)
         test_sents_pls.append(sent)  
     
-    test_sents_pls_phrases=[phrasesFromTestSenJustExtraction(x) for x in test_sents_pls]
+    test_sents_pls_phrases=[phrasesFromTestSenJustExtractionCoNLLBIO(x) for x in test_sents_pls]
     print "predicted phrases for test sentences created"
-  
+     
+    #pprint (phrase_classification_report(test_sents_phrases,test_sents_pls_phrases)) 
+    
     gps = []
     pps = []
     for sent in test_sents_phrases:

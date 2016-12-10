@@ -103,6 +103,7 @@ of IN I-PP I-KP 568,570
 planes NNS I-NP I-KP 571,577
 [32], IN I-PP O 578,582
 the DT I-NP O 584,587
+volume-average JJ I-NP I-KP 588,602
 approach NN I-NP I-KP 603,611
 [26,14], NN I-NP O 612,619
 or CC O O 621,623

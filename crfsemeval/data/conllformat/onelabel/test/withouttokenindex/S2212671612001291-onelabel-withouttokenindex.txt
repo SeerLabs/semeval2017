@@ -11,14 +11,17 @@ control VB I-VP I-T
 liquid JJ I-NP I-T
 state NN I-NP I-T
 of IN I-PP O
+Al-Si NNP I-NP I-M
 alloys NNS I-NP I-M
 in IN I-PP O
 melting VBG I-VP I-P
 and CC I-VP I-P
 holding VBG I-VP I-P
+sub-process NN I-NP I-P
 of IN I-PP O
 the DT I-NP O
 pressure NN I-NP I-P
+die-casting JJ I-NP I-P
 process. NN I-NP I-P
 
 Given VBN I-VP O

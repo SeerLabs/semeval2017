@@ -2,6 +2,7 @@ Despite IN I-PP O
 the DT I-NP O
 fact NN I-NP O
 that IN I-PP O
+SRC-HE NNP I-NP I-P
 reduces VBZ I-VP O
 the DT I-NP O
 number NN I-NP O
@@ -19,11 +20,13 @@ be VB I-VP O
 not RB O O
 suitable JJ I-NP O
 for IN I-PP O
+real-time JJ I-NP O
 applications NNS I-NP O
 [39]. VBP I-VP O
 
 The DT I-NP O
 previous JJ I-NP O
+SRC-HE JJ I-NP O
 module NN I-NP O
 is VBZ I-VP O
 then RB I-VP O
@@ -35,6 +38,7 @@ cross NN I-NP I-P
 correlation NN I-NP I-P
 phase NN I-NP I-P
 transform VB I-VP I-P
+(GCC-PHAT) NN I-NP O
 introduced VBN I-NP O
 in IN I-PP O
 Section NN I-NP O
@@ -137,6 +141,7 @@ and CC I-VP O
 processed VBN I-VP O
 using VBG I-VP O
 a DT I-NP O
+GCC-PHAT JJ I-NP I-P
 step, NN I-NP I-P
 for IN I-PP O
 the DT I-NP O
@@ -173,6 +178,7 @@ TDOA NNP I-NP O
 collected VBD I-VP O
 at IN I-PP O
 the DT I-NP O
+m-th JJ I-NP I-P
 microphone NN I-NP I-P
 pair NN I-NP I-P
 at IN I-PP O

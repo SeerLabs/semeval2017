@@ -1,6 +1,7 @@
 Room NNP I-NP O
 temperature NN I-NP O
 powder NN I-NP I-KP
+X-ray JJ I-NP I-KP
 diffraction NN I-NP I-KP
 (XRD) NN I-NP O
 was VBD I-VP O
@@ -98,12 +99,14 @@ analysed VBN I-VP O
 using VBG I-VP O
 a DT I-NP O
 JEOL NNP I-NP O
+JSM-6700 NNP I-NP O
 field NN I-NP I-KP
 emission NN I-NP I-KP
 74 CD I-NP I-KP
 scanning VBG I-VP I-KP
 electron NN I-NP I-KP
 microscope NN I-NP I-KP
+(FEG-SEM). NN I-NP O
 
 The DT I-NP O
 total JJ I-NP I-KP
@@ -116,6 +119,7 @@ measured VBN I-VP O
 using VBG I-VP O
 a DT I-NP O
 conventional JJ I-NP O
+four-terminal JJ I-NP I-KP
 method. NN I-NP I-KP
 
 Bar NN I-NP O

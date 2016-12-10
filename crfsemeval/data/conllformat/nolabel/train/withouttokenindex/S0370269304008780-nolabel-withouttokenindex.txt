@@ -66,6 +66,7 @@ Ref. NNP I-NP O
 found VBD I-VP O
 that IN I-PP O
 in IN B-PP O
+beta-equilibrated JJ I-NP I-KP
 electrically RB O I-KP
 and CC O O
 color JJ I-NP I-KP

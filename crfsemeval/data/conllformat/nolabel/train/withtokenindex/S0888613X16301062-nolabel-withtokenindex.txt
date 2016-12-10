@@ -93,6 +93,7 @@ decomposable JJ I-NP I-KP 598,610
 negation NN I-NP I-KP 611,619
 normal JJ I-NP I-KP 620,626
 form NN I-NP I-KP 627,631
+(d-DNNF). NN I-NP O 632,640
 
 These DT I-NP O 642,647
 differences NNS I-NP O 648,659

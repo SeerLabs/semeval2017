@@ -125,6 +125,7 @@ neutron DT I-NP I-KP
 damage NN I-NP I-KP
 in IN I-PP O
 a DT I-NP O
+D-T NNP I-NP I-KP
 reactor NN I-NP I-KP
 [6] NN I-NP O
 or CC O O

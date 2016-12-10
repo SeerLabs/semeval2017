@@ -144,6 +144,7 @@ the DT I-NP O
 cases, NN I-NP O
 by IN I-PP O
 a DT I-NP O
+non-appropriate JJ I-NP O
 choice NN I-NP O
 of IN I-PP O
 alloys NNS I-NP I-M
@@ -176,6 +177,7 @@ the DT I-NP O
 design NN I-NP O
 documentation NN I-NP O
 during IN I-PP O
+post-weld JJ I-NP O
 heat NN I-NP O
 treatment. NN I-NP O
 

@@ -1,6 +1,7 @@
 The DT I-NP O 0,3
 thermodynamics NNS I-NP I-KP 4,18
 of IN I-PP I-KP 19,21
+copper-zinc JJ I-NP I-KP 22,33
 alloys NNS I-NP I-KP 34,40
 (brass) NN I-NP I-KP 41,48
 was VBD I-VP O 49,52
@@ -127,6 +128,7 @@ excess JJ I-NP O 830,836
 entropy NN I-NP O 837,844
 coming VBG I-VP O 845,851
 from IN I-PP O 852,856
+non-random JJ I-NP O 857,867
 atomic JJ I-NP O 868,874
 distributions NNS I-NP O 875,888
 and CC O O 889,892
@@ -234,6 +236,7 @@ alloy, NN I-NP I-KP 1562,1567
 whose WP$ B-NP O 1569,1574
 structural JJ I-NP O 1575,1585
 details NNS I-NP O 1586,1593
+(short-range JJ I-NP O 1594,1606
 order) JJ I-NP O 1607,1613
 depend NN I-NP O 1614,1620
 on IN I-PP O 1621,1623

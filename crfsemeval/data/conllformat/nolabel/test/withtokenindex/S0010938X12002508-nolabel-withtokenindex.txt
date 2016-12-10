@@ -8,6 +8,7 @@ transient JJ I-NP I-KP 30,39
 response NN I-NP I-KP 40,48
 analysis NN I-NP I-KP 49,57
 on IN I-PP O 58,60
+full-scale JJ I-NP O 61,71
 motorway NN I-NP I-KP 72,80
 bridge NN I-NP I-KP 81,87
 structures NNS I-NP I-KP 88,98
@@ -28,6 +29,7 @@ study NN I-NP O 185,190
 to TO I-VP O 191,193
 assess VB I-VP O 194,200
 the DT I-NP O 201,204
+long-term JJ I-NP I-KP 205,214
 sustained JJ I-NP I-KP 215,224
 benefits NNS I-NP I-KP 225,233
 offered VBN I-VP O 234,241
@@ -76,6 +78,7 @@ order NN I-NP O 499,504
 to TO I-VP O 505,507
 assess VB I-VP I-KP 508,514
 the DT I-NP I-KP 515,518
+long-term JJ I-NP I-KP 519,528
 benefits NNS I-NP I-KP 529,537
 provided VBN I-VP O 538,546
 by IN I-PP O 547,549
@@ -97,6 +100,7 @@ simplified JJ I-NP I-KP 620,630
 approach NN I-NP I-KP 631,639
 for IN I-PP O 640,643
 the DT I-NP O 644,647
+on-site JJ I-NP O 648,655
 use NN I-NP O 656,659
 of IN I-PP O 660,662
 transient JJ I-NP I-KP 663,672

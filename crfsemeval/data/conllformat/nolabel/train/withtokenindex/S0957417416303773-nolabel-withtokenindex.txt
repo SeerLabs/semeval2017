@@ -36,6 +36,7 @@ method NN I-NP I-KP 198,204
 
 In IN I-PP O 229,231
 an DT I-NP O 232,234
+N-dimensional JJ I-NP O 235,248
 vector NN I-NP O 249,255
 space, VBD I-VP O 256,261
 the DT I-NP I-KP 263,266
@@ -51,6 +52,7 @@ technique NN I-NP O 309,318
 that WDT B-NP O 319,323
 finds VBZ I-VP I-KP 324,329
 the DT I-NP I-KP 330,333
+mutually-uncorrelated JJ I-NP I-KP 334,355
 vectors NNS I-NP I-KP 356,363
 onto IN I-PP O 364,368
 which WDT I-NP O 369,374
@@ -108,6 +110,7 @@ original JJ I-NP O 652,660
 KPIs NNP I-NP O 661,665
 constitute NN I-NP O 666,676
 the DT B-NP O 677,680
+N-dimensional NNP I-NP I-KP 681,694
 vector NN I-NP I-KP 695,701
 space NN I-NP I-KP 702,707
 basis, NN I-NP I-KP 708,713

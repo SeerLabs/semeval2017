@@ -13,6 +13,7 @@ to TO I-VP O
 designing VBG I-VP O
 solvers NNS I-NP I-T
 for IN I-PP I-T
+large-scale JJ I-NP I-T
 problems NNS I-NP I-T
 in IN I-PP I-T
 computational JJ I-NP I-T
@@ -29,6 +30,7 @@ a DT I-NP O
 number NN I-NP I-M
 of IN I-PP I-M
 independent JJ I-NP I-M
+sub-problems, NN I-NP I-M
 which WDT B-NP O
 are VBP I-VP O
 then RB I-VP O
@@ -37,7 +39,10 @@ in IN I-PP O
 appropriate JJ I-NP O
 ways. NN I-NP O
 
+NURBS- JJ I-NP O
+(Non-Uniform JJ I-NP O
 Rational NNP I-NP I-P
+B-spline) NNP I-NP O
 based VBN I-VP O
 isogeometric JJ I-NP I-P
 analysis NN I-NP I-P
@@ -73,6 +78,7 @@ domain NN I-NP O
 into IN I-PP O
 several JJ I-NP I-M
 subdomains, JJ I-NP I-M
+NURBS-based JJ I-NP I-P
 IGA NNP I-NP I-P
 is VBZ I-VP O
 particularly RB I-VP O
@@ -141,6 +147,7 @@ and CC O O
 for IN I-PP O
 interfaces NNS I-NP I-M
 with IN I-PP I-M
+T-joints, NNP I-NP I-M
 i.e. NN I-NP O
 hanging VBG I-VP I-M
 nodes). NNS I-NP O

@@ -39,6 +39,7 @@ the DT I-NP O 242,245
 contribution NN I-NP I-KP 246,258
 of IN I-PP I-KP 259,261
 the DT I-NP I-KP 262,265
+iso-vector, JJ I-NP I-KP 266,276
 scalar JJ I-NP I-KP 278,284
 δ NN I-NP I-KP 285,286
 field NN I-NP I-KP 287,292
@@ -150,6 +151,7 @@ the DT I-NP I-KP 943,946
 description NN I-NP I-KP 947,958
 of IN I-PP I-KP 959,961
 the DT I-NP I-KP 962,965
+iso-vector JJ I-NP I-KP 966,976
 equation NN I-NP I-KP 977,985
 of IN I-PP I-KP 986,988
 state. NN I-NP I-KP 989,994

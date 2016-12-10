@@ -1,4 +1,5 @@
 A DT I-NP O 0,1
+multi-physics JJ I-NP I-KP 2,15
 description NN I-NP I-KP 16,27
 of IN I-PP I-KP 28,30
 a DT I-NP I-KP 31,32
@@ -28,6 +29,7 @@ treatment NN I-NP I-KP 150,159
 model) NN I-NP O 171,177
 with IN I-PP O 178,182
 a DT I-NP O 183,184
+continuum-fluid JJ I-NP I-KP 185,200
 one CD I-NP I-KP 201,204
 (a NN I-NP O 205,207
 ‘macro’ VBZ I-VP O 208,215
@@ -66,6 +68,7 @@ different, JJ I-NP O 400,409
 which WDT B-NP O 411,416
 means VBZ I-VP O 417,422
 that IN I-PP O 423,427
+time-accurate JJ I-NP O 428,441
 simulations NNS I-NP O 442,453
 can MD I-VP O 454,457
 be VB I-VP O 458,460
@@ -92,6 +95,7 @@ that IN I-PP O 574,578
 simulations NNS I-NP O 579,590
 over IN I-PP O 591,595
 significant JJ I-NP O 596,607
+macro-scale JJ I-NP O 608,619
 time NN I-NP O 620,624
 periods NNS I-NP O 625,632
 are VBP I-VP O 633,636
@@ -101,6 +105,7 @@ If IN I-PP O 650,652
 the DT I-NP O 653,656
 system NN I-NP O 657,663
 is VBZ I-VP O 664,666
+‘scale-separated’, JJ I-NP O 667,684
 a DT I-NP O 686,687
 physical JJ I-NP I-KP 688,696
 (as NN I-NP I-KP 697,700
@@ -126,6 +131,7 @@ with IN I-PP O 831,835
 negligible JJ I-NP O 836,846
 penalty NN I-NP O 847,854
 on IN I-PP O 855,857
+macro-scale JJ I-NP O 858,869
 accuracy. NN I-NP O 870,878
 
 E NNP I-NP O 880,881
@@ -143,6 +149,7 @@ this DT I-NP O 935,939
 concept NN I-NP O 940,947
 in IN I-PP O 948,950
 a DT I-NP O 951,952
+time-stepping JJ I-NP I-KP 953,966
 method NN I-NP I-KP 967,973
 for IN I-PP I-KP 974,977
 coupled VBN I-NP I-KP 978,985

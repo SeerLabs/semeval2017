@@ -90,6 +90,7 @@ larger JJR O I-M
 magnetic JJ I-NP I-M
 anisotropy NN I-NP I-M
 than IN I-PP O
+non-interacting JJ I-NP I-M
 particles. NN I-NP I-M
 
 By IN I-PP O
@@ -98,6 +99,7 @@ the DT I-NP I-P
 current JJ I-NP I-P
 density NN I-NP I-P
 small JJ I-NP I-M
+Ni-particles NNP I-NP I-M
 (3–6nm) NN I-NP I-M
 can MD I-VP O
 be VB I-VP O
@@ -113,6 +115,7 @@ particles NNS I-NP I-M
 is VBZ I-VP O
 sufficiently RB I-VP O
 close, JJ I-NP O
+Ni-tubes NNP I-NP I-M
 of IN I-PP O
 a DT I-NP O
 few JJ I-NP O

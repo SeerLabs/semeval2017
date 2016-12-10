@@ -3,6 +3,7 @@ scenario NN I-NP O 2,10
 is VBZ I-VP O 11,13
 proposed VBN I-VP O 14,22
 for IN I-PP O 23,26
+bi-large JJ I-NP I-KP 27,35
 lepton NN I-NP I-KP 36,42
 mixing NN I-NP I-KP 43,49
 in IN I-PP O 50,52
@@ -92,6 +93,7 @@ arises NNS I-NP O 543,549
 due JJ I-NP O 550,553
 to TO I-VP O 554,556
 the DT I-NP O 557,560
+non-diagonal JJ I-NP I-KP 561,573
 charged VBN I-VP I-KP 574,581
 lepton NN I-NP I-KP 582,588
 mass NN I-NP I-KP 589,593

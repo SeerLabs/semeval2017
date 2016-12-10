@@ -69,7 +69,9 @@ recorded VBN I-VP O 407,415
 by IN I-PP O 416,418
 using VBG I-VP O 419,424
 a DT I-NP O 425,426
+NI-USB JJ I-NP I-KP 427,433
 6009 CD I-NP I-KP 434,438
+analog-to-digital JJ I-NP I-KP 439,456
 converter. NN I-NP I-KP 457,466
 
 The DT I-NP O 468,471
@@ -79,6 +81,7 @@ signal NN I-NP I-KP 494,500
 was VBD I-VP O 501,504
 recorded VBN I-VP O 505,513
 using VBG I-VP O 514,519
+in-house NN I-NP I-KP 520,528
 developed VBD I-VP I-KP 529,538
 software, JJ I-NP I-KP 539,547
 acquiring VBG I-NP O 549,558

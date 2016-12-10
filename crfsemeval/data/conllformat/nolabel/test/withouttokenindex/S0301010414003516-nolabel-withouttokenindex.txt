@@ -14,11 +14,13 @@ polyethylene NN I-NP I-KP
 naphthalate NN I-NP I-KP
 (PEN) NNP I-NP I-KP
 substrates VBZ I-VP I-KP
+(Dupont-Teijin). JJ I-NP O
 
 Full NNP I-NP O
 details NNS I-NP O
 of IN I-PP O
 our PRP$ I-NP O
+vacuum-fabrication NN I-NP I-KP
 procedures NNS I-NP I-KP
 have VBP I-VP O
 been VBN I-VP O
@@ -53,6 +55,7 @@ attached VBN I-VP O
 to TO I-VP O
 a DT I-NP O
 cooled VBN I-NP O
+web-coater NN I-NP I-KP
 drum NN I-NP I-KP
 (Aerre CD I-NP O
 Machines). NNP I-NP O
@@ -69,6 +72,7 @@ of IN I-PP O
 25m/min CD I-NP O
 under IN I-PP O
 vacuum, JJ I-NP O
+flash-evaporated JJ I-NP I-KP
 TPGDA NNP I-NP I-KP
 monomer NN I-NP I-KP
 vapour NN I-NP I-KP
@@ -78,6 +82,7 @@ onto IN I-PP O
 the DT I-NP O
 substrates NNS I-NP I-KP
 was VBD I-VP O
+cross-linked VBN I-VP I-KP
 by IN I-PP O
 exposure, NN I-NP I-KP
 in IN I-PP O
@@ -89,6 +94,7 @@ plasma. NN I-NP I-KP
 The DT I-NP O
 resulting VBG I-NP O
 smooth, JJ I-NP O
+pinhole-free JJ I-NP O
 films NNS I-NP I-KP
 were VBD I-VP O
 typically RB I-VP O
@@ -130,6 +136,7 @@ act VB I-VP O
 as IN I-PP O
 vias NN I-NP O
 for IN I-PP O
+inter-layer JJ I-NP I-KP
 metallic JJ I-NP I-KP
 connections. NN I-NP I-KP
 
@@ -151,6 +158,7 @@ nitrogen NN I-NP I-KP
 glovebox NN I-NP I-KP
 for IN I-PP O
 the DT I-NP O
+vacuum-deposition NN I-NP I-KP
 (2.4nm/min) NN I-NP O
 of IN I-PP O
 DNTT NNP I-NP O

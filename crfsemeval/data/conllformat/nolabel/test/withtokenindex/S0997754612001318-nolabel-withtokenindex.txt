@@ -14,6 +14,7 @@ used VBN I-VP O 76,80
 as IN I-PP O 81,83
 an DT I-NP O 84,86
 effective JJ I-NP O 87,96
+flow-control NN I-NP I-KP 97,109
 mechanism. NN I-NP I-KP 110,119
 
 For IN I-PP O 121,124
@@ -30,6 +31,7 @@ of IN I-PP O 186,188
 suction NN I-NP O 189,196
 extends VBZ I-VP O 197,204
 the DT I-NP O 205,208
+laminar-flow JJ I-NP O 209,221
 region NN I-NP O 222,228
 over IN I-PP O 229,233
 a DT I-NP O 234,235
@@ -53,6 +55,7 @@ velocity. NN I-NP I-KP 326,334
 Conclusions NNS I-NP O 336,347
 for IN I-PP O 348,351
 the DT I-NP O 352,355
+swept-wing JJ I-NP I-KP 356,366
 flow NN I-NP I-KP 367,371
 arose VBD I-VP O 372,377
 from IN I-PP O 378,382
@@ -194,6 +197,7 @@ of IN I-PP O 1235,1237
 the DT I-NP O 1238,1241
 onset NN I-NP O 1242,1247
 of IN I-PP O 1248,1250
+laminar-turbulent JJ I-NP I-KP 1251,1268
 transition NN I-NP I-KP 1269,1279
 (Lingwood NN I-NP O 1280,1289
 [7,10,11]). NN I-NP O 1290,1300

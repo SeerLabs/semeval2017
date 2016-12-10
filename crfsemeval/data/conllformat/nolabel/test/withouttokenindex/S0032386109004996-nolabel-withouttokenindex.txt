@@ -77,6 +77,7 @@ straightforward. JJ I-NP O
 Also, IN I-PP O
 it PRP I-NP O
 is VBZ I-VP O
+non-destructive JJ I-NP O
 under IN I-PP O
 many JJ I-NP O
 circumstances. NN I-NP O
@@ -99,10 +100,12 @@ melting NN I-NP I-KP
 is VBZ I-VP O
 occurring, JJ I-NP O
 giving VBG I-NP O
+time-resolved JJ I-NP I-KP
 data NNS I-NP I-KP
 at IN I-PP O
 lamellar JJ I-NP O
 or CC O O
+sub-lamellar JJ I-NP O
 resolution NN I-NP O
 [15–18]. NN I-NP O
 
@@ -137,6 +140,7 @@ growth, NN I-NP I-KP
 crystal NN I-NP I-KP
 melting, NN I-NP I-KP
 and CC O O
+re-organisations NNS I-NP I-KP
 within IN I-PP I-KP
 crystals NNS I-NP I-KP
 at IN I-PP I-KP

@@ -119,6 +119,7 @@ enhanced VBN I-VP I-KP 776,784
 fragmentation NN I-NP I-KP 785,798
 pathway NN I-NP I-KP 799,806
 of IN I-PP O 807,809
+n-propyl JJ I-NP I-KP 810,818
 benzene, NN I-NP I-KP 819,826
 which WDT B-NP O 828,833
 seems VBZ I-VP O 834,839
@@ -134,6 +135,7 @@ We PRP I-NP O 895,897
 found VBD I-VP O 898,903
 that IN I-PP O 904,908
 for IN B-PP O 909,912
+n-propyl JJ I-NP I-KP 913,921
 benzene, NN I-NP I-KP 922,929
 the DT B-NP O 931,934
 relative JJ I-NP O 935,943

@@ -31,6 +31,7 @@ region NN I-NP O 194,200
 and CC O O 201,204
 a DT I-NP O 205,206
 thinner, JJ I-NP O 207,214
+non-porous, JJ I-NP O 216,226
 inner JJ I-NP O 228,233
 region NN I-NP O 234,240
 [2,3]. NN I-NP O 241,246
@@ -110,6 +111,7 @@ of IN I-PP O 675,677
 ionic JJ I-NP I-KP 678,683
 migration NN I-NP I-KP 684,693
 in IN I-PP O 694,696
+barrier-type NN I-NP O 697,709
 and CC O O 710,713
 porous JJ I-NP O 714,720
 anodic JJ I-NP I-KP 721,727
@@ -222,6 +224,7 @@ barrier NN I-NP I-KP 1358,1365
 layer NN I-NP I-KP 1366,1371
 by IN I-PP I-KP 1372,1374
 either DT I-NP I-KP 1375,1381
+field-assisted JJ I-NP I-KP 1382,1396
 dissolution NN I-NP I-KP 1397,1408
 of IN I-PP O 1409,1411
 the DT I-NP O 1412,1415
@@ -232,6 +235,7 @@ pore NN I-NP I-KP 1431,1435
 bases VBZ I-VP I-KP 1436,1441
 [8] CD I-NP O 1442,1445
 or CC O O 1446,1448
+field-assisted JJ I-NP I-KP 1449,1463
 flow NN I-NP I-KP 1464,1468
 of IN I-PP I-KP 1469,1471
 alumina NN I-NP I-KP 1472,1479

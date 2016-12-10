@@ -38,6 +38,7 @@ concretely, NN I-NP O
 we PRP B-NP O
 generalize VBP I-VP I-KP
 the DT I-NP I-KP
+one-loop JJ I-NP I-KP
 partition NN I-NP I-KP
 functions, NN I-NP I-KP
 as IN I-PP O
@@ -68,6 +69,7 @@ additional JJ I-NP I-KP
 dressings NNS I-NP I-KP
 of IN I-PP I-KP
 the DT I-NP I-KP
+world-sheet JJ I-NP I-KP
 parity NN I-NP I-KP
 symmetry NN I-NP I-KP
 and CC O O
@@ -113,6 +115,7 @@ very RB I-NP O
 explicit JJ I-NP O
 and CC O O
 general JJ I-NP O
+one-loop JJ I-NP I-KP
 partition NN I-NP I-KP
 functions NNS I-NP I-KP
 and CC O O
@@ -178,6 +181,7 @@ a DT I-NP O
 systematic JJ I-NP I-KP
 search NN I-NP I-KP
 for IN I-PP I-KP
+Standard-like NNP I-NP I-KP
 models NNS I-NP I-KP
 respectively RB O O
 for IN I-PP O

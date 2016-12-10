@@ -50,6 +50,7 @@ energy NN I-NP O 317,323
 minima. NNS I-NP O 324,330
 
 Indeed, NNP I-NP O 332,338
+cross-overs NNS I-NP I-KP 340,351
 in IN I-PP I-KP 352,354
 the DT I-NP I-KP 355,358
 approximate NN I-NP I-KP 359,370
@@ -66,6 +67,7 @@ free JJ I-NP O 425,429
 energy NN I-NP O 430,436
 of IN I-PP O 437,439
 the DT I-NP O 440,443
+second-lowest JJ I-NP O 444,457
 potential JJ I-NP O 458,467
 energy NN I-NP O 468,474
 minimum NN I-NP O 475,482

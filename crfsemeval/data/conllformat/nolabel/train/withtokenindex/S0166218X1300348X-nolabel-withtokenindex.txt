@@ -1,3 +1,4 @@
+Max-linear JJ I-NP I-KP 0,10
 programs NNS I-NP I-KP 11,19
 have VBP I-VP O 20,24
 been VBN I-VP O 25,29
@@ -36,6 +37,7 @@ finding VBG I-VP O 226,233
 integer JJ I-NP I-KP 234,241
 solutions NNS I-NP I-KP 242,251
 to TO I-VP O 252,254
+max-linear JJ I-NP I-KP 255,265
 programs.For NN I-NP O 266,278
 a DT B-NP O 279,280
 generic JJ I-NP I-KP 281,288
@@ -48,6 +50,8 @@ that IN I-PP O 316,320
 integer JJR I-NP I-KP 321,328
 solutions NNS I-NP I-KP 329,338
 to TO I-VP O 339,341
+two-sided JJ I-NP I-KP 342,351
+max-linear JJ I-NP I-KP 352,362
 systems NNS I-NP I-KP 363,370
 and CC O I-KP 371,374
 programs NNS I-NP I-KP 375,383

@@ -17,6 +17,7 @@ sequences NNS I-NP I-T
 of IN I-PP I-T
 entries NNS I-NP I-T
 of IN I-PP I-T
+max-algebraic JJ I-NP I-T
 matrix NN I-NP I-T
 powers NNS I-NP I-T
 with IN I-PP I-T

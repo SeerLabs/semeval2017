@@ -3,6 +3,7 @@ are VBP I-VP O 7,10
 proposed VBN I-VP O 11,19
 for IN I-PP O 20,23
 modeling VBG I-VP I-KP 24,32
+data-centric JJ I-NP I-KP 33,45
 Web NNP I-NP I-KP 46,49
 services NNS I-NP I-KP 50,58
 which WDT B-NP O 59,64
@@ -22,6 +23,7 @@ formulas NNS I-NP I-KP 146,154
 specifying VBG I-VP O 155,165
 input NN I-NP O 166,171
 constraints, VBD I-VP O 172,183
+control-flow JJ I-NP I-KP 185,197
 constraints NNS I-NP I-KP 198,209
 and CC O O 210,213
 state/output/action NN I-NP I-KP 214,233
@@ -30,7 +32,9 @@ rules. NN I-NP I-KP 234,239
 The DT I-NP O 241,244
 Linear JJ I-NP I-KP 245,251
 Temporal NNP I-NP I-KP 252,260
+First-Order NNP I-NP I-KP 261,272
 Logic NNP I-NP I-KP 273,278
+(LTL-FO) JJ I-NP O 279,287
 formulas NN I-NP O 288,296
 over IN I-PP O 297,301
 inputs, JJ I-NP O 302,308
@@ -53,11 +57,14 @@ that IN I-PP O 403,407
 automatic JJ I-NP O 408,417
 verification NN I-NP O 418,430
 of IN I-PP O 431,433
+LTL-FO NNP I-NP I-KP 434,440
 properties NNS I-NP O 441,451
 of IN I-PP O 452,454
+data-centric JJ I-NP I-KP 455,467
 Web NNP I-NP I-KP 468,471
 services NNS I-NP I-KP 472,480
 under IN I-PP O 481,486
+input-bounded JJ I-NP O 487,500
 constraints NNS I-NP O 501,512
 is VBZ I-VP O 513,515
 decidable JJ I-NP O 516,525
@@ -66,6 +73,7 @@ reducing VBG I-VP I-KP 529,537
 Web NNP I-NP I-KP 538,541
 services NNS I-NP I-KP 542,550
 to TO I-VP I-KP 551,553
+data-centric JJ I-NP I-KP 554,566
 Web NNP I-NP I-KP 567,570
 applications. NN I-NP I-KP 571,583
 

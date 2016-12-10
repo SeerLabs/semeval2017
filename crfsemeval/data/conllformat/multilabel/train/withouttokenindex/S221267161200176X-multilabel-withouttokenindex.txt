@@ -3,6 +3,7 @@ or CC I-VP I-T
 approximating VBG I-VP I-P
 high JJ I-NP I-T
 dimensional, JJ I-NP I-T
+computationally-expensive JJ I-NP I-T
 problems NNS I-NP I-T
 faces VBZ I-VP O
 an DT I-NP O
@@ -36,6 +37,7 @@ regression NN I-NP I-P
 termed VBD I-VP O
 as IN I-PP O
 adaptive JJ I-NP I-P
+SVR-HMDR, NNP I-NP I-P
 to TO I-VP O
 conquer VB I-VP I-T
 this DT I-NP I-T
@@ -104,4 +106,5 @@ procedure NN I-NP I-T
 and CC O I-T
 performance NN I-NP I-T
 of IN I-PP O
+SVR-HDMR. NNP I-NP I-P
 

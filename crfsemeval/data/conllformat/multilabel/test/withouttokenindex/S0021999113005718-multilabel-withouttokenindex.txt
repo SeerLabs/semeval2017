@@ -6,6 +6,7 @@ gas NN I-NP I-P
 flow NN I-NP I-P
 through IN I-PP O
 such JJ I-NP O
+non-trivial JJ I-NP O
 internal JJ I-NP O
 geometries NNS I-NP O
 is, VBP I-VP O
@@ -86,6 +87,7 @@ be VB I-VP O
 prohibitively RB O O
 expensive JJ I-NP O
 for IN I-PP O
+internal-flow JJ I-NP I-T
 applications, NN I-NP I-T
 which WDT B-NP O
 typically RB O O
@@ -93,6 +95,7 @@ have VBP I-VP O
 a DT I-NP O
 geometry NN I-NP O
 of IN I-PP O
+high-aspect JJ I-NP O
 ratio NN I-NP O
 (i.e. NNS I-NP O
 are VBP I-VP O
@@ -101,8 +104,10 @@ long, JJ I-NP O
 relative NN I-NP O
 to TO I-VP O
 their PRP$ I-NP O
+cross-section). NN I-NP O
 
 The DT I-NP O
+high-aspect JJ I-NP I-P
 ratio NN I-NP I-P
 creates VBZ I-VP O
 a DT I-NP O

@@ -19,6 +19,7 @@ solutions NNS I-NP O
 are VBP I-VP O
 obtained VBN I-VP O
 from IN I-PP O
+semi-classical JJ I-NP I-P
 arguments NNS I-NP I-P
 in IN I-PP I-P
 weak JJ I-NP I-P
@@ -47,6 +48,7 @@ is VBZ I-VP O
 that IN I-PP O
 of IN B-PP O
 fermionic JJ I-NP I-T
+zero-energy JJ I-NP I-T
 modes NNS I-NP I-T
 trapped VBN I-VP I-T
 on IN I-PP I-T
@@ -58,11 +60,13 @@ presence NN I-NP O
 requires, NN I-NP O
 according VBG I-VP O
 to TO I-VP O
+well-known JJ I-NP O
 arguments NNS I-NP O
 [1,2], VBP I-VP O
 an DT I-NP O
 assignment NN I-NP I-P
 of IN I-PP I-P
+half-integer JJ I-NP I-P
 fermion NN I-NP I-P
 number NN I-NP I-P
 to TO I-VP I-P
@@ -80,6 +84,7 @@ reaction NN I-NP I-T
 of IN I-PP I-T
 the DT I-NP I-T
 fermion NN I-NP I-T
+zero-modes NNS I-NP I-T
 on IN I-PP I-T
 the DT I-NP I-T
 soliton NN I-NP I-T
@@ -132,6 +137,7 @@ isolation, NN I-NP O
 there EX O O
 is VBZ I-VP O
 no DT I-NP O
+particle-like JJ I-NP O
 state NN I-NP O
 available JJ I-NP O
 for IN I-PP O

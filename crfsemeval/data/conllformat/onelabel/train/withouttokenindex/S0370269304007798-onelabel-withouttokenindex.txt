@@ -80,6 +80,7 @@ significantly RB I-VP O
 mix VB I-VP O
 with IN I-PP O
 regular JJ I-NP O
+qq̄-mesons NNS I-NP I-M
 in IN I-PP O
 the DT I-NP O
 region NN I-NP O
@@ -162,4 +163,5 @@ are VBP I-VP O
 unattainable JJ I-NP O
 by IN I-PP O
 regular JJ I-NP O
+qq̄-mesons. NN I-NP I-M
 

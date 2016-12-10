@@ -1,7 +1,9 @@
 An DT I-NP O 0,2
 algorithm NN I-NP I-KP 3,12
 of IN I-PP I-KP 13,15
+multi-axis JJ I-NP I-KP 16,26
 NC NNP I-NP I-KP 27,29
+tool-path NN I-NP I-KP 30,39
 generation NN I-NP I-KP 40,50
 for IN I-PP I-KP 51,54
 subdivision NN I-NP I-KP 55,66

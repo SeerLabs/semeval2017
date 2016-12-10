@@ -12,6 +12,7 @@ directly RB I-VP O 70,78
 based VBN I-VP O 79,84
 on IN I-PP O 85,87
 the DT I-NP O 88,91
+NURBS-based JJ I-NP I-KP 92,103
 representation NN I-NP I-KP 104,118
 of IN I-PP I-KP 119,121
 CAD NNP I-NP B-KP 122,125
@@ -20,9 +21,12 @@ models. NN I-NP I-KP 126,132
 It PRP I-NP O 134,136
 exploits VBZ I-VP O 137,145
 the DT I-NP O 146,149
+tensor-product NN I-NP O 150,164
 structure NN I-NP O 165,174
 of IN I-PP O 175,177
+2- JJ I-NP O 178,180
 or CC O O 181,183
+3-dimensional JJ I-NP O 184,197
 NURBS NNP I-NP I-KP 198,203
 objects NNS I-NP I-KP 204,211
 to TO I-VP O 212,214
@@ -61,7 +65,9 @@ in IN I-PP O 417,419
 order NN I-NP O 420,425
 to TO I-VP O 426,428
 represent VB I-VP O 429,438
+non-quadrangular JJ I-NP O 439,455
 or CC O O 456,458
+non-hexahedral JJ I-NP O 459,473
 domains NNS I-NP O 474,481
 without IN I-PP O 482,489
 splitting, JJ I-NP I-KP 490,499
@@ -76,6 +82,7 @@ representation.The NN I-NP O 549,567
 Galerkin NNP I-NP I-KP 568,576
 projection NN I-NP I-KP 577,587
 introduces NNS I-NP O 588,598
+finite-dimensional JJ I-NP O 599,617
 spaces NNS I-NP O 618,624
 of IN I-PP O 625,627
 test NN I-NP O 628,632
@@ -160,7 +167,9 @@ test NN I-NP I-KP 1173,1177
 functions. NN I-NP I-KP 1178,1187
 
 For IN I-PP O 1189,1192
+one- JJ I-NP O 1193,1197
 and CC O O 1198,1201
+two-dimensional JJ I-NP O 1202,1217
 domains NNS I-NP O 1218,1225
 we PRP B-NP O 1226,1228
 consider VBP I-VP I-KP 1229,1237

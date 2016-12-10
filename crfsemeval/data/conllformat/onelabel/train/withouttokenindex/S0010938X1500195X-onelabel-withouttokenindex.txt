@@ -10,8 +10,10 @@ the DT I-NP O
 increased VBN I-NP O
 use NN I-NP O
 of IN I-PP O
+Ti-based JJ I-NP I-M
 alloys NNS I-NP I-M
 in IN I-PP O
+high-temperature JJ I-NP O
 structural JJ I-NP O
 applications. NN I-NP O
 
@@ -46,6 +48,7 @@ the DT I-NP I-T
 oxidation NN I-NP I-P
 behavior NN I-NP I-T
 of IN I-PP I-T
+Ti-based JJ I-NP I-M
 alloys NNS I-NP I-M
 [1–3]. VBP I-VP O
 
@@ -56,6 +59,7 @@ overcome VB I-VP O
 this DT I-NP O
 limitation NN I-NP O
 in IN I-PP O
+Ti-based JJ I-NP I-M
 alloys NN I-NP I-M
 has VBZ I-VP O
 led VBN I-VP O
@@ -71,12 +75,14 @@ oxidation NN I-NP I-M
 resistance NN I-NP I-M
 such JJ I-NP O
 as IN I-PP O
+β-21S JJ I-NP I-M
 and CC O O
 also RB O O
 development NN I-NP I-T
 of IN I-PP I-T
 coatings NNS I-NP I-M
 and CC O I-T
+pre-oxidation NN I-NP I-P
 techniques NNS I-NP I-P
 [1,4–6]. VBP I-VP O
 

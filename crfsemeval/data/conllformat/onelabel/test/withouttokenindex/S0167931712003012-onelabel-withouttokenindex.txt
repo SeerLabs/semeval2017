@@ -1,6 +1,7 @@
 We PRP I-NP O
 evaluated VBD I-VP I-T
 three CD I-NP I-M
+spin-on JJ I-NP I-M
 carbon NN I-NP I-M
 hardmasks NNS I-NP I-M
 from IN I-PP I-T
@@ -9,6 +10,7 @@ Materials NNS I-NP I-T
 [12]. VBP I-VP O
 
 The DT I-NP O
+spin-on JJ I-NP I-M
 carbon NN I-NP I-M
 compositions NNS I-NP I-M
 were VBD I-VP O
@@ -39,9 +41,12 @@ measurements NNS I-NP I-P
 were VBD I-VP O
 made VBN I-VP O
 for IN I-PP O
+IM-HM11-01 NNP I-NP I-M
 and CC O O
+IM-HM11-02 NNP I-NP I-M
 films, JJ I-NP I-M
 whilst VBD I-VP O
+IM-HM11-03 NNP I-NP I-M
 was VBD I-VP O
 used VBN I-VP O
 for IN I-PP O
@@ -71,6 +76,7 @@ by IN I-PP O
 spin NN I-NP I-P
 coating VBG I-NP I-P
 on IN I-PP O
+hydrogen-terminated JJ I-NP I-M
 silicon NN I-NP I-M
 substrates NNS I-NP I-M
 with IN I-PP O
@@ -119,6 +125,7 @@ solvents NNS I-NP O
 for IN I-PP O
 resist NN I-NP O
 and CC O O
+spin-on-hardmask NN I-NP I-M
 to TO I-VP O
 enable VB I-VP O
 further JJ I-NP O
@@ -130,7 +137,9 @@ behavior NN I-NP I-T
 of IN I-PP O
 films NNS I-NP O
 of IN I-PP O
+IM-HM11-01 NNP I-NP I-M
 and CC O I-M
+IM-HM11-02 NNP I-NP I-M
 for IN I-PP O
 thicknesses NNS I-NP O
 between IN I-PP O
@@ -160,7 +169,9 @@ formulations NNS I-NP O
 of IN I-PP O
 the DT I-NP O
 SoC NNP I-NP I-M
+(IM-HM11-01 JJ I-NP O
 and CC O I-M
+IM-HM11-02), JJ I-NP O
 before NN I-NP I-P
 and CC O I-P
 after IN I-PP I-P
@@ -177,12 +188,14 @@ baking VBG I-VP I-P
 the DT I-NP O
 thickness NN I-NP O
 of IN I-PP O
+IM-HM11-01 NNP I-NP I-M
 was VBD I-VP O
 ∼320nm, VBN I-VP O
 and CC I-VP O
 the DT I-NP O
 thickness NN I-NP O
 of IN I-PP O
+IM-HM11-02 NNP I-NP I-M
 was VBD I-VP O
 ∼250nm. JJ I-NP O
 
@@ -191,6 +204,7 @@ temperatures NNS I-NP O
 above IN I-PP O
 190°C CD I-NP O
 the DT I-NP O
+IM-HM11-02 NNP I-NP I-M
 film NN I-NP I-M
 was VBD I-VP O
 rendered VBN I-VP O
@@ -207,6 +221,7 @@ achieve VB I-VP O
 the DT I-NP O
 same JJ I-NP O
 for IN I-PP O
+IM-HM11-01. NNP I-NP I-M
 
 Film NNP I-NP I-M
 thickness NN I-NP O

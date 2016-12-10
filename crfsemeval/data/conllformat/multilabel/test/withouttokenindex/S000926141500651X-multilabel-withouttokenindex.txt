@@ -12,10 +12,12 @@ for IN I-PP O
 the DT I-NP O
 development NN I-NP I-P
 of IN I-PP I-P
+radiation-induced JJ I-NP I-M
 DSBs NNP I-NP I-M
 [16,17]. NN I-NP O
 
 For IN I-PP O
+γ-ray JJ I-NP I-P
 radiation, NN I-NP I-P
 single JJ I-NP B-P
 step NN I-NP I-P
@@ -46,8 +48,10 @@ of IN I-PP O
 individual JJ I-NP O
 photon NN I-NP I-M
 of IN I-PP I-M
+γ-ray. JJ I-NP I-M
 
 Whereas IN I-PP O
+photo-radiation NN I-NP I-P
 causes NNS I-NP O
 DSBs NNP I-NP I-P
 through IN I-PP O
@@ -116,6 +120,7 @@ effect NN I-NP O
 of IN I-PP O
 AA NNP I-NP I-M
 against IN I-PP O
+photo-induced JJ I-NP I-P
 damage NN I-NP I-P
 may MD I-VP O
 reflect VB I-VP O
@@ -130,6 +135,7 @@ AA. NNP I-NP I-M
 (2) NN I-NP O
 For IN I-PP O
 the DT I-NP O
+γ-ray NN I-NP I-M
 induced VBD I-VP I-M
 DSB, NNP I-NP I-M
 the DT I-NP O
@@ -164,6 +170,7 @@ by IN I-PP O
 single JJ I-NP I-M
 photon NN I-NP I-M
 of IN I-PP I-M
+γ-ray. JJ I-NP I-M
 
 Surviving VBG I-VP O
 oxygen NN I-NP O

@@ -1,4 +1,5 @@
 Classical, NNP I-NP O
+two-dimensional JJ I-NP I-KP
 sigma NN I-NP I-KP
 models NNS I-NP I-KP
 on IN I-PP I-KP
@@ -21,6 +22,7 @@ integrals NNS I-NP I-KP
 of IN I-PP I-KP
 local JJ I-NP I-KP
 or CC O I-KP
+non-local JJ I-NP I-KP
 functions NNS I-NP I-KP
 of IN I-PP O
 the DT I-NP O
@@ -94,6 +96,7 @@ Lie NNP I-NP I-KP
 algebra NN I-NP I-KP
 has VBZ I-VP I-KP
 no DT I-NP I-KP
+non-trivial JJ I-NP I-KP
 ideals. NN I-NP I-KP
 
 Hence NNP I-NP O
@@ -108,6 +111,7 @@ addition NN I-NP O
 to TO I-VP O
 the DT I-NP O
 usual JJ I-NP O
+non-Abelian JJ I-NP O
 simple JJ I-NP O
 groups NNS I-NP O
 of IN I-PP O
@@ -119,6 +123,7 @@ classification NN I-NP O
 the DT I-NP O
 first JJ I-NP O
 conserved VBD I-VP O
+non-local JJ I-NP O
 charge NN I-NP O
 survives VBZ I-VP O
 quantization NN I-NP I-KP
@@ -153,6 +158,7 @@ conservation NN I-NP I-KP
 of IN I-PP I-KP
 the DT I-NP I-KP
 quantum NN I-NP I-KP
+non-local JJ I-NP I-KP
 charges NNS I-NP I-KP
 in IN I-PP O
 the DT I-NP O

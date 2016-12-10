@@ -9,6 +9,7 @@ of IN I-PP I-KP 51,53
 block NN I-NP I-KP 54,59
 copolymers NNS I-NP I-KP 60,70
 that IN I-PP O 71,75
+self-assemble JJ I-NP O 76,89
 into IN I-PP O 90,94
 polymer JJ I-NP I-KP 95,102
 nanostructures NNS I-NP I-KP 103,117
@@ -24,6 +25,8 @@ this DT I-NP O 154,158
 area NN I-NP O 159,163
 involved VBD I-VP O 164,172
 an DT I-NP O 173,175
+elastin-mimetic JJ I-NP I-KP 176,191
+di-block NN I-NP I-KP 192,200
 copolymer NN I-NP I-KP 201,210
 containing VBG I-VP O 211,221
 VPGEG–(IPGAG)4 NNP I-NP I-KP 222,236
@@ -57,8 +60,10 @@ measure VB I-VP O 408,415
 the DT I-NP O 416,419
 enthalpy NN I-NP O 420,428
 of IN I-PP O 429,431
+self-assembly. NN I-NP I-KP 432,445
 
 A DT I-NP O 447,448
+tri-block JJ I-NP I-KP 449,458
 copolymer NN I-NP I-KP 459,468
 was VBD I-VP O 469,472
 subsequently RB I-VP O 473,485
@@ -87,7 +92,9 @@ been VBN I-VP O 624,628
 obtained VBN I-VP O 629,637
 from IN I-PP O 638,642
 linear JJ I-NP I-KP 643,649
+elastin-like JJ I-NP I-KP 650,662
 AB NNP I-NP I-KP 663,665
+di-block NN I-NP I-KP 666,674
 copolymers NNS I-NP I-KP 675,685
 in IN I-PP O 686,688
 the DT I-NP O 689,692
@@ -130,6 +137,7 @@ Attachment NN I-NP O 902,912
 of IN I-PP O 913,915
 doxorubicin NN I-NP I-KP 916,927
 to TO I-VP O 928,930
+ELR-based JJ I-NP I-KP 931,940
 system NN I-NP I-KP 941,947
 showed VBD I-VP O 948,954
 enhanced JJ I-NP O 955,963

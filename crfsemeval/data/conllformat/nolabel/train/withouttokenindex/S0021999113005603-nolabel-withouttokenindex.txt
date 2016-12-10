@@ -5,6 +5,7 @@ elements NNS I-NP O
 reach VBP I-VP O
 a DT I-NP O
 relaxed JJ I-NP O
+steady-state, JJ I-NP O
 measurements NNS I-NP O
 are VBP I-VP O
 obtained VBN I-VP O
@@ -23,9 +24,11 @@ element NN I-NP I-KP
 is VBZ I-VP O
 divided VBN I-VP O
 into IN I-PP O
+spatially-oriented JJ I-NP I-KP
 bins NNS I-NP I-KP
 in IN I-PP O
 the DT I-NP O
+y-direction NN I-NP O
 in IN I-PP O
 order NN I-NP O
 to TO I-VP O
@@ -33,6 +36,7 @@ resolve VB I-VP I-KP
 the DT I-NP I-KP
 velocity NN I-NP I-KP
 and CC O I-KP
+shear-stress JJ I-NP I-KP
 profiles. NN I-NP I-KP
 
 Velocity NN I-NP O
@@ -62,6 +66,7 @@ relationship NN I-NP I-KP
 [25]. NN I-NP O
 
 A DT I-NP O
+least-squares JJ I-NP I-KP
 polynomial JJ I-NP I-KP
 fit NN I-NP I-KP
 to TO I-VP O
@@ -97,6 +102,7 @@ macro NN I-NP I-KP
 solver. NN I-NP I-KP
 
 A DT I-NP O
+least-squares JJ I-NP I-KP
 fit NN I-NP I-KP
 is VBZ I-VP O
 applied VBN I-VP O
@@ -172,6 +178,7 @@ from IN I-PP O
 the DT I-NP O
 compressed VBN I-NP I-KP
 wall NN I-NP I-KP
+micro-element JJ I-NP I-KP
 solution NN I-NP I-KP
 (16), NN I-NP O
 at IN I-PP O

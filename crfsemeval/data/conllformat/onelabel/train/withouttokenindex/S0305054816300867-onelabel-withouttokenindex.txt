@@ -12,6 +12,7 @@ programming NN I-NP I-P
 approach. NN I-NP I-P
 
 Standard JJ I-NP O
+two-stage NN I-NP I-P
 stochastic JJ I-NP I-P
 programs NNS I-NP I-P
 with IN I-PP O
@@ -24,6 +25,7 @@ often RB I-VP O
 solved VBN I-VP O
 using VBG I-VP O
 the DT I-NP O
+L-shaped JJ I-NP I-P
 method NN I-NP I-P
 or CC O O
 Bender's NNP I-NP I-P
@@ -62,6 +64,7 @@ be VB I-VP O
 viewed VBN I-VP O
 as IN I-PP O
 a DT I-NP O
+three-stage JJ I-NP I-P
 recourse NN I-NP I-P
 model NN I-NP I-P
 [5,6]. NN I-NP O
@@ -86,6 +89,7 @@ Louveaux NNP I-NP O
 [26] NNP I-NP O
 propose VBD I-VP O
 modified VBN I-VP I-P
+L-shaped JJ I-NP I-P
 decomposition NN I-NP I-P
 with IN I-PP O
 adjusted JJ I-NP O
@@ -111,9 +115,11 @@ cuts NNS I-NP I-P
 of IN I-PP I-P
 the DT I-NP I-P
 linear JJ I-NP I-T
+sub-problem NN I-NP I-T
 and CC O I-P
 the DT I-NP I-P
 integer NN I-NP I-T
+sub-problem, NN I-NP I-T
 which WDT B-NP O
 improves VBZ I-VP O
 the DT I-NP O
@@ -146,6 +152,7 @@ specific JJ I-NP O
 relationship NN I-NP O
 between IN I-PP O
 the DT I-NP O
+first-stage JJ I-NP I-P
 realization NN I-NP I-P
 and CC O O
 the DT I-NP O

@@ -82,6 +82,7 @@ functional JJ I-NP I-P
 theory NN I-NP I-P
 (DFT) NN I-NP O
 to TO I-VP O
+JT-distorted JJ I-NP I-P
 systems NNS I-NP I-P
 has VBZ I-VP O
 also RB I-VP O
@@ -92,6 +93,7 @@ Na3 NNP I-NP I-M
 [10], NNP I-NP O
 and CC O O
 the DT I-NP O
+B-X NNP I-NP I-P
 transition NN I-NP I-P
 has VBZ I-VP O
 been VBN I-VP O
@@ -99,6 +101,8 @@ revisited VBN I-VP O
 as IN I-PP O
 well, JJ I-NP O
 applying VBG I-NP O
+state-averaged JJ I-NP I-P
+multi-reference NN I-NP I-P
 configuration NN I-NP I-P
 interaction NN I-NP I-P
 with IN I-PP O
@@ -112,6 +116,7 @@ to TO I-VP O
 derive VB I-VP I-T
 more JJR I-NP I-T
 accurate JJ I-NP I-T
+non-adiabatic JJ I-NP I-T
 coupling NN I-NP I-T
 terms NNS I-NP I-T
 for IN I-PP O

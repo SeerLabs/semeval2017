@@ -90,6 +90,7 @@ larger JJR O I-KP 605,611
 magnetic JJ I-NP I-KP 612,620
 anisotropy NN I-NP I-KP 621,631
 than IN I-PP O 632,636
+non-interacting JJ I-NP I-KP 637,652
 particles. NN I-NP I-KP 653,662
 
 By IN I-PP O 664,666
@@ -98,6 +99,7 @@ the DT I-NP I-KP 677,680
 current JJ I-NP I-KP 681,688
 density NN I-NP I-KP 689,696
 small JJ I-NP I-KP 697,702
+Ni-particles NNP I-NP I-KP 703,715
 (3–6nm) NN I-NP I-KP 716,723
 can MD I-VP O 724,727
 be VB I-VP O 728,730
@@ -113,6 +115,7 @@ particles NNS I-NP I-KP 774,783
 is VBZ I-VP O 784,786
 sufficiently RB I-VP O 787,799
 close, JJ I-NP O 800,805
+Ni-tubes NNP I-NP I-KP 807,815
 of IN I-PP O 816,818
 a DT I-NP O 819,820
 few JJ I-NP O 821,824

@@ -2,6 +2,7 @@ The DT I-NP O
 homologous JJ I-NP I-KP
 series NN I-NP I-KP
 of IN I-PP I-KP
+n-alkanes NNS I-NP I-KP
 are VBP I-VP O
 represented VBN I-VP O
 here RB O O
@@ -22,9 +23,14 @@ CG NNP I-NP I-KP
 models NNS I-NP I-KP
 for IN I-PP I-KP
 long JJ I-NP I-KP
+n-alkanes NNS I-NP I-KP
 such JJ I-NP O
 as IN I-PP O
+n-decane JJ I-NP I-KP
+(n-C10H22) JJ I-NP O
 and CC O O
+n-eicosane JJ I-NP I-KP
+(n-C20H42) NN I-NP O
 has VBZ I-VP O
 already RB I-VP O
 been VBN I-VP O
@@ -32,11 +38,13 @@ successfully RB O O
 demonstrated VBN I-VP O
 using VBG I-VP O
 the DT I-NP O
+SAFT-γ NNP I-NP I-KP
 Mie NNP I-NP I-KP
 formalism NN I-NP I-KP
 [118]. NN I-NP O
 
 The DT I-NP O
+n-decane JJ I-NP I-KP
 molecule NN I-NP I-KP
 was VBD I-VP O
 represented VBN I-VP O
@@ -45,6 +53,7 @@ chains NNS I-NP O
 of IN I-PP O
 three CD I-NP O
 and CC O O
+n-eicosane JJ I-NP I-KP
 chains NNS I-NP O
 of IN I-PP O
 six CD I-NP O
@@ -92,6 +101,7 @@ alternative JJ I-NP I-KP
 CG NNP I-NP I-KP
 mapping NN I-NP I-KP
 for IN I-PP O
+n-alkanes NNS I-NP I-KP
 developed VBN I-NP O
 in IN I-PP O
 reference NN I-NP O
@@ -118,6 +128,7 @@ By IN I-PP O
 applying VBG I-VP O
 this DT I-NP O
 mapping, JJ I-NP O
+n-alkanes JJ I-NP I-KP
 chains NNS I-NP I-KP
 containing VBG I-VP O
 multiples NNS I-NP O
@@ -129,6 +140,11 @@ can MD I-VP O
 be VB I-VP O
 represented VBN I-VP O
 directly: JJ I-NP O
+n-C6H14, JJ I-NP I-KP
+n-C9H20, JJ I-NP B-KP
+n-C12H26, JJ I-NP B-KP
+n-C15H32, JJ I-NP B-KP
+n-C18H38, JJ I-NP B-KP
 etc. NN I-NP O
 
 A DT I-NP O
@@ -216,6 +232,7 @@ estimated VBN I-VP O
 from IN I-PP O
 the DT I-NP O
 experimental JJ I-NP O
+saturated-liquid JJ I-NP I-KP
 density NN I-NP I-KP
 and CC O O
 vapour JJ I-NP I-KP
@@ -227,6 +244,7 @@ alkanes NNS I-NP I-KP
 following VBG I-VP O
 the DT I-NP O
 usual JJ I-NP O
+SAFT-γ NNP I-NP I-KP
 Mie NNP I-NP I-KP
 procedure. NN I-NP I-KP
 

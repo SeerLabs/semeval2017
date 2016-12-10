@@ -43,6 +43,8 @@ it PRP I-NP O 255,257
 
 In IN I-PP O 264,266
 the DT I-NP O 267,270
+thermo-electric JJ I-NP I-KP 271,286
+co-simulation NN I-NP I-KP 287,300
 example NN I-NP O 301,308
 in IN I-PP O 309,311
 [35], CC I-PP O 312,316
@@ -73,10 +75,12 @@ affect VBP I-VP O 464,470
 the DT I-NP O 471,474
 accuracy NN I-NP O 475,483
 of IN I-PP O 484,486
+co-simulation. NN I-NP O 487,500
 
 In IN I-PP O 502,504
 [36], PDT I-NP O 505,509
 the DT I-NP O 511,514
+co-simulation NN I-NP I-KP 515,528
 is VBZ I-VP O 529,531
 performed VBN I-VP O 532,541
 using VBG I-VP O 542,547
@@ -132,6 +136,7 @@ future JJ I-NP O 870,876
 work. NN I-NP O 877,881
 
 An DT I-NP O 883,885
+in-depth JJ I-NP O 886,894
 research NN I-NP O 895,903
 about IN I-PP O 904,909
 the DT I-NP O 910,913

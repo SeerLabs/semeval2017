@@ -9,9 +9,11 @@ determined VBN I-VP O
 by IN I-PP O
 either DT I-NP O
 a DT I-NP I-KP
+parametric-model-based JJ I-NP I-KP
 method NN I-NP I-KP
 or CC O O
 a DT I-NP I-KP
+nonparametric-model-based JJ I-NP I-KP
 method NN I-NP I-KP
 [8]. NN I-NP O
 
@@ -59,6 +61,7 @@ often RB I-VP O
 referred VBN I-VP O
 to TO I-VP O
 as IN I-PP O
+frequency-domain JJ I-NP I-KP
 Volterra NNP I-NP I-KP
 system NN I-NP I-KP
 identification NN I-NP I-KP

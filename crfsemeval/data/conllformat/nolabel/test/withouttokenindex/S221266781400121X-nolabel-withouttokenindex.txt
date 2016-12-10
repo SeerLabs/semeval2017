@@ -8,6 +8,7 @@ extended JJ I-NP I-KP
 version NN I-NP I-KP
 of IN I-PP I-KP
 the DT I-NP I-KP
+graph-based JJ I-NP I-KP
 unsupervised JJ I-NP I-KP
 Word NNP I-NP I-KP
 Sense NNP I-NP I-KP
@@ -66,6 +67,7 @@ knowledge NN I-NP O
 acquired VBD I-VP O
 from IN I-PP O
 the DT I-NP O
+corpus-derived JJ I-NP I-KP
 Measure NN I-NP I-KP
 of IN I-PP I-KP
 Semantic NNP I-NP I-KP

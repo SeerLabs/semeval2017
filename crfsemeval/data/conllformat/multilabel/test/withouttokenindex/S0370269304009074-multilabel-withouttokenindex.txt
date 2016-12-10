@@ -86,6 +86,7 @@ of IN I-PP O
 this DT I-NP O
 simple JJ I-NP O
 and CC O O
+straight-forward JJ I-NP O
 approach. NN I-NP O
 
 In IN I-PP O

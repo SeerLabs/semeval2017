@@ -60,6 +60,7 @@ fit, NN I-NP O 374,377
 determined VBN I-VP O 379,389
 on IN I-PP O 390,392
 a DT I-NP O 393,394
+case-by-case NN I-NP O 395,407
 basis, NN I-NP O 408,413
 since IN I-PP O 415,420
 the DT I-NP O 421,424
@@ -144,6 +145,7 @@ final JJ I-NP I-KP 875,880
 lift NN I-NP I-KP 881,885
 of IN I-PP O 886,888
 an DT I-NP O 889,891
+in-service JJ I-NP O 892,902
 pavement. NN I-NP O 903,911
 
 More JJR I-NP O 913,917
@@ -173,6 +175,7 @@ dielectric JJ I-NP I-KP 1071,1081
 range NN I-NP I-KP 1082,1087
 in IN I-PP O 1088,1090
 this DT I-NP O 1091,1095
+case-study. NN I-NP O 1096,1106
 
 Since IN I-PP O 1108,1113
 both DT I-NP O 1114,1118

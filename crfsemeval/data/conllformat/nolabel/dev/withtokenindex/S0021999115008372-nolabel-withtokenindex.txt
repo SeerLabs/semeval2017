@@ -24,6 +24,7 @@ adaptive JJ I-NP I-KP 140,148
 meshes NNS I-NP I-KP 149,155
 [3,34,38]. VBP I-VP O 156,165
 
+R-adaptivity NNP I-NP I-KP 167,179
 – NNP I-NP O 180,181
 mesh JJ I-NP I-KP 182,186
 redistribution NN I-NP I-KP 187,201
@@ -105,6 +106,7 @@ resolution NN I-NP O 658,668
 and CC O O 669,672
 can MD I-VP O 673,676
 be VB I-VP O 677,679
+retro-fitted JJ I-NP O 680,692
 into IN I-PP O 693,697
 existing VBG I-VP O 698,706
 models. NN I-NP O 707,713
@@ -121,6 +123,7 @@ in IN I-PP I-KP 777,779
 different JJ I-NP I-KP 780,789
 directions NNS I-NP I-KP 790,800
 for IN I-PP I-KP 801,804
+r-adaptive JJ I-NP I-KP 805,815
 meshes NNS I-NP I-KP 816,822
 (e.g. VBP I-VP O 823,827
 [23,25]). NN I-NP O 829,837
@@ -151,6 +154,7 @@ a DT I-NP O 988,989
 useful JJ I-NP O 990,996
 form NN I-NP O 997,1001
 of IN I-PP O 1002,1004
+r-adaptive JJ I-NP I-KP 1005,1015
 mesh JJ I-NP I-KP 1016,1020
 generation NN I-NP I-KP 1021,1031
 because IN I-PP O 1032,1039
@@ -217,4 +221,5 @@ and CC O I-KP 1383,1386
 climate NN I-NP I-KP 1387,1394
 prediction NN I-NP I-KP 1395,1405
 using VBG I-VP O 1406,1411
+r-adaptivity. JJ I-NP I-KP 1412,1424
 

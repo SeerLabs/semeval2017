@@ -33,6 +33,7 @@ have VBP I-VP O
 been VBN I-VP O
 identified VBN I-VP O
 as IN I-PP O
+three-dimensional JJ I-NP O
 TIs NNP I-NP I-P
 by IN I-PP O
 surface NN I-NP I-P
@@ -141,6 +142,7 @@ TIs, NNP I-NP I-P
 which WDT B-NP O
 breaks VBZ I-VP O
 the DT I-NP O
+time-reversal JJ I-NP O
 symmetry, NN I-NP O
 has VBZ I-VP O
 been VBN I-VP O
@@ -192,6 +194,7 @@ the DT I-NP O
 Faraday NNP I-NP I-T
 and CC O I-T
 Kerr NNP I-NP I-T
+magneto-optical JJ I-NP I-T
 effect NN I-NP I-T
 [20]. NN I-NP O
 

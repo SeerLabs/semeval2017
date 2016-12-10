@@ -28,7 +28,9 @@ can MD I-VP O 162,165
 be VB I-VP O 166,168
 concluded VBN I-VP O 169,178
 that IN I-PP O 179,183
+in-situ NN I-NP O 184,191
 formed VBD I-VP O 192,198
+Nb-based JJ I-NP I-KP 199,207
 intermetallics NNS I-NP I-KP 208,222
 compounds NNS I-NP I-KP 223,232
 are VBP I-VP O 233,236
@@ -49,6 +51,7 @@ alloys. NN I-NP I-KP 331,337
 
 The DT I-NP O 339,342
 primary JJ I-NP O 343,350
+α-Al JJ I-NP I-KP 351,355
 dendritic JJ I-NP I-KP 356,365
 grain NN I-NP I-KP 366,371
 size NN I-NP O 372,376

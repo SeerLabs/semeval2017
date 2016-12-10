@@ -13,6 +13,7 @@ to TO I-VP O
 eliminate VB I-VP O
 as IN I-PP O
 much JJ I-NP O
+preparation-related JJ I-NP O
 contamination NN I-NP O
 as IN I-PP O
 possible. NN I-NP O
@@ -88,6 +89,7 @@ diamond NN I-NP I-KP
 suspension. NN I-NP O
 
 A DT I-NP O
+custom-made JJ I-NP I-KP
 jig NN I-NP I-KP
 fitted VBD I-VP O
 to TO I-VP O
@@ -123,12 +125,14 @@ followed VBN I-VP O
 by IN I-PP O
 rinsing VBG I-VP O
 with IN I-PP O
+2-propanol JJ I-NP I-KP
 (99.5%, JJ I-NP O
 reagent NN I-NP O
 grade) NN I-NP O
 and CC O O
 cleaning NN I-NP O
 in IN I-PP O
+2-propanol JJ I-NP I-KP
 for IN I-PP O
 5min CD I-NP O
 in IN I-PP O
@@ -149,6 +153,7 @@ were VBD I-VP O
 ultrasonically RB I-VP O
 cleaned VBN I-VP O
 in IN I-PP O
+2-propanol JJ I-NP I-KP
 for IN I-PP O
 3×5min, CD I-NP O
 with IN I-PP O
@@ -164,6 +169,7 @@ coupons NNS I-NP I-KP
 were VBD I-VP O
 stored VBN I-VP O
 in IN I-PP O
+2-propanol JJ I-NP I-KP
 until IN I-PP O
 required. NN I-NP O
 

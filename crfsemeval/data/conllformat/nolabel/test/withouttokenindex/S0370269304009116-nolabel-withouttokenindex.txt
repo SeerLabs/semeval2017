@@ -11,13 +11,16 @@ ground NN I-NP O
 state NN I-NP O
 among IN I-PP O
 all DT I-NP O
+non-singular JJ I-NP I-KP
 solutions NNS I-NP I-KP
 with IN I-PP I-KP
 a DT I-NP I-KP
+four-dimensional JJ I-NP I-KP
 Poincaré, NNP I-NP I-KP
 de FW I-NP B-KP
 Sitter NNP I-NP I-KP
 or CC O I-KP
+anti-de JJ I-NP I-KP
 Sitter NNP I-NP I-KP
 symmetry. NN I-NP I-KP
 
@@ -33,6 +36,7 @@ axial JJ I-NP I-KP
 symmetry NN I-NP I-KP
 in IN I-PP I-KP
 the DT I-NP I-KP
+two-dimensional JJ I-NP I-KP
 internal JJ I-NP I-KP
 space, NN I-NP I-KP
 and CC O O
@@ -46,6 +50,7 @@ a DT I-NP O
 family NN I-NP O
 that WDT B-NP O
 is VBZ I-VP O
+non-singular JJ I-NP I-KP
 away RB O I-KP
 from IN I-PP I-KP
 a DT I-NP I-KP
@@ -57,6 +62,7 @@ pole NN I-NP O
 of IN I-PP O
 a DT I-NP O
 distorted JJ I-NP O
+2-sphere. JJ I-NP O
 
 These DT I-NP O
 solutions NNS I-NP O
@@ -64,6 +70,7 @@ admit VBP I-VP O
 the DT I-NP O
 interpretation NN I-NP I-KP
 of IN I-PP I-KP
+3-branes NNS I-NP I-KP
 with IN I-PP I-KP
 negative JJ I-NP I-KP
 tension. NN I-NP I-KP

@@ -16,6 +16,7 @@ ternary JJ I-NP I-KP 100,107
 alloys NNS I-NP I-KP 108,114
 and CC O I-KP 115,118
 liquid JJ I-NP I-KP 119,125
+diffusion-governed JJ I-NP I-KP 126,144
 solidification NN I-NP I-KP 145,159
 kinetics NNS I-NP I-KP 160,168
 into IN I-PP I-KP 169,173
@@ -40,6 +41,7 @@ the DT I-NP O 280,283
 thermodynamic JJ I-NP I-KP 284,297
 data NNS I-NP I-KP 298,302
 (e.g. POS B-NP O 303,307
+Thermo-Calc NN I-NP O 309,320
 [1]) NN I-NP O 321,325
 through IN I-PP O 326,333
 a DT I-NP O 334,335
@@ -183,6 +185,7 @@ simulations NNS I-NP I-KP 1166,1177
 with IN I-PP I-KP 1178,1182
 incorporated JJ I-NP I-KP 1183,1195
 full JJ I-NP I-KP 1196,1200
+diffusion-governed JJ I-NP I-KP 1201,1219
 solidification NN I-NP I-KP 1220,1234
 kinetics NNS I-NP I-KP 1235,1243
 for IN I-PP O 1244,1247

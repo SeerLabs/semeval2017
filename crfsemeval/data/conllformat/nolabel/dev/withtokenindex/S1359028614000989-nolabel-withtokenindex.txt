@@ -61,6 +61,7 @@ physical JJ I-NP O 374,382
 level NN I-NP O 383,388
 and CC O O 389,392
 the DT I-NP O 393,396
+data-driven JJ I-NP O 397,408
 statistical JJ I-NP I-KP 409,420
 model NN I-NP I-KP 421,426
 level. NN I-NP O 427,432
@@ -90,9 +91,11 @@ volume NN I-NP O 573,579
 (e.g., VBP I-VP O 580,585
 simple JJ I-NP O 587,593
 univariate JJ I-NP I-KP 594,604
+time-series NNS I-NP I-KP 605,616
 data NNS I-NP I-KP 617,621
 streams NNS I-NP I-KP 622,629
 with IN I-PP O 630,634
+high-dimensional JJ I-NP I-KP 635,651
 volumetric JJ I-NP I-KP 652,662
 imaging VBG I-VP I-KP 663,670
 datasets) NN I-NP O 671,680
@@ -139,12 +142,15 @@ the DT I-NP O 955,958
 broad JJ I-NP O 959,964
 categories NNS I-NP O 965,975
 of IN I-PP O 976,978
+micro-, JJ I-NP I-KP 979,985
+meso- NN I-NP I-KP 987,992
 and CC O I-KP 993,996
 macroscopic NN I-NP I-KP 997,1008
 approaches. NN I-NP I-KP 1009,1019
 
 Laboratory NN I-NP I-KP 1021,1031
 and CC O I-KP 1032,1035
+real-world NN I-NP I-KP 1036,1046
 experimentation, NN I-NP I-KP 1047,1062
 informatics, NN I-NP B-KP 1064,1075
 analytics, NN I-NP B-KP 1077,1086

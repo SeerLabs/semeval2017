@@ -16,6 +16,7 @@ implant; NN I-NP O 82,89
 mice NN I-NP I-KP 91,95
 with IN I-PP I-KP 96,100
 the DT I-NP I-KP 101,104
+pseudo-metastatic JJ I-NP I-KP 105,122
 model NN I-NP I-KP 123,128
 received VBD I-VP O 129,137
 the DT I-NP O 138,141
@@ -44,6 +45,7 @@ against IN I-PP O 277,284
 both DT I-NP O 285,289
 established VBN I-NP O 290,301
 and CC O O 302,305
+pseudo-metastatic JJ I-NP O 306,323
 preclinical JJ I-NP I-KP 324,335
 models NNS I-NP I-KP 336,342
 of IN I-PP O 343,345
@@ -68,10 +70,12 @@ with IN I-PP O 428,432
 untargeted JJ I-NP I-KP 433,443
 (SL[DXR]) NN I-NP O 444,453
 or CC O O 454,456
+peptide-targeted JJ I-NP I-KP 457,473
 SL[DXR] NNP I-NP I-KP 474,481
 (5mg/kg). NN I-NP O 482,490
 
 Scrambled VBN I-VP I-KP 492,501
+peptide-functionalized JJ I-NP I-KP 502,524
 liposomes NNS I-NP I-KP 525,534
 were VBD I-VP O 535,539
 used VBN I-VP O 540,544
@@ -88,6 +92,7 @@ of IN I-PP O 591,593
 control NN I-NP O 594,601
 mice NN I-NP O 602,606
 received VBD I-VP O 607,615
+HEPES-buffered NNP I-NP I-KP 616,630
 saline. NN I-NP I-KP 631,637
 
 Survival JJ I-NP I-KP 639,647
@@ -107,6 +112,8 @@ In IN I-PP O 722,724
 the DT I-NP O 725,728
 orthotopic NN I-NP I-KP 729,739
 model, VBD I-VP I-KP 740,745
+time-dependent JJ I-NP I-KP 747,761
+anti-tumor JJ I-NP I-KP 762,772
 activity NN I-NP I-KP 773,781
 was VBD I-VP O 782,785
 also RB I-VP O 786,790
@@ -116,12 +123,14 @@ bioluminescence NN I-NP O 804,819
 imaging VBG I-NP O 820,827
 (BLI) JJ I-NP O 828,833
 and CC O O 834,837
+X-ray JJ I-NP O 838,843
 analyses. NN I-NP O 844,852
 
 For IN I-PP O 854,857
 this DT I-NP O 858,862
 purpose, VBZ I-VP O 863,870
 the DT I-NP I-KP 872,875
+GI-LI-N NNP I-NP I-KP 876,883
 cell NN I-NP I-KP 884,888
 line NN I-NP I-KP 889,893
 was VBD I-VP O 894,897
@@ -141,6 +150,7 @@ reported VBN I-NP O 979,987
 luciferase NN I-NP I-KP 994,1004
 activity NN I-NP I-KP 1005,1013
 of IN I-PP O 1014,1016
+retrovirally-transduced JJ I-NP I-KP 1017,1040
 cells NNS I-NP I-KP 1041,1046
 was VBD I-VP O 1047,1050
 visualized VBN I-VP I-KP 1051,1061
@@ -161,6 +171,7 @@ incubation NN I-NP O 1135,1145
 with IN I-PP O 1146,1150
 150μg/mL CD I-NP O 1151,1159
 of IN I-PP O 1160,1162
+d-luciferin JJ I-NP I-KP 1163,1174
 (Caliper NNP I-NP O 1175,1183
 Life NNP I-NP O 1184,1188
 Sciences), NNP I-NP O 1189,1198
@@ -168,6 +179,7 @@ as IN I-PP O 1200,1202
 described VBN I-NP O 1203,1212
 [17]. NN I-NP O 1213,1217
 
+X-ray JJ I-NP O 1219,1224
 analysis NN I-NP O 1225,1233
 was VBD I-VP O 1234,1237
 superimposed VBN I-VP O 1238,1250

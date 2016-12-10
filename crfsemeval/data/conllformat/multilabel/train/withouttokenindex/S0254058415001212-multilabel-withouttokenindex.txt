@@ -16,12 +16,14 @@ potential JJ I-NP O
 to TO I-VP O
 replace VB I-VP O
 current JJ I-NP O
+Ni-base NNP I-NP I-M
 superalloys NN I-NP I-M
 used VBN I-VP O
 in IN I-PP O
 the DT I-NP O
 production NN I-NP I-T
 of IN I-PP I-T
+aero-engine JJ I-NP I-T
 components. NN I-NP I-T
 
 Investment NN I-NP I-P

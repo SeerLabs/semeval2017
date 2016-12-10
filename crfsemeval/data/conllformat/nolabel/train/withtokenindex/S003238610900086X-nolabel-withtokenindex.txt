@@ -61,6 +61,7 @@ centres NNS I-NP I-KP 381,388
 are VBP I-VP O 389,392
 identified VBN I-VP O 393,403
 with IN I-PP O 404,408
+pseudo-atoms NNS I-NP I-KP 409,421
 repeating VBG I-NP O 422,431
 after IN I-PP O 432,437
 a DT I-NP O 438,439
@@ -113,6 +114,7 @@ approximation NN I-NP O 711,724
 to TO I-VP O 725,727
 the DT I-NP O 728,731
 monoclinic, JJ I-NP O 732,742
+pseudo-hexagonal JJ I-NP O 744,760
 structure NN I-NP O 761,770
 of IN I-PP O 771,773
 PE NNP I-NP I-KP 774,776
@@ -179,6 +181,7 @@ the DT I-NP O 1196,1199
 wavelength. NN I-NP O 1200,1210
 
 The DT I-NP O 1212,1215
+i-th JJ I-NP O 1216,1220
 C NNP I-NP O 1221,1222
 atom NN I-NP O 1223,1227
 coordinate NN I-NP O 1228,1238

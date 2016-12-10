@@ -15,6 +15,7 @@ harmonic NN I-NP I-KP 93,101
 oscillator NN I-NP I-KP 102,112
 for IN I-PP O 113,116
 the DT I-NP O 117,120
+amplitude-frequency NN I-NP I-KP 121,140
 relationship. NN I-NP I-KP 141,153
 
 The DT I-NP O 155,158
@@ -53,6 +54,7 @@ during IN I-PP O 351,357
 looking VBG I-VP O 358,365
 for IN I-PP O 366,369
 the DT I-NP O 370,373
+amplitude-frequency NN I-NP I-KP 374,393
 relationship NN I-NP I-KP 394,406
 for IN I-PP O 407,410
 the DT I-NP O 411,414

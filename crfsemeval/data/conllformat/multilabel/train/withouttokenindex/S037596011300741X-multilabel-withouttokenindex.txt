@@ -89,6 +89,7 @@ trajectories NNS I-NP O
 arise VBP I-VP O
 from IN I-PP O
 a DT I-NP O
+short-time JJ I-NP I-P
 quantum NN I-NP I-P
 propagator NN I-NP I-P
 when WRB O O

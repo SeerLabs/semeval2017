@@ -120,6 +120,7 @@ impacting NN I-NP O 803,812
 particles. NN I-NP I-KP 813,822
 
 Using VBG I-VP O 824,829
+state-of-the-art JJ I-NP O 830,846
 methods NNS I-NP O 847,854
 to TO I-VP O 855,857
 examine VB I-VP O 858,865

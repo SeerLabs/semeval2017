@@ -54,6 +54,7 @@ in IN I-PP O
 both DT I-NP O
 lower JJR I-NP I-P
 and CC O I-P
+four-dimensional JJ I-NP I-P
 field NN I-NP I-P
 theories NNS I-NP I-P
 with IN I-PP O

@@ -14,6 +14,7 @@ reality NN I-NP I-KP 76,83
 technologies NNS I-NP I-KP 84,96
 into IN I-PP I-KP 97,101
 a DT I-NP I-KP 102,103
+three-dimensional JJ I-NP I-KP 104,121
 virtual JJ I-NP I-KP 122,129
 world. NN I-NP I-KP 130,135
 
@@ -71,6 +72,7 @@ navigation: JJ I-NP I-KP 445,455
 immersive JJ I-NP B-KP 457,466
 projection NN I-NP I-KP 467,477
 and CC O O 478,481
+head-mounted JJ I-NP I-KP 482,494
 display. NN I-NP I-KP 495,502
 
 In IN I-PP O 504,506

@@ -14,9 +14,11 @@ increments NNS I-NP I-KP 68,78
 using VBG I-VP O 79,84
 a DT I-NP O 85,86
 Setaram NNP I-NP I-KP 87,94
+Multi-detector NNP I-NP I-KP 95,109
 High NNP I-NP I-KP 110,114
 Temperature NNP I-NP I-KP 115,126
 Calorimeter NNP I-NP I-KP 127,138
+(MDHTC-96) JJ I-NP O 139,149
 using VBG I-VP O 150,155
 a DT I-NP O 156,157
 drop NN I-NP I-KP 158,162
@@ -126,6 +128,7 @@ min, NNS I-NP O 730,733
 long RB O O 735,739
 enough RB O O 740,746
 to TO I-VP O 747,749
+re-stabilize VB I-VP O 750,762
 the DT I-NP O 763,766
 monitored JJ I-NP O 767,776
 heat NN I-NP I-KP 777,781

@@ -1,4 +1,5 @@
 A DT I-NP O
+multi-physics JJ I-NP I-KP
 description NN I-NP I-KP
 of IN I-PP I-KP
 a DT I-NP I-KP
@@ -28,6 +29,7 @@ treatment NN I-NP I-KP
 model) NN I-NP O
 with IN I-PP O
 a DT I-NP O
+continuum-fluid JJ I-NP I-KP
 one CD I-NP I-KP
 (a NN I-NP O
 ‘macro’ VBZ I-VP O
@@ -66,6 +68,7 @@ different, JJ I-NP O
 which WDT B-NP O
 means VBZ I-VP O
 that IN I-PP O
+time-accurate JJ I-NP O
 simulations NNS I-NP O
 can MD I-VP O
 be VB I-VP O
@@ -92,6 +95,7 @@ that IN I-PP O
 simulations NNS I-NP O
 over IN I-PP O
 significant JJ I-NP O
+macro-scale JJ I-NP O
 time NN I-NP O
 periods NNS I-NP O
 are VBP I-VP O
@@ -101,6 +105,7 @@ If IN I-PP O
 the DT I-NP O
 system NN I-NP O
 is VBZ I-VP O
+‘scale-separated’, JJ I-NP O
 a DT I-NP O
 physical JJ I-NP I-KP
 (as NN I-NP I-KP
@@ -126,6 +131,7 @@ with IN I-PP O
 negligible JJ I-NP O
 penalty NN I-NP O
 on IN I-PP O
+macro-scale JJ I-NP O
 accuracy. NN I-NP O
 
 E NNP I-NP O
@@ -143,6 +149,7 @@ this DT I-NP O
 concept NN I-NP O
 in IN I-PP O
 a DT I-NP O
+time-stepping JJ I-NP I-KP
 method NN I-NP I-KP
 for IN I-PP I-KP
 coupled VBN I-NP I-KP

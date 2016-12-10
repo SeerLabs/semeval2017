@@ -26,6 +26,7 @@ should MD I-VP O
 reduce VB I-VP O
 to TO I-VP O
 N=1/2 NNP I-NP I-KP
+super-Yang–Mills NNS I-NP I-KP
 theory NN I-NP I-KP
 with IN I-PP I-KP
 adjoint NN I-NP I-KP
@@ -50,6 +51,7 @@ singlet NN I-NP I-KP
 representation NN I-NP I-KP
 of IN I-PP O
 the DT I-NP O
+R-symmetry NNP I-NP I-KP
 group NN I-NP I-KP
 SU(2)R. NNP I-NP B-KP
 In IN I-PP O
@@ -112,6 +114,7 @@ the DT I-NP O
 case NN I-NP O
 of IN I-PP O
 N=1/2 NNP I-NP I-KP
+super-Yang–Mills NNS I-NP I-KP
 theory, NNS I-NP I-KP
 such JJ I-NP O
 field NN I-NP I-KP

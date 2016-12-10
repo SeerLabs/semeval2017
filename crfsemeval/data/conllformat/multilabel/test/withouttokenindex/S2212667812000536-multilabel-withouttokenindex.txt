@@ -17,6 +17,8 @@ for IN I-PP O
 qualified JJ I-NP O
 personnel, NN I-NP O
 a DT B-NP O
+“triple-driven” JJ I-NP I-P
+three-dimensional JJ I-NP I-P
 software NN I-NP I-P
 development NN I-NP I-P
 practical JJ I-NP I-P

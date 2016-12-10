@@ -119,6 +119,7 @@ enhanced VBN I-VP I-KP
 fragmentation NN I-NP I-KP
 pathway NN I-NP I-KP
 of IN I-PP O
+n-propyl JJ I-NP I-KP
 benzene, NN I-NP I-KP
 which WDT B-NP O
 seems VBZ I-VP O
@@ -134,6 +135,7 @@ We PRP I-NP O
 found VBD I-VP O
 that IN I-PP O
 for IN B-PP O
+n-propyl JJ I-NP I-KP
 benzene, NN I-NP I-KP
 the DT B-NP O
 relative JJ I-NP O

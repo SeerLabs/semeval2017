@@ -52,6 +52,7 @@ means NNS I-NP O 311,316
 of IN I-PP O 317,319
 NURBS NNP I-NP I-KP 320,325
 or CC O O 326,328
+T-splines. NNP I-NP I-KP 329,338
 
 This DT I-NP O 340,344
 concept, NN I-NP O 345,352
@@ -142,6 +143,7 @@ piecewise NN I-NP O 876,885
 polynomials NNS I-NP O 886,897
 which WDT B-NP O 898,903
 is VBZ I-VP O 904,906
+well-studied JJ I-NP O 907,919
 in IN I-PP O 920,922
 the DT I-NP O 923,926
 literature, NN I-NP O 927,937
@@ -187,6 +189,7 @@ error NN I-NP I-KP 1171,1176
 estimation NN I-NP I-KP 1177,1187
 has VBZ I-VP O 1188,1191
 been VBN I-VP O 1192,1196
+well-studied JJ I-NP O 1197,1209
 for IN I-PP O 1210,1213
 standard JJ I-NP I-KP 1214,1222
 BEM, NNP I-NP I-KP 1223,1226

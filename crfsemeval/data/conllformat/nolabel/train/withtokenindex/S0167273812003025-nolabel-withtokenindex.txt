@@ -5,6 +5,7 @@ new JJ I-NP I-KP 17,20
 approach NN I-NP I-KP 21,29
 to TO I-VP I-KP 30,32
 the DT I-NP I-KP 33,36
+“grind-free” JJ I-NP I-KP 37,49
 nanoprecursor NN I-NP I-KP 50,63
 route NN I-NP I-KP 64,69
 to TO I-VP I-KP 70,72
@@ -21,6 +22,7 @@ make” VB I-VP O 141,146
 and CC I-VP O 147,150
 hitherto VB I-VP O 151,159
 unknown JJ I-NP O 160,167
+phase-pure JJ I-NP I-KP 168,178
 heterometallic JJ I-NP I-KP 179,193
 Ruddlesden NNP I-NP I-KP 194,204
 Popper NNP I-NP I-KP 205,211
@@ -36,6 +38,7 @@ new JJ I-NP O 266,269
 approach NN I-NP O 270,278
 used VBD I-VP O 279,283
 a DT I-NP O 284,285
+high-throughput JJ I-NP I-KP 286,301
 reactor NN I-NP I-KP 302,309
 and CC O O 310,313
 robotic JJ I-NP I-KP 314,321
@@ -48,6 +51,7 @@ a DT I-NP I-KP 363,364
 range NN I-NP I-KP 365,370
 of IN I-PP I-KP 371,373
 nanoparticle JJ I-NP I-KP 374,386
+co-precipitate JJ I-NP I-KP 387,401
 precursors NNS I-NP I-KP 402,412
 in IN I-PP O 413,415
 cloned JJ I-NP O 416,422
@@ -66,6 +70,7 @@ library NN I-NP O 472,479
 could MD I-VP O 480,485
 then RB I-VP O 486,490
 be VB I-VP O 491,493
+heat-treated VBN I-VP I-KP 494,506
 at IN I-PP O 507,509
 a DT I-NP O 510,511
 different JJ I-NP O 512,521
@@ -96,6 +101,7 @@ characterisation NN I-NP I-KP 659,675
 of IN I-PP O 676,678
 selected VBN I-NP O 679,687
 larger JJR I-NP O 688,694
+heat-treated JJ I-NP I-KP 695,707
 powders NNS I-NP I-KP 708,715
 was VBD I-VP O 716,719
 then RB I-VP O 720,724

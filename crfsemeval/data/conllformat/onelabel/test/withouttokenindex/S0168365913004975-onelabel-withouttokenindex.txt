@@ -1,4 +1,5 @@
 The DT I-NP O
+α-ω-aminohexylcarbamate JJ I-NP I-M
 derivative NN I-NP I-M
 of IN I-PP I-M
 cyanocobalamin NN I-NP I-M
@@ -45,6 +46,7 @@ the DT I-NP O
 addition NN I-NP O
 of IN I-PP O
 dry JJ I-NP I-M
+1,6-hexanediamine JJ I-NP I-M
 (314mg, NN I-NP O
 0.54mmol) CD I-NP O
 and CC O O
@@ -111,8 +113,10 @@ column NN I-NP I-P
 chromatography NN I-NP I-P
 (45% NNP I-NP O
 v/v VBD I-VP O
+2-propanol, JJ I-NP O
 30% CD I-NP O
 v/v JJ I-NP O
+n-butanol, JJ I-NP O
 2% CD I-NP O
 v/v NN I-NP O
 ammonia NN I-NP I-M

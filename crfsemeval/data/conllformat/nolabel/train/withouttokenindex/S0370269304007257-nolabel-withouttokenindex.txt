@@ -1,4 +1,5 @@
 Some DT I-NP O
+non-standard JJ I-NP I-KP
 couplings, NN I-NP I-KP
 which WDT B-NP O
 should MD I-VP O
@@ -73,6 +74,7 @@ real JJ I-NP O
 part NN I-NP O
 of IN I-PP O
 the DT I-NP O
+top-quark JJ I-NP O
 electric JJ I-NP O
 dipole NN I-NP O
 moment,44See NN I-NP O
@@ -102,10 +104,12 @@ recalled VBN I-VP O
 that DT I-NP O
 energy NN I-NP O
 and CC O O
+polar-angle JJ I-NP I-KP
 distributions NNS I-NP I-KP
 of IN I-PP I-KP
 leptons NNS I-NP I-KP
 and CC O I-KP
+b-quarks NNS I-NP I-KP
 in IN I-PP O
 e+e− NN I-NP I-KP
 colliders NNS I-NP I-KP
@@ -137,6 +141,7 @@ real JJ I-NP I-KP
 part NN I-NP I-KP
 of IN I-PP I-KP
 the DT I-NP I-KP
+top-quark JJ I-NP I-KP
 electric JJ I-NP I-KP
 dipole NN I-NP I-KP
 moment, NN I-NP I-KP

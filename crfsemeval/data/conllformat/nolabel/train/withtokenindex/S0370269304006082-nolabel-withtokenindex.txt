@@ -38,6 +38,7 @@ concretely, NN I-NP O 197,207
 we PRP B-NP O 209,211
 generalize VBP I-VP I-KP 212,222
 the DT I-NP I-KP 223,226
+one-loop JJ I-NP I-KP 227,235
 partition NN I-NP I-KP 236,245
 functions, NN I-NP I-KP 246,255
 as IN I-PP O 257,259
@@ -68,6 +69,7 @@ additional JJ I-NP I-KP 388,398
 dressings NNS I-NP I-KP 399,408
 of IN I-PP I-KP 409,411
 the DT I-NP I-KP 412,415
+world-sheet JJ I-NP I-KP 416,427
 parity NN I-NP I-KP 428,434
 symmetry NN I-NP I-KP 435,443
 and CC O O 444,447
@@ -113,6 +115,7 @@ very RB I-NP O 664,668
 explicit JJ I-NP O 669,677
 and CC O O 678,681
 general JJ I-NP O 682,689
+one-loop JJ I-NP I-KP 690,698
 partition NN I-NP I-KP 699,708
 functions NNS I-NP I-KP 709,718
 and CC O O 719,722
@@ -178,6 +181,7 @@ a DT I-NP O 1101,1102
 systematic JJ I-NP I-KP 1103,1113
 search NN I-NP I-KP 1114,1120
 for IN I-PP I-KP 1121,1124
+Standard-like NNP I-NP I-KP 1125,1138
 models NNS I-NP I-KP 1139,1145
 respectively RB O O 1146,1158
 for IN I-PP O 1159,1162

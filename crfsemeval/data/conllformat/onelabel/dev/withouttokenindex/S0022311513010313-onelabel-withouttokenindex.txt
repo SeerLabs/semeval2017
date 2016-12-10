@@ -116,6 +116,7 @@ Commercially RB O O
 available JJ I-NP O
 ground, NN I-NP O
 granulated VBD I-VP O
+blast-furnace JJ I-NP I-M
 slag NN I-NP I-M
 “Calumite” NN I-NP I-M
 was VBD I-VP O

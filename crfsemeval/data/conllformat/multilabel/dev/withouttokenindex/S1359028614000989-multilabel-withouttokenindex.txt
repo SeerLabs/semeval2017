@@ -61,6 +61,7 @@ physical JJ I-NP O
 level NN I-NP O
 and CC O O
 the DT I-NP O
+data-driven JJ I-NP O
 statistical JJ I-NP I-P
 model NN I-NP I-P
 level. NN I-NP O
@@ -90,9 +91,11 @@ volume NN I-NP O
 (e.g., VBP I-VP O
 simple JJ I-NP O
 univariate JJ I-NP I-M
+time-series NNS I-NP I-M
 data NNS I-NP I-M
 streams NNS I-NP I-M
 with IN I-PP O
+high-dimensional JJ I-NP I-M
 volumetric JJ I-NP I-M
 imaging VBG I-VP I-M
 datasets) NN I-NP O
@@ -139,12 +142,15 @@ the DT I-NP O
 broad JJ I-NP O
 categories NNS I-NP O
 of IN I-PP O
+micro-, JJ I-NP I-P
+meso- NN I-NP I-P
 and CC O I-P
 macroscopic NN I-NP I-P
 approaches. NN I-NP I-P
 
 Laboratory NN I-NP I-T
 and CC O I-T
+real-world NN I-NP I-T
 experimentation, NN I-NP I-T
 informatics, NN I-NP B-T
 analytics, NN I-NP B-T

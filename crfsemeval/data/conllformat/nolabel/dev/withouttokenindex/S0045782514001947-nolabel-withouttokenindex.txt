@@ -29,6 +29,7 @@ a DT I-NP O
 set NN I-NP O
 of IN I-PP O
 13 CD I-NP O
+boundary-layer JJ I-NP O
 flows. NN I-NP O
 
 They PRP I-NP O
@@ -40,6 +41,7 @@ calibrations NNS I-NP O
 by IN I-PP O
 computing VBG I-VP O
 Highest NNP I-NP I-KP
+Posterior-Density NN I-NP I-KP
 (HPD) NNP I-NP O
 intervals, NN I-NP O
 and CC O O
@@ -51,8 +53,11 @@ solution NN I-NP O
 uncertainty NN I-NP O
 with IN I-PP O
 a DT I-NP O
+probability-box JJ I-NP I-KP
+(p-box). NN I-NP O
 
 This DT I-NP O
+p-box JJ I-NP I-KP
 represents VBZ I-VP O
 both DT I-NP O
 parameter JJ I-NP O
@@ -71,6 +76,7 @@ prediction NN I-NP O
 of IN I-PP O
 a DT I-NP O
 new JJ I-NP O
+boundary-layer NN I-NP I-KP
 flow NN I-NP I-KP
 is VBZ I-VP O
 made VBN I-VP O

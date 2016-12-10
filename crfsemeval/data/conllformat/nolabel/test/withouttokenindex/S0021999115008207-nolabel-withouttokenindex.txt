@@ -1,3 +1,4 @@
+Multi-phase NN I-NP I-KP
 flows NNS I-NP I-KP
 are VBP I-VP O
 common, VBN I-VP O
@@ -43,6 +44,7 @@ at IN I-PP O
 the DT I-NP O
 interface NN I-NP O
 (e.g. NNP I-NP O
+gas-assisted JJ I-NP I-KP
 injection NN I-NP I-KP
 moulding VBG I-VP I-KP
 [21], NNP I-NP O
@@ -89,6 +91,7 @@ example. NN I-NP O
 We PRP I-NP O
 consider VBP I-VP O
 here RB I-VP O
+two-phase JJ I-NP I-KP
 interface NN I-NP I-KP
 problems NNS I-NP I-KP
 where WRB O O
@@ -133,11 +136,13 @@ have VBP I-VP O
 been VBN I-VP O
 tackled VBN I-VP O
 with IN I-PP O
+mesh-based JJ I-NP I-KP
 methods NNS I-NP I-KP
 using VBG I-VP O
 periodic JJ I-NP O
 (or JJ I-NP O
 adaptive) JJ I-NP O
+re-meshing NN I-NP I-KP
 or CC O O
 additional JJ I-NP O
 phase NN I-NP I-KP
@@ -150,6 +155,7 @@ these DT I-NP O
 approaches NNS I-NP O
 can MD I-VP O
 be VB I-VP O
+time-consuming JJ I-NP O
 to TO I-VP O
 implement VB I-VP O
 and CC I-VP O

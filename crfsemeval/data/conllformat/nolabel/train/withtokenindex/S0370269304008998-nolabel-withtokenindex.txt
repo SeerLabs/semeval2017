@@ -61,10 +61,14 @@ O7, NNP I-NP I-KP 420,422
 φB,+(k+) NNP I-NP O 424,432
 is VBZ I-VP O 433,435
 the DT I-NP O 436,439
+leading-twist JJ I-NP I-KP 440,453
+B-meson NNP I-NP I-KP 454,461
+wave-function NN I-NP I-KP 462,475
 with IN I-PP I-KP 476,480
 k+ NN I-NP I-KP 481,483
 being VBG I-NP I-KP 484,489
 a DT B-NP I-KP 490,491
+light-cone JJ I-NP I-KP 492,502
 component NN I-NP I-KP 503,512
 of IN I-PP I-KP 513,515
 the DT I-NP I-KP 516,519
@@ -74,11 +78,14 @@ momentum, NN I-NP I-KP 536,544
 φ⊥V(u) NN I-NP O 546,552
 is VBZ I-VP O 553,555
 the DT I-NP O 556,559
+leading-twist JJ I-NP I-KP 560,573
+light-cone JJ I-NP I-KP 574,584
 distribution NN I-NP I-KP 585,597
 amplitude NN I-NP I-KP 598,607
 (LCDA) NN I-NP O 608,614
 of IN I-PP O 615,617
 the DT I-NP O 618,621
+transversely-polarized JJ I-NP O 622,644
 vector NN I-NP O 645,651
 meson NN I-NP O 652,657
 V, NNP I-NP O 658,659
@@ -107,6 +114,7 @@ and CC O O 768,771
 TiII NNP I-NP O 772,776
 are VBP I-VP O 777,780
 the DT I-NP O 781,784
+hard-perturbative JJ I-NP O 785,802
 kernels NNS I-NP O 803,810
 calculated VBN I-VP O 811,821
 to TO I-VP O 822,824
@@ -117,6 +125,8 @@ the DT I-NP O 840,843
 latter JJ I-NP O 844,850
 containing VBG I-VP O 851,861
 the DT I-NP O 862,865
+so-called JJ I-NP O 866,875
+hard-spectator NN I-NP O 876,890
 contributions. NN I-NP O 891,904
 
 The DT I-NP I-KP 906,909
@@ -185,6 +195,7 @@ Refs. NNP I-NP O 1265,1269
 Very RB O O 1284,1288
 recently, VB I-VP O 1289,1297
 the DT I-NP O 1299,1302
+hard-spectator JJ I-NP I-KP 1303,1317
 contribution NN I-NP I-KP 1318,1330
 arising VBG I-VP I-KP 1331,1338
 from IN I-PP I-KP 1339,1343
@@ -197,6 +208,7 @@ also RB I-VP O 1380,1384
 been VBN I-VP O 1385,1389
 calculated VBN I-VP O 1390,1400
 in IN I-PP O 1401,1403
+next-to-next-to-leading JJ I-NP I-KP 1404,1427
 order NN I-NP O 1428,1433
 (NNLO) NN I-NP O 1434,1440
 in IN I-PP O 1441,1443

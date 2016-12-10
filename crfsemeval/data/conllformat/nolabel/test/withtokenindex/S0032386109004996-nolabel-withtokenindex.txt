@@ -77,6 +77,7 @@ straightforward. JJ I-NP O 463,478
 Also, IN I-PP O 480,484
 it PRP I-NP O 486,488
 is VBZ I-VP O 489,491
+non-destructive JJ I-NP O 492,507
 under IN I-PP O 508,513
 many JJ I-NP O 514,518
 circumstances. NN I-NP O 519,532
@@ -99,10 +100,12 @@ melting NN I-NP I-KP 610,617
 is VBZ I-VP O 618,620
 occurring, JJ I-NP O 621,630
 giving VBG I-NP O 632,638
+time-resolved JJ I-NP I-KP 639,652
 data NNS I-NP I-KP 653,657
 at IN I-PP O 658,660
 lamellar JJ I-NP O 661,669
 or CC O O 670,672
+sub-lamellar JJ I-NP O 673,685
 resolution NN I-NP O 686,696
 [15–18]. NN I-NP O 697,704
 
@@ -137,6 +140,7 @@ growth, NN I-NP I-KP 869,875
 crystal NN I-NP I-KP 877,884
 melting, NN I-NP I-KP 885,892
 and CC O O 894,897
+re-organisations NNS I-NP I-KP 898,914
 within IN I-PP I-KP 915,921
 crystals NNS I-NP I-KP 922,930
 at IN I-PP I-KP 931,933

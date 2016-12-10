@@ -6,11 +6,13 @@ pharmacyte NN I-NP I-P
 approach NN I-NP I-P
 is VBZ I-VP O
 the DT I-NP O
+one-time JJ I-NP O
 nature NN I-NP O
 of IN I-PP O
 the DT I-NP O
 intervention: JJ I-NP O
 ACT NNP I-NP I-M
+T-cells NNP I-NP I-M
 can MD I-VP O
 only RB I-VP O
 be VB I-VP O
@@ -42,6 +44,7 @@ population NN I-NP I-P
 in IN I-PP I-P
 vivo, JJ I-NP I-P
 since IN I-PP O
+cell-bound NN I-NP I-M
 particles NNS I-NP I-M
 are VBP I-VP O
 diluted VBN I-VP O
@@ -60,6 +63,7 @@ target VB I-VP O
 supporting VBG I-VP I-M
 drugs NNS I-NP I-M
 to TO I-VP O
+T-cells NNS I-NP I-M
 with IN I-PP O
 nanoparticle JJ I-NP I-M
 drug NN I-NP I-M
@@ -101,7 +105,9 @@ tumor NN I-NP I-T
 burdens. NN I-NP I-T
 
 Such JJ I-NP O
+“re-arming” NNS I-NP I-P
 of IN I-PP I-P
+T-cells NNP I-NP I-M
 with IN I-PP I-P
 supporting VBG I-VP I-M
 drugs NNS I-NP I-M
@@ -115,6 +121,8 @@ of IN I-PP I-P
 targeted JJ I-NP I-P
 particles, NN I-NP I-P
 allowing VBG I-VP O
+adoptively-transferred JJ I-NP I-M
+T-cells NNS I-NP I-M
 to TO I-VP O
 be VB I-VP O
 restimulated VBN I-VP O
@@ -155,6 +163,7 @@ to TO I-VP O
 target VB I-VP O
 nanoparticles NNS I-NP I-M
 to TO I-VP O
+T-cells NNS I-NP I-M
 in IN I-PP O
 vivo NN I-NP O
 [17,18]. NN I-NP O
@@ -168,15 +177,19 @@ particles NNS I-NP O
 were VBD I-VP O
 targeted VBN I-VP O
 to TO I-VP O
+T-cells NNP I-NP I-M
 via IN I-PP O
+peptide-MHC JJ I-NP I-M
 ligands NNS I-NP I-M
 that WDT B-NP O
 bind VBP I-VP O
 to TO I-VP O
 specific JJ I-NP O
+T-cell NNP I-NP I-M
 receptors. NN I-NP I-M
 
 However, NNP I-NP O
+peptide-MHC-functionalized JJ I-NP I-M
 nanoparticles NNS I-NP I-M
 have VBP I-VP O
 recently RB I-VP O
@@ -188,6 +201,7 @@ an DT I-NP O
 anergizing/tolerizing VBG I-NP O
 signal NN I-NP O
 to TO I-VP O
+T-cells NNP I-NP I-M
 [18,19] NNP I-NP O
 — NNP I-NP O
 which WDT B-NP O

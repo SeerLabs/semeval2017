@@ -119,6 +119,7 @@ mechanism, NN I-NP O
 DHC, NNP I-NP I-P
 is VBZ I-VP O
 a DT I-NP O
+sub-critical, JJ I-NP O
 time NN I-NP O
 dependent JJ I-NP O
 cracking VBG I-VP I-P

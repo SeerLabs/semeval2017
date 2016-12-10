@@ -18,6 +18,7 @@ its PRP$ I-NP O 100,103
 corresponding JJ I-NP O 104,117
 context) NN I-NP O 118,126
 is VBZ I-VP O 127,129
+fed-forward JJ I-NP O 130,141
 through IN I-PP O 142,149
 the DT I-NP O 150,153
 network, JJ I-NP O 154,161
@@ -41,12 +42,14 @@ DNNs NNP I-NP I-KP 256,260
 particularly RB O O 261,273
 suitable JJ I-NP O 274,282
 for IN I-PP O 283,286
+real-time JJ I-NP O 287,296
 applications NNS I-NP O 297,309
 because, VBP I-VP O 310,317
 unlike IN I-PP O 319,325
 other JJ I-NP I-KP 326,331
 approaches NNS I-NP I-KP 332,342
 (i.e. JJ I-NP O 343,347
+i-vectors), JJ I-NP O 349,359
 we PRP B-NP O 361,363
 can MD I-VP O 364,367
 potentially RB I-VP O 368,379

@@ -2,6 +2,7 @@ The DT I-NP O
 vibrational JJ I-NP O
 spectra NN I-NP O
 of IN I-PP O
+l-cysteine NN I-NP I-M
 have VBP I-VP O
 been VBN I-VP O
 recorded VBN I-VP O
@@ -169,6 +170,7 @@ the DT I-NP I-T
 vibrational JJ I-NP I-T
 spectra NN I-NP I-T
 of IN I-PP I-T
+l-cysteine NN I-NP I-M
 in IN I-PP O
 both CC I-PP O
 the DT I-NP O

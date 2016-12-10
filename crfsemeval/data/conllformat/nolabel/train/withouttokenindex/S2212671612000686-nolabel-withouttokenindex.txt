@@ -62,6 +62,7 @@ practical JJ I-NP I-KP
 financial JJ I-NP I-KP
 systemic JJ I-NP I-KP
 risk NN I-NP I-KP
+early-warning JJ I-NP I-KP
 index NN I-NP I-KP
 system; NN I-NP I-KP
 besides, NN I-NP O

@@ -1,3 +1,4 @@
+Flow-induced JJ I-NP O
 deformations NNS I-NP O
 can MD I-VP O
 lead VB I-VP O
@@ -53,6 +54,7 @@ average JJ I-NP I-KP
 molecular JJ I-NP I-KP
 weight. NN I-NP I-KP
 
+A-Alamry JJ I-NP O
 et NN I-NP O
 al. NN I-NP O
 [1] NNS I-NP O
@@ -61,6 +63,7 @@ recently RB I-VP O
 reported VBN I-VP O
 evidence NN I-NP O
 of IN I-PP O
+flow-induced JJ I-NP O
 polymer NN I-NP O
 degradation NN I-NP O
 in IN I-PP O
@@ -116,6 +119,7 @@ paper NN I-NP O
 we PRP B-NP O
 investigate VBP I-VP O
 whether IN I-PP O
+flow-induced JJ I-NP I-KP
 central JJ I-NP I-KP
 scission NN I-NP I-KP
 is VBZ I-VP O

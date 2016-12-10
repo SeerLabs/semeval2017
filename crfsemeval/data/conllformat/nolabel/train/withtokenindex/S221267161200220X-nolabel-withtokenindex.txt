@@ -79,6 +79,7 @@ describes VBZ I-VP O 482,491
 the DT I-NP O 492,495
 autocorrelation NN I-NP I-KP 496,511
 and CC O O 512,515
+time-varying JJ I-NP I-KP 516,528
 volatility NN I-NP I-KP 529,539
 of IN I-PP O 540,542
 the DT I-NP O 543,546
@@ -87,6 +88,8 @@ time NN I-NP I-KP 557,561
 series NN I-NP I-KP 562,568
 by IN I-PP O 569,571
 using VBG I-VP O 572,577
+ARIMA- NNP I-NP I-KP 578,584
+GARCH-M NNP I-NP I-KP 585,592
 model. NN I-NP I-KP 593,598
 
 The DT I-NP O 600,603

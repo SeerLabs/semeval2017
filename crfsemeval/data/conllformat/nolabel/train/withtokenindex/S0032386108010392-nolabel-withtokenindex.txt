@@ -23,6 +23,7 @@ compression NN I-NP I-KP 139,150
 testing. NN I-NP I-KP 151,158
 
 For IN I-PP O 160,163
+work-hardened JJ I-NP I-KP 164,177
 metals, NN I-NP I-KP 178,184
 Tabor NNP I-NP O 186,191
 derived VBD I-VP I-KP 192,199
@@ -76,6 +77,7 @@ the DT I-NP I-KP 506,509
 elastic JJ I-NP I-KP 510,517
 strains NNS I-NP I-KP 518,525
 are VBP I-VP O 526,529
+non-negligible JJ I-NP O 530,544
 [9]. NN I-NP O 545,548
 
 Hence, NNP I-NP O 550,555
@@ -98,6 +100,8 @@ the DT I-NP O 682,685
 validity NN I-NP O 686,694
 of IN I-PP O 695,697
 the DT I-NP O 698,701
+above-mentioned JJ I-NP O 702,717
+elasto-plastic JJ I-NP O 718,732
 models. NN I-NP O 733,739
 
 In IN I-PP O 741,743
@@ -136,6 +140,7 @@ been VBN I-VP O 948,952
 shown VBN I-VP O 953,958
 that IN I-PP O 959,963
 these DT I-NP O 964,969
+elasto-plastic JJ I-NP O 970,984
 models NNS I-NP O 985,991
 not RB O O 992,995
 only RB O O 996,1000

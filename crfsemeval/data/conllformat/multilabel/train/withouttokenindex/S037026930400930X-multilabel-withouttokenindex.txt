@@ -153,4 +153,5 @@ and CC O O
 background NN I-NP I-P
 estimates NNS I-NP I-P
 are VBP I-VP O
+Gaussian-distributed. JJ I-NP I-P
 

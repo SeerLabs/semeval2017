@@ -1,0 +1,17 @@
+T0	KEYPHRASE_NOTYPES 1549 1561	tensile part
+T1	KEYPHRASE_NOTYPES 505 564	produce both mesh size independent load–displacement curves
+T2	KEYPHRASE_NOTYPES 1223 1255	determine the compressive damage
+T3	KEYPHRASE_NOTYPES 175 191	inelastic strain
+T4	KEYPHRASE_NOTYPES 1098 1130	maximum tensile principal strain
+T5	KEYPHRASE_NOTYPES 1349 1374	inelastic strain profiles
+T6	KEYPHRASE_NOTYPES 589 619	CDPM2, the crack band approach
+T7	KEYPHRASE_NOTYPES 1183 1206	stress–inelastic strain
+T8	KEYPHRASE_NOTYPES 28 79	producing mesh independent load–displacement curves
+T9	KEYPHRASE_NOTYPES 1466 1485	crack-band approach.
+T10	KEYPHRASE_NOTYPES 643 724	tensile part of the damage algorithm by replacing the stress–inelastic strain law
+T11	KEYPHRASE_NOTYPES 84 110	fracture in plain concrete
+T12	KEYPHRASE_NOTYPES 1036 1069	principal direction of the strain
+T13	KEYPHRASE_NOTYPES 469 483	nonlocal model
+T14	KEYPHRASE_NOTYPES 278 401	produce mesh independent load–displacement curves, if the inelastic strain profiles in the finite element analysis are mesh
+T15	KEYPHRASE_NOTYPES 1504 1536	applying the crack-band approach
+T16	KEYPHRASE_NOTYPES 749 833	stress–inelastic displacement law of the form(13)σ=ftexp(−ϵinhwft)if(ϵin>0)Here, wft

@@ -36,6 +36,7 @@ the DT I-NP O
 end NN I-NP O
 [27] NN I-NP O
 and CC O O
+semi-infinite JJ I-NP I-KP
 substrate; NN I-NP I-KP
 (ii) VBZ I-VP O
 the DT I-NP O
@@ -106,6 +107,7 @@ separation, NN I-NP I-KP
 macroscopic NN I-NP O
 sphere JJ I-NP O
 radius, JJ I-NP O
+cone-angle NN I-NP O
 and CC O O
 Hamaker NNP I-NP O
 constant NN I-NP O

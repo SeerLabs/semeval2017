@@ -68,6 +68,7 @@ called VBN I-VP O
 optical JJ I-NP I-KP
 lasers, NN I-NP I-KP
 and CC O O
+radio-masers. NN I-NP I-KP
 
 Cosmic NNP I-NP I-KP
 maser NN I-NP I-KP

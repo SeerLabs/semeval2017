@@ -4,6 +4,7 @@ open JJ I-NP O
 and CC O O
 close JJ I-NP O
 aperture NN I-NP I-P
+Z-scan JJ I-NP I-P
 experiments, NN I-NP I-P
 in IN I-PP O
 analogy NN I-NP O
@@ -45,6 +46,7 @@ important JJ I-NP O
 inclusion NN I-NP O
 of IN I-PP O
 an DT I-NP O
+optical-chopper. JJ I-NP I-M
 
 The DT I-NP O
 vibrational JJ I-NP I-P
@@ -78,6 +80,7 @@ molecules NNS I-NP I-M
 undergo JJ I-NP O
 relaxation NN I-NP O
 through IN I-PP O
+non-radiative JJ I-NP I-P
 processes, NN I-NP I-P
 which WDT B-NP O
 gives VBZ I-VP O
@@ -126,6 +129,7 @@ in IN I-PP O
 case NN I-NP O
 of IN I-PP O
 high JJ I-NP I-M
+repetition-rate JJ I-NP I-M
 lasers NNS I-NP I-M
 to TO I-VP O
 produce VB I-VP O
@@ -145,6 +149,8 @@ thermal JJ I-NP I-T
 effect NN I-NP I-T
 with IN I-PP O
 the DT I-NP O
+mode-mismatched JJ I-NP I-P
+two-color NN I-NP I-P
 pump–probe NN I-NP I-P
 experiment. NN I-NP I-P
 

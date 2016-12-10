@@ -135,6 +135,7 @@ of IN I-PP I-KP
 the DT I-NP I-KP
 string NN I-NP I-KP
 are VBP I-VP I-KP
+short-circuited. JJ I-NP I-KP
 
 For IN I-PP O
 both DT I-NP O

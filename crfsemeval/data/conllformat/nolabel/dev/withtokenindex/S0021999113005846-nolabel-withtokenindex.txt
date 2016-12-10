@@ -65,6 +65,7 @@ response NN I-NP I-KP 378,386
 is VBZ I-VP O 387,389
 composed VBN I-VP O 390,398
 of IN I-PP O 399,401
+shallow-water JJ I-NP I-KP 402,415
 waves, NN I-NP I-KP 416,421
 possibly RB O O 423,431
 including VBG I-VP O 432,441
@@ -112,6 +113,7 @@ is VBZ I-VP O 655,657
 a DT I-NP O 658,659
 large JJ I-NP O 660,665
 amplitude JJ I-NP O 666,675
+near-resonant JJ I-NP O 676,689
 response, NN I-NP O 690,698
 the DT B-NP O 700,703
 size NN I-NP O 704,708
@@ -131,6 +133,7 @@ in IN I-PP O 769,771
 numerical JJ I-NP I-KP 772,781
 solutions NNS I-NP I-KP 782,791
 of IN I-PP O 792,794
+near-resonantly RB I-NP I-KP 795,810
 forced VBN I-NP I-KP 811,817
 waves, IN I-PP I-KP 818,823
 we PRP I-NP O 825,827
@@ -147,6 +150,7 @@ discretisation) NN I-NP O 886,901
 could MD I-VP O 902,907
 lead VB I-VP O 908,912
 to TO I-VP O 913,915
+non-trivial JJ I-NP O 916,927
 errors NNS I-NP O 928,934
 in IN I-PP O 935,937
 the DT I-NP O 938,941

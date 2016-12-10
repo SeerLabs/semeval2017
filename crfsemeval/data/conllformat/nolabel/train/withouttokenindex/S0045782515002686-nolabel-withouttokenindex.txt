@@ -140,6 +140,7 @@ be VB I-VP O
 solved VBN I-VP O
 (i.e. PRP I-NP O
 a DT I-NP O
+one-phase JJ I-NP O
 formulation). NN I-NP O
 
 Additionally, IN I-PP O

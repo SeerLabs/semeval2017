@@ -68,6 +68,7 @@ called VBN I-VP O 360,366
 optical JJ I-NP I-KP 367,374
 lasers, NN I-NP I-KP 375,381
 and CC O O 383,386
+radio-masers. NN I-NP I-KP 387,399
 
 Cosmic NNP I-NP I-KP 401,407
 maser NN I-NP I-KP 408,413

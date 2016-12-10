@@ -134,6 +134,7 @@ segments NNS I-NP I-KP 880,888
 form VBP I-VP O 889,893
 an DT I-NP O 894,896
 interconnected JJ I-NP I-KP 897,911
+three-dimensional JJ I-NP I-KP 912,929
 network NN I-NP I-KP 930,937
 responsible JJ I-NP O 938,949
 for IN I-PP O 950,953
@@ -146,6 +147,7 @@ complementary JJ I-NP I-KP 990,1003
 network NN I-NP I-KP 1004,1011
 of IN I-PP I-KP 1012,1014
 hydrophobic JJ I-NP I-KP 1015,1026
+non-sulfonated JJ I-NP I-KP 1027,1041
 segments NNS I-NP I-KP 1042,1050
 imparts VBZ I-VP O 1051,1058
 a DT I-NP O 1059,1060

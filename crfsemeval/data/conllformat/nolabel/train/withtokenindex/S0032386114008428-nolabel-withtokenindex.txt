@@ -32,6 +32,8 @@ groups NNS I-NP I-KP 209,215
 into IN I-PP O 216,220
 a DT I-NP O 221,222
 poly(butyl JJ I-NP O 223,233
+methacrylate-co-hydroxyehtyl JJ I-NP I-KP 234,262
+acrylate-co-ethyl JJ I-NP I-KP 263,280
 acrylate) NN I-NP O 281,290
 random NN I-NP O 291,297
 copolymer NN I-NP I-KP 298,307
@@ -57,6 +59,7 @@ on IN I-PP O 451,453
 MMA, NNP I-NP I-KP 454,457
 BA, NNP I-NP B-KP 459,461
 and CC O O 463,466
+2-hydroxyethyl JJ I-NP I-KP 467,481
 methacrylate NN I-NP I-KP 482,494
 (HEMA). NN I-NP O 495,501
 

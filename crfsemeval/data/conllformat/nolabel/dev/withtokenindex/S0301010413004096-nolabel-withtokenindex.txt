@@ -119,8 +119,10 @@ H2 NNP I-NP I-KP 745,747
 molecules NNS I-NP I-KP 748,757
 and CC O O 758,761
 an DT I-NP O 762,764
+aluminium-based JJ I-NP I-KP 765,780
 porous JJ I-NP I-KP 781,787
 MOF, NNP I-NP I-KP 788,791
+NOTT-300, NNP I-NP B-KP 793,801
 exhibiting VBG I-VP O 803,813
 moderate JJ I-NP O 814,822
 porosity, NN I-NP O 823,831
@@ -166,7 +168,9 @@ via IN I-PP O 1070,1073
 a DT I-NP O 1074,1075
 type NN I-NP O 1076,1080
 of IN I-PP O 1081,1083
+through-spacing JJ I-NP I-KP 1084,1099
 interaction NN I-NP I-KP 1100,1111
+(Al-O⋯H2). NN I-NP O 1112,1121
 
 Interestingly, NNP I-NP O 1123,1136
 the DT I-NP O 1138,1141

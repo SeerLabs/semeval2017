@@ -116,6 +116,7 @@ Rojas, NNP I-NP O 751,756
 
 We PRP I-NP O 765,767
 use VBP I-VP O 768,771
+feed-forward JJ I-NP I-KP 772,784
 networks NNS I-NP I-KP 785,793
 with IN I-PP I-KP 794,798
 a DT I-NP I-KP 799,800
@@ -127,6 +128,7 @@ nodes, FW I-NP I-KP 824,829
 a DT I-NP O 831,832
 so RB O O 833,835
 called JJ I-NP O 836,842
+Multi-Layer NNP I-NP I-KP 843,854
 Perceptron NNP I-NP I-KP 855,865
 (MLP) NNP I-NP O 866,871
 (Venables NNS I-NP O 872,881

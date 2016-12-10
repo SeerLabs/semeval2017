@@ -81,6 +81,7 @@ But, IN I-PP O 572,575
 it PRP I-NP O 577,579
 was VBD I-VP O 580,583
 the DT I-NP O 584,587
+“soft-lithography” JJ I-NP I-KP 588,606
 techniques NNS I-NP I-KP 607,617
 [25] VBP I-VP O 618,622
 introduced VBN I-VP O 623,633
@@ -101,6 +102,7 @@ up RP O O 706,708
 the DT I-NP O 709,712
 era NN I-NP O 713,716
 of IN I-PP O 717,719
+PDMS-based JJ I-NP I-KP 720,730
 microfluidics NNS I-NP I-KP 731,744
 in IN I-PP O 745,747
 the DT I-NP O 748,751
@@ -143,6 +145,7 @@ laboratory. NN I-NP O 960,970
 Detailed JJ I-NP O 972,980
 overviews NNS I-NP O 981,990
 of IN I-PP O 991,993
+soft-lithography NN I-NP I-KP 994,1010
 techniques NNS I-NP I-KP 1011,1021
 and CC O O 1022,1025
 their PRP$ I-NP O 1026,1031
@@ -211,6 +214,7 @@ rapid JJ I-NP I-KP 1416,1421
 prototyping NN I-NP I-KP 1422,1433
 service NN I-NP I-KP 1434,1441
 for IN I-PP O 1442,1445
+PDMS-based JJ I-NP I-KP 1446,1456
 LOC NNP I-NP I-KP 1457,1460
 devices. NN I-NP I-KP 1461,1468
 

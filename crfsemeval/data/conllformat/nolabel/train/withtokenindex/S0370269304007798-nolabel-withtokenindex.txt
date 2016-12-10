@@ -80,6 +80,7 @@ significantly RB I-VP O 467,480
 mix VB I-VP O 481,484
 with IN I-PP O 485,489
 regular JJ I-NP O 490,497
+qq̄-mesons NNS I-NP I-KP 498,508
 in IN I-PP O 509,511
 the DT I-NP O 512,515
 region NN I-NP O 516,522
@@ -162,4 +163,5 @@ are VBP I-VP O 978,981
 unattainable JJ I-NP O 982,994
 by IN I-PP O 995,997
 regular JJ I-NP O 998,1005
+qq̄-mesons. NN I-NP I-KP 1006,1016
 

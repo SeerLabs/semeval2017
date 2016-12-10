@@ -112,6 +112,7 @@ fabrication NN I-NP O
 of IN I-PP O
 very RB I-NP I-KP
 sensitive JJ I-NP I-KP
+low-cost JJ I-NP I-KP
 devices NNS I-NP I-KP
 for IN I-PP O
 biosensing NN I-NP I-KP
@@ -172,6 +173,7 @@ in IN B-PP O
 lasers. NN I-NP I-KP
 
 Absorption NNP I-NP O
+cross-sections NNS I-NP O
 of IN I-PP O
 polarons NNS I-NP O
 are VBP I-VP O
@@ -210,6 +212,7 @@ through IN I-PP O
 contacting VBG I-VP I-KP
 electrodes NNS I-NP I-KP
 and CC O O
+field-dependent JJ I-NP I-KP
 charge NN I-NP I-KP
 mobility NN I-NP I-KP
 measurements NNS I-NP I-KP

@@ -52,6 +52,7 @@ means NNS I-NP O
 of IN I-PP O
 NURBS NNP I-NP I-M
 or CC O O
+T-splines. NNP I-NP I-M
 
 This DT I-NP O
 concept, NN I-NP O
@@ -142,6 +143,7 @@ piecewise NN I-NP O
 polynomials NNS I-NP O
 which WDT B-NP O
 is VBZ I-VP O
+well-studied JJ I-NP O
 in IN I-PP O
 the DT I-NP O
 literature, NN I-NP O
@@ -187,6 +189,7 @@ error NN I-NP I-P
 estimation NN I-NP I-P
 has VBZ I-VP O
 been VBN I-VP O
+well-studied JJ I-NP O
 for IN I-PP O
 standard JJ I-NP I-P
 BEM, NNP I-NP I-P

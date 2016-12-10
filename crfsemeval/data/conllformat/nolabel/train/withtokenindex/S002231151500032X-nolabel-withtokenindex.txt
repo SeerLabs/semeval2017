@@ -36,6 +36,7 @@ However, NNP I-NP O 218,225
 the DT I-NP O 227,230
 microstructure NN I-NP I-KP 231,245
 and CC O I-KP 246,249
+electro-chemical JJ I-NP I-KP 250,266
 processes NNS I-NP I-KP 267,276
 during IN I-PP O 277,283
 oxidation NN I-NP I-KP 284,293
@@ -59,6 +60,7 @@ lateral JJ I-NP O 385,392
 cracks NNS I-NP O 393,399
 near IN I-PP O 400,404
 the DT I-NP O 405,408
+metal-oxide JJ I-NP I-KP 409,420
 interface. NN I-NP I-KP 421,430
 
 Small JJ I-NP O 432,437
@@ -128,7 +130,9 @@ in IN I-PP O 822,824
 Experiments NNS I-NP O 832,843
 using VBG I-NP O 844,849
 Synchrotron NNP I-NP I-KP 850,861
+X-Ray JJ I-NP I-KP 862,867
 Diffraction NNP I-NP I-KP 868,879
+(S-XRD) NN I-NP O 880,887
 by IN I-PP O 888,890
 both DT I-NP O 891,895
 Polatidis NNP I-NP O 896,905
@@ -145,6 +149,7 @@ that IN I-PP O 955,959
 oxides NNS I-NP I-KP 960,966
 formed VBN I-NP O 967,973
 on IN I-PP O 974,976
+Zircaloy-4 NNP I-NP I-KP 977,987
 are VBP I-VP O 988,991
 composed VBN I-VP O 992,1000
 of IN I-PP O 1001,1003
@@ -185,6 +190,7 @@ phase NN I-NP I-KP 1208,1213
 close RB O O 1214,1219
 to TO I-VP O 1220,1222
 the DT I-NP O 1223,1226
+metal-oxide JJ I-NP I-KP 1227,1238
 interface. NN I-NP I-KP 1239,1248
 
 The DT I-NP O 1250,1253
@@ -205,6 +211,7 @@ fracture VB I-VP I-KP 1336,1344
 perpendicular JJ I-NP O 1345,1358
 to TO I-VP O 1359,1361
 the DT I-NP O 1362,1365
+metal-oxide JJ I-NP I-KP 1366,1377
 interface, NN I-NP I-KP 1378,1387
 thereby RB O O 1389,1396
 generating VBG I-VP O 1397,1407

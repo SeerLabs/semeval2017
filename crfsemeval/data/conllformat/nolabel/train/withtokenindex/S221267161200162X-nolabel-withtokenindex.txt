@@ -1,4 +1,5 @@
 A DT I-NP O 0,1
+fuzzy-Hammerstein JJ I-NP I-KP 2,19
 model NN I-NP I-KP 20,25
 predictive JJ I-NP I-KP 26,36
 control NN I-NP I-KP 37,44
@@ -8,12 +9,14 @@ proposed VBN I-VP O 55,63
 for IN I-PP O 64,67
 a DT I-NP O 68,69
 continuous JJ I-NP I-KP 70,80
+stirred-tank JJ I-NP I-KP 81,93
 reactor NN I-NP I-KP 94,101
 (CSTR). NN I-NP O 102,108
 
 In IN I-PP O 110,112
 this DT I-NP O 113,117
 paper NN I-NP O 118,123
+T-S NNP I-NP I-KP 124,127
 fuzzy NN I-NP I-KP 128,133
 model NN I-NP I-KP 134,139
 is VBZ I-VP O 140,142
@@ -61,6 +64,7 @@ universal JJ I-NP I-KP 406,415
 approach NN I-NP I-KP 416,424
 nonlinear IN I-PP I-KP 425,434
 of IN B-PP O 435,437
+T-S NNP I-NP I-KP 438,441
 model, NN I-NP I-KP 442,447
 and CC O O 449,452
 divide VB I-VP O 453,459

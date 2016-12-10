@@ -52,6 +52,7 @@ of IN I-PP O
 prices. NN I-NP O
 
 The DT I-NP O
+two- JJ I-NP I-P
 echelon NN I-NP I-P
 supply NN I-NP I-P
 chain NN I-NP I-P

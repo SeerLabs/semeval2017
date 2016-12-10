@@ -20,7 +20,9 @@ mechanism, NN I-NP I-P
 with IN I-PP O
 conduction NN I-NP O
 between IN I-PP O
+Fe3+-O-Mo-O-Fe2+. NNP I-NP I-M
 
+Double-exchange NNP I-NP I-P
 mechanisms, NN I-NP I-P
 as IN I-PP O
 proposed VBN I-NP O
@@ -84,6 +86,7 @@ of IN I-PP I-P
 Fe NNP I-NP I-M
 electrons NNS I-NP I-M
 through IN I-PP O
+Fe2+-O-Fe3+ NNP I-NP I-P
 exchange NN I-NP I-P
 could MD I-VP O
 also RB I-VP O

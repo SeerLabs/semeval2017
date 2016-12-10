@@ -5,6 +5,7 @@ morphological JJ I-NP I-KP 11,24
 studies NNS I-NP I-KP 25,32
 of IN I-PP O 33,35
 the DT I-NP O 36,39
+multi-component JJ I-NP I-KP 40,55
 polymeric JJ I-NP I-KP 56,65
 materials NNS I-NP I-KP 66,75
 have VBP I-VP O 76,80
@@ -50,6 +51,7 @@ that IN I-PP O 364,368
 they PRP I-NP O 369,373
 provide VBP I-VP O 374,381
 intuitive JJ I-NP O 382,391
+real-space NN I-NP O 392,402
 representations NNS I-NP O 403,418
 of IN I-PP O 419,421
 the DT I-NP O 422,425

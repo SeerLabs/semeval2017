@@ -35,6 +35,7 @@ sensing VBG I-NP I-M
 images NNS I-NP I-M
 interpretation, VBP I-VP I-P
 used VBN I-VP O
+multi-temporal JJ I-NP I-M
 remote JJ I-NP I-M
 sensing VBG I-VP I-M
 images, NN I-NP I-M

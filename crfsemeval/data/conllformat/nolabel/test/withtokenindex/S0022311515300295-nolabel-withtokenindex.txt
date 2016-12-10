@@ -19,6 +19,7 @@ to TO I-VP O 110,112
 their PRP$ I-NP O 113,118
 low JJ I-NP O 119,122
 neutron RB O O 123,130
+cross-section, NN I-NP O 131,144
 good JJ I-NP O 146,150
 corrosion NN I-NP O 151,160
 resistance NN I-NP O 161,171
@@ -132,4 +133,5 @@ assemblies NNS I-NP I-KP 912,922
 for IN I-PP O 923,926
 very RB I-NP O 927,931
 high JJ I-NP O 932,936
+burn-up. NN I-NP O 937,944
 

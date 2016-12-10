@@ -11,6 +11,7 @@ pathways NNS I-NP I-KP 68,76
 are VBP I-VP O 77,80
 confined VBN I-VP O 81,89
 to TO I-VP O 90,92
+Ga-free JJ I-NP O 93,100
 regions NNS I-NP O 101,108
 suggests VBZ I-VP O 109,117
 changes NNS I-NP O 118,125
@@ -19,6 +20,7 @@ recombination NN I-NP O 129,142
 rates NNS I-NP O 143,148
 of IN I-PP O 149,151
 isolated JJ I-NP O 152,160
+vacancy-interstitial JJ I-NP O 161,181
 pairs NNS I-NP O 182,187
 in IN I-PP O 188,190
 comparison NN I-NP O 191,201

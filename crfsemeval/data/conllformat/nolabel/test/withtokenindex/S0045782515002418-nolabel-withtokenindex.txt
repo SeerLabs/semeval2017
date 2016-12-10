@@ -15,6 +15,7 @@ popular JJ I-NP O 72,79
 type NN I-NP O 80,84
 of IN I-PP O 85,87
 unstructured JJ I-NP I-KP 88,100
+high-order NN I-NP I-KP 101,111
 method NN I-NP I-KP 112,118
 (at NNP I-NP O 119,122
 least JJS I-NP O 123,128
@@ -33,6 +34,7 @@ FR NNP I-NP B-KP 197,199
 schemes VBZ I-VP I-KP 200,207
 utilise VB I-VP O 208,215
 a DT I-NP O 216,217
+high-order JJ I-NP I-KP 218,228
 (nodal) JJ I-NP O 229,236
 polynomial JJ I-NP O 237,247
 basis NN I-NP O 248,253
@@ -58,6 +60,7 @@ do VBP I-VP O 369,371
 not RB I-VP O 372,375
 explicitly RB O O 376,386
 enforce VB I-VP I-KP 387,394
+inter-element JJ I-NP I-KP 395,408
 solution NN I-NP I-KP 409,417
 continuity. NN I-NP I-KP 418,428
 

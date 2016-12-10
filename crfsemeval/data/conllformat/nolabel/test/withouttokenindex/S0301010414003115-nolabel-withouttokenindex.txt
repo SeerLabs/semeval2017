@@ -3,6 +3,7 @@ optimised JJ I-NP I-KP
 structure NN I-NP I-KP
 at IN I-PP O
 the DT I-NP O
+B3LYP/aug-cc-pVTZ NNP I-NP I-KP
 level NN I-NP O
 was VBD I-VP O
 then RB I-VP O
@@ -49,6 +50,7 @@ were VBD I-VP O
 performed VBN I-VP O
 with IN I-PP O
 an DT I-NP O
+all-electron JJ I-NP O
 atomic JJ I-NP I-KP
 natural JJ I-NP I-KP
 orbital JJ I-NP I-KP
@@ -64,6 +66,7 @@ manganese, NN I-NP I-KP
 together RB O O
 with IN I-PP O
 the DT I-NP O
+cc-pVTZ JJ I-NP I-KP
 basis NN I-NP O
 set VBN I-VP O
 on IN I-PP O
@@ -72,6 +75,7 @@ oxygen NN I-NP I-KP
 atoms. NN I-NP O
 
 The DT I-NP O
+all-electron NN I-NP I-KP
 correlated VBD I-VP I-KP
 calculations NNS I-NP I-KP
 invoked VBD I-VP O
@@ -102,9 +106,11 @@ energies. NN I-NP I-KP
 For IN I-PP O
 comparison NN I-NP O
 the DT I-NP O
+EOM-CCSD NNP I-NP I-KP
 method NN I-NP I-KP
 with IN I-PP O
 the DT I-NP O
+cc-pVTZ JJ I-NP I-KP
 basis NN I-NP O
 on IN I-PP O
 all DT I-NP O
@@ -114,6 +120,7 @@ tested VBN I-VP O
 to TO I-VP O
 compare VB I-VP O
 with IN I-PP O
+LR-CCSD. NNP I-NP I-KP
 
 These DT I-NP O
 formally RB O O
@@ -131,6 +138,7 @@ are VBP I-VP O
 more JJR I-NP O
 accurate JJ I-NP O
 for IN I-PP O
+LR-CCSD. NNP I-NP I-KP
 
 Abelian JJ I-NP I-KP
 symmetry NN I-NP I-KP

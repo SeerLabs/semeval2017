@@ -139,8 +139,10 @@ the DT I-NP I-M
 material NN I-NP I-M
 using VBG I-VP O
 the DT I-NP O
+two-layer NN I-NP I-P
 and CC O I-P
 unified JJ I-NP I-P
+visco-plasticity NN I-NP I-P
 models NNS I-NP I-P
 [3,4]. VBP I-VP O
 

@@ -136,6 +136,7 @@ energy. NN I-NP O
 is VBZ I-VP O
 considered VBN I-VP O
 the DT I-NP O
+cut-off NN I-NP O
 because IN I-PP O
 it PRP I-NP O
 is VBZ I-VP O

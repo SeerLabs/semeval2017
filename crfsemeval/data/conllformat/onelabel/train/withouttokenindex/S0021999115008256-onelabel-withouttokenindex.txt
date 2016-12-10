@@ -47,11 +47,13 @@ the DT I-NP O
 derivation NN I-NP I-P
 of IN I-PP I-P
 the DT I-NP I-P
+semi-discrete JJ I-NP I-P
 advection–diffusion NN I-NP I-P
 problem NN I-NP I-P
 as IN I-PP O
 applied VBN I-NP O
 to TO I-VP O
+wave-like JJ I-NP I-M
 solutions, NN I-NP I-M
 from IN I-PP O
 which WDT I-NP O

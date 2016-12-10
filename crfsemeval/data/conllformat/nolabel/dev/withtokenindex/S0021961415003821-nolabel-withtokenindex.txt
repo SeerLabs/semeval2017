@@ -2,6 +2,7 @@ The DT I-NP O 0,3
 homologous JJ I-NP I-KP 4,14
 series NN I-NP I-KP 15,21
 of IN I-PP I-KP 22,24
+n-alkanes NNS I-NP I-KP 25,34
 are VBP I-VP O 35,38
 represented VBN I-VP O 39,50
 here RB O O 51,55
@@ -22,9 +23,14 @@ CG NNP I-NP I-KP 135,137
 models NNS I-NP I-KP 138,144
 for IN I-PP I-KP 145,148
 long JJ I-NP I-KP 149,153
+n-alkanes NNS I-NP I-KP 154,163
 such JJ I-NP O 164,168
 as IN I-PP O 169,171
+n-decane JJ I-NP I-KP 172,180
+(n-C10H22) JJ I-NP O 181,191
 and CC O O 192,195
+n-eicosane JJ I-NP I-KP 196,206
+(n-C20H42) NN I-NP O 207,217
 has VBZ I-VP O 218,221
 already RB I-VP O 222,229
 been VBN I-VP O 230,234
@@ -32,11 +38,13 @@ successfully RB O O 235,247
 demonstrated VBN I-VP O 248,260
 using VBG I-VP O 261,266
 the DT I-NP O 267,270
+SAFT-γ NNP I-NP I-KP 271,277
 Mie NNP I-NP I-KP 278,281
 formalism NN I-NP I-KP 282,291
 [118]. NN I-NP O 292,297
 
 The DT I-NP O 299,302
+n-decane JJ I-NP I-KP 303,311
 molecule NN I-NP I-KP 312,320
 was VBD I-VP O 321,324
 represented VBN I-VP O 325,336
@@ -45,6 +53,7 @@ chains NNS I-NP O 340,346
 of IN I-PP O 347,349
 three CD I-NP O 350,355
 and CC O O 356,359
+n-eicosane JJ I-NP I-KP 360,370
 chains NNS I-NP O 371,377
 of IN I-PP O 378,380
 six CD I-NP O 381,384
@@ -92,6 +101,7 @@ alternative JJ I-NP I-KP 621,632
 CG NNP I-NP I-KP 633,635
 mapping NN I-NP I-KP 636,643
 for IN I-PP O 644,647
+n-alkanes NNS I-NP I-KP 648,657
 developed VBN I-NP O 658,667
 in IN I-PP O 668,670
 reference NN I-NP O 671,680
@@ -118,6 +128,7 @@ By IN I-PP O 804,806
 applying VBG I-VP O 807,815
 this DT I-NP O 816,820
 mapping, JJ I-NP O 821,828
+n-alkanes JJ I-NP I-KP 830,839
 chains NNS I-NP I-KP 840,846
 containing VBG I-VP O 847,857
 multiples NNS I-NP O 858,867
@@ -129,6 +140,11 @@ can MD I-VP O 890,893
 be VB I-VP O 894,896
 represented VBN I-VP O 897,908
 directly: JJ I-NP O 909,917
+n-C6H14, JJ I-NP I-KP 919,926
+n-C9H20, JJ I-NP B-KP 928,935
+n-C12H26, JJ I-NP B-KP 937,945
+n-C15H32, JJ I-NP B-KP 947,955
+n-C18H38, JJ I-NP B-KP 957,965
 etc. NN I-NP O 967,970
 
 A DT I-NP O 972,973
@@ -216,6 +232,7 @@ estimated VBN I-VP O 1430,1439
 from IN I-PP O 1440,1444
 the DT I-NP O 1445,1448
 experimental JJ I-NP O 1449,1461
+saturated-liquid JJ I-NP I-KP 1462,1478
 density NN I-NP I-KP 1479,1486
 and CC O O 1487,1490
 vapour JJ I-NP I-KP 1491,1497
@@ -227,6 +244,7 @@ alkanes NNS I-NP I-KP 1525,1532
 following VBG I-VP O 1533,1542
 the DT I-NP O 1543,1546
 usual JJ I-NP O 1547,1552
+SAFT-γ NNP I-NP I-KP 1553,1559
 Mie NNP I-NP I-KP 1560,1563
 procedure. NN I-NP I-KP 1564,1573
 

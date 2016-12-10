@@ -102,7 +102,9 @@ to TO I-VP O
 do VB I-VP O
 so RB O O
 on IN I-PP O
+non-equidistant JJ I-NP I-M
 or CC O O
+non-rectilinear JJ I-NP I-M
 meshes, NN I-NP I-M
 as IN I-PP O
 discussed VBN I-NP O

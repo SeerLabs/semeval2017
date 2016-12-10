@@ -5,6 +5,7 @@ morphological JJ I-NP I-KP
 studies NNS I-NP I-KP
 of IN I-PP O
 the DT I-NP O
+multi-component JJ I-NP I-KP
 polymeric JJ I-NP I-KP
 materials NNS I-NP I-KP
 have VBP I-VP O
@@ -50,6 +51,7 @@ that IN I-PP O
 they PRP I-NP O
 provide VBP I-VP O
 intuitive JJ I-NP O
+real-space NN I-NP O
 representations NNS I-NP O
 of IN I-PP O
 the DT I-NP O

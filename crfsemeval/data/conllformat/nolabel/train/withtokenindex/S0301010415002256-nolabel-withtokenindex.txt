@@ -71,6 +71,7 @@ the DT I-NP O 464,467
 problems NNS I-NP O 468,476
 of IN I-PP O 477,479
 describing VBG I-VP O 480,490
+non-adiabatic JJ I-NP I-KP 491,504
 systems. NN I-NP I-KP 505,512
 
 It PRP I-NP O 514,516
@@ -87,9 +88,11 @@ is VBZ I-VP O 573,575
 used VBN I-VP O 576,580
 in IN I-PP O 581,583
 modern, JJ I-NP O 584,590
+direct-dynamic JJ I-NP I-KP 592,606
 methods NNS I-NP I-KP 607,614
 that WDT B-NP O 615,619
 include VBP I-VP O 620,627
+non-adiabatic JJ I-NP O 628,641
 effects NNS I-NP O 642,649
 [6]. VBP I-VP O 650,653
 
@@ -155,6 +158,7 @@ in IN I-PP O 1052,1054
 the DT I-NP O 1055,1058
 context NN I-NP O 1059,1066
 of IN I-PP O 1067,1069
+permutation-inversion NN I-NP I-KP 1070,1091
 groups NNS I-NP I-KP 1092,1098
 [13]. VBP I-VP O 1099,1103
 

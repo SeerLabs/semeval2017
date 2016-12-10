@@ -6,8 +6,8 @@ a DT I-NP O
 general JJ I-NP O
 feature NN I-NP O
 of IN I-PP O
-quantum JJ I-NP I-P
-fields, NN I-NP I-P
+quantum JJ I-NP I-T
+fields, NN I-NP I-T
 of IN I-PP O
 which WDT I-NP O
 the DT I-NP O
@@ -66,6 +66,7 @@ nuclear JJ I-NP I-T
 physics, NN I-NP I-T
 within IN I-PP O
 the DT I-NP O
+so-called JJ I-NP O
 “MIT NNP I-NP I-T
 bag NN I-NP I-T
 model” NN I-NP I-T
@@ -76,6 +77,7 @@ nucleon NN I-NP I-T
 
 In IN I-PP O
 the DT I-NP O
+bag-model JJ I-NP O
 one CD I-NP O
 envisages VBZ I-VP O
 the DT I-NP O
@@ -170,6 +172,7 @@ the DT I-NP O
 physics NNS I-NP O
 of IN I-PP O
 the DT I-NP O
+bag-model JJ I-NP I-M
 nucleon NN I-NP I-M
 [19]. NN I-NP O
 

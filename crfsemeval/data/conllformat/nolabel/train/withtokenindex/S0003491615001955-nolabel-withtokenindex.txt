@@ -66,6 +66,7 @@ nuclear JJ I-NP I-KP 396,403
 physics, NN I-NP I-KP 404,411
 within IN I-PP O 413,419
 the DT I-NP O 420,423
+so-called JJ I-NP O 424,433
 “MIT NNP I-NP I-KP 434,438
 bag NN I-NP I-KP 439,442
 model” NN I-NP I-KP 443,449
@@ -76,6 +77,7 @@ nucleon NN I-NP I-KP 457,464
 
 In IN I-PP O 472,474
 the DT I-NP O 475,478
+bag-model JJ I-NP O 479,488
 one CD I-NP O 489,492
 envisages VBZ I-VP O 493,502
 the DT I-NP O 503,506
@@ -170,6 +172,7 @@ the DT I-NP O 1044,1047
 physics NNS I-NP O 1048,1055
 of IN I-PP O 1056,1058
 the DT I-NP O 1059,1062
+bag-model JJ I-NP I-KP 1063,1072
 nucleon NN I-NP I-KP 1073,1080
 [19]. NN I-NP O 1081,1085
 

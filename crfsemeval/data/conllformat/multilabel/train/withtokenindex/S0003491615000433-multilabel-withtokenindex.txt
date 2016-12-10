@@ -14,6 +14,7 @@ nuclear JJ I-NP I-P 83,90
 reactions, NN I-NP I-P 91,100
 predominantly RB O O 102,115
 using VBG I-VP O 116,121
+semi-classical JJ I-NP I-P 122,136
 methods NNS I-NP I-P 137,144
 [13,14,10], VBP I-VP O 146,156
 in IN I-PP O 158,160
@@ -50,6 +51,7 @@ correlations NNS I-NP I-P 356,368
 
 Still, NNP I-NP O 379,384
 no DT I-NP O 386,388
+clear-cut JJ I-NP O 389,398
 quantum NN I-NP I-P 399,406
 approach NN I-NP I-P 407,415
 is VBZ I-VP O 416,418

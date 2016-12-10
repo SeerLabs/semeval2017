@@ -1,4 +1,5 @@
 The DT I-NP O
+low-carbon JJ I-NP I-KP
 economic JJ I-NP I-KP
 development NN I-NP I-KP
 has VBZ I-VP O
@@ -28,6 +29,7 @@ way NN I-NP O
 to TO I-VP O
 achieve VB I-VP O
 the DT I-NP O
+low-carbon JJ I-NP O
 lifestyle. NN I-NP O
 
 Based VBN I-VP O
@@ -40,6 +42,7 @@ of IN I-PP O
 the DT I-NP O
 connotation NN I-NP O
 of IN I-PP O
+low-carbon JJ I-NP I-KP
 consumption NN I-NP I-KP
 and CC O O
 its PRP$ I-NP O
@@ -53,6 +56,7 @@ is VBZ I-VP O
 concluded VBN I-VP O
 that IN I-PP O
 the DT I-NP O
+low-carbon JJ I-NP I-KP
 consumption NN I-NP I-KP
 requires VBZ I-VP O
 us PRP I-NP O
@@ -60,6 +64,7 @@ to TO I-VP O
 abide VB I-VP O
 by IN I-PP O
 the DT I-NP O
+life-style JJ I-NP O
 of IN I-PP O
 knowledge NN I-NP O
 and CC O O
@@ -73,6 +78,7 @@ that IN I-PP O
 the DT I-NP O
 development NN I-NP I-KP
 of IN I-PP I-KP
+low-carbon JJ I-NP I-KP
 economy NN I-NP I-KP
 is VBZ I-VP O
 a DT I-NP O

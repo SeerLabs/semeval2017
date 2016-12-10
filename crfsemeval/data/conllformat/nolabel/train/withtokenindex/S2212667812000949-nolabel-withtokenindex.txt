@@ -16,6 +16,7 @@ analyzing VBG I-VP I-KP 81,90
 the DT I-NP I-KP 91,94
 importance NN I-NP I-KP 95,105
 of IN I-PP I-KP 106,108
+hip-push JJ I-NP I-KP 109,117
 applied VBN I-NP I-KP 118,125
 in IN I-PP I-KP 126,128
 walking VBG I-VP I-KP 129,136
@@ -43,6 +44,7 @@ objective JJ I-NP I-KP 259,268
 analysis NN I-NP I-KP 269,277
 on IN I-PP I-KP 278,280
 the DT I-NP I-KP 281,284
+sports-biomechanics JJ I-NP I-KP 285,304
 factors NNS I-NP I-KP 305,312
 that WDT B-NP O 313,317
 can MD I-VP O 318,321

@@ -11,13 +11,16 @@ ground NN I-NP O 75,81
 state NN I-NP O 82,87
 among IN I-PP O 88,93
 all DT I-NP O 94,97
+non-singular JJ I-NP I-KP 98,110
 solutions NNS I-NP I-KP 111,120
 with IN I-PP I-KP 121,125
 a DT I-NP I-KP 126,127
+four-dimensional JJ I-NP I-KP 128,144
 Poincaré, NNP I-NP I-KP 145,153
 de FW I-NP B-KP 155,157
 Sitter NNP I-NP I-KP 158,164
 or CC O I-KP 165,167
+anti-de JJ I-NP I-KP 168,175
 Sitter NNP I-NP I-KP 176,182
 symmetry. NN I-NP I-KP 183,191
 
@@ -33,6 +36,7 @@ axial JJ I-NP I-KP 241,246
 symmetry NN I-NP I-KP 247,255
 in IN I-PP I-KP 256,258
 the DT I-NP I-KP 259,262
+two-dimensional JJ I-NP I-KP 263,278
 internal JJ I-NP I-KP 279,287
 space, NN I-NP I-KP 288,293
 and CC O O 295,298
@@ -46,6 +50,7 @@ a DT I-NP O 335,336
 family NN I-NP O 337,343
 that WDT B-NP O 344,348
 is VBZ I-VP O 349,351
+non-singular JJ I-NP I-KP 352,364
 away RB O I-KP 365,369
 from IN I-PP I-KP 370,374
 a DT I-NP I-KP 375,376
@@ -57,6 +62,7 @@ pole NN I-NP O 399,403
 of IN I-PP O 404,406
 a DT I-NP O 407,408
 distorted JJ I-NP O 409,418
+2-sphere. JJ I-NP O 419,427
 
 These DT I-NP O 429,434
 solutions NNS I-NP O 435,444
@@ -64,6 +70,7 @@ admit VBP I-VP O 445,450
 the DT I-NP O 451,454
 interpretation NN I-NP I-KP 455,469
 of IN I-PP I-KP 470,472
+3-branes NNS I-NP I-KP 473,481
 with IN I-PP I-KP 482,486
 negative JJ I-NP I-KP 487,495
 tension. NN I-NP I-KP 496,503

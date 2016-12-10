@@ -13,6 +13,7 @@ and CC O O 64,67
 led VBD I-VP O 68,71
 to TO I-VP O 72,74
 a DT I-NP O 75,76
+non-classical JJ I-NP I-KP 77,90
 glass NN I-NP I-KP 91,96
 matrix. NN I-NP I-KP 97,103
 
@@ -32,6 +33,7 @@ systematic JJ I-NP O 156,166
 approach NN I-NP O 167,175
 to TO I-VP O 176,178
 such JJ I-NP O 179,183
+glass-ceramic JJ I-NP I-KP 184,197
 wasteforms. NN I-NP I-KP 198,208
 
 These DT I-NP O 210,215
@@ -40,6 +42,7 @@ were VBD I-VP O 227,231
 targeted VBN I-VP O 232,240
 at IN I-PP O 241,243
 Hanford NNP I-NP I-KP 244,251
+K-basin NNP I-NP I-KP 252,259
 sludges NNS I-NP I-KP 260,267
 and CC O O 268,271
 the DT I-NP O 272,275
@@ -52,6 +55,7 @@ stream NN I-NP I-KP 312,318
 from IN I-PP I-KP 319,323
 production NN I-NP I-KP 324,334
 of IN I-PP I-KP 335,337
+molybdenum-99 NN I-NP I-KP 338,351
 at IN I-PP O 352,354
 the DT I-NP O 355,358
 Australian JJ I-NP O 359,369
@@ -163,6 +167,7 @@ a DT I-NP O 1012,1013
 suite NN I-NP O 1014,1019
 of IN I-PP O 1020,1022
 zirconolite JJ I-NP I-KP 1023,1034
+glass-ceramics NNS I-NP I-KP 1035,1049
 in IN I-PP O 1050,1052
 which WDT I-NP O 1053,1058
 the DT I-NP O 1059,1062

@@ -12,6 +12,7 @@ of IN I-PP I-KP
 multiwalled JJ I-NP I-KP
 carbon NN I-NP I-KP
 nanotubes JJ I-NP I-KP
+18-20nm JJ I-NP O
 in IN I-PP O
 concentrations NNS I-NP O
 of IN I-PP O
@@ -22,8 +23,10 @@ and CC O O
 ml NN I-NP O
 for IN I-PP O
 diatoms NNS I-NP O
+Pseudo-nitzschia NNP I-NP I-KP
 pungens VBZ I-VP I-KP
 (clone CD I-NP O
+PP-07) NNP I-NP O
 and CC O O
 golden JJ I-NP I-KP
 alga NN I-NP I-KP
@@ -67,6 +70,7 @@ when WRB O O
 incubated VBN I-VP I-KP
 over IN I-PP O
 24h CD I-NP O
+(Pseudo-nitzschia JJ I-NP O
 pungens) NN I-NP O
 and CC O O
 36hours CD I-NP O

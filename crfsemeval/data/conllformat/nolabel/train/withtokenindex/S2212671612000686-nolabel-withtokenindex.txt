@@ -62,6 +62,7 @@ practical JJ I-NP I-KP 433,442
 financial JJ I-NP I-KP 443,452
 systemic JJ I-NP I-KP 453,461
 risk NN I-NP I-KP 462,466
+early-warning JJ I-NP I-KP 467,480
 index NN I-NP I-KP 481,486
 system; NN I-NP I-KP 487,493
 besides, NN I-NP O 495,502

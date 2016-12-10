@@ -1,7 +1,9 @@
 A DT I-NP O
+fully-coupled JJ I-NP I-P
 numerical JJ I-NP I-P
 framework NN I-NP I-P
 for IN I-PP O
+two-phase NN I-NP I-P
 flows NNS I-NP I-P
 with IN I-PP O
 an DT I-NP O
@@ -18,6 +20,7 @@ this DT I-NP O
 article. NN I-NP O
 
 This DT I-NP O
+fully-coupled JJ I-NP I-P
 framework NN I-NP I-P
 has VBZ I-VP O
 then RB I-VP O
@@ -34,6 +37,7 @@ tension NN I-NP I-P
 treatment NN I-NP I-P
 on IN I-PP O
 the DT I-NP O
+time-step JJ I-NP I-P
 restrictions NNS I-NP I-P
 resulting VBG I-VP I-P
 from IN I-PP I-P
@@ -49,6 +53,7 @@ restrictions NNS I-NP I-P
 on IN I-PP I-P
 the DT I-NP I-P
 numerical JJ I-NP I-P
+time-step NN I-NP I-P
 resulting VBG I-VP I-P
 from IN I-PP I-P
 capillary JJ I-NP I-M
@@ -110,6 +115,7 @@ shows VBZ I-VP O
 that IN I-PP O
 the DT I-NP O
 capillary JJ I-NP O
+time-step NN I-NP O
 constraint NN I-NP O
 is VBZ I-VP O
 a DT I-NP O

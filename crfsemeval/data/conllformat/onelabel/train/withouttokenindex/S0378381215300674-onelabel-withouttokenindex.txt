@@ -12,6 +12,7 @@ the DT I-NP O
 parameters NNS I-NP O
 obtained VBN I-VP O
 from IN I-PP O
+pure-component JJ I-NP I-P
 systems NNS I-NP I-P
 in IN I-PP O
 a DT I-NP O
@@ -25,6 +26,7 @@ mixtures. NN I-NP O
 
 Mixtures NNS I-NP I-M
 of IN I-PP I-M
+n-alkanes NNS I-NP I-M
 and CC O I-M
 H2O NNP I-NP I-M
 have VBP I-VP O
@@ -32,6 +34,7 @@ been VBN I-VP O
 studied VBN I-VP O
 previously RB O O
 with IN I-PP O
+SAFT-γ NNP I-NP I-P
 SW NNP I-NP I-P
 [82]. NN I-NP O
 
@@ -59,6 +62,7 @@ mixtures NNS I-NP I-M
 of IN I-PP I-M
 H2O NNP I-NP I-M
 with IN I-PP O
+non-polar JJ I-NP I-P
 compounds. NN I-NP I-P
 
 Because IN I-PP O
@@ -92,6 +96,7 @@ especially RB O O
 difficult JJ I-NP O
 to TO I-VP O
 obtain VB I-VP O
+phase-independent JJ I-NP O
 unlike IN I-PP O
 interaction NN I-NP O
 parameters NNS I-NP O
@@ -119,6 +124,7 @@ accurate JJ I-NP O
 description NN I-NP I-T
 of IN I-PP I-T
 the DT I-NP I-T
+alkane-rich JJ I-NP I-T
 phases NNS I-NP I-T
 (both CC O O
 liquid NN I-NP I-M
@@ -172,6 +178,7 @@ overall JJ I-NP O
 description NN I-NP O
 of IN I-PP O
 the DT I-NP O
+fluid-phase JJ I-NP I-P
 equilibria NN I-NP I-P
 at IN I-PP O
 the DT I-NP O

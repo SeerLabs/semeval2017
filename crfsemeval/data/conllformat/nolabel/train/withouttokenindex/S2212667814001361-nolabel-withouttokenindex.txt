@@ -42,6 +42,7 @@ usually RB I-VP O
 undefined JJ I-NP O
 especially RB O O
 for IN I-PP O
+un-experienced JJ I-NP I-KP
 managers. NN I-NP I-KP
 
 With IN I-PP O
@@ -91,6 +92,7 @@ problem. NN I-NP I-KP
 
 Next, IN I-PP O
 the DT I-NP O
+NSGA-II NNP I-NP I-KP
 algorithm NN I-NP I-KP
 is VBZ I-VP O
 utilized VBN I-VP O

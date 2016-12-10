@@ -36,6 +36,7 @@ the DT I-NP O 194,197
 end NN I-NP O 198,201
 [27] NN I-NP O 202,206
 and CC O O 207,210
+semi-infinite JJ I-NP I-KP 211,224
 substrate; NN I-NP I-KP 225,234
 (ii) VBZ I-VP O 236,240
 the DT I-NP O 241,244
@@ -106,6 +107,7 @@ separation, NN I-NP I-KP 623,633
 macroscopic NN I-NP O 635,646
 sphere JJ I-NP O 647,653
 radius, JJ I-NP O 654,660
+cone-angle NN I-NP O 662,672
 and CC O O 673,676
 Hamaker NNP I-NP O 677,684
 constant NN I-NP O 685,693

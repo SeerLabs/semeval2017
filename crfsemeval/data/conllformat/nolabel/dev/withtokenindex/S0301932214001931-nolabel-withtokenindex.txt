@@ -66,6 +66,7 @@ are VBP I-VP O 405,408
 performed. NN I-NP O 409,418
 
 The DT I-NP O 420,423
+well-documented JJ I-NP O 424,439
 horizontal JJ I-NP I-KP 440,450
 channel NN I-NP I-KP 451,458
 flow NN I-NP I-KP 459,463
@@ -160,6 +161,7 @@ channel NN I-NP I-KP 1016,1023
 flow NN I-NP I-KP 1024,1028
 that IN I-PP O 1029,1033
 the DT I-NP O 1034,1037
+hard-sphere JJ I-NP I-KP 1038,1049
 model. NN I-NP I-KP 1050,1055
 
 Moreover, NNP I-NP O 1057,1065
@@ -189,5 +191,6 @@ extended VBN I-VP O 1199,1207
 to TO I-VP O 1208,1210
 account VB I-VP O 1211,1218
 for IN I-PP O 1219,1222
+non-spherical JJ I-NP I-KP 1223,1236
 particles. NN I-NP I-KP 1237,1246
 

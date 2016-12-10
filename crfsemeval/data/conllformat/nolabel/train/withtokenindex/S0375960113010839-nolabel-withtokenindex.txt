@@ -15,6 +15,7 @@ following: JJ I-NP O 69,78
 beginning NN I-NP O 80,89
 from IN I-PP O 90,94
 the DT I-NP O 95,98
+left-most JJ I-NP O 99,108
 vertex NN I-NP O 109,115
 of IN I-PP O 116,118
 a DT I-NP O 119,120
@@ -27,6 +28,7 @@ graph NN I-NP I-KP 150,155
 and CC O O 156,159
 reach VB I-VP O 160,165
 the DT I-NP O 166,169
+right-most JJ I-NP O 170,180
 vertex, NN I-NP O 181,187
 referred VBD I-VP O 189,197
 to TO I-VP O 198,200

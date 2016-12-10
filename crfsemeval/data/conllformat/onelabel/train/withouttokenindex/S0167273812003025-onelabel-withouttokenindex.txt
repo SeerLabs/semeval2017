@@ -5,6 +5,7 @@ new JJ I-NP I-T
 approach NN I-NP I-T
 to TO I-VP I-T
 the DT I-NP I-T
+“grind-free” JJ I-NP I-T
 nanoprecursor NN I-NP I-T
 route NN I-NP I-T
 to TO I-VP I-T
@@ -21,6 +22,7 @@ make” VB I-VP O
 and CC I-VP O
 hitherto VB I-VP O
 unknown JJ I-NP O
+phase-pure JJ I-NP I-M
 heterometallic JJ I-NP I-M
 Ruddlesden NNP I-NP I-M
 Popper NNP I-NP I-M
@@ -36,6 +38,7 @@ new JJ I-NP O
 approach NN I-NP O
 used VBD I-VP O
 a DT I-NP O
+high-throughput JJ I-NP I-P
 reactor NN I-NP I-P
 and CC O O
 robotic JJ I-NP I-P
@@ -48,6 +51,7 @@ a DT I-NP I-P
 range NN I-NP I-P
 of IN I-PP I-P
 nanoparticle JJ I-NP I-P
+co-precipitate JJ I-NP I-P
 precursors NNS I-NP I-P
 in IN I-PP O
 cloned JJ I-NP O
@@ -66,6 +70,7 @@ library NN I-NP O
 could MD I-VP O
 then RB I-VP O
 be VB I-VP O
+heat-treated VBN I-VP I-P
 at IN I-PP O
 a DT I-NP O
 different JJ I-NP O
@@ -96,6 +101,7 @@ characterisation NN I-NP I-P
 of IN I-PP O
 selected VBN I-NP O
 larger JJR I-NP O
+heat-treated JJ I-NP I-M
 powders NNS I-NP I-M
 was VBD I-VP O
 then RB I-VP O

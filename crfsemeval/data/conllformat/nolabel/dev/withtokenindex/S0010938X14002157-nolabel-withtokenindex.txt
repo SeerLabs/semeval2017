@@ -180,6 +180,7 @@ not RB I-VP O 1115,1118
 pH JJ I-NP O 1119,1121
 sensitive. NN I-NP O 1122,1131
 
+Long-chain JJ I-NP I-KP 1133,1143
 quaternary JJ I-NP I-KP 1144,1154
 ammonium NN I-NP I-KP 1155,1163
 bromides NNS I-NP I-KP 1164,1172
@@ -201,6 +202,7 @@ frequently RB O O 1246,1256
 employed VBN I-VP O 1257,1265
 surfactant NN I-NP I-KP 1266,1276
 was VBD I-VP O 1277,1280
+N-dodecylpyridinium JJ I-NP I-KP 1281,1300
 bromide NN I-NP I-KP 1301,1308
 (DDPB) NNP I-NP O 1309,1315
 [9,60,61,108,109]. NN I-NP O 1316,1333

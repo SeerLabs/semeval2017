@@ -90,6 +90,7 @@ Reissner–Nordström NNP I-NP I-P
 AdS NNP I-NP I-P
 background NN I-NP I-P
 generates VBZ I-VP O
+non-singular JJ I-NP I-T
 cosmology NN I-NP I-T
 [14]. NN I-NP O
 
@@ -157,6 +158,7 @@ parameters, NN I-NP O
 we PRP B-NP O
 may MD I-VP O
 generate VB I-VP I-T
+non-singular JJ I-NP I-T
 cosmology NN I-NP I-T
 without IN I-PP I-T
 creating VBG I-VP I-T

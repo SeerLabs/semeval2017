@@ -4,6 +4,7 @@ open JJ I-NP O 7,11
 and CC O O 12,15
 close JJ I-NP O 16,21
 aperture NN I-NP I-KP 22,30
+Z-scan JJ I-NP I-KP 31,37
 experiments, NN I-NP I-KP 38,49
 in IN I-PP O 51,53
 analogy NN I-NP O 54,61
@@ -45,6 +46,7 @@ important JJ I-NP O 266,275
 inclusion NN I-NP O 276,285
 of IN I-PP O 286,288
 an DT I-NP O 289,291
+optical-chopper. JJ I-NP I-KP 292,307
 
 The DT I-NP O 309,312
 vibrational JJ I-NP I-KP 313,324
@@ -78,6 +80,7 @@ molecules NNS I-NP I-KP 482,491
 undergo JJ I-NP O 492,499
 relaxation NN I-NP O 500,510
 through IN I-PP O 511,518
+non-radiative JJ I-NP I-KP 519,532
 processes, NN I-NP I-KP 533,542
 which WDT B-NP O 544,549
 gives VBZ I-VP O 550,555
@@ -126,6 +129,7 @@ in IN I-PP O 802,804
 case NN I-NP O 805,809
 of IN I-PP O 810,812
 high JJ I-NP I-KP 813,817
+repetition-rate JJ I-NP I-KP 818,833
 lasers NNS I-NP I-KP 834,840
 to TO I-VP O 841,843
 produce VB I-VP O 844,851
@@ -145,6 +149,8 @@ thermal JJ I-NP I-KP 929,936
 effect NN I-NP I-KP 937,943
 with IN I-PP O 944,948
 the DT I-NP O 949,952
+mode-mismatched JJ I-NP I-KP 953,968
+two-color NN I-NP I-KP 969,978
 pump–probe NN I-NP I-KP 979,989
 experiment. NN I-NP I-KP 990,1000
 

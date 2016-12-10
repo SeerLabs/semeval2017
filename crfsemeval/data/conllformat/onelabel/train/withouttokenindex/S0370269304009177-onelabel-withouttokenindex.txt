@@ -4,6 +4,7 @@ brane NN I-NP I-M
 system NN I-NP I-M
 appearing VBG I-VP O
 in IN I-PP O
+string/D-brane JJ I-NP I-P
 theory, NN I-NP I-P
 the DT B-NP O
 stableness NN I-NP I-T
@@ -22,6 +23,7 @@ configurations NNS I-NP I-P
 in IN I-PP O
 the DT I-NP O
 SUSY NNP I-NP I-P
+bulk-boundary JJ I-NP I-P
 theory. NN I-NP I-P
 
 We PRP I-NP O
@@ -38,18 +40,23 @@ mathematical JJ I-NP I-P
 result NN I-NP I-P
 about IN I-PP I-P
 the DT I-NP I-P
+free-wave JJ I-NP I-P
 solution NN I-NP I-P
 in IN I-PP O
+S1/Z2-space. NNP I-NP O
 
 The DT I-NP O
 two CD I-NP O
 scalars, VBP I-VP O
 the DT I-NP O
+extra-component NN I-NP I-P
 of IN I-PP I-P
 the DT I-NP I-P
+bulk-vector NN I-NP I-P
 (A5) NN I-NP O
 and CC O O
 the DT I-NP O
+bulk-scalar JJ I-NP I-P
 (Φ), NNP I-NP O
 constitute NN I-NP O
 the DT B-NP O
@@ -102,6 +109,7 @@ expected VBN I-VP O
 to TO I-VP O
 be VB I-VP O
 the DT I-NP O
+thin-wall JJ I-NP I-P
 limit NN I-NP I-P
 of IN I-PP O
 a DT I-NP O
@@ -117,6 +125,7 @@ model NN I-NP I-P
 corresponding VBG I-VP O
 to TO I-VP O
 the DT I-NP O
+non-singular JJ I-NP I-P
 solution. NN I-NP I-P
 
 The DT I-NP O
@@ -126,6 +135,7 @@ expected VBN I-VP O
 to TO I-VP O
 give VB I-VP O
 a DT I-NP O
+non-singular JJ I-NP I-P
 and CC O I-P
 stable JJ I-NP I-P
 brane NN I-NP I-P
@@ -133,5 +143,6 @@ solution NN I-NP I-P
 in IN I-PP O
 the DT I-NP O
 SUSY NNP I-NP I-P
+bulk-boundary JJ I-NP I-P
 theory. NN I-NP I-P
 

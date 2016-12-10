@@ -110,6 +110,7 @@ a DT I-NP I-KP 683,684
 rarefied JJ I-NP I-KP 685,693
 gas NN I-NP I-KP 694,697
 in IN I-PP O 698,700
+high-aspect-ratio JJ I-NP I-KP 701,718
 micro NN I-NP I-KP 719,724
 geometries NNS I-NP I-KP 725,735
 (i.e. VBP I-VP O 736,740
@@ -154,6 +155,7 @@ greater JJR I-NP O 968,975
 still RB O O 976,981
 when WRB O O 982,986
 simulating VBG I-VP O 987,997
+low-speed JJ I-NP O 998,1007
 microfluidic JJ I-NP I-KP 1008,1020
 devices NNS I-NP I-KP 1021,1028
 where WRB O O 1029,1034

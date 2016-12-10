@@ -57,9 +57,11 @@ expansion NN I-NP I-P
 method NN I-NP I-P
 [20] NN I-NP O
 and CC O O
+two-layer JJ I-NP I-P
 version NN I-NP I-P
 of IN I-PP I-P
 CCS NNP I-NP I-P
+(2L-CCS). NN I-NP O
 
 [21] IN I-PP O
 The DT I-NP I-P
@@ -67,17 +69,20 @@ Hamiltonian JJ I-NP I-P
 consists VBZ I-VP O
 of IN I-PP O
 a DT I-NP O
+1-dimensional JJ I-NP I-P
 tunnelling NN I-NP I-P
 mode NN I-NP I-P
 coupled VBD I-VP O
 to TO I-VP O
 an DT I-NP O
+(M−1)-dimensional JJ I-NP I-P
 harmonic NN I-NP I-P
 bath, NN I-NP I-P
 hence NN I-NP O
 it PRP B-NP O
 is VBZ I-VP O
 a DT I-NP O
+system-bath NN I-NP I-T
 problem NN I-NP I-T
 which WDT B-NP O
 bears VBZ I-VP O
@@ -85,6 +90,7 @@ some DT I-NP O
 similarity NN I-NP O
 to TO I-VP O
 the DT I-NP O
+Caldeira-Leggett NNP I-NP I-P
 model NN I-NP I-P
 of IN I-PP I-P
 tunnelling VBG I-VP I-P
@@ -97,6 +103,7 @@ system NN I-NP O
 This DT I-NP O
 Hamiltonian JJ I-NP I-P
 is VBZ I-VP O
+non-dissipative, JJ I-NP O
 however RB O O
 and CC O O
 the DT I-NP O
@@ -108,6 +115,7 @@ the DT I-NP O
 same JJ I-NP O
 frequency. NN I-NP O
 
+System-bath NN I-NP I-P
 models NNS I-NP I-P
 play VBP I-VP O
 an DT I-NP O
@@ -135,6 +143,7 @@ device NN I-NP I-P
 for IN I-PP O
 which WDT I-NP O
 the DT I-NP O
+Caldeira-Leggett NNP I-NP I-P
 model NN I-NP I-P
 provides VBZ I-VP O
 a DT I-NP O
@@ -147,6 +156,7 @@ conductance NN I-NP I-P
 phenomena NN I-NP I-P
 in IN I-PP O
 the DT I-NP O
+spin-bath JJ I-NP I-T
 regime NN I-NP I-T
 [25]. NN I-NP O
 

@@ -27,6 +27,7 @@ Both DT I-NP O 168,172
 electrochemical JJ I-NP I-KP 173,188
 and CC O O 189,192
 synchrotron JJ I-NP I-KP 193,204
+X-ray NN I-NP I-KP 205,210
 techniques NNS I-NP O 211,221
 have VBP I-VP O 222,226
 been VBN I-VP O 227,231
@@ -78,6 +79,7 @@ occur VB I-VP O 529,534
 in IN I-PP O 535,537
 a DT I-NP O 538,539
 single, JJ I-NP O 540,546
+4-electron-step, JJ I-NP I-KP 548,563
 process; NN I-NP O 565,572
 indicated VBN I-VP O 574,583
 by IN I-PP O 584,586
@@ -114,6 +116,7 @@ by IN I-PP O 753,755
 an DT I-NP O 756,758
 increase NN I-NP O 759,767
 in IN I-PP O 768,770
+oxo-acidity NN I-NP O 771,782
 of IN I-PP O 783,785
 the DT I-NP O 786,789
 molten NN I-NP I-KP 790,796

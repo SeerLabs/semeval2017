@@ -3,6 +3,7 @@ miniemulsion NN I-NP I-KP 8,20
 polymerization NN I-NP I-KP 21,35
 is VBZ I-VP O 36,38
 a DT I-NP O 39,40
+water-in-oil JJ I-NP I-KP 41,53
 (W/O) NNP I-NP O 54,59
 heterogeneous JJ I-NP I-KP 60,73
 polymerization NN I-NP I-KP 74,88
@@ -28,6 +29,7 @@ contains VBZ I-VP O 219,227
 aqueous JJ I-NP I-KP 228,235
 droplets NNS I-NP I-KP 236,244
 (including VBG I-VP O 245,255
+water-soluble JJ I-NP I-KP 256,269
 monomers) NN I-NP O 270,279
 stably RB O O 280,286
 dispersed, VBZ I-VP O 287,296
@@ -35,6 +37,7 @@ with IN I-PP O 298,302
 the DT I-NP O 303,306
 aid NN I-NP O 307,310
 of IN I-PP O 311,313
+oil-soluble JJ I-NP I-KP 314,325
 surfactants, NN I-NP I-KP 326,337
 in IN I-PP O 339,341
 a DT I-NP O 342,343
@@ -61,9 +64,11 @@ speed NN I-NP I-KP 462,467
 mechanical JJ I-NP I-KP 468,478
 stirrer. NN I-NP I-KP 479,486
 
+Oil-soluble JJ I-NP I-KP 488,499
 nonionic JJ I-NP I-KP 500,508
 surfactants NNS I-NP I-KP 509,520
 with IN I-PP O 521,525
+hydrophilic-lipophilic JJ I-NP O 526,548
 balance NN I-NP O 549,556
 (HLB) NN I-NP O 557,562
 value NN I-NP O 563,568
@@ -111,6 +116,7 @@ particles NNS I-NP I-KP 847,856
 of IN I-PP I-KP 857,859
 hydrophilic JJ I-NP I-KP 860,871
 and CC O I-KP 872,875
+water-soluble JJ I-NP I-KP 876,889
 polymers NNS I-NP I-KP 890,898
 [86–89], VBP I-VP O 899,906
 polyaniline JJ I-NP I-KP 908,919
@@ -158,6 +164,7 @@ been VBN I-VP O 1221,1225
 explored VBN I-VP O 1226,1234
 to TO I-VP O 1235,1237
 prepare VB I-VP O 1238,1245
+well-defined JJ I-NP O 1246,1258
 nanoparticles NNS I-NP I-KP 1259,1272
 and CC O O 1273,1276
 nanogels. NN I-NP I-KP 1277,1285

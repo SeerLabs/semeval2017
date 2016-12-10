@@ -3,6 +3,7 @@ scenario NN I-NP O
 is VBZ I-VP O
 proposed VBN I-VP O
 for IN I-PP O
+bi-large JJ I-NP I-T
 lepton NN I-NP I-T
 mixing NN I-NP I-T
 in IN I-PP O
@@ -92,6 +93,7 @@ arises NNS I-NP O
 due JJ I-NP O
 to TO I-VP O
 the DT I-NP O
+non-diagonal JJ I-NP I-M
 charged VBN I-VP I-M
 lepton NN I-NP I-M
 mass NN I-NP I-M

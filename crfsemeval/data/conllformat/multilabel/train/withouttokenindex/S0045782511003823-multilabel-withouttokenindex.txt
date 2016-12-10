@@ -15,6 +15,7 @@ coupling NN I-NP I-T
 of IN I-PP I-T
 nonconforming VBG I-VP I-T
 discretized VBN I-VP I-T
+sub-domains NNS I-NP I-T
 in IN I-PP I-T
 the DT I-NP I-T
 framework NN I-NP I-T
@@ -127,6 +128,7 @@ coupling NN I-NP I-T
 of IN I-PP I-T
 nonconforming VBG I-VP I-T
 discretized VBN I-VP I-T
+sub-domains NNS I-NP I-T
 in IN I-PP I-T
 the DT I-NP I-T
 framework NN I-NP I-T

@@ -48,6 +48,7 @@ was VBD I-VP O 258,261
 assessed VBN I-VP O 262,270
 using VBG I-VP O 271,276
 a DT I-NP O 277,278
+1-tailed JJ I-NP I-KP 279,287
 Wilcoxon NNP I-NP I-KP 288,296
 signed VBD I-VP I-KP 297,303
 rank NN I-NP I-KP 304,308
@@ -68,6 +69,7 @@ for IN I-PP O 396,399
 AAMM NNP I-NP I-KP 400,404
 and CC O O 405,408
 its PRP$ I-NP O 409,412
+non-adaptive JJ I-NP O 413,425
 counterpart, NN I-NP O 426,437
 AAMM NNP I-NP I-KP 439,443
 (no NNP I-NP I-KP 444,447
@@ -125,6 +127,7 @@ with IN I-PP O 738,742
 respect NN I-NP O 743,750
 to TO I-VP O 751,753
 its PRP$ I-NP O 754,757
+non-adaptive JJ I-NP O 758,770
 counterpart. NN I-NP O 771,782
 
 However, NNP I-NP O 784,791
@@ -259,6 +262,7 @@ significantly RB O O 1483,1496
 reduced VBN I-VP O 1497,1504
 if IN I-PP O 1505,1507
 a DT I-NP O 1508,1509
+non-cardiac-gated JJ I-NP I-KP 1510,1527
 sequence NN I-NP I-KP 1528,1536
 was VBD I-VP O 1537,1540
 used. JJ I-NP O 1541,1545

@@ -36,6 +36,7 @@ the DT I-NP O 218,221
 experimentally RB O I-KP 222,236
 observed JJ I-NP I-KP 237,245
 values NNS I-NP I-KP 246,252
+⩽1019m-2s-1 JJ I-NP O 253,264
 [16]. NN I-NP O 265,269
 
 Moreover, NNP I-NP O 271,279
@@ -132,6 +133,7 @@ ions: NN I-NP I-KP 766,770
 first RB O O 772,777
 is VBZ I-VP O 778,780
 the DT I-NP O 781,784
+“near-divertor” JJ I-NP O 785,800
 ionization NN I-NP I-KP 801,811
 of IN I-PP O 812,814
 W NNP I-NP I-KP 815,816

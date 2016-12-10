@@ -3,6 +3,7 @@ or CC I-VP I-KP 9,11
 approximating VBG I-VP I-KP 12,25
 high JJ I-NP I-KP 26,30
 dimensional, JJ I-NP I-KP 31,42
+computationally-expensive JJ I-NP I-KP 44,69
 problems NNS I-NP I-KP 70,78
 faces VBZ I-VP O 79,84
 an DT I-NP O 85,87
@@ -36,6 +37,7 @@ regression NN I-NP I-KP 267,277
 termed VBD I-VP O 285,291
 as IN I-PP O 292,294
 adaptive JJ I-NP I-KP 295,303
+SVR-HMDR, NNP I-NP I-KP 304,312
 to TO I-VP O 314,316
 conquer VB I-VP I-KP 317,324
 this DT I-NP I-KP 325,329
@@ -104,4 +106,5 @@ procedure NN I-NP I-KP 757,766
 and CC O I-KP 767,770
 performance NN I-NP I-KP 771,782
 of IN I-PP O 783,785
+SVR-HDMR. NNP I-NP I-KP 786,794
 

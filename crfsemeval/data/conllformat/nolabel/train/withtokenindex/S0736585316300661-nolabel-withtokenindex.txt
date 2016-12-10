@@ -134,6 +134,7 @@ the DT I-NP O 818,821
 weighted JJ I-NP O 822,830
 average NN I-NP O 831,838
 of IN I-PP O 839,841
+firm-level JJ I-NP O 842,852
 indices. NN I-NP O 853,860
 
 Weights NNS I-NP O 862,869

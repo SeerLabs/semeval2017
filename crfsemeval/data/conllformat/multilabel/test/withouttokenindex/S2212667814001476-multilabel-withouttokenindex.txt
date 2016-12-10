@@ -78,7 +78,8 @@ availability, NN I-NP O
 it PRP B-NP O
 is VBZ I-VP O
 the DT I-NP O
-Cloud NNP I-NP I-P
+Multi-Clouds, JJ I-NP I-P
+Cloud NNP I-NP B-P
 of IN I-PP I-P
 Clouds NNP I-NP I-P
 or CC O O
@@ -99,6 +100,7 @@ usefulness NN I-NP I-T
 of IN I-PP I-T
 adopting VBG I-VP I-T
 rather RB I-VP I-T
+Multi-Clouds NNP I-NP I-P
 strategy NN I-NP I-P
 to TO I-VP O
 reduce VB I-VP O

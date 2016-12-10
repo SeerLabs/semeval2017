@@ -15,6 +15,7 @@ surface NN I-NP I-KP 90,97
 is VBZ I-VP O 98,100
 a DT I-NP O 101,102
 complex, JJ I-NP O 103,110
+non-local JJ I-NP O 112,121
 phenomenon. NN I-NP O 122,132
 
 In IN I-PP O 134,136
@@ -130,6 +131,7 @@ parameter RB O O 808,817
 related VBN I-VP O 818,825
 to TO I-VP O 826,828
 the DT I-NP O 829,832
+cross-sectional JJ I-NP O 833,848
 area NN I-NP O 849,853
 of IN I-PP O 854,856
 the DT I-NP O 857,860
@@ -152,6 +154,7 @@ Ref. NNP I-NP O 941,944
 [39], VB I-VP O 946,950
 an DT I-NP O 952,954
 analytical JJ I-NP I-KP 955,965
+semi-empirical JJ I-NP I-KP 966,980
 model NN I-NP I-KP 981,986
 was VBD I-VP O 987,990
 presented VBN I-VP O 991,1000
@@ -175,6 +178,7 @@ fan NN I-NP O 1109,1112
 angle. NN I-NP O 1113,1118
 
 This DT I-NP O 1120,1124
+material-dependent JJ I-NP O 1125,1143
 quantity NN I-NP O 1144,1152
 can MD I-VP O 1153,1156
 be VB I-VP O 1157,1159

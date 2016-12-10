@@ -76,6 +76,7 @@ theory NN I-NP O 470,476
 relies NNS I-NP O 477,483
 on IN I-PP O 484,486
 a DT I-NP O 487,488
+scale-invariant JJ I-NP I-KP 489,504
 Lagrangian NN I-NP I-KP 505,515
 of IN I-PP O 516,518
 the DT I-NP O 519,522
@@ -97,6 +98,7 @@ is VBZ I-VP O 636,638
 a DT I-NP O 639,640
 function NN I-NP I-KP 641,649
 of IN I-PP I-KP 650,652
+4-index JJ I-NP I-KP 653,660
 field NN I-NP I-KP 661,666
 strength, NN I-NP I-KP 667,675
 that WDT B-NP O 677,681

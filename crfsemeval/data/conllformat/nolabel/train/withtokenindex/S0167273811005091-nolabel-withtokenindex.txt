@@ -27,6 +27,7 @@ capabilities NNS I-NP O 171,183
 of IN I-PP O 184,186
 high JJ I-NP I-KP 187,191
 resolution NN I-NP I-KP 192,202
+FE-SEM, NNP I-NP I-KP 203,209
 to TO I-VP O 211,213
 provide VB I-VP O 214,221
 a DT I-NP O 222,223
@@ -38,6 +39,7 @@ that WDT B-NP O 246,250
 can MD I-VP O 251,254
 be VB I-VP O 255,257
 effectively RB O O 258,269
+re-combined VBN I-VP O 270,281
 in IN I-PP O 282,284
 3D CD I-NP O 285,287
 space. NN I-NP O 288,293
@@ -59,6 +61,9 @@ inherent JJ I-NP O 398,406
 sample NN I-NP O 407,413
 variability. NN I-NP O 414,425
 
+Non-destructive JJ I-NP I-KP 427,442
+X-ray JJ I-NP I-KP 443,448
+nano-computed JJ I-NP I-KP 449,462
 tomography NN I-NP I-KP 463,473
 (CT) NNP I-NP O 474,478
 [9–11] NNP I-NP O 479,485
@@ -101,6 +106,8 @@ optimal JJ I-NP I-KP 736,743
 sample NN I-NP I-KP 744,750
 geometries NNS I-NP I-KP 751,761
 for IN I-PP I-KP 762,765
+X-ray JJ I-NP I-KP 766,771
+nano-CT JJ I-NP I-KP 772,779
 [12], NN I-NP O 780,784
 while IN I-PP O 786,791
 this DT I-NP O 792,796
@@ -132,10 +139,13 @@ working VBG I-NP I-KP 956,963
 fuel NN I-NP I-KP 964,968
 cell), VBZ I-VP O 969,974
 the DT I-NP O 976,979
+non-destructive JJ I-NP I-KP 980,995
+X-ray JJ I-NP I-KP 996,1001
 characterization NN I-NP I-KP 1002,1018
 technique NN I-NP I-KP 1019,1028
 allows VBZ I-VP O 1029,1035
 repeated, JJ I-NP O 1036,1044
+non-destructive JJ I-NP O 1046,1061
 characterization NN I-NP O 1062,1078
 of IN I-PP O 1079,1081
 the DT I-NP O 1082,1085

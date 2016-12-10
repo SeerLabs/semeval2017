@@ -1,6 +1,7 @@
 Certainly RB O O 0,9
 therefore RB O O 10,19
 the DT I-NP O 20,23
+see-saw JJ I-NP I-KP 24,31
 mechanism NN I-NP I-KP 32,41
 is VBZ I-VP O 42,44
 an DT I-NP O 45,47
@@ -50,6 +51,7 @@ sectors, NN I-NP I-KP 297,304
 and CC O O 306,309
 the DT I-NP O 310,313
 essentially RB O O 314,325
+hierarchy-free JJ I-NP I-KP 326,340
 masses NNS I-NP I-KP 341,347
 implied VBN I-VP I-KP 348,355
 by IN I-PP I-KP 356,358

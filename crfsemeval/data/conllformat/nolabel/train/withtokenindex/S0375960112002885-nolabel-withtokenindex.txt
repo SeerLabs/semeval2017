@@ -1,3 +1,4 @@
+First-principles NNS I-NP I-KP 0,16
 calculations NNS I-NP I-KP 17,29
 have VBP I-VP O 30,34
 clarified VBN I-VP O 35,44
@@ -22,6 +23,7 @@ results NNS I-NP O 153,160
 show VBP I-VP O 161,165
 that IN I-PP O 166,170
 the DT I-NP O 171,174
+W-encapsulated JJ I-NP I-KP 175,189
 Si12 NNP I-NP I-KP 190,194
 hexagonal JJ I-NP I-KP 195,204
 prism NN I-NP I-KP 205,210

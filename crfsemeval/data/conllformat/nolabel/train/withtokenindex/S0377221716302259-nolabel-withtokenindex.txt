@@ -41,6 +41,7 @@ outside IN I-PP I-KP 236,243
 the DT I-NP I-KP 244,247
 technology NN I-NP I-KP 248,258
 and CC O I-KP 259,262
+non-negative JJ I-NP I-KP 263,275
 values NNS I-NP I-KP 276,282
 for IN I-PP I-KP 283,286
 points NNS I-NP I-KP 287,293
@@ -146,6 +147,7 @@ is VBZ I-VP I-KP 935,937
 measured VBN I-VP I-KP 938,946
 following VBG I-VP I-KP 947,956
 the DT I-NP I-KP 957,960
+Pareto-Koopmans NNPS I-NP I-KP 961,976
 notion NN I-NP I-KP 977,983
 of IN I-PP I-KP 984,986
 efficiency; NN I-NP I-KP 987,997
@@ -175,6 +177,7 @@ to TO I-VP O 1141,1143
 be VB I-VP O 1144,1146
 used VBN I-VP O 1147,1151
 for IN I-PP O 1152,1155
+cross-period JJ I-NP O 1156,1168
 evaluation NN I-NP O 1169,1179
 of IN I-PP O 1180,1182
 returns NNS I-NP O 1183,1190

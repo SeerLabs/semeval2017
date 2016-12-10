@@ -81,6 +81,7 @@ film NN I-NP I-KP
 thickness, NN I-NP I-KP
 followed VBN I-VP O
 by IN I-PP O
+in-depth JJ I-NP O
 statistical JJ I-NP I-KP
 analyses NNS I-NP I-KP
 of IN I-PP I-KP
@@ -221,6 +222,7 @@ order NN I-NP O
 of IN I-PP O
 and CC I-PP O
 often RB I-PP O
+sub-mm), JJ I-NP O
 (ii) IN I-PP O
 the DT I-NP O
 highly RB O O

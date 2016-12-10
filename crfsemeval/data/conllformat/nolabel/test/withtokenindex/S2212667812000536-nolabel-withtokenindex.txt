@@ -17,6 +17,8 @@ for IN I-PP O 90,93
 qualified JJ I-NP O 94,103
 personnel, NN I-NP O 104,113
 a DT B-NP O 115,116
+“triple-driven” JJ I-NP I-KP 117,132
+three-dimensional JJ I-NP I-KP 133,150
 software NN I-NP I-KP 151,159
 development NN I-NP I-KP 160,171
 practical JJ I-NP I-KP 172,181

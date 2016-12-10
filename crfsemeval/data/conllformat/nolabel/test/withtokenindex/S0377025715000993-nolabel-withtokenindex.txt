@@ -10,6 +10,7 @@ a DT I-NP O 54,55
 SITA NNP I-NP I-KP 56,60
 pro JJ I-NP I-KP 61,64
 line NN I-NP I-KP 65,69
+t-15 NN I-NP I-KP 70,74
 bubble JJ I-NP I-KP 75,81
 tensiometer. NN I-NP I-KP 82,93
 
@@ -116,6 +117,7 @@ the DT I-NP O 687,690
 aqueous JJ I-NP O 691,698
 PEDOT:PSS NNP I-NP I-KP 699,708
 solutions NNS I-NP I-KP 709,718
+shear-thinned JJ I-NP O 719,732
 significantly, NN I-NP O 733,746
 but CC O O 748,751
 the DT I-NP O 752,755

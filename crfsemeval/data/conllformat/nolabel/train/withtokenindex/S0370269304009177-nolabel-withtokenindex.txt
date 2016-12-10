@@ -4,6 +4,7 @@ brane NN I-NP I-KP 7,12
 system NN I-NP I-KP 13,19
 appearing VBG I-VP O 20,29
 in IN I-PP O 30,32
+string/D-brane JJ I-NP I-KP 33,47
 theory, NN I-NP I-KP 48,54
 the DT B-NP O 56,59
 stableness NN I-NP I-KP 60,70
@@ -22,6 +23,7 @@ configurations NNS I-NP I-KP 132,146
 in IN I-PP O 147,149
 the DT I-NP O 150,153
 SUSY NNP I-NP I-KP 154,158
+bulk-boundary JJ I-NP I-KP 159,172
 theory. NN I-NP I-KP 173,179
 
 We PRP I-NP O 181,183
@@ -38,18 +40,23 @@ mathematical JJ I-NP I-KP 249,261
 result NN I-NP I-KP 262,268
 about IN I-PP I-KP 269,274
 the DT I-NP I-KP 275,278
+free-wave JJ I-NP I-KP 279,288
 solution NN I-NP I-KP 289,297
 in IN I-PP O 298,300
+S1/Z2-space. NNP I-NP O 301,312
 
 The DT I-NP O 314,317
 two CD I-NP O 318,321
 scalars, VBP I-VP O 322,329
 the DT I-NP O 331,334
+extra-component NN I-NP I-KP 335,350
 of IN I-PP I-KP 351,353
 the DT I-NP I-KP 354,357
+bulk-vector NN I-NP I-KP 358,369
 (A5) NN I-NP O 370,374
 and CC O O 375,378
 the DT I-NP O 379,382
+bulk-scalar JJ I-NP I-KP 383,394
 (Φ), NNP I-NP O 395,398
 constitute NN I-NP O 400,410
 the DT B-NP O 411,414
@@ -102,6 +109,7 @@ expected VBN I-VP O 705,713
 to TO I-VP O 714,716
 be VB I-VP O 717,719
 the DT I-NP O 720,723
+thin-wall JJ I-NP I-KP 724,733
 limit NN I-NP I-KP 734,739
 of IN I-PP O 740,742
 a DT I-NP O 743,744
@@ -117,6 +125,7 @@ model NN I-NP I-KP 784,789
 corresponding VBG I-VP O 790,803
 to TO I-VP O 804,806
 the DT I-NP O 807,810
+non-singular JJ I-NP I-KP 811,823
 solution. NN I-NP I-KP 824,832
 
 The DT I-NP O 834,837
@@ -126,6 +135,7 @@ expected VBN I-VP O 847,855
 to TO I-VP O 856,858
 give VB I-VP O 859,863
 a DT I-NP O 864,865
+non-singular JJ I-NP I-KP 866,878
 and CC O I-KP 879,882
 stable JJ I-NP I-KP 883,889
 brane NN I-NP I-KP 890,895
@@ -133,5 +143,6 @@ solution NN I-NP I-KP 896,904
 in IN I-PP O 905,907
 the DT I-NP O 908,911
 SUSY NNP I-NP I-KP 912,916
+bulk-boundary JJ I-NP I-KP 917,930
 theory. NN I-NP I-KP 931,937
 

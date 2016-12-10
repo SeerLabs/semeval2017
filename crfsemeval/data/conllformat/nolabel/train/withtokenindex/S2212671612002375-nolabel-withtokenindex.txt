@@ -34,6 +34,7 @@ ontology NN I-NP I-KP 200,208
 Technology. NNP I-NP I-KP 209,219
 
 With IN I-PP O 221,225
+ontology-based JJ I-NP I-KP 226,240
 Power NNP I-NP I-KP 241,246
 Grid NNP I-NP I-KP 247,251
 knowledge NN I-NP I-KP 252,261

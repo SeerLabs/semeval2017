@@ -9,6 +9,7 @@ depiction NN I-NP O 34,43
 of IN I-PP O 44,46
 an DT I-NP I-KP 47,49
 apposite JJ I-NP I-KP 50,58
+well-supported JJ I-NP I-KP 59,73
 statistical JJ I-NP I-KP 74,85
 model. NN I-NP I-KP 86,91
 
@@ -113,6 +114,7 @@ on IN I-PP O 630,632
 in IN B-PP O 633,635
 further, NN I-NP O 636,643
 more RBR I-NP O 645,649
+gene-specific, JJ I-NP O 650,663
 experiments. NN I-NP O 665,676
 
 It PRP I-NP O 678,680

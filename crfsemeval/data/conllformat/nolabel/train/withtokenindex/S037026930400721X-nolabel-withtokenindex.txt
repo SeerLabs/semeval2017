@@ -20,6 +20,7 @@ lifted VBN I-VP O 113,119
 by IN I-PP O 120,122
 the DT I-NP O 123,126
 gauge JJ I-NP I-KP 127,132
+D-term NNP I-NP I-KP 133,139
 interactions, NN I-NP I-KP 140,152
 since, NN I-NP O 154,159
 if IN I-PP O 161,163
@@ -52,9 +53,11 @@ our PRP$ I-NP O 301,304
 attention NN I-NP O 305,314
 on IN I-PP O 315,317
 the DT I-NP O 318,321
+D-flat NNP I-NP I-KP 322,328
 directions. NN I-NP I-KP 329,339
 
 For IN I-PP O 341,344
+D-flat NNP I-NP I-KP 345,351
 directions, NN I-NP I-KP 352,362
 we PRP B-NP O 364,366
 have VBP I-VP O 367,371
@@ -97,6 +100,7 @@ lift VBP I-VP O 586,590
 some DT I-NP O 591,595
 of IN I-PP O 596,598
 the DT I-NP O 599,602
+D-flat NNP I-NP I-KP 603,609
 directions. NN I-NP I-KP 610,620
 
 In IN I-PP O 622,624
@@ -106,6 +110,7 @@ can MD I-VP O 638,641
 also RB I-VP O 642,646
 find VB I-VP O 647,651
 several JJ I-NP O 652,659
+D-flat NNP I-NP I-KP 660,666
 directions NNS I-NP I-KP 667,677
 which WDT B-NP O 678,683
 are VBP I-VP O 684,687
@@ -121,8 +126,10 @@ the DT I-NP O 744,747
 fermion NN I-NP O 748,755
 masses; NN I-NP O 756,762
 without IN I-PP O 764,771
+R-parity NNP I-NP O 772,780
 violation, NN I-NP O 781,790
 such JJ I-NP O 792,796
+D-flat JJ I-NP I-KP 797,803
 directions NNS I-NP I-KP 804,814
 are VBP I-VP O 815,818
 only RB I-VP O 819,823
@@ -138,6 +145,7 @@ assume VBP I-VP O 883,889
 that IN I-PP O 890,894
 coefficients NNS I-NP I-KP 895,907
 of IN I-PP I-KP 908,910
+non-renormalizable JJ I-NP I-KP 911,929
 terms NNS I-NP I-KP 930,935
 are VBP I-VP O 936,939
 suppressed VBN I-VP O 940,950
@@ -152,7 +160,9 @@ be VB I-VP O 984,986
 explained VBN I-VP O 987,996
 by IN I-PP O 997,999
 the DT I-NP O 1000,1003
+R-symmetry, JJ I-NP I-KP 1004,1014
 assigning VBG I-VP O 1016,1025
+R-charge JJ I-NP I-KP 1026,1034
 23 CD I-NP I-KP 1035,1037
 to TO I-VP O 1038,1040
 each DT I-NP O 1041,1045

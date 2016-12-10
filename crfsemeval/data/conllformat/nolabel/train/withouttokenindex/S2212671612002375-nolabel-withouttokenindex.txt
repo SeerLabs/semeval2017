@@ -34,6 +34,7 @@ ontology NN I-NP I-KP
 Technology. NNP I-NP I-KP
 
 With IN I-PP O
+ontology-based JJ I-NP I-KP
 Power NNP I-NP I-KP
 Grid NNP I-NP I-KP
 knowledge NN I-NP I-KP

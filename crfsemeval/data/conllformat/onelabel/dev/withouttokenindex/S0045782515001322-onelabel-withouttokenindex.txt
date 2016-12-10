@@ -73,6 +73,7 @@ where WRB O O
 FM NNP I-NP I-P
 reaches VBZ I-VP O
 the DT I-NP O
+load-free JJ I-NP O
 configuration NN I-NP O
 in IN I-PP O
 just RB I-NP O
@@ -144,6 +145,7 @@ most RBS I-NP O
 complex JJ I-NP O
 geometry NN I-NP O
 (i.e., VBZ I-VP O
+patient-specific JJ I-NP O
 case NN I-NP O
 of IN I-PP O
 aortic JJ I-NP O
@@ -213,6 +215,7 @@ FM, NNP I-NP I-P
 which WDT B-NP O
 makes VBZ I-VP O
 the DT I-NP O
+stent-graft JJ I-NP I-P
 expansion NN I-NP I-P
 terminate NN I-NP O
 once IN I-PP O

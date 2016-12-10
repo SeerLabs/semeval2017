@@ -52,6 +52,7 @@ We PRP I-NP O
 show VBP I-VP O
 that IN I-PP O
 the DT I-NP O
+non-localities NNS I-NP I-P
 found VBN I-VP I-P
 are VBP I-VP O
 not RB O O

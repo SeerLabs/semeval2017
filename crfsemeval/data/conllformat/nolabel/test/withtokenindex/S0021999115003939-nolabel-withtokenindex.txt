@@ -102,7 +102,9 @@ to TO I-VP O 644,646
 do VB I-VP O 647,649
 so RB O O 650,652
 on IN I-PP O 653,655
+non-equidistant JJ I-NP I-KP 656,671
 or CC O O 672,674
+non-rectilinear JJ I-NP I-KP 675,690
 meshes, NN I-NP I-KP 691,697
 as IN I-PP O 699,701
 discussed VBN I-NP O 702,711

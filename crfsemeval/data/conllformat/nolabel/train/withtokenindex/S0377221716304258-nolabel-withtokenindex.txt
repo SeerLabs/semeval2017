@@ -1,3 +1,4 @@
+Two-state JJ I-NP I-KP 0,9
 models NNS I-NP I-KP 10,16
 are VBP I-VP O 17,20
 often RB I-VP O 21,26
@@ -39,6 +40,7 @@ descriptors NNS I-NP I-KP 240,251
 due JJ I-NP O 252,255
 to TO I-VP O 256,258
 the DT I-NP O 259,262
+non-linearity NN I-NP O 263,276
 of IN I-PP O 277,279
 their PRP$ I-NP O 280,285
 underlying JJ I-NP I-KP 286,296
@@ -75,6 +77,7 @@ traces NNS I-NP O 472,478
 by IN I-PP O 479,481
 composing VBG I-VP I-KP 482,491
 multiple JJ I-NP I-KP 492,500
+small-sized JJ I-NP I-KP 501,512
 MMPPs NNP I-NP I-KP 513,518
 or CC O I-KP 519,521
 MAPs NNP I-NP I-KP 522,526
@@ -106,6 +109,7 @@ fitting, NN I-NP O 689,696
 offering VBG I-VP O 698,706
 a DT I-NP O 707,708
 different JJ I-NP O 709,718
+trade-off NN I-NP O 719,728
 between IN I-PP O 729,736
 computational JJ I-NP O 737,750
 cost NN I-NP O 751,755

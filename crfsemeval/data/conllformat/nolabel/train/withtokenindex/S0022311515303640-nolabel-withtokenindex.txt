@@ -13,6 +13,7 @@ reactors NNS I-NP I-KP 75,83
 [1,2]. VBP I-VP O 84,89
 
 The DT I-NP O 91,94
+transmutation-created JJ I-NP I-KP 95,116
 inert NN I-NP I-KP 117,122
 gas, NN I-NP I-KP 123,126
 especially RB O O 128,138
@@ -45,6 +46,7 @@ He PRP B-NP I-KP 291,293
 in IN I-PP I-KP 294,296
 a DT I-NP I-KP 297,298
 perfect JJ I-NP I-KP 299,306
+body-centred-cubic JJ I-NP I-KP 307,325
 (bcc) NN I-NP I-KP 326,331
 Fe NNP I-NP I-KP 332,334
 lattice, NN I-NP I-KP 335,342

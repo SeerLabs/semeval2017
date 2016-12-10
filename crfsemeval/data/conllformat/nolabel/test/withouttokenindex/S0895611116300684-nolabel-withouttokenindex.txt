@@ -50,9 +50,11 @@ work NN I-NP O
 referred VBD I-VP O
 to TO I-VP O
 as IN I-PP O
+scale-adaptive JJ I-NP I-KP
 [SA]), NN I-NP O
 which WDT B-NP O
 includes VBZ I-VP O
+curvature-dependent JJ I-NP I-KP
 polygonization NN I-NP I-KP
 (e.g. IN I-PP O
 increasing/decreasing VBG I-VP I-KP
@@ -129,6 +131,7 @@ of IN I-PP O
 techniques NNS I-NP O
 (known VBN I-NP O
 as IN I-PP O
+model-based JJ I-NP I-KP
 methods) NN I-NP O
 (Preim NN I-NP O
 and CC O O

@@ -13,6 +13,7 @@ emotional JJ I-NP I-P
 involvement NN I-NP I-P
 in IN I-PP O
 current JJ I-NP O
+web-based JJ I-NP I-M
 instructional JJ I-NP I-M
 environment, NN I-NP I-M
 here RB O O
@@ -25,6 +26,7 @@ that WDT B-NP O
 is VBZ I-VP O
 based VBN I-VP O
 on IN I-PP O
+inter-subjectivity NN I-NP O
 fusing VBG I-NP I-P
 cognition NN I-NP I-P
 with IN I-PP I-P

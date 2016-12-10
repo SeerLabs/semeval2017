@@ -3,6 +3,7 @@ with IN B-PP O 6,10
 the DT I-NP O 11,14
 expansion NN I-NP I-KP 15,24
 of IN I-PP I-KP 25,27
+computer-based JJ I-NP I-KP 28,42
 climate NN I-NP I-KP 43,50
 simulations, NN I-NP I-KP 51,62
 efficient JJ I-NP O 64,73
@@ -37,6 +38,7 @@ combining VBG I-VP I-KP 235,244
 window JJ I-NP I-KP 245,251
 query NN I-NP I-KP 252,257
 and CC O I-KP 258,261
+time-varying JJ I-NP I-KP 262,274
 data NNS I-NP I-KP 275,279
 mining NN I-NP I-KP 280,286
 techniques. NN I-NP I-KP 287,297
@@ -57,6 +59,7 @@ various JJ I-NP O 386,393
 queries NNS I-NP I-KP 394,401
 on IN I-PP O 402,404
 3d CD I-NP I-KP 405,407
+time-varying JJ I-NP I-KP 408,420
 datasets, NN I-NP I-KP 421,429
 such JJ I-NP O 431,435
 as IN I-PP O 436,438
@@ -68,6 +71,7 @@ value. NN I-NP O 461,466
 
 A DT I-NP O 468,469
 new JJ I-NP O 470,473
+time-varying JJ I-NP I-KP 474,486
 data NNS I-NP I-KP 487,491
 analysis NN I-NP I-KP 492,500
 algorithm NN I-NP I-KP 501,510
@@ -97,6 +101,8 @@ visual JJ I-NP I-KP 642,648
 analysis NN I-NP I-KP 649,657
 system, NN I-NP I-KP 658,664
 with IN I-PP O 666,670
+tiled-LCD JJ I-NP I-KP 671,680
+ultra-resolution JJ I-NP I-KP 681,697
 display. NN I-NP I-KP 698,705
 
 Experimental JJ I-NP O 707,719

@@ -43,6 +43,8 @@ it PRP I-NP O
 
 In IN I-PP O
 the DT I-NP O
+thermo-electric JJ I-NP I-KP
+co-simulation NN I-NP I-KP
 example NN I-NP O
 in IN I-PP O
 [35], CC I-PP O
@@ -73,10 +75,12 @@ affect VBP I-VP O
 the DT I-NP O
 accuracy NN I-NP O
 of IN I-PP O
+co-simulation. NN I-NP O
 
 In IN I-PP O
 [36], PDT I-NP O
 the DT I-NP O
+co-simulation NN I-NP I-KP
 is VBZ I-VP O
 performed VBN I-VP O
 using VBG I-VP O
@@ -132,6 +136,7 @@ future JJ I-NP O
 work. NN I-NP O
 
 An DT I-NP O
+in-depth JJ I-NP O
 research NN I-NP O
 about IN I-PP O
 the DT I-NP O

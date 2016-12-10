@@ -4,6 +4,7 @@ presented VBN I-VP O
 spectrally RB O I-KP
 resolved VBN I-VP I-KP
 femtosecond JJ I-NP I-KP
+three-pulse JJ I-NP I-KP
 photon NN I-NP I-KP
 echo NN I-NP I-KP
 measurements NNS I-NP I-KP
@@ -67,6 +68,7 @@ photon NN I-NP I-KP
 echo NN I-NP I-KP
 spectra. NN I-NP I-KP
 
+Time-integrated JJ I-NP I-KP
 photon NN I-NP I-KP
 echo NN I-NP I-KP
 signals NNS I-NP I-KP

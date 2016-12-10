@@ -36,6 +36,8 @@ The DT I-NP O 239,242
 exclusive JJ I-NP O 243,252
 preparation NN I-NP I-KP 253,264
 of IN I-PP I-KP 265,267
+end-functionalized JJ I-NP I-KP 268,286
+ring-opened JJ I-NP I-KP 287,298
 polymers NNS I-NP I-KP 299,307
 (realized VBN I-VP O 308,317
 by IN I-PP O 318,320

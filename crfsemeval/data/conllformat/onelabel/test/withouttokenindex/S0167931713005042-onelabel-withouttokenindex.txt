@@ -2,6 +2,7 @@ We PRP I-NP O
 used VBD I-VP O
 2μm CD I-NP O
 of IN I-PP O
+ultra-nanocrystalline JJ I-NP I-M
 diamond NN I-NP I-M
 (UNCD) NNP I-NP O
 grown VBN I-VP O
@@ -53,6 +54,7 @@ subjected VBN I-VP O
 to TO I-VP O
 RCA NNP I-NP I-P
 cleaning VBG I-NP I-P
+(SC-1), JJ I-NP O
 followed VBN I-VP O
 by IN I-PP O
 ultrasonic JJ I-NP I-P
@@ -94,10 +96,12 @@ the DT I-NP O
 resist NN I-NP O
 to TO I-VP O
 prevent VB I-VP I-T
+e-beam JJ I-NP I-T
 deflection NN I-NP I-T
 due JJ I-NP I-T
 to TO I-VP I-T
 charge VB I-VP I-T
+build-up NN I-NP I-T
 on IN I-PP I-T
 the DT I-NP I-T
 surface NN I-NP I-T

@@ -16,6 +16,7 @@ analyzing VBG I-VP I-T
 the DT I-NP I-T
 importance NN I-NP I-T
 of IN I-PP I-T
+hip-push JJ I-NP I-P
 applied VBN I-NP I-T
 in IN I-PP I-T
 walking VBG I-VP I-T
@@ -43,6 +44,7 @@ objective JJ I-NP I-T
 analysis NN I-NP I-T
 on IN I-PP I-T
 the DT I-NP I-T
+sports-biomechanics JJ I-NP I-T
 factors NNS I-NP I-T
 that WDT B-NP O
 can MD I-VP O

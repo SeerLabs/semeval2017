@@ -1,0 +1,11 @@
+T0	KEYPHRASE_NOTYPES 512 548	all-electron correlated calculations
+T1	KEYPHRASE_NOTYPES 31 54	B3LYP/aug-cc-pVTZ level
+T2	KEYPHRASE_NOTYPES 877 895	transition moments
+T3	KEYPHRASE_NOTYPES 797 804	LR-CCSD.
+T4	KEYPHRASE_NOTYPES 764 769	atoms
+T5	KEYPHRASE_NOTYPES 703 733	comparison the EOM-CCSD method
+T6	KEYPHRASE_NOTYPES 662 697	minor effect on excitation energies.
+T7	KEYPHRASE_NOTYPES 918 925	LR-CCSD.
+T8	KEYPHRASE_NOTYPES 72 278	perform calculations of the lowest electronic singlet excited states with the coupled cluster linear response (LR) coupled cluster hierarchy CCS, CC2, CCSD and CC3, along with perturbative corrected methods
+T9	KEYPHRASE_NOTYPES 469 506	cc-pVTZ basis set on the oxygen atoms.
+T10	KEYPHRASE_NOTYPES 976 1002	excited state calculations.

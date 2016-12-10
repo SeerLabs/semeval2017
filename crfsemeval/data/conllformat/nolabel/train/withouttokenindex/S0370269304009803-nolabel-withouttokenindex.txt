@@ -26,6 +26,7 @@ in IN I-PP O
 terms NNS I-NP O
 of IN I-PP O
 a DT I-NP O
+non-linear JJ I-NP I-KP
 chiral JJ I-NP I-KP
 Lagrangian JJ I-NP I-KP
 with IN I-PP O
@@ -50,6 +51,7 @@ mesons. NN I-NP I-KP
 The DT I-NP O
 three CD I-NP O
 point NN I-NP O
+vector-pseudo JJ I-NP I-KP
 scalar JJ I-NP I-KP
 interaction NN I-NP I-KP
 is VBZ I-VP O
@@ -61,6 +63,7 @@ h NN I-NP I-KP
 stands VBZ I-VP O
 for IN I-PP O
 the DT I-NP O
+vector-pseudoscalar JJ I-NP I-KP
 coupling. NN I-NP I-KP
 
 Some DT I-NP O
@@ -141,6 +144,7 @@ amounts NNS I-NP I-KP
 
 The DT I-NP O
 strong JJ I-NP I-KP
+four-point JJ I-NP I-KP
 vertices NNS I-NP I-KP
 involving VBG I-VP I-KP
 pions NNS I-NP I-KP

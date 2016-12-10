@@ -42,6 +42,7 @@ from IN I-PP O
 conservation NN I-NP I-KP
 principles–shape NN I-NP O
 a DT B-NP I-KP
+piecewise-polynomial JJ I-NP I-KP
 solution NN I-NP I-KP
 over IN I-PP I-KP
 each DT I-NP I-KP
@@ -92,6 +93,7 @@ of IN I-PP O
 accuracy. NN I-NP O
 
 A DT I-NP O
+DG-based JJ I-NP I-KP
 shallow JJ I-NP I-KP
 water NN I-NP I-KP
 model NN I-NP I-KP

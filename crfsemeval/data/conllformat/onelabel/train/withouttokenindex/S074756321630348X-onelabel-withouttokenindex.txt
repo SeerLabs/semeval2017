@@ -32,6 +32,7 @@ games NNS I-NP I-P
 (SNG) VBP I-VP O
 are VBP I-VP O
 generally RB O O
+free-to-play JJ I-NP O
 and CC O O
 do VBP I-VP O
 not RB I-VP O
@@ -42,6 +43,7 @@ but CC O O
 users NNS I-NP O
 can MD I-VP O
 make VB I-VP O
+in-game JJ I-NP O
 purchases NNS I-NP O
 to TO I-VP O
 advance VB I-VP O

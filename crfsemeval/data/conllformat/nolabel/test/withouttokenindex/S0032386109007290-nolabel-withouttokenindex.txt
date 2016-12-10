@@ -9,6 +9,7 @@ of IN I-PP I-KP
 block NN I-NP I-KP
 copolymers NNS I-NP I-KP
 that IN I-PP O
+self-assemble JJ I-NP O
 into IN I-PP O
 polymer JJ I-NP I-KP
 nanostructures NNS I-NP I-KP
@@ -24,6 +25,8 @@ this DT I-NP O
 area NN I-NP O
 involved VBD I-VP O
 an DT I-NP O
+elastin-mimetic JJ I-NP I-KP
+di-block NN I-NP I-KP
 copolymer NN I-NP I-KP
 containing VBG I-VP O
 VPGEG–(IPGAG)4 NNP I-NP I-KP
@@ -57,8 +60,10 @@ measure VB I-VP O
 the DT I-NP O
 enthalpy NN I-NP O
 of IN I-PP O
+self-assembly. NN I-NP I-KP
 
 A DT I-NP O
+tri-block JJ I-NP I-KP
 copolymer NN I-NP I-KP
 was VBD I-VP O
 subsequently RB I-VP O
@@ -87,7 +92,9 @@ been VBN I-VP O
 obtained VBN I-VP O
 from IN I-PP O
 linear JJ I-NP I-KP
+elastin-like JJ I-NP I-KP
 AB NNP I-NP I-KP
+di-block NN I-NP I-KP
 copolymers NNS I-NP I-KP
 in IN I-PP O
 the DT I-NP O
@@ -130,6 +137,7 @@ Attachment NN I-NP O
 of IN I-PP O
 doxorubicin NN I-NP I-KP
 to TO I-VP O
+ELR-based JJ I-NP I-KP
 system NN I-NP I-KP
 showed VBD I-VP O
 enhanced JJ I-NP O

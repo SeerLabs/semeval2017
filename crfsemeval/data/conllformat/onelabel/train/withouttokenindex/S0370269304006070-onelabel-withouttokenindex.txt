@@ -13,6 +13,7 @@ and CC O O
 to TO I-VP O
 confront VB I-VP I-T
 those DT I-NP I-T
+six-zero JJ I-NP I-T
 textures NNS I-NP I-T
 of IN I-PP I-T
 lepton JJ I-NP I-M
@@ -81,6 +82,7 @@ intervals NNS I-NP O
 of IN I-PP O
 two CD I-NP O
 neutrino JJ I-NP I-P
+mass-squared JJ I-NP I-P
 differences NNS I-NP I-P
 and CC O O
 three CD I-NP O
@@ -102,6 +104,7 @@ intervals NNS I-NP O
 of IN I-PP O
 two CD I-NP O
 neutrino JJ I-NP I-P
+mass-squared JJ I-NP I-P
 differences NNS I-NP I-P
 and CC O O
 three CD I-NP O

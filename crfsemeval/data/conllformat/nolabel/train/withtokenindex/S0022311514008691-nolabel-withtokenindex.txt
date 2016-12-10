@@ -21,6 +21,7 @@ of IN I-PP O 136,138
 a DT I-NP O 139,140
 dispersion NN I-NP I-KP 141,151
 of IN I-PP I-KP 152,154
+ultra-fine JJ I-NP I-KP 155,165
 oxide NN I-NP I-KP 166,171
 particles NNS I-NP I-KP 172,181
 throughout IN I-PP I-KP 182,192
@@ -83,13 +84,15 @@ for IN I-PP O 559,562
 the DT I-NP O 563,566
 formation NN I-NP O 567,576
 of IN I-PP O 577,579
-He PRP I-NP I-KP 591,593
+nano-scale JJ I-NP I-KP 580,590
+He PRP B-NP I-KP 591,593
 bubbles VBZ I-VP I-KP 594,601
 therefore RB I-VP O 602,611
 reducing VBG I-VP I-KP 612,620
 swelling VBG I-VP I-KP 621,629
 compared VBN I-VP O 630,638
 to TO I-VP O 639,641
+non-ODS JJ I-NP I-KP 642,649
 steels NNS I-NP I-KP 650,656
 [12–15]. VBP I-VP O 657,664
 

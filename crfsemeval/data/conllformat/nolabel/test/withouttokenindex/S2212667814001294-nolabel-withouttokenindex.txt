@@ -62,6 +62,7 @@ to TO I-VP O
 show VB I-VP O
 that IN I-PP O
 these DT I-NP O
+widely-used JJ I-NP O
 approaches NNS I-NP O
 need VBP I-VP O
 to TO I-VP O
@@ -80,6 +81,7 @@ paper NN I-NP O
 proposes VBZ I-VP O
 an DT I-NP O
 extended JJ I-NP O
+Role-Based JJ I-NP I-KP
 Access NNP I-NP I-KP
 Control NNP I-NP O
 (RBAC) NNP I-NP O
@@ -96,6 +98,7 @@ System. NNP I-NP I-KP
 
 Also, VB I-VP O
 a DT I-NP O
+real-life JJ I-NP I-KP
 system NN I-NP I-KP
 is VBZ I-VP O
 presented VBN I-VP O

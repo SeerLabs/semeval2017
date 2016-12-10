@@ -71,6 +71,7 @@ the DT I-NP O
 problems NNS I-NP O
 of IN I-PP O
 describing VBG I-VP O
+non-adiabatic JJ I-NP I-KP
 systems. NN I-NP I-KP
 
 It PRP I-NP O
@@ -87,9 +88,11 @@ is VBZ I-VP O
 used VBN I-VP O
 in IN I-PP O
 modern, JJ I-NP O
+direct-dynamic JJ I-NP I-KP
 methods NNS I-NP I-KP
 that WDT B-NP O
 include VBP I-VP O
+non-adiabatic JJ I-NP O
 effects NNS I-NP O
 [6]. VBP I-VP O
 
@@ -155,6 +158,7 @@ in IN I-PP O
 the DT I-NP O
 context NN I-NP O
 of IN I-PP O
+permutation-inversion NN I-NP I-KP
 groups NNS I-NP I-KP
 [13]. VBP I-VP O
 

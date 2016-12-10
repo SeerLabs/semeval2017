@@ -140,6 +140,7 @@ be VB I-VP O 862,864
 solved VBN I-VP O 865,871
 (i.e. PRP I-NP O 872,876
 a DT I-NP O 878,879
+one-phase JJ I-NP O 880,889
 formulation). NN I-NP O 890,902
 
 Additionally, IN I-PP O 904,916

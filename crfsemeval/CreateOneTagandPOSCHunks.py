@@ -9,7 +9,8 @@ from copy import deepcopy
 
 #needed because code failes on a word like -LRB
 def filterUnderscores(tokens):
-     return [x for x in tokens if "-" not in x[0]]
+     #return [x for x in tokens if "-" not in x[0]]
+     return tokens
 
 def changeBeginTags(tokens,p): #expects a list of tokens of the form (word,tags**), for example, (word, POS-TAG, Chunk-Tag, Label)
     # and a position, 1,2 etc.. The position determine which labels to change.

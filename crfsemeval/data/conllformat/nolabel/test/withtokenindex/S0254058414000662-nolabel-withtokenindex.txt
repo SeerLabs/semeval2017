@@ -11,6 +11,7 @@ adducts NNS I-NP I-KP 59,66
 propose VBP I-VP O 67,74
 that IN I-PP O 75,79
 the DT I-NP O 80,83
+1,3-DC JJ I-NP I-KP 84,90
 of IN I-PP O 91,93
 second JJ I-NP I-KP 94,100
 pyridinium NN I-NP I-KP 101,111
@@ -104,6 +105,7 @@ anticipated VBN I-VP O 758,769
 to TO I-VP O 770,772
 proceed VB I-VP O 773,780
 via IN I-PP O 781,784
+ylideC2/C6–ylidepyrene-C3 NN I-NP I-KP 785,810
 and CC O O 811,814
 ylideC7–ylidepyrene/C2 NN I-NP I-KP 815,837
 interactions NNS I-NP O 838,850
@@ -142,6 +144,7 @@ for IN I-PP O 1074,1077
 SWNTs NNP I-NP I-KP 1078,1083
 after IN I-PP O 1084,1089
 the DT I-NP O 1090,1093
+1,3-DC JJ I-NP I-KP 1094,1100
 of IN I-PP I-KP 1101,1103
 pyridinium NN I-NP I-KP 1104,1114
 ylides, NN I-NP I-KP 1115,1121

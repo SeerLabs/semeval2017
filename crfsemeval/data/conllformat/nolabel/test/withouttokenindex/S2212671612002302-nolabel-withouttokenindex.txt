@@ -35,6 +35,7 @@ to TO I-VP O
 suggest VB I-VP O
 a DT I-NP O
 new JJ I-NP I-KP
+non-conventionalprocedure NN I-NP I-KP
 for IN I-PP O
 measuring VBG I-VP O
 the DT I-NP O
@@ -47,6 +48,7 @@ operation NN I-NP O
 by IN I-PP O
 means NNS I-NP O
 of IN I-PP O
+image-processing JJ I-NP I-KP
 technique. NN I-NP I-KP
 
 This DT I-NP O
@@ -59,6 +61,7 @@ the DT I-NP O
 “information” NN I-NP O
 contained VBN I-VP O
 in IN I-PP O
+high-resolution NN I-NP I-KP
 photographic JJ I-NP I-KP
 images NNS I-NP I-KP
 of IN I-PP O
@@ -86,6 +89,7 @@ the DT I-NP O
 state NN I-NP O
 of IN I-PP O
 the DT I-NP O
+rail-head JJ I-NP O
 extrados NN I-NP O
 wear. NN I-NP O
 

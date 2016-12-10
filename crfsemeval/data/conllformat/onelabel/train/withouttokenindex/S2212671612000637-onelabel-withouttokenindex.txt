@@ -15,6 +15,7 @@ harmonic NN I-NP I-P
 oscillator NN I-NP I-P
 for IN I-PP O
 the DT I-NP O
+amplitude-frequency NN I-NP I-P
 relationship. NN I-NP I-P
 
 The DT I-NP O
@@ -53,6 +54,7 @@ during IN I-PP O
 looking VBG I-VP O
 for IN I-PP O
 the DT I-NP O
+amplitude-frequency NN I-NP I-P
 relationship NN I-NP I-P
 for IN I-PP O
 the DT I-NP O

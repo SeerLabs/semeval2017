@@ -97,6 +97,7 @@ et CC O O 634,636
 al. JJ I-NP O 637,639
 summarise NN I-NP O 641,650
 the DT B-NP O 651,654
+adsorption-related JJ I-NP O 655,673
 physical JJ I-NP O 674,682
 parameters NNS I-NP O 683,693
 of IN I-PP O 694,696
@@ -258,6 +259,7 @@ a DT I-NP O 1614,1615
 great JJ I-NP O 1616,1621
 scope NN I-NP O 1622,1627
 for IN I-PP O 1628,1631
+tailor-made JJ I-NP O 1632,1643
 carbonaceous JJ I-NP I-KP 1644,1656
 adsorbents. NN I-NP I-KP 1657,1667
 

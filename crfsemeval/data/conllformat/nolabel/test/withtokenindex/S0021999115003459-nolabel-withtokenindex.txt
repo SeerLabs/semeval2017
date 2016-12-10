@@ -12,6 +12,7 @@ to TO I-VP O 68,70
 shape VB I-VP I-KP 71,76
 optimisation NN I-NP I-KP 77,89
 of IN I-PP I-KP 90,92
+high-voltage NN I-NP I-KP 93,105
 devices, NN I-NP I-KP 106,113
 see VBP I-VP O 115,118
 [4–8] NN I-NP O 119,124
@@ -40,6 +41,7 @@ need NN I-NP O 231,235
 to TO I-VP O 236,238
 maintain VB I-VP O 239,247
 an DT I-NP O 248,250
+analysis-suitable JJ I-NP O 251,268
 volume NN I-NP O 269,275
 discretisation NN I-NP O 276,290
 during IN I-PP O 291,297
@@ -66,6 +68,7 @@ field NN I-NP I-KP 423,428
 analysis. NN I-NP I-KP 429,437
 
 In IN I-PP O 439,441
+gradient-based JJ I-NP I-KP 442,456
 shape NN I-NP I-KP 457,462
 optimisation NN I-NP I-KP 463,475
 the DT B-NP O 476,479
@@ -142,6 +145,8 @@ in IN I-PP I-KP 905,907
 shape NN I-NP I-KP 908,913
 optimisation NN I-NP I-KP 914,926
 and CC O O 927,930
+Bernoulli-type JJ I-NP I-KP 931,945
+free-boundary JJ I-NP I-KP 946,959
 problems NNS I-NP I-KP 960,968
 we PRP B-NP O 969,971
 refer VBP I-VP O 972,977

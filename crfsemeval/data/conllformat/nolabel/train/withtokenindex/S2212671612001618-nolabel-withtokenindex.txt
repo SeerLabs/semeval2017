@@ -2,6 +2,7 @@ This DT I-NP O 0,4
 paper NN I-NP O 5,10
 presents VBZ I-VP O 11,19
 a DT I-NP O 20,21
+non-fragile JJ I-NP I-KP 22,33
 controller NN I-NP I-KP 34,44
 design NN I-NP I-KP 45,51
 method NN I-NP I-KP 52,58
@@ -27,6 +28,7 @@ for IN I-PP O 196,199
 the DT I-NP O 200,203
 existence NN I-NP O 204,213
 of IN I-PP O 214,216
+non-fragile JJ I-NP I-KP 217,228
 state NN I-NP I-KP 229,234
 feedback NN I-NP I-KP 235,243
 controller NN I-NP I-KP 244,254
@@ -44,6 +46,7 @@ the DT I-NP I-KP 319,322
 solutions NNS I-NP I-KP 323,332
 to TO I-VP O 333,335
 obtain VB I-VP O 336,342
+non-fragile JJ I-NP I-KP 343,354
 state NN I-NP I-KP 355,360
 feedback NN I-NP I-KP 361,369
 controllers. NN I-NP I-KP 370,381

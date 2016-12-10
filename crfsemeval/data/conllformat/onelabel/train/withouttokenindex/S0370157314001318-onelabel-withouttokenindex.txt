@@ -2,6 +2,7 @@ Despite IN I-PP O
 the DT I-NP O
 ubiquity NN I-NP O
 of IN I-PP O
+time-dependent JJ I-NP I-T
 dynamical JJ I-NP I-T
 systems NNS I-NP I-T
 in IN I-PP O
@@ -28,6 +29,7 @@ they PRP I-NP O
 are VBP I-VP O
 known VBN I-VP O
 as IN I-PP O
+non-autonomous JJ I-NP I-T
 systems, NN I-NP I-T
 which WDT B-NP O
 are VBP I-VP O
@@ -69,6 +71,7 @@ work NN I-NP O
 on IN I-PP O
 the DT I-NP O
 direct JJ I-NP O
+‘bottom-up’ JJ I-NP I-P
 approach NN I-NP I-P
 to TO I-VP O
 these DT I-NP O
@@ -92,6 +95,7 @@ model VB I-VP I-P
 the DT I-NP I-P
 stable JJ I-NP I-P
 but CC O I-P
+time-varying JJ I-NP I-P
 frequencies NNS I-NP I-P
 of IN I-PP O
 oscillations NNS I-NP O
@@ -115,6 +119,7 @@ as IN I-PP O
 the DT I-NP O
 inverse NN I-NP I-P
 or CC O O
+‘top-down’ JJ I-NP I-P
 approach, NN I-NP O
 has VBZ I-VP O
 not RB I-VP O
@@ -128,6 +133,7 @@ This DT I-NP O
 is VBZ I-VP O
 partly RB I-VP O
 because IN I-PP O
+non-autonomous JJ I-NP I-T
 systems NNS I-NP I-T
 can MD I-VP O
 still RB I-VP O
@@ -221,6 +227,7 @@ dedicated JJ I-NP O
 procedure NN I-NP O
 for IN I-PP O
 analysing VBG I-VP O
+non-autonomous JJ I-NP I-T
 systems NNS I-NP I-T
 has VBZ I-VP O
 still RB I-VP O

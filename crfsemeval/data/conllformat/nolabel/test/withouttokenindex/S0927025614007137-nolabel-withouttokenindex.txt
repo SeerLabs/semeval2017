@@ -65,6 +65,7 @@ minority NN I-NP I-KP
 phase NN I-NP I-KP
 at IN I-PP I-KP
 the DT I-NP I-KP
+nano-scale. JJ I-NP I-KP
 
 These DT I-NP O
 modifiers NNS I-NP O
@@ -84,6 +85,7 @@ glass NN I-NP I-KP
 [3], NNP I-NP O
 alumina VBZ I-VP I-KP
 [4], JJ I-NP O
+nano-clays JJ I-NP I-KP
 [5] NN I-NP O
 and CC O O
 carbon NN I-NP I-KP

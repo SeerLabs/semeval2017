@@ -153,6 +153,7 @@ be VB I-VP O 926,928
 mentioned VBN I-VP O 929,938
 that IN I-PP O 939,943
 for IN B-PP O 944,947
+two-dimensional JJ I-NP I-KP 948,963
 chaotic JJ I-NP I-KP 964,971
 systems NNS I-NP I-KP 972,979
 where, WDT B-NP O 980,985

@@ -13,6 +13,7 @@ and CC O O
 led VBD I-VP O
 to TO I-VP O
 a DT I-NP O
+non-classical JJ I-NP I-M
 glass NN I-NP I-M
 matrix. NN I-NP I-M
 
@@ -32,6 +33,7 @@ systematic JJ I-NP O
 approach NN I-NP O
 to TO I-VP O
 such JJ I-NP O
+glass-ceramic JJ I-NP I-M
 wasteforms. NN I-NP I-M
 
 These DT I-NP O
@@ -40,6 +42,7 @@ were VBD I-VP O
 targeted VBN I-VP O
 at IN I-PP O
 Hanford NNP I-NP I-M
+K-basin NNP I-NP I-M
 sludges NNS I-NP I-M
 and CC O O
 the DT I-NP O
@@ -52,6 +55,7 @@ stream NN I-NP I-T
 from IN I-PP I-T
 production NN I-NP I-T
 of IN I-PP I-T
+molybdenum-99 NN I-NP I-T
 at IN I-PP O
 the DT I-NP O
 Australian JJ I-NP O
@@ -163,6 +167,7 @@ a DT I-NP O
 suite NN I-NP O
 of IN I-PP O
 zirconolite JJ I-NP I-M
+glass-ceramics NNS I-NP I-M
 in IN I-PP O
 which WDT I-NP O
 the DT I-NP O

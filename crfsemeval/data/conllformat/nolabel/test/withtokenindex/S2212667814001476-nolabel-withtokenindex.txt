@@ -78,7 +78,8 @@ availability, NN I-NP O 491,503
 it PRP B-NP O 505,507
 is VBZ I-VP O 508,510
 the DT I-NP O 511,514
-Cloud NNP I-NP I-KP 529,534
+Multi-Clouds, JJ I-NP I-KP 515,527
+Cloud NNP I-NP B-KP 529,534
 of IN I-PP I-KP 535,537
 Clouds NNP I-NP I-KP 538,544
 or CC O O 545,547
@@ -99,6 +100,7 @@ usefulness NN I-NP I-KP 637,647
 of IN I-PP I-KP 648,650
 adopting VBG I-VP I-KP 651,659
 rather RB I-VP I-KP 660,666
+Multi-Clouds NNP I-NP I-KP 667,679
 strategy NN I-NP I-KP 680,688
 to TO I-VP O 689,691
 reduce VB I-VP O 692,698

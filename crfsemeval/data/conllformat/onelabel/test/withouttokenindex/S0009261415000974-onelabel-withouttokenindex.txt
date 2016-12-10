@@ -50,6 +50,7 @@ energy NN I-NP O
 minima. NNS I-NP O
 
 Indeed, NNP I-NP O
+cross-overs NNS I-NP I-P
 in IN I-PP I-P
 the DT I-NP I-P
 approximate NN I-NP I-P
@@ -66,6 +67,7 @@ free JJ I-NP O
 energy NN I-NP O
 of IN I-PP O
 the DT I-NP O
+second-lowest JJ I-NP O
 potential JJ I-NP O
 energy NN I-NP O
 minimum NN I-NP O

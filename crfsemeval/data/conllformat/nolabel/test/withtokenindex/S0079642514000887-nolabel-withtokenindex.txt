@@ -83,8 +83,10 @@ bonding NN I-NP I-KP 570,577
 information NN I-NP I-KP 578,589
 [64–67], IN I-PP O 590,597
 the DT I-NP O 599,602
+state-of-the-art NN I-NP O 603,619
 in IN I-PP O 620,622
 situ JJ I-NP O 623,627
+high-resolution NN I-NP O 628,643
 TEM NNP I-NP I-KP 644,647
 technique NN I-NP O 648,657
 allows VBZ I-VP O 658,664
@@ -99,6 +101,7 @@ individual JJ I-NP I-KP 700,710
 object NN I-NP I-KP 711,717
 at IN I-PP O 718,720
 the DT I-NP O 721,724
+nano-scale JJ I-NP O 725,735
 precision NN I-NP O 736,745
 but CC O O 746,749
 to TO I-VP O 750,752
@@ -121,6 +124,7 @@ capabilities NNS I-NP O 857,869
 of IN I-PP O 870,872
 a DT I-NP O 873,874
 conventional JJ I-NP O 875,887
+high-resolution NN I-NP O 888,903
 TEM NNP I-NP I-KP 904,907
 and CC O O 908,911
 AFM NNP I-NP I-KP 912,915
@@ -167,6 +171,7 @@ usefulness NN I-NP O 1187,1197
 of IN I-PP O 1198,1200
 these DT I-NP O 1201,1206
 advanced JJ I-NP O 1207,1215
+in-situ JJ I-NP O 1216,1223
 TEM NNP I-NP I-KP 1224,1227
 techniques NNS I-NP I-KP 1228,1238
 is VBZ I-VP O 1239,1241

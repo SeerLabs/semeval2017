@@ -17,6 +17,7 @@ into IN I-PP I-P
 models NNS I-NP I-P
 and CC O I-P
 spontaneously RB O I-P
+self-assemble JJ I-NP I-P
 into IN I-PP I-P
 nanofibers NNS I-NP I-P
 in IN I-PP I-P
@@ -32,6 +33,7 @@ biomimetic JJ I-NP I-M
 materials NNS I-NP I-M
 exemplified VBN I-VP O
 by IN I-PP O
+collagen-mimetic JJ I-NP I-M
 PAs NNP I-NP I-M
 [92]. NN I-NP O
 
@@ -47,6 +49,7 @@ manufacturing NN I-NP I-P
 method NN I-NP I-P
 to TO I-VP O
 achieve VB I-VP I-T
+fiber-like JJ I-NP I-T
 structures NNS I-NP I-T
 suitable JJ I-NP O
 for IN I-PP O
@@ -56,6 +59,7 @@ nerve NN I-NP O
 regeneration. NN I-NP O
 
 The DT I-NP O
+self-assembly JJ I-NP O
 nature NN I-NP O
 of IN I-PP O
 PAs NNP I-NP I-M
@@ -79,6 +83,7 @@ electrospinning VBG I-VP I-P
 where WRB O O
 quality NN I-NP O
 and CC O O
+batch-to-batch JJ I-NP O
 variability NN I-NP O
 can MD I-VP O
 be VB I-VP O
@@ -87,10 +92,12 @@ controlled, VBN I-VP O
 merely RB I-VP O
 relying VBG I-VP O
 on IN I-PP O
+self-assembly RB I-NP I-P
 as IN I-PP O
 a DT I-NP O
 method NN I-NP O
 of IN I-PP O
+large-scale JJ I-NP I-T
 commercial JJ I-NP I-T
 production NN I-NP I-T
 is VBZ I-VP O
@@ -113,6 +120,7 @@ contrast VB I-VP I-P
 the DT I-NP O
 robustness NN I-NP I-T
 of IN I-PP I-T
+self-assemled JJ I-NP I-T
 PAs NNP I-NP I-T
 to TO I-VP I-T
 electrospun VB I-VP I-T
@@ -152,6 +160,7 @@ be VB I-VP O
 used VBN I-VP O
 as IN I-PP O
 a DT I-NP I-T
+full-fledged JJ I-NP I-T
 commercialized JJ I-NP I-T
 medical JJ I-NP I-T
 product NN I-NP I-T

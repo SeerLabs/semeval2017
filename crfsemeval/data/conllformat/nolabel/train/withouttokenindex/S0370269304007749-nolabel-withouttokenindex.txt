@@ -114,8 +114,10 @@ there EX I-NP O
 is VBZ I-VP O
 also RB I-VP O
 an DT I-NP O
+over-abundance NN I-NP O
 of IN I-PP O
 the DT I-NP O
+four-charm–quark JJ I-NP I-KP
 processes NNS I-NP I-KP
 including VBG I-VP O
 the DT I-NP O
@@ -147,6 +149,7 @@ as RB O O
 well RB O O
 as IN I-PP O
 the DT I-NP O
+color-octet NN I-NP I-KP
 mechanism NN I-NP I-KP
 in IN I-PP I-KP
 NRQCD. NNP I-NP I-KP
@@ -169,10 +172,12 @@ of IN I-PP I-KP
 the DT I-NP I-KP
 contribution NN I-NP I-KP
 from IN I-PP I-KP
+two-virtual-photon JJ I-NP I-KP
 mediate NN I-NP I-KP
 processes VBZ I-VP I-KP
 [5], JJ I-NP O
 large JJ I-NP I-KP
+higher-order NN I-NP I-KP
 QCD NNP I-NP I-KP
 corrections NNS I-NP I-KP
 [6,7], VBP I-VP O
@@ -180,6 +185,7 @@ collinear JJ I-NP I-KP
 suppression NN I-NP I-KP
 at IN I-PP I-KP
 the DT I-NP I-KP
+end-point JJ I-NP I-KP
 region NN I-NP I-KP
 of IN I-PP I-KP
 the DT I-NP I-KP
@@ -189,6 +195,7 @@ momentum NN I-NP I-KP
 contribution NN I-NP I-KP
 from IN I-PP I-KP
 the DT I-NP I-KP
+J/ψ-glueball NNP I-NP I-KP
 associated JJ I-NP I-KP
 production NN I-NP I-KP
 [9] NN I-NP O

@@ -30,6 +30,7 @@ oxidised VBN I-VP I-P
 in IN I-PP O
 a DT I-NP O
 Philips NNP I-NP I-M
+XL-30 NN I-NP I-M
 FEG NNP I-NP I-M
 ESEM NNP I-NP I-M
 with IN I-PP O
@@ -159,6 +160,7 @@ gathered VBD I-VP O
 using VBG I-VP O
 EDS. NNP I-NP I-M
 
+Cross-sections NNS I-NP O
 and CC O O
 Transmission NNP I-NP I-M
 Electron NNP I-NP I-M
@@ -200,6 +202,7 @@ using VBG I-VP O
 a DT I-NP O
 Jeol NNP I-NP I-M
 2000FX CD I-NP I-M
+W-filament JJ I-NP I-M
 TEM. NNP I-NP I-M
 
 EDS NNP I-NP I-M

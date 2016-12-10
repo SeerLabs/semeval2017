@@ -129,6 +129,7 @@ it PRP B-NP O
 will MD I-VP O
 make VB I-VP O
 the DT I-NP O
+real-time JJ I-NP I-KP
 dynamics NNS I-NP I-KP
 control NN I-NP I-KP
 become VBP I-VP O

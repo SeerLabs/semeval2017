@@ -35,6 +35,7 @@ SDR NNP I-NP I-P
 Doll NNP I-NP I-P
 Research) NNP I-NP O
 and CC O O
+Timur-Coates NNP I-NP I-P
 models NNS I-NP I-P
 are VBP I-VP O
 all DT I-NP O

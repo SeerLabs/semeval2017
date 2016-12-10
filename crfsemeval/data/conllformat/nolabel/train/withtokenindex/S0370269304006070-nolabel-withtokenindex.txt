@@ -13,6 +13,7 @@ and CC O O 59,62
 to TO I-VP O 63,65
 confront VB I-VP I-KP 66,74
 those DT I-NP I-KP 75,80
+six-zero JJ I-NP I-KP 81,89
 textures NNS I-NP I-KP 90,98
 of IN I-PP I-KP 99,101
 lepton JJ I-NP I-KP 102,108
@@ -81,6 +82,7 @@ intervals NNS I-NP O 494,503
 of IN I-PP O 504,506
 two CD I-NP O 507,510
 neutrino JJ I-NP I-KP 511,519
+mass-squared JJ I-NP I-KP 520,532
 differences NNS I-NP I-KP 533,544
 and CC O O 545,548
 three CD I-NP O 549,554
@@ -102,6 +104,7 @@ intervals NNS I-NP O 630,639
 of IN I-PP O 640,642
 two CD I-NP O 643,646
 neutrino JJ I-NP I-KP 647,655
+mass-squared JJ I-NP I-KP 656,668
 differences NNS I-NP I-KP 669,680
 and CC O O 681,684
 three CD I-NP O 685,690

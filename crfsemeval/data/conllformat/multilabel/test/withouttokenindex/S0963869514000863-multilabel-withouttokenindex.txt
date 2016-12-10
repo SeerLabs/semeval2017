@@ -35,6 +35,7 @@ significant JJ I-NP O
 effect. NN I-NP O
 
 Previously, NNP I-NP O
+multi-frequency NN I-NP I-M
 EM NNP I-NP I-M
 sensors NNS I-NP I-M
 have VBP I-VP O
@@ -171,6 +172,7 @@ geometry NN I-NP I-P
 is VBZ I-VP O
 included VBN I-VP O
 (e.g. JJ I-NP O
+two-dimensional JJ I-NP O
 axisymmetric NN I-NP O
 for IN I-PP O
 a DT I-NP O

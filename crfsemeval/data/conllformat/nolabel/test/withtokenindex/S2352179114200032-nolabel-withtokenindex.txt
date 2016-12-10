@@ -7,6 +7,7 @@ developed VBN I-VP O 32,41
 and CC I-VP O 42,45
 tested VBN I-VP O 46,52
 with IN I-PP O 53,57
+a-C:H JJ I-NP I-KP 58,63
 layers NNS I-NP I-KP 64,70
 in IN I-PP O 71,73
 mind, NN I-NP O 74,78
@@ -81,6 +82,7 @@ e.g. NN I-NP O 486,489
 also RB O O 491,495
 for IN I-PP O 496,499
 beryllium NN I-NP I-KP 500,509
+co-deposits NNS I-NP I-KP 510,521
 [25] NN I-NP O 522,526
 and CC O O 527,530
 can MD I-VP O 531,534
@@ -88,6 +90,7 @@ be VB I-VP O 535,537
 expected VBN I-VP O 538,546
 for IN I-PP O 547,550
 other JJ I-NP O 551,556
+co-deposits NNS I-NP O 557,568
 formed VBN I-VP O 569,575
 in IN I-PP O 576,578
 plasma JJ I-NP I-KP 579,585

@@ -1,7 +1,9 @@
 Ge NNP I-NP I-KP 0,2
 (100) NNP I-NP I-KP 3,8
 wafers NNS I-NP I-KP 9,15
+(n- JJ I-NP O 16,19
 and CC O I-KP 20,23
+p-type) JJ I-NP O 24,31
 were VBD I-VP O 32,36
 cleaned VBN I-VP I-KP 37,44
 in IN I-PP I-KP 45,47

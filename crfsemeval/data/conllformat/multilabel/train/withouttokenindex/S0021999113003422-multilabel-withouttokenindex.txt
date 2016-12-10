@@ -112,6 +112,7 @@ Peskin NNP I-NP O
 (in NNP I-NP O
 our PRP$ B-NP O
 case, NN I-NP O
+tailor-made NN I-NP O
 for IN I-PP O
 Cartesian JJ I-NP I-P
 staggered VBN I-NP I-P

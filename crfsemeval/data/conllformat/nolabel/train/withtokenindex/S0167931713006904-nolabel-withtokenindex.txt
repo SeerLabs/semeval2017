@@ -1,4 +1,5 @@
 Copper NNP I-NP I-KP 0,6
+electro-chemical JJ I-NP I-KP 7,23
 deposition NN I-NP I-KP 24,34
 (ECD) NN I-NP I-KP 35,40
 of IN I-PP I-KP 41,43

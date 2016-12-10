@@ -8,6 +8,7 @@ a DT I-NP I-KP 35,36
 scattering JJ I-NP I-KP 37,47
 medium NN I-NP I-KP 48,54
 with IN I-PP I-KP 55,59
+piece-wise JJ I-NP I-KP 60,70
 constant JJ I-NP I-KP 71,79
 refractive NN I-NP I-KP 80,90
 index NN I-NP I-KP 91,96
@@ -23,6 +24,7 @@ Light JJ I-NP O 149,154
 propagation NN I-NP O 155,166
 in IN I-PP O 167,169
 each DT I-NP O 170,174
+sub-domain NN I-NP O 175,185
 with IN I-PP O 186,190
 a DT I-NP O 191,192
 constant JJ I-NP O 193,201
@@ -52,6 +54,7 @@ the DT I-NP O 363,366
 interfaces NNS I-NP O 367,377
 between IN I-PP O 378,385
 the DT I-NP O 386,389
+sub-domains. NN I-NP O 390,401
 
 The DT I-NP O 403,406
 resulting VBG I-NP O 407,416

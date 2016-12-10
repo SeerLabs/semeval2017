@@ -16,6 +16,7 @@ implant; NN I-NP O
 mice NN I-NP I-T
 with IN I-PP I-T
 the DT I-NP I-T
+pseudo-metastatic JJ I-NP I-T
 model NN I-NP I-T
 received VBD I-VP O
 the DT I-NP O
@@ -44,6 +45,7 @@ against IN I-PP O
 both DT I-NP O
 established VBN I-NP O
 and CC O O
+pseudo-metastatic JJ I-NP O
 preclinical JJ I-NP I-M
 models NNS I-NP I-M
 of IN I-PP O
@@ -68,10 +70,12 @@ with IN I-PP O
 untargeted JJ I-NP I-M
 (SL[DXR]) NN I-NP O
 or CC O O
+peptide-targeted JJ I-NP I-M
 SL[DXR] NNP I-NP I-M
 (5mg/kg). NN I-NP O
 
 Scrambled VBN I-VP I-T
+peptide-functionalized JJ I-NP I-T
 liposomes NNS I-NP I-T
 were VBD I-VP O
 used VBN I-VP O
@@ -88,6 +92,7 @@ of IN I-PP O
 control NN I-NP O
 mice NN I-NP O
 received VBD I-VP O
+HEPES-buffered NNP I-NP I-M
 saline. NN I-NP I-M
 
 Survival JJ I-NP I-M
@@ -107,6 +112,8 @@ In IN I-PP O
 the DT I-NP O
 orthotopic NN I-NP I-T
 model, VBD I-VP I-T
+time-dependent JJ I-NP I-M
+anti-tumor JJ I-NP I-M
 activity NN I-NP I-M
 was VBD I-VP O
 also RB I-VP O
@@ -116,12 +123,14 @@ bioluminescence NN I-NP O
 imaging VBG I-NP O
 (BLI) JJ I-NP O
 and CC O O
+X-ray JJ I-NP O
 analyses. NN I-NP O
 
 For IN I-PP O
 this DT I-NP O
 purpose, VBZ I-VP O
 the DT I-NP I-T
+GI-LI-N NNP I-NP I-T
 cell NN I-NP I-T
 line NN I-NP I-T
 was VBD I-VP O
@@ -141,6 +150,7 @@ reported VBN I-NP O
 luciferase NN I-NP I-T
 activity NN I-NP I-T
 of IN I-PP O
+retrovirally-transduced JJ I-NP I-M
 cells NNS I-NP I-M
 was VBD I-VP O
 visualized VBN I-VP I-P
@@ -161,6 +171,7 @@ incubation NN I-NP O
 with IN I-PP O
 150μg/mL CD I-NP O
 of IN I-PP O
+d-luciferin JJ I-NP I-M
 (Caliper NNP I-NP O
 Life NNP I-NP O
 Sciences), NNP I-NP O
@@ -168,6 +179,7 @@ as IN I-PP O
 described VBN I-NP O
 [17]. NN I-NP O
 
+X-ray JJ I-NP O
 analysis NN I-NP O
 was VBD I-VP O
 superimposed VBN I-VP O

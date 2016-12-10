@@ -2,6 +2,7 @@ Hitherto, NNP I-NP O 0,8
 the DT I-NP O 10,13
 investigation NN I-NP I-KP 14,27
 of IN I-PP I-KP 28,30
+fossil-orientation NN I-NP I-KP 31,49
 was VBD I-VP O 50,53
 only RB I-VP O 54,58
 used VBN I-VP O 59,63
@@ -29,6 +30,9 @@ of IN I-PP O 181,183
 virtual JJ I-NP I-KP 184,191
 methods NNS I-NP I-KP 192,199
 (e.g., JJ I-NP O 200,205
+macro-CT, JJ I-NP I-KP 207,215
+µ-CT, JJ I-NP B-KP 217,221
+nano-CT, JJ I-NP B-KP 223,230
 etc.) NN I-NP O 232,237
 
 it PRP I-NP O 238,240
@@ -45,6 +49,7 @@ fossil JJ I-NP I-KP 306,312
 mass NN I-NP I-KP 313,317
 occurrences NNS I-NP I-KP 318,329
 in IN I-PP O 330,332
+three-dimensional JJ I-NP O 333,350
 detail. NN I-NP O 351,357
 
 Although, VB I-VP O 359,367
@@ -55,7 +60,9 @@ paleontological JJ I-NP O 381,396
 studies NNS I-NP O 397,404
 deal VBP I-VP O 405,409
 with IN I-PP O 410,414
+3D-visualization NN I-NP I-KP 415,431
 of IN I-PP O 432,434
+fossil-elements, JJ I-NP I-KP 435,450
 no DT I-NP O 452,454
 mass NN I-NP O 455,459
 occurrence NN I-NP O 460,470

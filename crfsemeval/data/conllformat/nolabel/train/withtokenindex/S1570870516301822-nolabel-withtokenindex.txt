@@ -95,6 +95,7 @@ they PRP I-NP O 536,540
 aim VBP I-VP O 541,544
 to TO I-VP O 545,547
 allow VB I-VP O 548,553
+end-to-end JJ I-NP O 554,564
 communication NN I-NP O 565,578
 to TO I-VP O 579,581
 occur VB I-VP O 582,587

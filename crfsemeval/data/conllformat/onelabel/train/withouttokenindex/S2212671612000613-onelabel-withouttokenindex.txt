@@ -1,3 +1,4 @@
+Video-oculography NNP I-NP I-P
 (VOG) NNP I-NP O
 is VBZ I-VP O
 one CD I-NP O
@@ -35,7 +36,8 @@ was VBD I-VP O
 proposed VBN I-VP O
 for IN I-PP O
 a DT I-NP O
-VOG NNP I-NP I-P
+WIFI-based JJ I-NP I-P
+VOG NNP I-NP B-P
 system NN I-NP I-P
 which WDT B-NP O
 was VBD I-VP O

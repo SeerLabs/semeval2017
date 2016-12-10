@@ -71,7 +71,8 @@ containment NN I-NP O
 is VBZ I-VP O
 filled VBN I-VP O
 with IN I-PP O
-He PRP I-NP I-KP
+high-purity NN I-NP I-KP
+He PRP B-NP I-KP
 at IN I-PP O
 0.1MPa, CD I-NP O
 sealed VBD I-VP O
@@ -82,6 +83,7 @@ and CC O O
 kept VBD I-VP O
 closed VBN I-VP O
 during IN I-PP O
+in-pile JJ I-NP O
 operation NN I-NP O
 (no NNP I-NP O
 gas NN I-NP I-KP

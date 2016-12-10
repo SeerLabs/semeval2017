@@ -183,6 +183,7 @@ well RB O O
 as IN I-PP O
 feeling VBG I-VP O
 the DT I-NP O
+mean-field JJ I-NP O
 scalar NN I-NP O
 and CC O O
 vector NN I-NP O

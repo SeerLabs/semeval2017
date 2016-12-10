@@ -50,6 +50,7 @@ by IN I-PP O 277,279
 Si–O NNP I-NP I-KP 280,284
 bonds NNS I-NP I-KP 285,290
 in IN I-PP O 291,293
+a-SiO2 JJ I-NP I-KP 294,300
 leading VBG I-NP I-KP 301,308
 to TO I-VP O 309,311
 their PRP$ I-NP O 312,317
@@ -76,11 +77,13 @@ can MD I-VP O 446,449
 spontaneously RB I-VP I-KP 450,463
 trap VB I-VP I-KP 464,468
 in IN I-PP O 469,471
+non-defective JJ I-NP I-KP 472,485
 continuum NN I-NP I-KP 486,495
 random NN I-NP I-KP 496,502
 network NN I-NP I-KP 503,510
 model NN I-NP I-KP 511,516
 of IN I-PP O 517,519
+a-SiO2 JJ I-NP I-KP 520,526
 [17]. NN I-NP O 527,531
 
 Recent JJ I-NP O 533,539
@@ -98,7 +101,9 @@ defects NNS I-NP I-KP 619,626
 at IN I-PP O 627,629
 surfaces NNS I-NP I-KP 630,638
 of IN I-PP I-KP 639,641
+a-SiO2, JJ I-NP I-KP 642,648
 the DT I-NP O 650,653
+non-bridging JJ I-NP I-KP 654,666
 oxygen NN I-NP I-KP 667,673
 centre NN I-NP I-KP 674,680
 and CC O O 681,684

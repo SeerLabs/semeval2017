@@ -56,6 +56,7 @@ as IN I-PP O
 transition NN I-NP I-M
 metal NN I-NP I-M
 having VBG I-VP O
+un-paired JJ I-NP I-M
 d JJ I-NP I-M
 electrons NNS I-NP I-M
 [2]. VBP I-VP O

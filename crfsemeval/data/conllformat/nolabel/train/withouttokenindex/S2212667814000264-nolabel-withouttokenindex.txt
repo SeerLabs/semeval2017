@@ -14,6 +14,7 @@ reality NN I-NP I-KP
 technologies NNS I-NP I-KP
 into IN I-PP I-KP
 a DT I-NP I-KP
+three-dimensional JJ I-NP I-KP
 virtual JJ I-NP I-KP
 world. NN I-NP I-KP
 
@@ -71,6 +72,7 @@ navigation: JJ I-NP I-KP
 immersive JJ I-NP B-KP
 projection NN I-NP I-KP
 and CC O O
+head-mounted JJ I-NP I-KP
 display. NN I-NP I-KP
 
 In IN I-PP O

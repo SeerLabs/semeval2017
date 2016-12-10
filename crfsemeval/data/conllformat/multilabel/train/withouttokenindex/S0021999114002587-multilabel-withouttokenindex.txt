@@ -110,6 +110,7 @@ a DT I-NP I-M
 rarefied JJ I-NP I-M
 gas NN I-NP I-M
 in IN I-PP O
+high-aspect-ratio JJ I-NP I-M
 micro NN I-NP I-M
 geometries NNS I-NP I-M
 (i.e. VBP I-VP O
@@ -154,6 +155,7 @@ greater JJR I-NP O
 still RB O O
 when WRB O O
 simulating VBG I-VP O
+low-speed JJ I-NP O
 microfluidic JJ I-NP I-M
 devices NNS I-NP I-M
 where WRB O O

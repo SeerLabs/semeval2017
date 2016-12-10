@@ -8,6 +8,7 @@ extended JJ I-NP I-KP 27,35
 version NN I-NP I-KP 36,43
 of IN I-PP I-KP 44,46
 the DT I-NP I-KP 47,50
+graph-based JJ I-NP I-KP 51,62
 unsupervised JJ I-NP I-KP 63,75
 Word NNP I-NP I-KP 76,80
 Sense NNP I-NP I-KP 81,86
@@ -66,6 +67,7 @@ knowledge NN I-NP O 396,405
 acquired VBD I-VP O 406,414
 from IN I-PP O 415,419
 the DT I-NP O 420,423
+corpus-derived JJ I-NP I-KP 424,438
 Measure NN I-NP I-KP 439,446
 of IN I-PP I-KP 447,449
 Semantic NNP I-NP I-KP 450,458

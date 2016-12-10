@@ -1,5 +1,7 @@
 Two CD I-NP O 0,3
 different JJ I-NP O 4,13
+micro-contact JJ I-NP I-KP 14,27
+set-ups NNS I-NP I-KP 28,35
 were VBD I-VP O 36,40
 used VBN I-VP O 41,45
 in IN I-PP O 46,48
@@ -10,6 +12,7 @@ The DT I-NP O 66,69
 asymmetrically RB O I-KP 70,84
 heated JJ I-NP I-KP 85,91
 measurement JJ I-NP I-KP 92,103
+set-up JJ I-NP I-KP 104,110
 (Fig. NN I-NP O 111,115
 2a) CD I-NP O 117,120
 allows NNS I-NP O 121,127
@@ -100,7 +103,8 @@ gradients NNS I-NP I-KP 640,649
 are VBP I-VP O 650,653
 responsible JJ I-NP O 654,665
 for IN I-PP O 666,669
-which WDT I-NP O 687,692
+thermo-voltages, JJ I-NP O 670,685
+which WDT B-NP O 687,692
 can MD I-VP O 693,696
 lead VB I-VP O 697,701
 to TO I-VP O 702,704
@@ -114,6 +118,7 @@ experiments NNS I-NP I-KP 746,757
 Moreover, NNP I-NP O 764,772
 in IN I-PP O 774,776
 this DT I-NP O 777,781
+set-up JJ I-NP O 782,788
 temperature NN I-NP I-KP 789,800
 cycles NNS I-NP I-KP 801,807
 can MD I-VP O 808,811
@@ -128,6 +133,7 @@ require VBP I-VP O 862,869
 subsequent JJ I-NP O 870,880
 contacting NN I-NP I-KP 881,891
 and CC O I-KP 892,895
+de-contacting NN I-NP I-KP 896,909
 of IN I-PP I-KP 910,912
 different JJ I-NP I-KP 913,922
 microelectrodes. NN I-NP I-KP 923,938

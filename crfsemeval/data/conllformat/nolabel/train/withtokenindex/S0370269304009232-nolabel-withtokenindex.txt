@@ -1,5 +1,6 @@
 We PRP I-NP O 0,2
 consider VBP I-VP O 3,11
+finite-time, JJ I-NP I-KP 12,23
 future NN I-NP I-KP 25,31
 (sudden NN I-NP I-KP 32,39
 or CC O I-KP 40,42
@@ -24,6 +25,7 @@ of IN I-PP O 150,152
 state NN I-NP O 153,158
 parameter NN I-NP O 159,168
 is VBZ I-VP O 169,171
+time-dependent. JJ I-NP O 172,186
 
 Recently, NNP I-NP O 188,196
 example NN I-NP I-KP 198,205

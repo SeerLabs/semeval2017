@@ -6,17 +6,17 @@
 
 ## Description
 
-1. Traindata from SemEval was converted to mallet format by Agnese. The original files are at `semevaltrainingdata`. Mallet formatted files are at `malletformatfeatures`.
+1. Traindata from SemEval was converted to basic CoNLL format by Agnese. The original files are at `data/semevaltrainingdata`. Proper CoNLL formatted files are at `data/conllformat/`. Follow the README file in that format.
 
-2. The data was split randomly into train and test data. The file lists are in `training.txt` and `test.txt`. Also, for each original file, three fields were taken, the word (token), the tag (`B_KP`, `I_KP`) and the index. The files are in `malletformat/training` and `malletformat/test`. `convert.py` was used.
+2. CRFNER.py trains a linear chain CRF model and outputs the model as a pickle file (`linear-chain-crf.model.pickle`). You can do a hyper parameter optimization on the training data.
 
-3. These files were combined using `awk` [`awk -F"\t" {print $1"\t"$2} malletformat/test/* > semeval-ner-test.txt`] to produce the training data (`semeval-ner-train.txt`) and test data (`semeval-ner-test.txt`). Note these files contain only two columns (tab separated): the token and the tag.
+3. `DataExtraction.py` and `FeatureExtraction.py` contains the code to prepare the data and extract features. Both are used by CRFNER.py. Note the pos tags are extracted during the data extraction step. 
 
-4. CRFNER.py trains a linear chain CRF model and outputs the model as a pickle file (`linear-chain-crf.model.pickle`). You can do a hyper parameter optimization on the training data.
+4. `ClassifyWithCRF.py` uses the trained model to predict the token classes and output a predicted text file with the predicted labels. An example input to the code is a file in `data/conllformat/nolabel/test/withouttokenindex/S2212671612001291-nolabel-withouttokenindex.txt`, e.g., `python ClassifyWithCRF.py data/conllformat/nolabel/test/withouttokenindex/S2212671612001291-nolabel-withouttokenindex.txt <BaseDirForPredictedText>` where `<BaseDirForPredictedText>` is the base directory for storing txt files with predicted labels. Output for this code would be at `<BaseDirForPredictedText>/S2212671612001291-crfprediction.txt`.
 
-5. `DataExtraction.py` and `FeatureExtraction.py` contains the code to prepare the data and extract features. Both are used by CRFNER.py. Note the pos tags are extracted during the data extraction step. 
+5. `ConvertCoNLLtoANN.py` will take a CoNLL format file as input and output corresponding ANN file. For example, `python ConvertCoNLLtoAnn.py results/crfprediction/nolabel/predictedtxts/S2212671612001291-crfprediction.txt  <BaseDirForPredictedANN>` will produce the required ANN file at the location `BaseDirForPredictedANN`.
 
-6. `ClassifyCRFtoANN.py` uses the trained model to predict the token classes and output the predicted ann file. An example input to the code is a file in `malletformat/test`, e.g., `python ClassifyCRFtoANN.py malletformat/test/S0166218X14003011-mallet.txt`. Output is `malletformat/test/S0166218X14003011-predicted.ann`.
+6. The whole pipeline for just extraction (or **no label classification**) is at `SemEvalNoLabel.sh`.
 
 ##TODO
 

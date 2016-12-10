@@ -97,6 +97,7 @@ is VBZ I-VP O 593,595
 greater JJR I-NP O 596,603
 for IN I-PP O 604,607
 the DT I-NP O 608,611
+non-Ti JJ I-NP O 612,618
 containing NN I-NP O 619,629
 phase. NN I-NP O 630,635
 

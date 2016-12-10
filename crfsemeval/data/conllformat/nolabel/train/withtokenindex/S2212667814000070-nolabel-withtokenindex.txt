@@ -6,6 +6,7 @@ design NN I-NP I-KP 22,28
 of IN I-PP I-KP 29,31
 high JJ I-NP I-KP 32,36
 quality NN I-NP I-KP 37,44
+real-time JJ I-NP I-KP 45,54
 rotation NN I-NP I-KP 55,63
 face NN I-NP I-KP 64,68
 detection NN I-NP I-KP 69,78
@@ -24,6 +25,7 @@ rotated VBD I-VP O 150,157
 face NN I-NP I-KP 158,162
 detection, IN I-PP I-KP 163,172
 the DT I-NP O 174,177
+multiple-MCT(Modified JJ I-NP O 178,199
 Census NNP I-NP I-KP 200,206
 Transform) NNP I-NP O 207,217
 architecture, NN I-NP O 218,230
@@ -97,6 +99,7 @@ detection NN I-NP I-KP 700,709
 device NN I-NP O 710,716
 can MD I-VP O 717,720
 conduct VB I-VP O 721,728
+real-time JJ I-NP I-KP 729,738
 processing NN I-NP I-KP 739,749
 at IN I-PP O 750,752
 speed NN I-NP O 753,758

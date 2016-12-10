@@ -24,6 +24,7 @@ consequences NNS I-NP O 114,126
 of IN I-PP O 127,129
 shifting VBG I-VP I-KP 130,138
 the DT I-NP I-KP 139,142
+semi-infinite JJ I-NP I-KP 143,156
 row NN I-NP I-KP 157,160
 by IN I-PP O 161,163
 one CD I-NP O 164,167
@@ -39,6 +40,7 @@ effect, NN I-NP O 202,208
 we PRP B-NP O 210,212
 regard VBP I-VP O 213,219
 the DT I-NP O 220,223
+semi-infinite JJ I-NP I-KP 224,237
 row NN I-NP I-KP 238,241
 as IN I-PP O 242,244
 two CD I-NP I-KP 245,248
@@ -48,6 +50,7 @@ of IN I-PP O 265,267
 which WDT I-NP O 268,273
 is VBZ I-VP O 274,276
 another DT I-NP O 277,284
+semi-infinite JJ I-NP I-KP 285,298
 row. NN I-NP I-KP 299,302
 
 This DT I-NP O 304,308
@@ -73,6 +76,7 @@ used VBD I-VP O 393,397
 it PRP I-NP O 398,400
 for IN I-PP O 401,404
 several JJ I-NP O 405,412
+two-dimensional JJ I-NP I-KP 413,428
 grating NN I-NP I-KP 429,436
 problems. NN I-NP I-KP 437,445
 
@@ -90,6 +94,7 @@ Shenderov NNP I-NP O 496,505
 
 In IN I-PP O 512,514
 our PRP$ I-NP O 515,518
+one-dimensional JJ I-NP O 519,534
 context, NN I-NP O 535,542
 we PRP B-NP O 544,546
 obtain VB I-VP I-KP 547,553
@@ -118,6 +123,7 @@ recent JJ I-NP O 661,667
 interest NN I-NP O 668,676
 in IN I-PP O 677,679
 related JJ I-NP O 680,687
+two-dimensional JJ I-NP I-KP 688,703
 waveguide NN I-NP I-KP 704,713
 problems; NN I-NP I-KP 714,722
 see, NN I-NP O 724,727
@@ -126,6 +132,7 @@ example, NN I-NP O 733,740
 [4–6], NN I-NP O 742,747
 where WRB O O 749,754
 the DT I-NP O 755,758
+shifting-by-one-period JJ I-NP O 759,781
 idea NN I-NP O 782,786
 is VBZ I-VP O 787,789
 again RB I-VP O 790,795

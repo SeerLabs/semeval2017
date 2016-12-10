@@ -40,6 +40,7 @@ within IN I-PP I-KP 246,252
 the DT I-NP I-KP 253,256
 framework NN I-NP I-KP 257,266
 of IN I-PP I-KP 267,269
+light-front JJ I-NP I-KP 270,281
 dynamics NNS I-NP I-KP 282,290
 with IN I-PP I-KP 291,295
 Karmanov's NNP I-NP B-KP 296,306

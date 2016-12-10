@@ -15,6 +15,7 @@ surface NN I-NP I-P
 is VBZ I-VP O
 a DT I-NP O
 complex, JJ I-NP O
+non-local JJ I-NP O
 phenomenon. NN I-NP O
 
 In IN I-PP O
@@ -130,6 +131,7 @@ parameter RB O O
 related VBN I-VP O
 to TO I-VP O
 the DT I-NP O
+cross-sectional JJ I-NP O
 area NN I-NP O
 of IN I-PP O
 the DT I-NP O
@@ -152,6 +154,7 @@ Ref. NNP I-NP O
 [39], VB I-VP O
 an DT I-NP O
 analytical JJ I-NP I-P
+semi-empirical JJ I-NP I-P
 model NN I-NP I-P
 was VBD I-VP O
 presented VBN I-VP O
@@ -175,6 +178,7 @@ fan NN I-NP O
 angle. NN I-NP O
 
 This DT I-NP O
+material-dependent JJ I-NP O
 quantity NN I-NP O
 can MD I-VP O
 be VB I-VP O

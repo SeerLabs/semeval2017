@@ -41,11 +41,13 @@ field NN I-NP I-KP
 produced VBN I-VP O
 by IN I-PP O
 a DT I-NP O
+laser-driven JJ I-NP I-KP
 plasma NN I-NP I-KP
 wave. NN I-NP I-KP
 
 Sufficiently RB O O
 short, JJ I-NP O
+high-intensity NN I-NP I-KP
 laser NN I-NP I-KP
 pulses NNS I-NP I-KP
 can MD I-VP O
@@ -137,6 +139,7 @@ for IN I-PP O
 the DT I-NP O
 effects NNS I-NP O
 of IN I-PP O
+Stern–Gerlach-type JJ I-NP I-KP
 contributions NNS I-NP I-KP
 to TO I-VP O
 the DT I-NP O

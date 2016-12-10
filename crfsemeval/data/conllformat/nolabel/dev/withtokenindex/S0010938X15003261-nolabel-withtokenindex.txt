@@ -180,6 +180,7 @@ free JJ I-NP I-KP 1130,1134
 corrosion NN I-NP I-KP 1135,1144
 potential JJ I-NP I-KP 1145,1154
 (Ecorr) JJ I-NP O 1155,1162
+pre-determined JJ I-NP O 1163,1177
 under IN I-PP O 1178,1183
 immersed JJ I-NP O 1184,1192
 conditions NNS I-NP O 1193,1203

@@ -103,6 +103,7 @@ the DT I-NP I-KP
 cell NN I-NP I-KP
 temperature NN I-NP I-KP
 at IN I-PP O
+open-circuit NN I-NP I-KP
 conditions. NN I-NP I-KP
 
 Methods NNS I-NP O
@@ -191,6 +192,7 @@ atmospheric JJ I-NP O
 parameters NNS I-NP O
 and CC O O
 an DT I-NP O
+open-circuit JJ I-NP I-KP
 voltage NN I-NP I-KP
 model NN I-NP I-KP
 based VBN I-VP O

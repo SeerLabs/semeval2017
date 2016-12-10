@@ -31,8 +31,11 @@ wall NN I-NP I-M
 system NN I-NP I-M
 (denoted VBD I-VP O
 as IN I-PP O
+flexi-wall) JJ I-NP O
 consists NNS I-NP O
 of IN I-PP O
+stay-in-place JJ I-NP I-M
+poly-blocks NNS I-NP I-M
 as IN I-PP O
 formwork, NN I-NP O
 light JJ I-NP I-M
@@ -58,8 +61,10 @@ surfaces VBZ I-VP I-M
 (Fig. $ I-NP O
 1). CD I-NP O
 
+Poly-blocks NNS I-NP I-M
 are VBP I-VP O
 interlocking VBG I-VP I-M
+light-weight NN I-NP I-M
 blocks NNS I-NP I-M
 which WDT B-NP O
 are VBP I-VP O
@@ -78,6 +83,7 @@ LPF NNP I-NP I-M
 cores. NN I-NP I-M
 
 The DT I-NP O
+poly-block NN I-NP I-M
 is VBZ I-VP O
 20×20×80cm3 CD I-NP O
 and CC O O
@@ -94,6 +100,7 @@ is VBZ I-VP O
 made VBN I-VP O
 of IN I-PP O
 molded JJ I-NP I-M
+low-density NN I-NP I-M
 polyurethane NN I-NP I-M
 and CC O O
 weighs VBZ I-VP O
@@ -101,7 +108,9 @@ approximately RB I-VP O
 1kg. CD I-NP O
 
 The DT I-NP O
+poly-blocks NNS I-NP I-M
 are VBP I-VP O
+fire-resistant JJ I-NP I-M
 blocks NNS I-NP I-M
 and CC O O
 have VBP I-VP O
@@ -129,6 +138,7 @@ Polyurea NNP I-NP I-M
 coating NN I-NP I-M
 is VBZ I-VP O
 an DT I-NP O
+abrasion-resistant JJ I-NP I-M
 finishing NN I-NP I-M
 layer, NN I-NP I-M
 which WDT B-NP O
@@ -153,6 +163,7 @@ the DT I-NP I-P
 surface NN I-NP I-P
 resistance NN I-NP I-P
 of IN I-PP O
+poly-blocks NNS I-NP I-M
 against IN I-PP O
 stone NN I-NP I-P
 impact, NN I-NP I-P
@@ -174,6 +185,7 @@ is VBZ I-VP O
 injected VBN I-VP O
 into IN I-PP O
 the DT I-NP O
+poly-block JJ I-NP I-M
 voids NNS I-NP I-M
 and CC O O
 cures NNS I-NP I-M

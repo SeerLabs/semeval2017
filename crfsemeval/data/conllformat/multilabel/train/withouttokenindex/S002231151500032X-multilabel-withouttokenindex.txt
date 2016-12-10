@@ -36,6 +36,7 @@ However, NNP I-NP O
 the DT I-NP O
 microstructure NN I-NP I-P
 and CC O I-P
+electro-chemical JJ I-NP I-P
 processes NNS I-NP I-P
 during IN I-PP O
 oxidation NN I-NP I-P
@@ -59,6 +60,7 @@ lateral JJ I-NP O
 cracks NNS I-NP O
 near IN I-PP O
 the DT I-NP O
+metal-oxide JJ I-NP I-M
 interface. NN I-NP I-M
 
 Small JJ I-NP O
@@ -128,7 +130,9 @@ in IN I-PP O
 Experiments NNS I-NP O
 using VBG I-NP O
 Synchrotron NNP I-NP I-P
+X-Ray JJ I-NP I-P
 Diffraction NNP I-NP I-P
+(S-XRD) NN I-NP O
 by IN I-PP O
 both DT I-NP O
 Polatidis NNP I-NP O
@@ -145,6 +149,7 @@ that IN I-PP O
 oxides NNS I-NP I-M
 formed VBN I-NP O
 on IN I-PP O
+Zircaloy-4 NNP I-NP I-M
 are VBP I-VP O
 composed VBN I-VP O
 of IN I-PP O
@@ -185,6 +190,7 @@ phase NN I-NP I-P
 close RB O O
 to TO I-VP O
 the DT I-NP O
+metal-oxide JJ I-NP I-M
 interface. NN I-NP I-M
 
 The DT I-NP O
@@ -205,6 +211,7 @@ fracture VB I-VP I-P
 perpendicular JJ I-NP O
 to TO I-VP O
 the DT I-NP O
+metal-oxide JJ I-NP I-M
 interface, NN I-NP I-M
 thereby RB O O
 generating VBG I-VP O

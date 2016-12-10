@@ -8,6 +8,7 @@ example, NN I-NP O
 cytokines) NN I-NP O
 or CC O O
 through IN I-PP O
+pattern-recognition JJ I-NP I-P
 receptors NNS I-NP I-P
 (PRRs, VBP I-VP O
 such JJ I-NP O
@@ -18,6 +19,7 @@ bacterial JJ I-NP O
 components). NN I-NP O
 
 The DT I-NP O
+Toll-like JJ I-NP I-P
 receptors NNS I-NP I-P
 (TLRs) EX B-NP O
 are VBP I-VP O
@@ -48,8 +50,10 @@ adjuvant JJ I-NP O
 activity NN I-NP O
 and CC O O
 enhance VB I-VP O
+antigen-specific JJ I-NP O
 antibody NN I-NP O
 and CC O O
+cell-mediated JJ I-NP O
 immune NN I-NP O
 responses, NN I-NP O
 especially RB O O
@@ -67,6 +71,7 @@ uptake NN I-NP O
 and CC O O
 delivery NN I-NP O
 into IN I-PP O
+antigen-presenting JJ I-NP I-M
 cells NNS I-NP I-M
 [22–24]. VBP I-VP O
 
@@ -135,6 +140,7 @@ by IN I-PP O
 the DT I-NP O
 production NN I-NP I-P
 of IN I-PP I-P
+IFN-γ NNP I-NP I-P
 and CC O I-P
 the DT I-NP I-P
 generation NN I-NP I-P
@@ -156,6 +162,7 @@ CpG NNP I-NP O
 ODN NNP I-NP O
 significantly RB O O
 increased VBD I-VP O
+Th1-biased JJ I-NP I-M
 cytokines NNS I-NP I-M
 and CC O O
 augmented VBN I-VP I-P

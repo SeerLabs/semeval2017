@@ -1,5 +1,6 @@
 It PRP I-NP O 0,2
 is VBZ I-VP O 3,5
+well-known JJ I-NP O 6,16
 that IN I-PP O 17,21
 the DT I-NP O 22,25
 optical JJ I-NP I-KP 26,33
@@ -87,6 +88,7 @@ instance, NN I-NP O 588,596
 in IN I-PP O 598,600
 widely RB I-NP O 601,607
 studied VBN I-NP O 608,615
+light-harvesting JJ I-NP I-KP 616,632
 complexes, NN I-NP I-KP 633,642
 there EX B-NP O 644,649
 are VBP I-VP O 650,653
@@ -142,6 +144,7 @@ influence NN I-NP I-KP 963,972
 of IN I-PP I-KP 973,975
 a DT I-NP I-KP 976,977
 neighbouring, JJ I-NP I-KP 978,990
+off-resonant, JJ I-NP I-KP 992,1004
 molecule NN I-NP I-KP 1006,1014
 on IN I-PP I-KP 1015,1017
 photon NN I-NP I-KP 1018,1024

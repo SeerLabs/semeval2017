@@ -1,6 +1,7 @@
 With IN I-PP O 0,4
 development NN I-NP O 5,16
 of IN I-PP O 17,19
+performance-based JJ I-NP I-KP 20,37
 design, NN I-NP I-KP 38,44
 some DT B-NP O 46,50
 studies NNS I-NP O 51,58

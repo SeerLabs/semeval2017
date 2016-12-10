@@ -1,5 +1,6 @@
 Correlation NN I-NP I-T
 of IN I-PP I-T
+charm-quark–charm-antiquark NN I-NP I-T
 in IN I-PP I-T
 γp JJ I-NP I-P
 scattering NN I-NP I-P
@@ -7,6 +8,7 @@ are VBP I-VP O
 calculated VBN I-VP O
 in IN I-PP O
 the DT I-NP O
+kt-factorization NN I-NP I-P
 approach. NN I-NP I-P
 
 We PRP I-NP O

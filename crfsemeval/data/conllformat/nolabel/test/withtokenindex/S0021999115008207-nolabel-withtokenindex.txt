@@ -1,3 +1,4 @@
+Multi-phase NN I-NP I-KP 0,11
 flows NNS I-NP I-KP 12,17
 are VBP I-VP O 18,21
 common, VBN I-VP O 22,28
@@ -43,6 +44,7 @@ at IN I-PP O 295,297
 the DT I-NP O 298,301
 interface NN I-NP O 302,311
 (e.g. NNP I-NP O 312,316
+gas-assisted JJ I-NP I-KP 318,330
 injection NN I-NP I-KP 331,340
 moulding VBG I-VP I-KP 341,349
 [21], NNP I-NP O 350,354
@@ -89,6 +91,7 @@ example. NN I-NP O 583,590
 We PRP I-NP O 592,594
 consider VBP I-VP O 595,603
 here RB I-VP O 604,608
+two-phase JJ I-NP I-KP 609,618
 interface NN I-NP I-KP 619,628
 problems NNS I-NP I-KP 629,637
 where WRB O O 638,643
@@ -133,11 +136,13 @@ have VBP I-VP O 878,882
 been VBN I-VP O 883,887
 tackled VBN I-VP O 888,895
 with IN I-PP O 896,900
+mesh-based JJ I-NP I-KP 901,911
 methods NNS I-NP I-KP 912,919
 using VBG I-VP O 920,925
 periodic JJ I-NP O 926,934
 (or JJ I-NP O 935,938
 adaptive) JJ I-NP O 939,948
+re-meshing NN I-NP I-KP 949,959
 or CC O O 960,962
 additional JJ I-NP O 963,973
 phase NN I-NP I-KP 974,979
@@ -150,6 +155,7 @@ these DT I-NP O 1014,1019
 approaches NNS I-NP O 1020,1030
 can MD I-VP O 1031,1034
 be VB I-VP O 1035,1037
+time-consuming JJ I-NP O 1038,1052
 to TO I-VP O 1053,1055
 implement VB I-VP O 1056,1065
 and CC I-VP O 1066,1069

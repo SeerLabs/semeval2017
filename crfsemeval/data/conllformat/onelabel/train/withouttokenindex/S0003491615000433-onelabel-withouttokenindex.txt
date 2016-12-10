@@ -8,12 +8,13 @@ since IN I-PP O
 decades NNS I-NP O
 to TO I-VP O
 describe VB I-VP O
-thermalization NN I-NP I-P
+thermalization NN I-NP I-T
 in IN I-PP O
 nuclear JJ I-NP I-P
 reactions, NN I-NP I-P
 predominantly RB O O
 using VBG I-VP O
+semi-classical JJ I-NP I-P
 methods NNS I-NP I-P
 [13,14,10], VBP I-VP O
 in IN I-PP O
@@ -50,6 +51,7 @@ correlations NNS I-NP I-P
 
 Still, NNP I-NP O
 no DT I-NP O
+clear-cut JJ I-NP O
 quantum NN I-NP I-P
 approach NN I-NP I-P
 is VBZ I-VP O

@@ -29,6 +29,7 @@ computation NN I-NP I-KP 197,208
 and CC O O 209,212
 also RB O O 213,217
 for IN I-PP O 218,221
+reliability-centered JJ I-NP I-KP 222,242
 maintenance NN I-NP I-KP 243,254
 system. NN I-NP I-KP 255,261
 

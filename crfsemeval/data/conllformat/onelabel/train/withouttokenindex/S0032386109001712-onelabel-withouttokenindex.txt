@@ -13,6 +13,7 @@ become VBN I-VP O
 feasible. JJ I-NP O
 
 However, NNP I-NP O
+full-atomistic JJ I-NP I-P
 approaches NNS I-NP I-P
 to TO I-VP O
 polymer VB I-VP I-T
@@ -33,6 +34,7 @@ and CC O O
 appropriate JJ I-NP I-P
 modeling NN I-NP I-P
 or CC O O
+coarse-graining NN I-NP I-P
 of IN I-PP I-P
 the DT I-NP I-P
 system NN I-NP I-P
@@ -48,11 +50,13 @@ on IN I-PP O
 the DT I-NP O
 development NN I-NP O
 of IN I-PP O
+coarse-grained JJ I-NP I-P
 models NNS I-NP I-P
 for IN I-PP O
 polymers, JJ I-NP I-M
 Mayer NNP I-NP O
 and CC O O
+Muller-Plathe NNP I-NP O
 have VBP I-VP O
 build VBN I-VP O
 up RP O O
@@ -120,6 +124,7 @@ their PRP$ I-NP O
 work, NN I-NP O
 they PRP B-NP O
 neglected VBD I-VP O
+long-range JJ I-NP O
 force NN I-NP O
 (van NN I-NP O
 der NN I-NP O

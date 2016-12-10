@@ -14,6 +14,7 @@ used VBN I-VP O
 as IN I-PP O
 an DT I-NP O
 effective JJ I-NP O
+flow-control NN I-NP I-P
 mechanism. NN I-NP I-P
 
 For IN I-PP O
@@ -30,6 +31,7 @@ of IN I-PP O
 suction NN I-NP O
 extends VBZ I-VP O
 the DT I-NP O
+laminar-flow JJ I-NP O
 region NN I-NP O
 over IN I-PP O
 a DT I-NP O
@@ -53,6 +55,7 @@ velocity. NN I-NP I-P
 Conclusions NNS I-NP O
 for IN I-PP O
 the DT I-NP O
+swept-wing JJ I-NP I-P
 flow NN I-NP I-P
 arose VBD I-VP O
 from IN I-PP O
@@ -194,6 +197,7 @@ of IN I-PP O
 the DT I-NP O
 onset NN I-NP O
 of IN I-PP O
+laminar-turbulent JJ I-NP I-P
 transition NN I-NP I-P
 (Lingwood NN I-NP O
 [7,10,11]). NN I-NP O

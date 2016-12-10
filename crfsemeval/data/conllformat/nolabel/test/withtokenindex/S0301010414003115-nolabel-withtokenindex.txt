@@ -3,6 +3,7 @@ optimised JJ I-NP I-KP 4,13
 structure NN I-NP I-KP 14,23
 at IN I-PP O 24,26
 the DT I-NP O 27,30
+B3LYP/aug-cc-pVTZ NNP I-NP I-KP 31,48
 level NN I-NP O 49,54
 was VBD I-VP O 55,58
 then RB I-VP O 59,63
@@ -49,6 +50,7 @@ were VBD I-VP O 332,336
 performed VBN I-VP O 337,346
 with IN I-PP O 347,351
 an DT I-NP O 352,354
+all-electron JJ I-NP O 355,367
 atomic JJ I-NP I-KP 368,374
 natural JJ I-NP I-KP 375,382
 orbital JJ I-NP I-KP 383,390
@@ -64,6 +66,7 @@ manganese, NN I-NP I-KP 435,444
 together RB O O 451,459
 with IN I-PP O 460,464
 the DT I-NP O 465,468
+cc-pVTZ JJ I-NP I-KP 469,476
 basis NN I-NP O 477,482
 set VBN I-VP O 483,486
 on IN I-PP O 487,489
@@ -72,6 +75,7 @@ oxygen NN I-NP I-KP 494,500
 atoms. NN I-NP O 501,506
 
 The DT I-NP O 508,511
+all-electron NN I-NP I-KP 512,524
 correlated VBD I-VP I-KP 525,535
 calculations NNS I-NP I-KP 536,548
 invoked VBD I-VP O 549,556
@@ -102,9 +106,11 @@ energies. NN I-NP I-KP 689,697
 For IN I-PP O 699,702
 comparison NN I-NP O 703,713
 the DT I-NP O 714,717
+EOM-CCSD NNP I-NP I-KP 718,726
 method NN I-NP I-KP 727,733
 with IN I-PP O 734,738
 the DT I-NP O 739,742
+cc-pVTZ JJ I-NP I-KP 743,750
 basis NN I-NP O 751,756
 on IN I-PP O 757,759
 all DT I-NP O 760,763
@@ -114,6 +120,7 @@ tested VBN I-VP O 774,780
 to TO I-VP O 781,783
 compare VB I-VP O 784,791
 with IN I-PP O 792,796
+LR-CCSD. NNP I-NP I-KP 797,804
 
 These DT I-NP O 806,811
 formally RB O O 812,820
@@ -131,6 +138,7 @@ are VBP I-VP O 896,899
 more JJR I-NP O 900,904
 accurate JJ I-NP O 905,913
 for IN I-PP O 914,917
+LR-CCSD. NNP I-NP I-KP 918,925
 
 Abelian JJ I-NP I-KP 927,934
 symmetry NN I-NP I-KP 935,943

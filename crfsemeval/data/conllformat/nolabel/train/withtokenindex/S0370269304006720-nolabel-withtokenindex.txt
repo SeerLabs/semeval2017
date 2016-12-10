@@ -1,4 +1,5 @@
 Classical, NNP I-NP O 0,9
+two-dimensional JJ I-NP I-KP 11,26
 sigma NN I-NP I-KP 27,32
 models NNS I-NP I-KP 33,39
 on IN I-PP I-KP 40,42
@@ -21,6 +22,7 @@ integrals NNS I-NP I-KP 140,149
 of IN I-PP I-KP 150,152
 local JJ I-NP I-KP 153,158
 or CC O I-KP 159,161
+non-local JJ I-NP I-KP 162,171
 functions NNS I-NP I-KP 172,181
 of IN I-PP O 182,184
 the DT I-NP O 185,188
@@ -94,6 +96,7 @@ Lie NNP I-NP I-KP 627,630
 algebra NN I-NP I-KP 631,638
 has VBZ I-VP I-KP 639,642
 no DT I-NP I-KP 643,645
+non-trivial JJ I-NP I-KP 646,657
 ideals. NN I-NP I-KP 658,664
 
 Hence NNP I-NP O 666,671
@@ -108,6 +111,7 @@ addition NN I-NP O 710,718
 to TO I-VP O 719,721
 the DT I-NP O 722,725
 usual JJ I-NP O 726,731
+non-Abelian JJ I-NP O 732,743
 simple JJ I-NP O 744,750
 groups NNS I-NP O 751,757
 of IN I-PP O 758,760
@@ -119,6 +123,7 @@ classification NN I-NP O 780,794
 the DT I-NP O 801,804
 first JJ I-NP O 805,810
 conserved VBD I-VP O 811,820
+non-local JJ I-NP O 821,830
 charge NN I-NP O 831,837
 survives VBZ I-VP O 838,846
 quantization NN I-NP I-KP 847,859
@@ -153,6 +158,7 @@ conservation NN I-NP I-KP 1050,1062
 of IN I-PP I-KP 1063,1065
 the DT I-NP I-KP 1066,1069
 quantum NN I-NP I-KP 1070,1077
+non-local JJ I-NP I-KP 1078,1087
 charges NNS I-NP I-KP 1088,1095
 in IN I-PP O 1096,1098
 the DT I-NP O 1099,1102

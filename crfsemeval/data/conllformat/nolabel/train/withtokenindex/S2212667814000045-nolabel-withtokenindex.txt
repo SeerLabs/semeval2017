@@ -33,6 +33,7 @@ that WDT B-NP O 231,235
 have VBP I-VP O 236,240
 adopted VBN I-VP O 241,248
 the DT I-NP O 249,252
+E-Procurement. JJ I-NP I-KP 253,266
 
 As IN I-PP O 268,270
 it PRP I-NP O 271,273
@@ -50,6 +51,7 @@ for IN I-PP O 344,347
 the DT I-NP O 348,351
 purchase NN I-NP O 352,360
 through IN I-PP O 361,368
+e-procurement JJ I-NP I-KP 369,382
 technology NN I-NP I-KP 383,393
 enables VBZ I-VP O 394,401
 companies NNS I-NP O 402,411
@@ -60,11 +62,13 @@ reduction NN I-NP O 425,434
 in IN I-PP O 435,437
 costs NNS I-NP O 438,443
 (average VBP I-VP O 444,452
+8-12%) CD I-NP O 453,459
 of IN I-PP O 460,462
 total JJ I-NP O 463,468
 purchases. NN I-NP O 469,478
 
 So RB O O 480,482
+web-based JJ I-NP I-KP 483,492
 models NNS I-NP I-KP 493,499
 are VBP I-VP O 500,503
 playing VBG I-VP O 504,511
@@ -90,6 +94,7 @@ on IN I-PP O 622,624
 the DT I-NP O 625,628
 role NN I-NP I-KP 629,633
 of IN I-PP I-KP 634,636
+e-procurement NN I-NP I-KP 637,650
 within IN I-PP O 651,657
 a DT I-NP O 658,659
 supply NN I-NP I-KP 660,666
@@ -116,5 +121,6 @@ basic JJ I-NP O 801,806
 structure NN I-NP O 807,816
 of IN I-PP O 817,819
 an DT I-NP O 820,822
+e-supply JJ I-NP I-KP 823,831
 chain. NN I-NP I-KP 832,837
 

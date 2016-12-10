@@ -12,6 +12,7 @@ conceptual JJ I-NP O
 opposite NN I-NP O
 to TO I-VP O
 the DT I-NP O
+afore-described JJ I-NP I-M
 centralized NN I-NP I-M
 methods, NN I-NP I-M
 which WDT B-NP O

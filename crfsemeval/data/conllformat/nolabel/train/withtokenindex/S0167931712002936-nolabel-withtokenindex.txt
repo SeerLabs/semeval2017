@@ -12,6 +12,7 @@ combined VBN I-VP O 63,71
 with IN I-PP O 72,76
 Monte NNP I-NP I-KP 77,82
 Carlo NNP I-NP I-KP 83,88
+single-electron NN I-NP I-KP 89,104
 circuit NN I-NP I-KP 105,112
 simulations NNS I-NP I-KP 113,124
 to TO I-VP O 125,127
@@ -43,6 +44,7 @@ precisely RB I-VP O 278,287
 input VBN I-VP O 288,293
 into IN I-PP O 294,298
 COMSOL’s NNP I-NP I-KP 299,307
+FEM-based JJ I-NP I-KP 308,317
 electrostatics NNS I-NP I-KP 318,332
 simulator. NN I-NP I-KP 333,342
 
@@ -58,6 +60,7 @@ and CC I-VP O 412,415
 fed VBN I-VP O 416,419
 into IN I-PP O 420,424
 the DT I-NP O 425,428
+well-tested JJ I-NP I-KP 429,440
 single JJ I-NP I-KP 441,447
 electron NN I-NP I-KP 448,456
 circuit NN I-NP I-KP 457,464

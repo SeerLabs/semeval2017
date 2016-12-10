@@ -4,6 +4,7 @@ presented VBN I-VP O 8,17
 spectrally RB O I-KP 18,28
 resolved VBN I-VP I-KP 29,37
 femtosecond JJ I-NP I-KP 38,49
+three-pulse JJ I-NP I-KP 50,61
 photon NN I-NP I-KP 62,68
 echo NN I-NP I-KP 69,73
 measurements NNS I-NP I-KP 74,86
@@ -67,6 +68,7 @@ photon NN I-NP I-KP 464,470
 echo NN I-NP I-KP 471,475
 spectra. NN I-NP I-KP 476,483
 
+Time-integrated JJ I-NP I-KP 485,500
 photon NN I-NP I-KP 501,507
 echo NN I-NP I-KP 508,512
 signals NNS I-NP I-KP 513,520

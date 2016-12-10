@@ -1,9 +1,11 @@
+Aspect-oriented JJ I-NP I-KP 0,15
 Programming NNP I-NP I-KP 16,27
 (AOP) NN I-NP O 28,33
 can MD I-VP O 34,37
 well RB I-VP O 38,42
 solve VB I-VP I-KP 43,48
 the DT I-NP I-KP 49,52
+cross-cutting JJ I-NP I-KP 53,66
 concerns. NN I-NP I-KP 67,75
 
 Because IN I-PP O 77,84
@@ -28,6 +30,7 @@ a DT I-NP O 190,191
 model NN I-NP I-KP 192,197
 to TO I-VP I-KP 198,200
 test VB I-VP I-KP 201,205
+aspect-oriented JJ I-NP I-KP 206,221
 software. NN I-NP I-KP 222,230
 
 In IN I-PP O 232,234

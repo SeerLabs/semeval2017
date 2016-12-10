@@ -37,6 +37,7 @@ document VB I-VP O
 how WRB O O
 a DT I-NP O
 representative JJ I-NP O
+cross-section NN I-NP O
 of IN I-PP O
 Utah's NNP I-NP I-T
 adult NN I-NP I-T
@@ -78,6 +79,7 @@ range NN I-NP I-M
 of IN I-PP I-M
 water NN I-NP I-M
 and CC O I-M
+non-water JJ I-NP I-M
 issues. NN I-NP I-M
 
 A DT I-NP O
@@ -93,6 +95,7 @@ familiarity NN I-NP I-M
 with IN I-PP I-M
 water NN I-NP I-M
 cost, NN I-NP I-M
+lawn-watering JJ I-NP O
 behaviors, NN I-NP I-M
 participation NN I-NP B-M
 in IN I-PP I-M

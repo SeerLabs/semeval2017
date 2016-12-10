@@ -2,6 +2,7 @@ Despite IN I-PP O 0,7
 the DT I-NP O 8,11
 ubiquity NN I-NP O 12,20
 of IN I-PP O 21,23
+time-dependent JJ I-NP I-KP 24,38
 dynamical JJ I-NP I-KP 39,48
 systems NNS I-NP I-KP 49,56
 in IN I-PP O 57,59
@@ -28,6 +29,7 @@ they PRP I-NP O 176,180
 are VBP I-VP O 181,184
 known VBN I-VP O 185,190
 as IN I-PP O 191,193
+non-autonomous JJ I-NP I-KP 194,208
 systems, NN I-NP I-KP 209,216
 which WDT B-NP O 218,223
 are VBP I-VP O 224,227
@@ -69,6 +71,7 @@ work NN I-NP O 419,423
 on IN I-PP O 424,426
 the DT I-NP O 427,430
 direct JJ I-NP O 431,437
+‘bottom-up’ JJ I-NP I-KP 438,449
 approach NN I-NP I-KP 450,458
 to TO I-VP O 459,461
 these DT I-NP O 462,467
@@ -92,6 +95,7 @@ model VB I-VP I-KP 569,574
 the DT I-NP I-KP 575,578
 stable JJ I-NP I-KP 579,585
 but CC O I-KP 586,589
+time-varying JJ I-NP I-KP 590,602
 frequencies NNS I-NP I-KP 603,614
 of IN I-PP O 615,617
 oscillations NNS I-NP O 618,630
@@ -115,6 +119,7 @@ as IN I-PP O 725,727
 the DT I-NP O 728,731
 inverse NN I-NP I-KP 732,739
 or CC O O 740,742
+‘top-down’ JJ I-NP I-KP 743,753
 approach, NN I-NP O 754,762
 has VBZ I-VP O 764,767
 not RB I-VP O 768,771
@@ -128,6 +133,7 @@ This DT I-NP O 803,807
 is VBZ I-VP O 808,810
 partly RB I-VP O 811,817
 because IN I-PP O 818,825
+non-autonomous JJ I-NP I-KP 826,840
 systems NNS I-NP I-KP 841,848
 can MD I-VP O 849,852
 still RB I-VP O 853,858
@@ -221,6 +227,7 @@ dedicated JJ I-NP O 1346,1355
 procedure NN I-NP O 1356,1365
 for IN I-PP O 1366,1369
 analysing VBG I-VP O 1370,1379
+non-autonomous JJ I-NP I-KP 1380,1394
 systems NNS I-NP I-KP 1395,1402
 has VBZ I-VP O 1403,1406
 still RB I-VP O 1407,1412

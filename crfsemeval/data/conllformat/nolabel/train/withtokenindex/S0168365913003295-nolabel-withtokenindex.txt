@@ -6,11 +6,13 @@ pharmacyte NN I-NP I-KP 20,30
 approach NN I-NP I-KP 31,39
 is VBZ I-VP O 40,42
 the DT I-NP O 43,46
+one-time JJ I-NP O 47,55
 nature NN I-NP O 56,62
 of IN I-PP O 63,65
 the DT I-NP O 66,69
 intervention: JJ I-NP O 70,82
 ACT NNP I-NP I-KP 84,87
+T-cells NNP I-NP I-KP 88,95
 can MD I-VP O 96,99
 only RB I-VP O 100,104
 be VB I-VP O 105,107
@@ -42,6 +44,7 @@ population NN I-NP I-KP 248,258
 in IN I-PP I-KP 259,261
 vivo, JJ I-NP I-KP 262,266
 since IN I-PP O 268,273
+cell-bound NN I-NP I-KP 274,284
 particles NNS I-NP I-KP 285,294
 are VBP I-VP O 295,298
 diluted VBN I-VP O 299,306
@@ -60,6 +63,7 @@ target VB I-VP O 367,373
 supporting VBG I-VP I-KP 374,384
 drugs NNS I-NP I-KP 385,390
 to TO I-VP O 391,393
+T-cells NNS I-NP I-KP 394,401
 with IN I-PP O 402,406
 nanoparticle JJ I-NP I-KP 407,419
 drug NN I-NP I-KP 420,424
@@ -101,7 +105,9 @@ tumor NN I-NP I-KP 676,681
 burdens. NN I-NP I-KP 682,689
 
 Such JJ I-NP O 691,695
+“re-arming” NNS I-NP I-KP 696,707
 of IN I-PP I-KP 708,710
+T-cells NNP I-NP I-KP 711,718
 with IN I-PP I-KP 719,723
 supporting VBG I-VP I-KP 724,734
 drugs NNS I-NP I-KP 735,740
@@ -115,6 +121,8 @@ of IN I-PP I-KP 786,788
 targeted JJ I-NP I-KP 789,797
 particles, NN I-NP I-KP 798,807
 allowing VBG I-VP O 809,817
+adoptively-transferred JJ I-NP I-KP 818,840
+T-cells NNS I-NP I-KP 841,848
 to TO I-VP O 849,851
 be VB I-VP O 852,854
 restimulated VBN I-VP O 855,867
@@ -155,6 +163,7 @@ to TO I-VP O 1090,1092
 target VB I-VP O 1093,1099
 nanoparticles NNS I-NP I-KP 1100,1113
 to TO I-VP O 1114,1116
+T-cells NNS I-NP I-KP 1117,1124
 in IN I-PP O 1125,1127
 vivo NN I-NP O 1128,1132
 [17,18]. NN I-NP O 1133,1140
@@ -168,15 +177,19 @@ particles NNS I-NP O 1168,1177
 were VBD I-VP O 1178,1182
 targeted VBN I-VP O 1183,1191
 to TO I-VP O 1192,1194
+T-cells NNP I-NP I-KP 1195,1202
 via IN I-PP O 1203,1206
+peptide-MHC JJ I-NP I-KP 1207,1218
 ligands NNS I-NP I-KP 1219,1226
 that WDT B-NP O 1227,1231
 bind VBP I-VP O 1232,1236
 to TO I-VP O 1237,1239
 specific JJ I-NP O 1240,1248
+T-cell NNP I-NP I-KP 1249,1255
 receptors. NN I-NP I-KP 1256,1265
 
 However, NNP I-NP O 1267,1274
+peptide-MHC-functionalized JJ I-NP I-KP 1276,1302
 nanoparticles NNS I-NP I-KP 1303,1316
 have VBP I-VP O 1317,1321
 recently RB I-VP O 1322,1330
@@ -188,6 +201,7 @@ an DT I-NP O 1353,1355
 anergizing/tolerizing VBG I-NP O 1356,1377
 signal NN I-NP O 1378,1384
 to TO I-VP O 1385,1387
+T-cells NNP I-NP I-KP 1388,1395
 [18,19] NNP I-NP O 1396,1403
 — NNP I-NP O 1404,1405
 which WDT B-NP O 1406,1411

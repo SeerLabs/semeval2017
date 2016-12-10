@@ -153,4 +153,5 @@ and CC O O 883,886
 background NN I-NP I-KP 887,897
 estimates NNS I-NP I-KP 898,907
 are VBP I-VP O 908,911
+Gaussian-distributed. JJ I-NP I-KP 912,932
 

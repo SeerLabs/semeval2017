@@ -52,6 +52,7 @@ We PRP I-NP O 317,319
 show VBP I-VP O 320,324
 that IN I-PP O 325,329
 the DT I-NP O 330,333
+non-localities NNS I-NP I-KP 334,348
 found VBN I-VP I-KP 349,354
 are VBP I-VP O 355,358
 not RB O O 359,362

@@ -77,6 +77,7 @@ on IN I-PP O
 the DT I-NP O
 maximum JJ I-NP O
 permissible JJ I-NP O
+time-step NN I-NP O
 size NN I-NP O
 through IN I-PP O
 the DT I-NP O
@@ -159,6 +160,7 @@ WCSPH NNP I-NP I-KP
 formulation NN I-NP O
 applied VBD I-VP O
 to TO I-VP O
+free-surface JJ I-NP I-KP
 flows NNS I-NP I-KP
 can MD I-VP O
 be VB I-VP O

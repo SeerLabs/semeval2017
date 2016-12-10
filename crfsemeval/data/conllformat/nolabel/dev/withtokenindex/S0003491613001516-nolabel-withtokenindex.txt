@@ -54,6 +54,7 @@ in IN I-PP O 333,335
 both DT I-NP O 336,340
 lower JJR I-NP I-KP 341,346
 and CC O I-KP 347,350
+four-dimensional JJ I-NP I-KP 351,367
 field NN I-NP I-KP 368,373
 theories NNS I-NP I-KP 374,382
 with IN I-PP O 383,387

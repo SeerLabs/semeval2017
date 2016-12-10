@@ -43,6 +43,7 @@ particles NNS I-NP O
 moving VBG I-NP O
 in IN I-PP O
 a DT I-NP O
+space-time JJ I-NP O
 continuum. NN I-NP O
 
 Recall NN I-NP O
@@ -87,6 +88,7 @@ is VBZ I-VP O
 formulated VBN I-VP O
 in IN I-PP O
 continuum NN I-NP O
+space-time. NN I-NP O
 
 Of IN I-PP O
 course, NN I-NP O
@@ -143,10 +145,12 @@ extended VBN I-VP O
 to TO I-VP O
 describe VB I-VP O
 massless JJ I-NP I-M
+spin-1/2 JJ I-NP I-M
 particles NNS I-NP I-M
 moving VBG I-VP O
 in IN I-PP O
 continuum JJ I-NP O
+space-time JJ I-NP O
 by IN I-PP O
 considering VBG I-VP O
 the DT I-NP O
@@ -159,6 +163,7 @@ lattice NN I-NP I-P
 model. NN I-NP I-P
 
 An DT I-NP O
+in-depth, JJ I-NP O
 general JJ I-NP O
 treatment NN I-NP O
 of IN I-PP O

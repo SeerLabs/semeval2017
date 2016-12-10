@@ -35,6 +35,7 @@ DBR NNP I-NP I-KP 209,212
 stack NN I-NP I-KP 213,218
 and CC O O 219,222
 the DT I-NP O 223,226
+non-uniformity NN I-NP O 227,241
 of IN I-PP O 242,244
 the DT I-NP O 245,248
 DBR NNP I-NP I-KP 249,252
@@ -52,6 +53,7 @@ each DT I-NP O 316,320
 layer NN I-NP O 321,326
 (on VBZ I-VP O 327,330
 the DT I-NP O 331,334
+a-plane) JJ I-NP O 335,343
 through IN I-PP O 344,351
 the DT I-NP O 352,355
 thickness NN I-NP O 356,365
@@ -106,6 +108,7 @@ closer JJR I-NP O 625,631
 look NN I-NP O 632,636
 at IN I-PP O 637,639
 the DT I-NP O 640,643
+cross-sectional JJ I-NP I-KP 644,659
 STEM NNP I-NP I-KP 660,664
 data NNS I-NP I-KP 665,669
 and CC O O 670,673

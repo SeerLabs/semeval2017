@@ -15,9 +15,11 @@ problem. NN I-NP I-KP 86,93
 
 In IN I-PP O 95,97
 the DT I-NP O 98,101
+light-cone JJ I-NP I-KP 102,112
 Hamiltonian JJ I-NP I-KP 113,124
 approach NN I-NP I-KP 125,133
 [1] VBD I-VP O 134,137
+light-cone JJ I-NP I-KP 138,148
 wave NN I-NP I-KP 149,153
 functions NNS I-NP I-KP 154,163
 can MD I-VP O 164,167
@@ -35,6 +37,7 @@ necessary JJ I-NP O 215,224
 to TO I-VP O 225,227
 have VB I-VP O 228,232
 reliable JJ I-NP I-KP 233,241
+light-cone JJ I-NP I-KP 242,252
 wave NN I-NP I-KP 253,257
 functions NNS I-NP I-KP 258,267
 if IN I-PP O 268,270
@@ -107,15 +110,18 @@ resulting VBG I-NP I-KP 695,704
 wave JJ I-NP I-KP 705,709
 functions NNS I-NP I-KP 710,719
 into IN I-PP I-KP 720,724
+light-cone JJ I-NP I-KP 725,735
 form NN I-NP I-KP 736,740
 with IN I-PP O 741,745
 the DT I-NP O 746,749
 help NN I-NP O 750,754
 of IN I-PP O 755,757
 kinematical JJ I-NP I-KP 758,769
+on-shell NN I-NP I-KP 770,778
 equations. NN I-NP I-KP 779,788
 
 The DT I-NP O 790,793
+light-cone JJ I-NP O 794,804
 Hamiltonian NNP I-NP O 805,816
 in IN I-PP O 817,819
 a DT I-NP O 820,821
@@ -184,6 +190,7 @@ simple JJ I-NP I-KP 1172,1178
 Hamiltonian JJ I-NP I-KP 1179,1190
 with IN I-PP I-KP 1191,1195
 a DT I-NP I-KP 1196,1197
+two-body JJ I-NP I-KP 1198,1206
 potential NN I-NP I-KP 1207,1216
 [6]. NN I-NP O 1217,1220
 

@@ -19,6 +19,7 @@ to TO I-VP O
 their PRP$ I-NP O
 low JJ I-NP O
 neutron RB O O
+cross-section, NN I-NP O
 good JJ I-NP O
 corrosion NN I-NP O
 resistance NN I-NP O
@@ -132,4 +133,5 @@ assemblies NNS I-NP I-KP
 for IN I-PP O
 very RB I-NP O
 high JJ I-NP O
+burn-up. NN I-NP O
 

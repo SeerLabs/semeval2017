@@ -10,6 +10,8 @@ the DT I-NP O 49,52
 prediction NN I-NP I-KP 53,63
 of IN I-PP I-KP 64,66
 the DT I-NP I-KP 67,70
+three-dimensional JJ I-NP I-KP 71,88
+space-time JJ I-NP I-KP 89,99
 kinetics NNS I-NP I-KP 100,108
 of IN I-PP I-KP 109,111
 neutrons NNS I-NP I-KP 112,120
@@ -19,6 +21,7 @@ relatively RB O O 126,136
 large, JJ I-NP O 137,142
 finite, JJ I-NP O 144,150
 heterogeneous, NN I-NP O 152,165
+three-dimensional JJ I-NP O 167,184
 reactor NN I-NP I-KP 185,192
 core. NN I-NP I-KP 193,197
 
@@ -42,6 +45,7 @@ diffusion NN I-NP I-KP 303,312
 theory NN I-NP I-KP 313,319
 applied VBN I-VP I-KP 320,327
 to TO I-VP I-KP 328,330
+three-dimensional JJ I-NP I-KP 331,348
 systems, NN I-NP I-KP 349,356
 with IN I-PP O 358,362
 inputs NNS I-NP O 363,369
@@ -53,6 +57,7 @@ neutron NN I-NP I-KP 405,412
 transport NN I-NP I-KP 413,422
 solutions NNS I-NP I-KP 423,432
 of IN I-PP O 433,435
+two-dimensional JJ I-NP I-KP 436,451
 lattice NN I-NP I-KP 452,459
 geometries. NN I-NP I-KP 460,470
 
@@ -82,6 +87,7 @@ Development NNP I-NP O 628,639
 Nuclear NNP I-NP O 642,649
 Energy NNP I-NP O 650,656
 Agency NNP I-NP O 657,663
+(OECD-NEA) NNP I-NP O 664,674
 has VBZ I-VP O 675,678
 sponsored VBN I-VP O 679,688
 an DT I-NP O 689,691
@@ -118,6 +124,8 @@ DRAGON NNP I-NP I-KP 878,884
 lattice NN I-NP I-KP 885,892
 code NN I-NP I-KP 893,897
 and CC O O 898,901
+WIMS-D4 JJ I-NP I-KP 902,909
+multi-group NN I-NP I-KP 910,921
 library. NN I-NP I-KP 922,929
 
 Results NNS I-NP O 931,938

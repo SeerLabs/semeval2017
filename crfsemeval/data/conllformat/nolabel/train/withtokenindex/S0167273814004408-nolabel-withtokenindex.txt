@@ -6,6 +6,7 @@ GDC NNP I-NP I-KP 20,23
 and CC O O 24,27
 STFO NNP I-NP I-KP 28,32
 on IN I-PP O 33,35
+single-crystalline JJ I-NP I-KP 36,54
 YSZ NNP I-NP I-KP 55,58
 substrates NNS I-NP I-KP 59,69
 were VBD I-VP O 70,74
@@ -101,6 +102,7 @@ that WDT B-NP O 640,644
 is VBZ I-VP O 645,647
 correlated VBN I-VP O 648,658
 with IN I-PP O 659,663
+in-plane JJ I-NP I-KP 664,672
 diffusion NN I-NP I-KP 673,682
 of IN I-PP I-KP 683,685
 oxygen NN I-NP I-KP 686,692

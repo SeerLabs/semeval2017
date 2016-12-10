@@ -27,6 +27,7 @@ capabilities NNS I-NP O
 of IN I-PP O
 high JJ I-NP I-KP
 resolution NN I-NP I-KP
+FE-SEM, NNP I-NP I-KP
 to TO I-VP O
 provide VB I-VP O
 a DT I-NP O
@@ -38,6 +39,7 @@ that WDT B-NP O
 can MD I-VP O
 be VB I-VP O
 effectively RB O O
+re-combined VBN I-VP O
 in IN I-PP O
 3D CD I-NP O
 space. NN I-NP O
@@ -59,6 +61,9 @@ inherent JJ I-NP O
 sample NN I-NP O
 variability. NN I-NP O
 
+Non-destructive JJ I-NP I-KP
+X-ray JJ I-NP I-KP
+nano-computed JJ I-NP I-KP
 tomography NN I-NP I-KP
 (CT) NNP I-NP O
 [9–11] NNP I-NP O
@@ -101,6 +106,8 @@ optimal JJ I-NP I-KP
 sample NN I-NP I-KP
 geometries NNS I-NP I-KP
 for IN I-PP I-KP
+X-ray JJ I-NP I-KP
+nano-CT JJ I-NP I-KP
 [12], NN I-NP O
 while IN I-PP O
 this DT I-NP O
@@ -132,10 +139,13 @@ working VBG I-NP I-KP
 fuel NN I-NP I-KP
 cell), VBZ I-VP O
 the DT I-NP O
+non-destructive JJ I-NP I-KP
+X-ray JJ I-NP I-KP
 characterization NN I-NP I-KP
 technique NN I-NP I-KP
 allows VBZ I-VP O
 repeated, JJ I-NP O
+non-destructive JJ I-NP O
 characterization NN I-NP O
 of IN I-PP O
 the DT I-NP O

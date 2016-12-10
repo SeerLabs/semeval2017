@@ -17,6 +17,7 @@ element NN I-NP I-KP 87,94
 method NN I-NP I-KP 95,101
 for IN I-PP O 102,105
 a DT I-NP O 106,107
+multi-term JJ I-NP I-KP 108,118
 time NN I-NP I-KP 119,123
 fractional JJ I-NP I-KP 124,134
 diffusion NN I-NP I-KP 135,144
@@ -71,6 +72,7 @@ regularity NN I-NP I-KP 443,453
 results NNS I-NP I-KP 454,461
 of IN I-PP O 462,464
 the DT I-NP O 465,468
+multi-term JJ I-NP O 469,479
 time NN I-NP O 480,484
 fractional JJ I-NP O 485,495
 diffusion NN I-NP O 496,505
@@ -120,7 +122,9 @@ extensive JJ I-NP O 771,780
 numerical JJ I-NP I-KP 781,790
 experiments NNS I-NP I-KP 791,802
 in IN I-PP O 803,805
+one- JJ I-NP I-KP 806,810
 and CC O I-KP 811,814
+two-dimension JJ I-NP I-KP 815,828
 fully RB O O 829,834
 confirmed VBN I-VP O 835,844
 our PRP$ I-NP O 845,848

@@ -48,6 +48,7 @@ was VBD I-VP O
 assessed VBN I-VP O
 using VBG I-VP O
 a DT I-NP O
+1-tailed JJ I-NP I-KP
 Wilcoxon NNP I-NP I-KP
 signed VBD I-VP I-KP
 rank NN I-NP I-KP
@@ -68,6 +69,7 @@ for IN I-PP O
 AAMM NNP I-NP I-KP
 and CC O O
 its PRP$ I-NP O
+non-adaptive JJ I-NP O
 counterpart, NN I-NP O
 AAMM NNP I-NP I-KP
 (no NNP I-NP I-KP
@@ -125,6 +127,7 @@ with IN I-PP O
 respect NN I-NP O
 to TO I-VP O
 its PRP$ I-NP O
+non-adaptive JJ I-NP O
 counterpart. NN I-NP O
 
 However, NNP I-NP O
@@ -259,6 +262,7 @@ significantly RB O O
 reduced VBN I-VP O
 if IN I-PP O
 a DT I-NP O
+non-cardiac-gated JJ I-NP I-KP
 sequence NN I-NP I-KP
 was VBD I-VP O
 used. JJ I-NP O

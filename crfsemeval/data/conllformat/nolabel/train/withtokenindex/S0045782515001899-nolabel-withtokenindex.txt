@@ -42,6 +42,7 @@ from IN I-PP O 276,280
 conservation NN I-NP I-KP 281,293
 principles–shape NN I-NP O 294,310
 a DT B-NP I-KP 311,312
+piecewise-polynomial JJ I-NP I-KP 313,333
 solution NN I-NP I-KP 334,342
 over IN I-PP I-KP 343,347
 each DT I-NP I-KP 348,352
@@ -92,6 +93,7 @@ of IN I-PP O 627,629
 accuracy. NN I-NP O 630,638
 
 A DT I-NP O 640,641
+DG-based JJ I-NP I-KP 642,650
 shallow JJ I-NP I-KP 651,658
 water NN I-NP I-KP 659,664
 model NN I-NP I-KP 665,670

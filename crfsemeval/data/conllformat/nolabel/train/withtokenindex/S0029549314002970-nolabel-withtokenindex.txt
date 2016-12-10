@@ -71,7 +71,8 @@ containment NN I-NP O 424,435
 is VBZ I-VP O 436,438
 filled VBN I-VP O 439,445
 with IN I-PP O 446,450
-He PRP I-NP I-KP 463,465
+high-purity NN I-NP I-KP 451,462
+He PRP B-NP I-KP 463,465
 at IN I-PP O 466,468
 0.1MPa, CD I-NP O 469,475
 sealed VBD I-VP O 477,483
@@ -82,6 +83,7 @@ and CC O O 505,508
 kept VBD I-VP O 509,513
 closed VBN I-VP O 514,520
 during IN I-PP O 521,527
+in-pile JJ I-NP O 528,535
 operation NN I-NP O 536,545
 (no NNP I-NP O 546,549
 gas NN I-NP I-KP 550,553

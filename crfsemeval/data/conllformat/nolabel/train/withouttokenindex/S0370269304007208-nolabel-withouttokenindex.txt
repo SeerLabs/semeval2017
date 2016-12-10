@@ -76,6 +76,7 @@ theory NN I-NP O
 relies NNS I-NP O
 on IN I-PP O
 a DT I-NP O
+scale-invariant JJ I-NP I-KP
 Lagrangian NN I-NP I-KP
 of IN I-PP O
 the DT I-NP O
@@ -97,6 +98,7 @@ is VBZ I-VP O
 a DT I-NP O
 function NN I-NP I-KP
 of IN I-PP I-KP
+4-index JJ I-NP I-KP
 field NN I-NP I-KP
 strength, NN I-NP I-KP
 that WDT B-NP O

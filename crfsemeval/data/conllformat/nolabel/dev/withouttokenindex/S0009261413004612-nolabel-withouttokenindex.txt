@@ -3,6 +3,7 @@ control NN I-NP O
 of IN I-PP O
 the DT I-NP O
 RP NNP I-NP I-KP
+re-encounter NN I-NP I-KP
 probability NN I-NP I-KP
 finds VBZ I-VP O
 a DT I-NP O
@@ -21,6 +22,7 @@ we PRP I-NP O
 show VBP I-VP O
 how WRB O O
 a DT I-NP O
+simple-to-implement JJ I-NP O
 control NN I-NP I-KP
 scheme NN I-NP I-KP
 highly RB O O
@@ -162,6 +164,7 @@ interacts VBZ I-VP O
 isotropically RB I-VP O
 with IN I-PP O
 one CD I-NP O
+spin-1 JJ I-NP I-KP
 nucleus, NN I-NP I-KP
 e.g. NN I-NP O
 nitrogen. NN I-NP I-KP
@@ -193,6 +196,7 @@ configuration NN I-NP I-KP
 (with NNP I-NP O
 only RB O O
 one CD I-NP O
+spin-1/2 JJ I-NP I-KP
 nucleus) NN I-NP O
 has VBZ I-VP O
 been VBN I-VP O
@@ -222,6 +226,7 @@ Hamiltonian JJ I-NP O
 then RB O O
 simplifies VBZ I-VP O
 to TO I-VP O
+H=-γeB(S1(z)+S2(z))+|γe|αS→2·I→, NNP I-NP I-KP
 where WRB O O
 α NN I-NP I-KP
 is VBZ I-VP O

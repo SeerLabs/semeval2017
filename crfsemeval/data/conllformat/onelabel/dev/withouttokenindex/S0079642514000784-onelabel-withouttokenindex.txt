@@ -97,6 +97,7 @@ et CC O O
 al. JJ I-NP O
 summarise NN I-NP O
 the DT B-NP O
+adsorption-related JJ I-NP O
 physical JJ I-NP O
 parameters NNS I-NP O
 of IN I-PP O
@@ -258,6 +259,7 @@ a DT I-NP O
 great JJ I-NP O
 scope NN I-NP O
 for IN I-PP O
+tailor-made JJ I-NP O
 carbonaceous JJ I-NP I-M
 adsorbents. NN I-NP I-M
 

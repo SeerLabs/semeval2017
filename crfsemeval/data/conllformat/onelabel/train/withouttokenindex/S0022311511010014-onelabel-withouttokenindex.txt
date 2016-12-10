@@ -11,6 +11,7 @@ pathways NNS I-NP I-T
 are VBP I-VP O
 confined VBN I-VP O
 to TO I-VP O
+Ga-free JJ I-NP O
 regions NNS I-NP O
 suggests VBZ I-VP O
 changes NNS I-NP O
@@ -19,6 +20,7 @@ recombination NN I-NP O
 rates NNS I-NP O
 of IN I-PP O
 isolated JJ I-NP O
+vacancy-interstitial JJ I-NP O
 pairs NNS I-NP O
 in IN I-PP O
 comparison NN I-NP O

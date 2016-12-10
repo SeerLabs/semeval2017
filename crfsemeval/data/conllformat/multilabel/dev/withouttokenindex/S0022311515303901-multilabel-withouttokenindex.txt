@@ -6,6 +6,7 @@ the DT I-NP O
 first JJ I-NP O
 generation NN I-NP O
 of IN I-PP O
+gas-cooled JJ I-NP I-M
 reactors NNS I-NP I-M
 in IN I-PP O
 the DT I-NP O
@@ -66,6 +67,7 @@ surfaces NNS I-NP I-T
 [12]. VBP I-VP O
 
 This DT I-NP O
+non-graphitic JJ I-NP I-M
 carbon NN I-NP I-M
 deposit NN I-NP I-M
 is VBZ I-VP O

@@ -103,6 +103,7 @@ of IN I-PP I-P
 planes NNS I-NP I-P
 [32], IN I-PP O
 the DT I-NP O
+volume-average JJ I-NP I-P
 approach NN I-NP I-P
 [26,14], NN I-NP O
 or CC O O

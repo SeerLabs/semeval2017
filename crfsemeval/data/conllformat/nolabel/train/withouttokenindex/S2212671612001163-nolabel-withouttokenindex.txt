@@ -29,6 +29,7 @@ computation NN I-NP I-KP
 and CC O O
 also RB O O
 for IN I-PP O
+reliability-centered JJ I-NP I-KP
 maintenance NN I-NP I-KP
 system. NN I-NP I-KP
 

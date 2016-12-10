@@ -41,6 +41,7 @@ constraints, NN I-NP I-KP 257,268
 such JJ I-NP O 270,274
 as IN I-PP O 275,277
 variable JJ I-NP I-KP 278,286
+cut-off NN I-NP I-KP 287,294
 grade, NN I-NP I-KP 295,300
 grade NN I-NP B-KP 302,307
 blending, NN I-NP I-KP 308,316
@@ -63,6 +64,7 @@ Indeed, NN I-NP O 405,411
 it PRP B-NP O 413,415
 is VBZ I-VP O 416,418
 a DT I-NP O 419,420
+general-purpose JJ I-NP I-KP 421,436
 algorithm NN I-NP I-KP 437,446
 and CC O O 447,450
 should MD I-VP O 451,457
@@ -93,6 +95,7 @@ methods NNS I-NP O 605,612
 for IN I-PP O 613,616
 solving VBG I-VP O 617,624
 the DT I-NP O 625,628
+sub-problems. NN I-NP O 629,641
 
 Finally, NNP I-NP O 643,650
 another DT I-NP O 652,659
@@ -144,6 +147,7 @@ then RB O O 956,960
 to TO I-VP O 961,963
 use VB I-VP O 964,967
 an DT I-NP O 968,970
+LP-rounding JJ I-NP I-KP 971,982
 procedure NN I-NP I-KP 983,992
 to TO I-VP O 993,995
 get VB I-VP O 996,999

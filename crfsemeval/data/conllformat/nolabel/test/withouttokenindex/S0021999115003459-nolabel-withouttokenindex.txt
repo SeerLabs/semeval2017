@@ -12,6 +12,7 @@ to TO I-VP O
 shape VB I-VP I-KP
 optimisation NN I-NP I-KP
 of IN I-PP I-KP
+high-voltage NN I-NP I-KP
 devices, NN I-NP I-KP
 see VBP I-VP O
 [4–8] NN I-NP O
@@ -40,6 +41,7 @@ need NN I-NP O
 to TO I-VP O
 maintain VB I-VP O
 an DT I-NP O
+analysis-suitable JJ I-NP O
 volume NN I-NP O
 discretisation NN I-NP O
 during IN I-PP O
@@ -66,6 +68,7 @@ field NN I-NP I-KP
 analysis. NN I-NP I-KP
 
 In IN I-PP O
+gradient-based JJ I-NP I-KP
 shape NN I-NP I-KP
 optimisation NN I-NP I-KP
 the DT B-NP O
@@ -142,6 +145,8 @@ in IN I-PP I-KP
 shape NN I-NP I-KP
 optimisation NN I-NP I-KP
 and CC O O
+Bernoulli-type JJ I-NP I-KP
+free-boundary JJ I-NP I-KP
 problems NNS I-NP I-KP
 we PRP B-NP O
 refer VBP I-VP O

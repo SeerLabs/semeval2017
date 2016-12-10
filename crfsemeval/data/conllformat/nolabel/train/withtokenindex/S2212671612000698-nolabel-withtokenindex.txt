@@ -90,6 +90,7 @@ function NN I-NP I-KP 569,577
 modifies VBZ I-VP O 578,586
 parameters NNS I-NP O 587,597
 with IN I-PP O 598,602
+auto-adapted JJ I-NP I-KP 603,615
 algorithm NN I-NP I-KP 616,625
 to TO I-VP O 626,628
 get VB I-VP O 629,632

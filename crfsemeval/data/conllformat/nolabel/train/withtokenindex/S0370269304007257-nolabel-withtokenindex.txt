@@ -1,4 +1,5 @@
 Some DT I-NP O 0,4
+non-standard JJ I-NP I-KP 5,17
 couplings, NN I-NP I-KP 18,27
 which WDT B-NP O 29,34
 should MD I-VP O 35,41
@@ -73,6 +74,7 @@ real JJ I-NP O 407,411
 part NN I-NP O 412,416
 of IN I-PP O 417,419
 the DT I-NP O 420,423
+top-quark JJ I-NP O 424,433
 electric JJ I-NP O 434,442
 dipole NN I-NP O 443,449
 moment,44See NN I-NP O 450,462
@@ -102,10 +104,12 @@ recalled VBN I-VP O 574,582
 that DT I-NP O 583,587
 energy NN I-NP O 588,594
 and CC O O 595,598
+polar-angle JJ I-NP I-KP 599,610
 distributions NNS I-NP I-KP 611,624
 of IN I-PP I-KP 625,627
 leptons NNS I-NP I-KP 628,635
 and CC O I-KP 636,639
+b-quarks NNS I-NP I-KP 640,648
 in IN I-PP O 649,651
 e+e− NN I-NP I-KP 652,656
 colliders NNS I-NP I-KP 657,666
@@ -137,6 +141,7 @@ real JJ I-NP I-KP 824,828
 part NN I-NP I-KP 829,833
 of IN I-PP I-KP 834,836
 the DT I-NP I-KP 837,840
+top-quark JJ I-NP I-KP 841,850
 electric JJ I-NP I-KP 851,859
 dipole NN I-NP I-KP 860,866
 moment, NN I-NP I-KP 867,873

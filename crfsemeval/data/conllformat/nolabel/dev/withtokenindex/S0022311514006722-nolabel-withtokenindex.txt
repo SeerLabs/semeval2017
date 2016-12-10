@@ -37,6 +37,7 @@ oxidation. NN I-NP I-KP 222,231
 
 At IN I-PP O 233,235
 high JJ I-NP O 236,240
+burn-ups, JJ I-NP O 241,249
 i.e. NN I-NP O 251,254
 extended VBD I-VP O 256,264
 service NN I-NP O 265,272
@@ -46,6 +47,7 @@ and CC O O 289,292
 the DT I-NP O 293,296
 associated JJ I-NP O 297,307
 hydrogen NN I-NP I-KP 308,316
+pick-up NN I-NP I-KP 317,324
 can MD I-VP O 325,328
 be VB I-VP O 329,331
 a DT I-NP O 332,333

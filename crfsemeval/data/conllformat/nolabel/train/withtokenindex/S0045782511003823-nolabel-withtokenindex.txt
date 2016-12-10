@@ -15,6 +15,7 @@ coupling NN I-NP I-KP 68,76
 of IN I-PP I-KP 77,79
 nonconforming VBG I-VP I-KP 80,93
 discretized VBN I-VP I-KP 94,105
+sub-domains NNS I-NP I-KP 106,117
 in IN I-PP I-KP 118,120
 the DT I-NP I-KP 121,124
 framework NN I-NP I-KP 125,134
@@ -127,6 +128,7 @@ coupling NN I-NP I-KP 838,846
 of IN I-PP I-KP 847,849
 nonconforming VBG I-VP I-KP 850,863
 discretized VBN I-VP I-KP 864,875
+sub-domains NNS I-NP I-KP 876,887
 in IN I-PP I-KP 888,890
 the DT I-NP I-KP 891,894
 framework NN I-NP I-KP 895,904

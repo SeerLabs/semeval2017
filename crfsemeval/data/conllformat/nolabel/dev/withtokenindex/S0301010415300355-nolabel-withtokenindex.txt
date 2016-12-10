@@ -1,5 +1,6 @@
 Alternatively RB O O 0,13
 to TO I-VP O 14,16
+H-atom NNP I-NP I-KP 17,23
 photodetachment NN I-NP I-KP 24,39
 from IN I-PP O 40,44
 the DT I-NP O 45,48

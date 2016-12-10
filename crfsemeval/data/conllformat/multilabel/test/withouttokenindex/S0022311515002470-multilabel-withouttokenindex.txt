@@ -27,6 +27,7 @@ Both DT I-NP O
 electrochemical JJ I-NP I-P
 and CC O O
 synchrotron JJ I-NP I-P
+X-ray NN I-NP I-P
 techniques NNS I-NP O
 have VBP I-VP O
 been VBN I-VP O
@@ -78,6 +79,7 @@ occur VB I-VP O
 in IN I-PP O
 a DT I-NP O
 single, JJ I-NP O
+4-electron-step, JJ I-NP I-P
 process; NN I-NP O
 indicated VBN I-VP O
 by IN I-PP O
@@ -114,6 +116,7 @@ by IN I-PP O
 an DT I-NP O
 increase NN I-NP O
 in IN I-PP O
+oxo-acidity NN I-NP O
 of IN I-PP O
 the DT I-NP O
 molten NN I-NP I-M

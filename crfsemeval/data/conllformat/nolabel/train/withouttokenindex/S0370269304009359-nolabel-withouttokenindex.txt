@@ -66,6 +66,7 @@ some DT I-NP O
 decays NNS I-NP I-KP
 involve VBP I-VP O
 a DT I-NP O
+final-state JJ I-NP O
 π0. NN I-NP O
 
 However, NNP I-NP O
@@ -231,6 +232,7 @@ can MD I-VP O
 occur VB I-VP O
 if IN I-PP O
 this DT I-NP O
+final-state JJ I-NP I-KP
 particle NN I-NP I-KP
 is VBZ I-VP O
 an DT I-NP O

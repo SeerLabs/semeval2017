@@ -6,6 +6,7 @@ is VBZ I-VP O 29,31
 a DT I-NP O 32,33
 relatively RB O O 34,44
 new JJ I-NP O 45,48
+sintering-based JJ I-NP I-KP 49,64
 technique NN I-NP I-KP 65,74
 [17] NN I-NP O 75,79
 in IN I-PP O 80,82

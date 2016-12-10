@@ -4,6 +4,7 @@ stress NN I-NP I-T
 state NN I-NP I-T
 is VBZ I-VP O
 a DT I-NP O
+tri-axial JJ I-NP I-T
 tensile NN I-NP I-T
 stress NN I-NP I-T
 designed VBN I-VP O
@@ -18,6 +19,7 @@ advancing VBG I-NP I-M
 crack NN I-NP I-M
 tip. NN I-NP I-M
 
+Micro-scale JJ I-NP O
 lateral JJ I-NP O
 cracks NNS I-NP O
 have VBP I-VP O
@@ -77,6 +79,7 @@ considered VBN I-VP O
 separate JJ I-NP O
 to TO I-VP O
 any DT I-NP O
+nano-scale JJ I-NP O
 cracks NNS I-NP O
 that WDT B-NP O
 might MD I-VP O
@@ -97,6 +100,7 @@ here RB O O
 that IN I-PP O
 whether IN B-PP O
 the DT I-NP O
+micro-scale JJ I-NP O
 lateral JJ I-NP O
 cracks NNS I-NP O
 form VBP I-VP O
@@ -107,6 +111,7 @@ the DT I-NP O
 oxide NN I-NP I-M
 or CC O O
 by IN I-PP O
+de-bonding NN I-NP I-P
 at IN I-PP O
 the DT I-NP O
 interface NN I-NP O

@@ -36,6 +36,7 @@ the DT I-NP O
 lowest JJS I-NP O
 surfaces NNS I-NP O
 and CC O O
+non-adiabatic JJ I-NP O
 by IN I-PP O
 using VBG I-VP O
 the DT I-NP O
@@ -154,6 +155,7 @@ studied VBN I-VP O
 due JJ I-NP O
 to TO I-VP O
 their PRP$ I-NP O
+spin-forbidden JJ I-NP O
 character. NN I-NP O
 
 It PRP I-NP O

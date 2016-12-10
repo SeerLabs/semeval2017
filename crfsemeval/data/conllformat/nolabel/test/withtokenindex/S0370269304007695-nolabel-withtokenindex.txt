@@ -63,6 +63,7 @@ deceleration NN I-NP O 382,394
 of IN I-PP O 395,397
 the DT I-NP O 398,401
 produced VBN I-NP I-KP 402,410
+(pre-)hadrons NNS I-NP I-KP 411,424
 due JJ I-NP O 425,428
 to TO I-VP O 429,431
 FSI NNP I-NP I-KP 432,435
@@ -77,6 +78,7 @@ that IN I-PP O 471,475
 in IN B-PP O 476,478
 particular JJ I-NP O 479,489
 the DT I-NP I-KP 490,493
+z-dependence NN I-NP I-KP 494,506
 of IN I-PP I-KP 507,509
 RMh NNP I-NP I-KP 510,513
 is VBZ I-VP O 514,516
@@ -113,6 +115,7 @@ be VB I-VP O 697,699
 interpreted VBN I-VP O 700,711
 as IN I-PP O 712,714
 an DT I-NP O 715,717
+in-medium JJ I-NP I-KP 718,727
 change NN I-NP I-KP 728,734
 of IN I-PP I-KP 735,737
 the DT I-NP I-KP 738,741

@@ -29,6 +29,7 @@ involving VBG I-NP O
 a DT B-NP O
 first JJ I-NP I-T
 order NN I-NP I-T
+time-derivative. NN I-NP I-T
 
 In IN I-PP O
 particular, PDT I-NP O
@@ -54,6 +55,7 @@ of IN I-PP I-T
 dynamics, NN I-NP I-T
 rewritten VBN I-NP I-T
 in IN I-PP I-T
+first-order JJ I-NP I-T
 form, NN I-NP I-T
 i.e. NN I-NP O
 through IN I-PP O
@@ -129,6 +131,7 @@ time NN I-NP O
 domain NN I-NP O
 I=(0,T) NNP I-NP O
 into IN I-PP O
+time-intervals NNS I-NP O
 In=(tn−1,tn) NNP I-NP O
 of IN I-PP O
 length NN I-NP O

@@ -92,6 +92,7 @@ collisional JJ I-NP I-KP 559,570
 plasmas NN I-NP I-KP 571,578
 with IN I-PP O 579,583
 a DT I-NP O 584,585
+non-negligible JJ I-NP O 586,600
 level NN I-NP O 601,606
 of IN I-PP O 607,609
 degeneracy. NN I-NP O 610,620
@@ -113,6 +114,7 @@ for IN I-PP O 711,714
 studying VBG I-VP O 715,723
 transport NN I-NP I-KP 724,733
 in IN I-PP I-KP 734,736
+semi-conductors NNS I-NP I-KP 737,752
 [11] NNS I-NP O 753,757
 but CC O O 758,761
 no DT I-NP O 762,764
@@ -120,6 +122,7 @@ such JJ I-NP O 765,769
 method NN I-NP O 770,776
 exists NNS I-NP O 777,783
 for IN I-PP O 784,787
+fully-ionised JJ I-NP I-KP 788,801
 plasmas. NN I-NP I-KP 802,809
 
 Some DT I-NP O 811,815
@@ -137,6 +140,7 @@ of IN I-PP O 886,888
 codes, NN I-NP O 889,894
 for IN I-PP O 896,899
 example, JJ I-NP O 900,907
+Particle-In-Cell NNP I-NP O 909,925
 (PIC) NNP I-NP O 926,931
 codes. NN I-NP O 932,937
 

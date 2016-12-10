@@ -90,6 +90,7 @@ function NN I-NP I-KP
 modifies VBZ I-VP O
 parameters NNS I-NP O
 with IN I-PP O
+auto-adapted JJ I-NP I-KP
 algorithm NN I-NP I-KP
 to TO I-VP O
 get VB I-VP O

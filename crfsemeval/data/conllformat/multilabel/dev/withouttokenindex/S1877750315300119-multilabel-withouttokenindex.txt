@@ -109,6 +109,7 @@ either RB I-VP O
 selected VBN I-VP O
 from IN I-PP O
 the DT I-NP O
+Askey-Wilson NNP I-NP I-P
 scheme, NN I-NP I-P
 or CC O O
 calculated VBN I-VP O

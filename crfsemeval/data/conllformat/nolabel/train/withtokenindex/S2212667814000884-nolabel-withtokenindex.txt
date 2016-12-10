@@ -57,6 +57,7 @@ of IN I-PP O 340,342
 lightning. NN I-NP I-KP 343,352
 
 The DT I-NP O 354,357
+Schrödinger-electrostatic JJ I-NP I-KP 358,383
 algorithm NN I-NP I-KP 384,393
 was VBD I-VP O 394,397
 propounded VBN I-VP O 398,408

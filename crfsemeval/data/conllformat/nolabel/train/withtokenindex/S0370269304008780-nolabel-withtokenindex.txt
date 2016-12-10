@@ -66,6 +66,7 @@ Ref. NNP I-NP O 314,317
 found VBD I-VP O 324,329
 that IN I-PP O 330,334
 in IN B-PP O 335,337
+beta-equilibrated JJ I-NP I-KP 338,355
 electrically RB O I-KP 356,368
 and CC O O 369,372
 color JJ I-NP I-KP 373,378

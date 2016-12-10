@@ -6,6 +6,7 @@ societal JJ I-NP O
 benefits, NN I-NP O
 especially RB O O
 for IN I-PP O
+e-learning JJ I-NP I-KP
 in IN I-PP O
 digital JJ I-NP O
 or CC O O
@@ -23,6 +24,7 @@ space NN I-NP I-KP
 constraints NNS I-NP I-KP
 of IN I-PP O
 traditional JJ I-NP O
+bricks-and-mortar NN I-NP I-KP
 libraries. NN I-NP I-KP
 
 The DT I-NP O

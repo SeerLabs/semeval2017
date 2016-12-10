@@ -15,12 +15,14 @@ types NNS I-NP O
 of IN I-PP O
 chemical NN I-NP I-P
 reactions: NN I-NP I-P
+step-growth JJ I-NP B-P
 polymerization NN I-NP I-P
 and CC O O
 free JJ I-NP I-P
 radical JJ I-NP I-P
 polymerization. NN I-NP I-P
 
+Step-growth JJ I-NP I-P
 polymerization NN I-NP I-P
 is VBZ I-VP O
 widely RB I-VP O

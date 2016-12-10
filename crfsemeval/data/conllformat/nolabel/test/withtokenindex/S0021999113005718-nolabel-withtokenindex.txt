@@ -6,6 +6,7 @@ gas NN I-NP I-KP 28,31
 flow NN I-NP I-KP 32,36
 through IN I-PP O 37,44
 such JJ I-NP O 45,49
+non-trivial JJ I-NP O 50,61
 internal JJ I-NP O 62,70
 geometries NNS I-NP O 71,81
 is, VBP I-VP O 82,84
@@ -86,6 +87,7 @@ be VB I-VP O 568,570
 prohibitively RB O O 571,584
 expensive JJ I-NP O 585,594
 for IN I-PP O 595,598
+internal-flow JJ I-NP I-KP 599,612
 applications, NN I-NP I-KP 613,625
 which WDT B-NP O 627,632
 typically RB O O 633,642
@@ -93,6 +95,7 @@ have VBP I-VP O 643,647
 a DT I-NP O 648,649
 geometry NN I-NP O 650,658
 of IN I-PP O 659,661
+high-aspect JJ I-NP O 662,673
 ratio NN I-NP O 674,679
 (i.e. NNS I-NP O 680,684
 are VBP I-VP O 686,689
@@ -101,8 +104,10 @@ long, JJ I-NP O 700,704
 relative NN I-NP O 706,714
 to TO I-VP O 715,717
 their PRP$ I-NP O 718,723
+cross-section). NN I-NP O 724,738
 
 The DT I-NP O 740,743
+high-aspect JJ I-NP I-KP 744,755
 ratio NN I-NP I-KP 756,761
 creates VBZ I-VP O 762,769
 a DT I-NP O 770,771

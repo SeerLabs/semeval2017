@@ -22,6 +22,7 @@ ionization NN I-NP I-KP
 [30]. NN I-NP O
 
 The DT I-NP O
+two-step JJ I-NP I-KP
 decay NN I-NP I-KP
 model NN I-NP I-KP
 [26] NNP I-NP O
@@ -30,6 +31,7 @@ applied VBN I-VP O
 to TO I-VP O
 explain VB I-VP O
 the DT I-NP O
+above-mentioned JJ I-NP O
 fragmentation NN I-NP I-KP
 of IN I-PP I-KP
 DCPD NNP I-NP I-KP

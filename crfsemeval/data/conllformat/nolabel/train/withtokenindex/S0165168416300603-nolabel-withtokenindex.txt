@@ -2,6 +2,7 @@ Despite IN I-PP O 0,7
 the DT I-NP O 8,11
 fact NN I-NP O 12,16
 that IN I-PP O 17,21
+SRC-HE NNP I-NP I-KP 22,28
 reduces VBZ I-VP O 29,36
 the DT I-NP O 37,40
 number NN I-NP O 41,47
@@ -19,11 +20,13 @@ be VB I-VP O 111,113
 not RB O O 114,117
 suitable JJ I-NP O 118,126
 for IN I-PP O 127,130
+real-time JJ I-NP O 131,140
 applications NNS I-NP O 141,153
 [39]. VBP I-VP O 154,158
 
 The DT I-NP O 160,163
 previous JJ I-NP O 164,172
+SRC-HE JJ I-NP O 173,179
 module NN I-NP O 180,186
 is VBZ I-VP O 187,189
 then RB I-VP O 190,194
@@ -35,6 +38,7 @@ cross NN I-NP I-KP 223,228
 correlation NN I-NP I-KP 229,240
 phase NN I-NP I-KP 241,246
 transform VB I-VP I-KP 247,256
+(GCC-PHAT) NN I-NP O 257,267
 introduced VBN I-NP O 268,278
 in IN I-PP O 279,281
 Section NN I-NP O 282,289
@@ -137,6 +141,7 @@ and CC I-VP O 848,851
 processed VBN I-VP O 852,861
 using VBG I-VP O 862,867
 a DT I-NP O 868,869
+GCC-PHAT JJ I-NP I-KP 870,878
 step, NN I-NP I-KP 879,883
 for IN I-PP O 885,888
 the DT I-NP O 889,892
@@ -173,6 +178,7 @@ TDOA NNP I-NP O 1059,1063
 collected VBD I-VP O 1064,1073
 at IN I-PP O 1074,1076
 the DT I-NP O 1077,1080
+m-th JJ I-NP I-KP 1081,1085
 microphone NN I-NP I-KP 1086,1096
 pair NN I-NP I-KP 1097,1101
 at IN I-PP O 1102,1104

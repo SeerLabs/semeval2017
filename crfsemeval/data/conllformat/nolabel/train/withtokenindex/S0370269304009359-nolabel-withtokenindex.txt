@@ -66,6 +66,7 @@ some DT I-NP O 325,329
 decays NNS I-NP I-KP 330,336
 involve VBP I-VP O 337,344
 a DT I-NP O 345,346
+final-state JJ I-NP O 347,358
 π0. NN I-NP O 359,361
 
 However, NNP I-NP O 363,370
@@ -231,6 +232,7 @@ can MD I-VP O 1152,1155
 occur VB I-VP O 1156,1161
 if IN I-PP O 1162,1164
 this DT I-NP O 1165,1169
+final-state JJ I-NP I-KP 1170,1181
 particle NN I-NP I-KP 1182,1190
 is VBZ I-VP O 1191,1193
 an DT I-NP O 1194,1196

@@ -144,6 +144,7 @@ the DT I-NP O
 width NN I-NP O
 of IN I-PP O
 the DT I-NP O
+crack-band, NN I-NP O
 which WDT B-NP O
 in IN I-PP O
 the DT I-NP O
@@ -226,6 +227,7 @@ the DT I-NP O
 assumptions NNS I-NP O
 of IN I-PP O
 the DT I-NP O
+crack-band NN I-NP O
 approach. NN I-NP O
 
 This DT I-NP O
@@ -233,6 +235,7 @@ approach NN I-NP O
 of IN I-PP O
 applying VBG I-VP O
 the DT I-NP O
+crack-band NN I-NP I-P
 approach NN I-NP I-P
 only RB O O
 to TO I-VP O

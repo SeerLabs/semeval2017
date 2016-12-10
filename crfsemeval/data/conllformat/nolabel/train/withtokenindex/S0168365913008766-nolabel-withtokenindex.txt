@@ -8,6 +8,7 @@ example, NN I-NP O 58,65
 cytokines) NN I-NP O 67,77
 or CC O O 78,80
 through IN I-PP O 81,88
+pattern-recognition JJ I-NP I-KP 89,108
 receptors NNS I-NP I-KP 109,118
 (PRRs, VBP I-VP O 119,124
 such JJ I-NP O 126,130
@@ -18,6 +19,7 @@ bacterial JJ I-NP O 144,153
 components). NN I-NP O 154,165
 
 The DT I-NP O 167,170
+Toll-like JJ I-NP I-KP 171,180
 receptors NNS I-NP I-KP 181,190
 (TLRs) EX B-NP O 191,197
 are VBP I-VP O 198,201
@@ -48,8 +50,10 @@ adjuvant JJ I-NP O 330,338
 activity NN I-NP O 339,347
 and CC O O 348,351
 enhance VB I-VP O 352,359
+antigen-specific JJ I-NP O 360,376
 antibody NN I-NP O 377,385
 and CC O O 386,389
+cell-mediated JJ I-NP O 390,403
 immune NN I-NP O 404,410
 responses, NN I-NP O 411,420
 especially RB O O 422,432
@@ -67,6 +71,7 @@ uptake NN I-NP O 497,503
 and CC O O 504,507
 delivery NN I-NP O 508,516
 into IN I-PP O 517,521
+antigen-presenting JJ I-NP I-KP 522,540
 cells NNS I-NP I-KP 541,546
 [22–24]. VBP I-VP O 547,554
 
@@ -135,6 +140,7 @@ by IN I-PP O 944,946
 the DT I-NP O 947,950
 production NN I-NP I-KP 951,961
 of IN I-PP I-KP 962,964
+IFN-γ NNP I-NP I-KP 965,970
 and CC O I-KP 971,974
 the DT I-NP I-KP 975,978
 generation NN I-NP I-KP 979,989
@@ -156,6 +162,7 @@ CpG NNP I-NP O 1082,1085
 ODN NNP I-NP O 1086,1089
 significantly RB O O 1090,1103
 increased VBD I-VP O 1104,1113
+Th1-biased JJ I-NP I-KP 1114,1124
 cytokines NNS I-NP I-KP 1125,1134
 and CC O O 1135,1138
 augmented VBN I-VP I-KP 1139,1148

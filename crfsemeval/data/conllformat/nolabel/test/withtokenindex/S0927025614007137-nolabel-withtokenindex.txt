@@ -65,6 +65,7 @@ minority NN I-NP I-KP 434,442
 phase NN I-NP I-KP 443,448
 at IN I-PP I-KP 449,451
 the DT I-NP I-KP 452,455
+nano-scale. JJ I-NP I-KP 456,466
 
 These DT I-NP O 468,473
 modifiers NNS I-NP O 474,483
@@ -84,6 +85,7 @@ glass NN I-NP I-KP 562,567
 [3], NNP I-NP O 568,571
 alumina VBZ I-VP I-KP 573,580
 [4], JJ I-NP O 581,584
+nano-clays JJ I-NP I-KP 586,596
 [5] NN I-NP O 597,600
 and CC O O 601,604
 carbon NN I-NP I-KP 605,611

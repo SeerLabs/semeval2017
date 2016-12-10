@@ -15,12 +15,14 @@ of IN I-PP O
 hard JJ I-NP I-KP
 constraints NNS I-NP I-KP
 and CC O O
+knowledge-base NN I-NP I-KP
 merging: VBP I-VP I-KP
 the DT I-NP O
 idea NN I-NP O
 of IN I-PP O
 Konieczny NNP I-NP O
 and CC O O
+Pino-Perez NNP I-NP O
 is VBZ I-VP O
 to TO I-VP O
 explain VB I-VP O
@@ -90,6 +92,7 @@ the DT I-NP O
 AGM NNP I-NP I-KP
 revision NN I-NP I-KP
 and CC O O
+knowledge-based JJ I-NP I-KP
 merging. NN I-NP I-KP
 
 However, NNP I-NP O

@@ -50,6 +50,7 @@ by IN I-PP O
 Si–O NNP I-NP I-KP
 bonds NNS I-NP I-KP
 in IN I-PP O
+a-SiO2 JJ I-NP I-KP
 leading VBG I-NP I-KP
 to TO I-VP O
 their PRP$ I-NP O
@@ -76,11 +77,13 @@ can MD I-VP O
 spontaneously RB I-VP I-KP
 trap VB I-VP I-KP
 in IN I-PP O
+non-defective JJ I-NP I-KP
 continuum NN I-NP I-KP
 random NN I-NP I-KP
 network NN I-NP I-KP
 model NN I-NP I-KP
 of IN I-PP O
+a-SiO2 JJ I-NP I-KP
 [17]. NN I-NP O
 
 Recent JJ I-NP O
@@ -98,7 +101,9 @@ defects NNS I-NP I-KP
 at IN I-PP O
 surfaces NNS I-NP I-KP
 of IN I-PP I-KP
+a-SiO2, JJ I-NP I-KP
 the DT I-NP O
+non-bridging JJ I-NP I-KP
 oxygen NN I-NP I-KP
 centre NN I-NP I-KP
 and CC O O

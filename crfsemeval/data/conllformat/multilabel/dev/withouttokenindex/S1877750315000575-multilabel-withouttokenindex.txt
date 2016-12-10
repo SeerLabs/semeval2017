@@ -118,6 +118,7 @@ that IN I-PP O
 massive JJ I-NP I-P
 use NN I-NP I-P
 of IN I-PP I-P
+real-time JJ I-NP I-P
 information NN I-NP I-P
 can MD I-VP O
 have VB I-VP O

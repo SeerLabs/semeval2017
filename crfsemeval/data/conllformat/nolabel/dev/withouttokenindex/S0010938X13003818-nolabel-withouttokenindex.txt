@@ -69,7 +69,9 @@ recorded VBN I-VP O
 by IN I-PP O
 using VBG I-VP O
 a DT I-NP O
+NI-USB JJ I-NP I-KP
 6009 CD I-NP I-KP
+analog-to-digital JJ I-NP I-KP
 converter. NN I-NP I-KP
 
 The DT I-NP O
@@ -79,6 +81,7 @@ signal NN I-NP I-KP
 was VBD I-VP O
 recorded VBN I-VP O
 using VBG I-VP O
+in-house NN I-NP I-KP
 developed VBD I-VP I-KP
 software, JJ I-NP I-KP
 acquiring VBG I-NP O

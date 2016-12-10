@@ -15,12 +15,14 @@ of IN I-PP O 86,88
 hard JJ I-NP I-KP 89,93
 constraints NNS I-NP I-KP 94,105
 and CC O O 106,109
+knowledge-base NN I-NP I-KP 110,124
 merging: VBP I-VP I-KP 125,132
 the DT I-NP O 134,137
 idea NN I-NP O 138,142
 of IN I-PP O 143,145
 Konieczny NNP I-NP O 146,155
 and CC O O 156,159
+Pino-Perez NNP I-NP O 160,170
 is VBZ I-VP O 171,173
 to TO I-VP O 174,176
 explain VB I-VP O 177,184
@@ -90,6 +92,7 @@ the DT I-NP O 579,582
 AGM NNP I-NP I-KP 583,586
 revision NN I-NP I-KP 587,595
 and CC O O 596,599
+knowledge-based JJ I-NP I-KP 600,615
 merging. NN I-NP I-KP 616,623
 
 However, NNP I-NP O 625,632

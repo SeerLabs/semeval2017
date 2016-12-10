@@ -82,6 +82,7 @@ functional JJ I-NP I-KP 504,514
 theory NN I-NP I-KP 515,521
 (DFT) NN I-NP O 522,527
 to TO I-VP O 528,530
+JT-distorted JJ I-NP I-KP 531,543
 systems NNS I-NP I-KP 544,551
 has VBZ I-VP O 552,555
 also RB I-VP O 556,560
@@ -92,6 +93,7 @@ Na3 NNP I-NP I-KP 577,580
 [10], NNP I-NP O 581,585
 and CC O O 587,590
 the DT I-NP O 591,594
+B-X NNP I-NP I-KP 595,598
 transition NN I-NP I-KP 599,609
 has VBZ I-VP O 610,613
 been VBN I-VP O 614,618
@@ -99,6 +101,8 @@ revisited VBN I-VP O 619,628
 as IN I-PP O 629,631
 well, JJ I-NP O 632,636
 applying VBG I-NP O 638,646
+state-averaged JJ I-NP I-KP 647,661
+multi-reference NN I-NP I-KP 662,677
 configuration NN I-NP I-KP 678,691
 interaction NN I-NP I-KP 692,703
 with IN I-PP O 704,708
@@ -112,6 +116,7 @@ to TO I-VP O 739,741
 derive VB I-VP I-KP 742,748
 more JJR I-NP I-KP 749,753
 accurate JJ I-NP I-KP 754,762
+non-adiabatic JJ I-NP I-KP 763,776
 coupling NN I-NP I-KP 777,785
 terms NNS I-NP I-KP 786,791
 for IN I-PP O 792,795

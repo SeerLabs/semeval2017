@@ -29,6 +29,7 @@ are VBP I-VP I-KP
 indeed RB I-VP I-KP
 the DT I-NP I-KP
 predicted VBN I-NP I-KP
+super-partners. NN I-NP I-KP
 
 A DT I-NP O
 method NN I-NP O
@@ -58,6 +59,7 @@ to TO I-VP O
 charge VB I-VP I-KP
 asymmetry NN I-NP I-KP
 in IN I-PP O
+lepton-jet JJ I-NP I-KP
 invariant JJ I-NP I-KP
 mass NN I-NP I-KP
 distributions. NN I-NP I-KP
@@ -77,6 +79,7 @@ asymmetry NN I-NP I-KP
 between IN I-PP O
 squarks NNS I-NP I-KP
 and CC O O
+anti-squarks. NN I-NP I-KP
 
 Monte NNP I-NP I-KP
 Carlo NNP I-NP I-KP
@@ -101,9 +104,11 @@ are VBP I-VP O
 consistent JJ I-NP O
 with IN I-PP O
 a DT I-NP O
+spin-0 JJ I-NP I-KP
 slepton NN I-NP I-KP
 and CC O O
 a DT I-NP O
+spin-12χ˜20, JJ I-NP O
 but CC O O
 are VBP I-VP O
 not RB I-VP O

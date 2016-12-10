@@ -6,6 +6,7 @@ the DT I-NP O 30,33
 first JJ I-NP O 34,39
 generation NN I-NP O 40,50
 of IN I-PP O 51,53
+gas-cooled JJ I-NP I-KP 54,64
 reactors NNS I-NP I-KP 65,73
 in IN I-PP O 74,76
 the DT I-NP O 77,80
@@ -66,6 +67,7 @@ surfaces NNS I-NP I-KP 405,413
 [12]. VBP I-VP O 414,418
 
 This DT I-NP O 420,424
+non-graphitic JJ I-NP I-KP 425,438
 carbon NN I-NP I-KP 439,445
 deposit NN I-NP I-KP 446,453
 is VBZ I-VP O 454,456

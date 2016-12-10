@@ -116,6 +116,7 @@ Rojas, NNP I-NP O
 
 We PRP I-NP O
 use VBP I-VP O
+feed-forward JJ I-NP I-P
 networks NNS I-NP I-P
 with IN I-PP I-P
 a DT I-NP I-P
@@ -127,6 +128,7 @@ nodes, FW I-NP I-P
 a DT I-NP O
 so RB O O
 called JJ I-NP O
+Multi-Layer NNP I-NP I-P
 Perceptron NNP I-NP I-P
 (MLP) NNP I-NP O
 (Venables NNS I-NP O

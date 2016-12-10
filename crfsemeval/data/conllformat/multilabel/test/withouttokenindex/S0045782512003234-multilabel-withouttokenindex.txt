@@ -96,6 +96,7 @@ importance NN I-NP O
 in IN I-PP O
 providing VBG I-VP I-P
 sufficient JJ I-NP I-P
+load-carrying JJ I-NP I-P
 capacity. NN I-NP I-P
 
 However, NNP I-NP O

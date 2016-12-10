@@ -22,6 +22,7 @@ population NN I-NP I-KP 136,146
 et CC O O 155,157
 al., JJ I-NP O 158,161
 2006; CD I-NP O 163,167
+Rivest-Henault JJ I-NP O 169,183
 et NN I-NP O 184,186
 al., VBZ I-VP O 187,190
 2012; CD I-NP O 192,196
@@ -59,6 +60,7 @@ the DT I-NP O 360,363
 “sum NN I-NP O 364,368
 of IN I-PP O 369,371
 the DT I-NP O 372,375
+Gaussian-blurred NNP I-NP O 376,392
 intensity NN I-NP O 393,402
 values NNS I-NP O 403,409
 in IN I-PP O 410,412

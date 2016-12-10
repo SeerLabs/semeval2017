@@ -6,6 +6,7 @@ thought VBN I-VP O
 of IN I-PP O
 as IN B-PP O
 a DT I-NP O
+micro-crack JJ I-NP I-KP
 nucleation, NN I-NP I-KP
 specifically RB O O
 as IN I-PP O
@@ -26,6 +27,7 @@ face. NN I-NP I-KP
 
 Initially, IN I-PP O
 the DT I-NP O
+micro-cracks NNS I-NP I-KP
 may MD I-VP O
 be VB I-VP O
 dispersed VBN I-VP O
@@ -59,6 +61,7 @@ as IN I-PP O
 the DT I-NP O
 population NN I-NP O
 of IN I-PP O
+micro-cracks NNS I-NP I-KP
 increases. NNS I-NP O
 
 These DT I-NP O
@@ -106,6 +109,7 @@ structure, NN I-NP I-KP
 i.e. NN I-NP O
 where WRB O O
 two CD I-NP O
+micro-cracks NNS I-NP I-KP
 formed VBD I-VP O
 a DT I-NP O
 continuous JJ I-NP O

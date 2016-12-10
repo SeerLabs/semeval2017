@@ -24,11 +24,13 @@ the DT I-NP I-KP 114,117
 formation NN I-NP I-KP 118,127
 of IN I-PP I-KP 128,130
 the DT I-NP I-KP 131,134
+Θ+-baryon NN I-NP I-KP 135,144
 within IN I-PP O 145,151
 a DT I-NP O 152,153
 new JJ I-NP O 154,157
 approach NN I-NP O 158,166
 called VBN I-VP O 167,173
+parton-based JJ I-NP I-KP 174,186
 Gribov–Regge NNP I-NP I-KP 187,199
 theory. NN I-NP I-KP 200,206
 
@@ -57,6 +59,7 @@ are VBP I-VP O 328,331
 treated VBN I-VP O 332,339
 within IN I-PP O 340,346
 a DT I-NP O 347,348
+self-consistent JJ I-NP I-KP 349,364
 quantum NN I-NP I-KP 365,372
 mechanical JJ I-NP I-KP 373,383
 multiple NN I-NP I-KP 384,392
@@ -127,6 +130,7 @@ partons NNS I-NP I-KP 821,828
 described VBN I-VP O 829,838
 by IN I-PP O 839,841
 a DT I-NP O 842,843
+so-called JJ I-NP O 844,853
 “semihard NN I-NP I-KP 854,863
 pomeron”—a NN I-NP O 864,874
 piece NN I-NP I-KP 875,880
@@ -207,6 +211,7 @@ the DT I-NP I-KP 1296,1299
 experimental JJ I-NP I-KP 1300,1312
 yields NNS I-NP I-KP 1313,1319
 on IN I-PP I-KP 1320,1322
+(multi-)strange JJ I-NP I-KP 1323,1338
 baryons NNS I-NP I-KP 1339,1346
 [23]. VBP I-VP O 1347,1351
 

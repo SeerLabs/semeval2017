@@ -20,6 +20,7 @@ lifted VBN I-VP O
 by IN I-PP O
 the DT I-NP O
 gauge JJ I-NP I-P
+D-term NNP I-NP I-P
 interactions, NN I-NP I-P
 since, NN I-NP O
 if IN I-PP O
@@ -52,9 +53,11 @@ our PRP$ I-NP O
 attention NN I-NP O
 on IN I-PP O
 the DT I-NP O
+D-flat NNP I-NP I-T
 directions. NN I-NP I-T
 
 For IN I-PP O
+D-flat NNP I-NP I-T
 directions, NN I-NP I-T
 we PRP B-NP O
 have VBP I-VP O
@@ -97,6 +100,7 @@ lift VBP I-VP O
 some DT I-NP O
 of IN I-PP O
 the DT I-NP O
+D-flat NNP I-NP I-T
 directions. NN I-NP I-T
 
 In IN I-PP O
@@ -106,6 +110,7 @@ can MD I-VP O
 also RB I-VP O
 find VB I-VP O
 several JJ I-NP O
+D-flat NNP I-NP I-T
 directions NNS I-NP I-T
 which WDT B-NP O
 are VBP I-VP O
@@ -121,8 +126,10 @@ the DT I-NP O
 fermion NN I-NP O
 masses; NN I-NP O
 without IN I-PP O
+R-parity NNP I-NP O
 violation, NN I-NP O
 such JJ I-NP O
+D-flat JJ I-NP I-T
 directions NNS I-NP I-T
 are VBP I-VP O
 only RB I-VP O
@@ -138,6 +145,7 @@ assume VBP I-VP O
 that IN I-PP O
 coefficients NNS I-NP I-T
 of IN I-PP I-T
+non-renormalizable JJ I-NP I-T
 terms NNS I-NP I-T
 are VBP I-VP O
 suppressed VBN I-VP O
@@ -152,7 +160,9 @@ be VB I-VP O
 explained VBN I-VP O
 by IN I-PP O
 the DT I-NP O
+R-symmetry, JJ I-NP I-P
 assigning VBG I-VP O
+R-charge JJ I-NP I-P
 23 CD I-NP I-P
 to TO I-VP O
 each DT I-NP O

@@ -17,6 +17,7 @@ element NN I-NP I-P
 method NN I-NP I-P
 for IN I-PP O
 a DT I-NP O
+multi-term JJ I-NP I-T
 time NN I-NP I-T
 fractional JJ I-NP I-T
 diffusion NN I-NP I-T
@@ -71,6 +72,7 @@ regularity NN I-NP I-M
 results NNS I-NP I-M
 of IN I-PP O
 the DT I-NP O
+multi-term JJ I-NP O
 time NN I-NP O
 fractional JJ I-NP O
 diffusion NN I-NP O
@@ -120,7 +122,9 @@ extensive JJ I-NP O
 numerical JJ I-NP I-P
 experiments NNS I-NP I-P
 in IN I-PP O
+one- JJ I-NP I-P
 and CC O I-P
+two-dimension JJ I-NP I-P
 fully RB O O
 confirmed VBN I-VP O
 our PRP$ I-NP O

@@ -33,6 +33,7 @@ chemical NN I-NP O 207,215
 gels NNS I-NP O 216,220
 featuring VBG I-VP O 221,230
 permanent JJ I-NP O 231,240
+cross-linked JJ I-NP I-KP 241,253
 branching NN I-NP I-KP 254,263
 networks. NN I-NP I-KP 264,272
 
@@ -72,6 +73,7 @@ gel NN I-NP I-KP 477,480
 formed VBN I-VP O 481,487
 by IN I-PP O 488,490
 the DT I-NP O 491,494
+thrombin-induced JJ I-NP I-KP 495,511
 polymerisation NN I-NP I-KP 512,526
 of IN I-PP O 527,529
 fibrinogen NN I-NP I-KP 530,540
@@ -104,6 +106,7 @@ particularly RB I-VP O 681,693
 interesting JJ I-NP O 694,705
 as IN I-PP O 706,708
 the DT I-NP O 709,712
+critical-gel NN I-NP I-KP 713,725
 which WDT B-NP O 726,731
 is VBZ I-VP O 732,734
 established VBN I-VP O 735,746
@@ -126,6 +129,7 @@ rheological JJ I-NP I-KP 841,852
 properties NNS I-NP I-KP 853,863
 in IN I-PP O 864,866
 the DT I-NP O 867,870
+post-GP JJ I-NP O 871,878
 phase NN I-NP O 879,884
 of IN I-PP O 885,887
 fibrin NN I-NP I-KP 888,894

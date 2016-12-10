@@ -65,6 +65,7 @@ in IN I-PP I-P
 thin JJ I-NP I-P
 layers NNS I-NP I-P
 of IN I-PP I-P
+a-SiO2 JJ I-NP I-M
 grown NN I-NP I-P
 on IN I-PP I-P
 silicon NN I-NP I-M
@@ -100,6 +101,7 @@ major JJ I-NP I-M
 hole NN I-NP I-M
 trap NN I-NP I-M
 in IN I-PP O
+a-SiO2 JJ I-NP I-M
 [1–3]. NN I-NP O
 
 In IN I-PP O
@@ -111,6 +113,7 @@ for IN I-PP O
 E′ NNP I-NP I-M
 centres NNS I-NP I-M
 in IN I-PP I-M
+α-quartz, JJ I-NP I-M
 upon IN I-PP O
 trapping VBG I-VP O
 a DT I-NP O
@@ -209,6 +212,7 @@ of IN I-PP O
 positive JJ I-NP O
 charge NN I-NP O
 upon IN I-PP O
+post-irradiation NN I-NP I-P
 electron NN I-NP I-P
 injection NN I-NP I-P
 in IN I-PP O

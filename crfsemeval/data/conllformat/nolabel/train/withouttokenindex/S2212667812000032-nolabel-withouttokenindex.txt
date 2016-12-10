@@ -1,9 +1,11 @@
+Aspect-oriented JJ I-NP I-KP
 Programming NNP I-NP I-KP
 (AOP) NN I-NP O
 can MD I-VP O
 well RB I-VP O
 solve VB I-VP I-KP
 the DT I-NP I-KP
+cross-cutting JJ I-NP I-KP
 concerns. NN I-NP I-KP
 
 Because IN I-PP O
@@ -28,6 +30,7 @@ a DT I-NP O
 model NN I-NP I-KP
 to TO I-VP I-KP
 test VB I-VP I-KP
+aspect-oriented JJ I-NP I-KP
 software. NN I-NP I-KP
 
 In IN I-PP O

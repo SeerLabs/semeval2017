@@ -37,6 +37,7 @@ oxidation. NN I-NP I-KP
 
 At IN I-PP O
 high JJ I-NP O
+burn-ups, JJ I-NP O
 i.e. NN I-NP O
 extended VBD I-VP O
 service NN I-NP O
@@ -46,6 +47,7 @@ and CC O O
 the DT I-NP O
 associated JJ I-NP O
 hydrogen NN I-NP I-KP
+pick-up NN I-NP I-KP
 can MD I-VP O
 be VB I-VP O
 a DT I-NP O

@@ -8,6 +8,7 @@ a DT I-NP I-T
 scattering JJ I-NP I-T
 medium NN I-NP I-T
 with IN I-PP I-T
+piece-wise JJ I-NP I-T
 constant JJ I-NP I-T
 refractive NN I-NP I-T
 index NN I-NP I-T
@@ -23,6 +24,7 @@ Light JJ I-NP O
 propagation NN I-NP O
 in IN I-PP O
 each DT I-NP O
+sub-domain NN I-NP O
 with IN I-PP O
 a DT I-NP O
 constant JJ I-NP O
@@ -52,6 +54,7 @@ the DT I-NP O
 interfaces NNS I-NP O
 between IN I-PP O
 the DT I-NP O
+sub-domains. NN I-NP O
 
 The DT I-NP O
 resulting VBG I-NP O

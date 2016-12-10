@@ -12,6 +12,7 @@ problem: NN I-NP O 71,78
 the DT B-NP O 80,83
 design NN I-NP I-KP 84,90
 of IN I-PP I-KP 91,93
+mobile-friendly JJ I-NP I-KP 94,109
 unique JJ I-NP I-KP 110,116
 identifiers. NN I-NP I-KP 117,128
 
@@ -25,6 +26,7 @@ the DT I-NP O 160,163
 design NN I-NP I-KP 164,170
 of IN I-PP I-KP 171,173
 other JJ I-NP I-KP 174,179
+text-based JJ I-NP I-KP 180,190
 services. NN I-NP I-KP 191,199
 
 There EX I-NP O 201,206
@@ -95,6 +97,7 @@ and CC O O 576,579
 quirks. NN I-NP O 580,586
 
 The DT I-NP O 588,591
+mode-switching NN I-NP I-KP 592,606
 that IN I-PP O 607,611
 most JJS O O 612,616
 touchscreen JJ I-NP O 617,628

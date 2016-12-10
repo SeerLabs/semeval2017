@@ -8,6 +8,7 @@ to TO I-VP O
 the DT I-NP O
 manufacture NN I-NP I-KP
 of IN I-PP I-KP
+self-folding JJ I-NP I-KP
 hydrogel NN I-NP I-KP
 scaffolds NNS I-NP I-KP
 by IN I-PP O
@@ -71,6 +72,7 @@ swelling NN I-NP I-KP
 of IN I-PP I-KP
 the DT I-NP I-KP
 PAA NNP I-NP B-KP
+inter-penetrating JJ I-NP I-KP
 network NN I-NP I-KP
 (IPN) NN I-NP O
 in IN I-PP O
@@ -123,6 +125,7 @@ of IN I-PP O
 producing VBG I-VP I-KP
 environmentally RB I-VP I-KP
 triggered VBN I-VP I-KP
+self-folding JJ I-NP I-KP
 all DT I-NP I-KP
 hydrogel NN I-NP I-KP
 scaffolds NNS I-NP I-KP
@@ -178,6 +181,7 @@ scaffolds, NNS I-NP I-KP
 and CC O O
 while IN I-PP O
 being VBG I-VP O
+non-fouling JJ I-NP O
 and CC O O
 nontoxic JJ I-NP O
 it PRP B-NP O

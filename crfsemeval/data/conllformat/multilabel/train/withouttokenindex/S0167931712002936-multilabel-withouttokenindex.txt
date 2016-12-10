@@ -12,6 +12,7 @@ combined VBN I-VP O
 with IN I-PP O
 Monte NNP I-NP I-P
 Carlo NNP I-NP I-P
+single-electron NN I-NP I-P
 circuit NN I-NP I-P
 simulations NNS I-NP I-P
 to TO I-VP O
@@ -43,6 +44,7 @@ precisely RB I-VP O
 input VBN I-VP O
 into IN I-PP O
 COMSOL’s NNP I-NP I-M
+FEM-based JJ I-NP I-M
 electrostatics NNS I-NP I-M
 simulator. NN I-NP I-M
 
@@ -58,6 +60,7 @@ and CC I-VP O
 fed VBN I-VP O
 into IN I-PP O
 the DT I-NP O
+well-tested JJ I-NP I-M
 single JJ I-NP I-M
 electron NN I-NP I-M
 circuit NN I-NP I-M
