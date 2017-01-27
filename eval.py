@@ -1,9 +1,10 @@
 #!/usr/bin/python
+# by Mattew Peters, who spotted that sklearn does macro averaging not micro averaging correctly and changed it
 
 import os
-from sklearn.metrics import classification_report
+from sklearn.metrics import precision_recall_fscore_support
 import sys
-import logging
+import copy
 
 def calculateMeasures(folder_gold="data/dev/", folder_pred="data_pred/dev/", remove_anno = ""):
     '''
@@ -46,8 +47,6 @@ def calculateMeasures(folder_gold="data/dev/", folder_pred="data_pred/dev/", rem
             else:
                 # those are the false positives, contained in pred but not gold
                 res_all_gold.append("NONE")
-                if not "NONE" in targets:
-                    targets.append("NONE")
 
             if r in spans_pred:
                 target_pred = res_pred[spans_pred.index(r)].split(" ")[0]
@@ -58,7 +57,62 @@ def calculateMeasures(folder_gold="data/dev/", folder_pred="data_pred/dev/", rem
 
 
     #y_true, y_pred, labels, targets
-    print(classification_report(res_all_gold, res_all_pred, targets))
+    prec, recall, f1, support = precision_recall_fscore_support(
+        res_all_gold, res_all_pred, labels=targets, average=None)
+    # unpack the precision, recall, f1 and support
+    metrics = {}
+    for k, target in enumerate(targets):
+        metrics[target] = {
+            'precision': prec[k],
+            'recall': recall[k],
+            'f1-score': f1[k],
+            'support': support[k]
+        }
+
+    # now micro-averaged
+    if remove_anno != 'types':
+        prec, recall, f1, s = precision_recall_fscore_support(
+            res_all_gold, res_all_pred, labels=targets, average='micro')
+        metrics['overall'] = {
+            'precision': prec,
+            'recall': recall,
+            'f1-score': f1,
+            'support': sum(support)
+        }
+    else:
+        # just binary classification, nothing to average
+        metrics['overall'] = metrics['KEYPHRASE-NOTYPES']
+
+    print_report(metrics, targets)
+    return metrics
+
+
+
+def print_report(metrics, targets, digits=2):
+    def _get_line(results, target, columns):
+        line = [target]
+        for column in columns[:-1]:
+            line.append("{0:0.{1}f}".format(results[column], digits))
+        line.append("%s" % results[columns[-1]])
+        return line
+
+    columns = ['precision', 'recall', 'f1-score', 'support']
+
+    fmt = '%11s' + '%9s' * 4 + '\n'
+    report = [fmt % tuple([''] + columns)]
+    report.append('\n')
+    for target in targets:
+        results = metrics[target]
+        line = _get_line(results, target, columns)
+        report.append(fmt % tuple(line))
+    report.append('\n')
+
+    # overall
+    line = _get_line(metrics['overall'], 'avg / total', columns)
+    report.append(fmt % tuple(line))
+    report.append('\n')
+
+    print(''.join(report))
 
 
 def normaliseAnnotations(file_anno, remove_anno):
@@ -74,7 +128,6 @@ def normaliseAnnotations(file_anno, remove_anno):
     rels_anno = []
 
     for l in file_anno:
-        #logging.debug("line: %(1)s" % {"1":l})
         r_g = l.strip().split("\t")
         r_g_offs = r_g[1].split(" ")
 
@@ -94,11 +147,15 @@ def normaliseAnnotations(file_anno, remove_anno):
                 if r_g_tmp[0] == arg2:
                     ent2 = r_g_tmp[1].replace(" ", "_")
 
-            try:
-                spans_anno.append(" ".join([ent1, ent2]))
-            except UnboundLocalError:
-                logging.debug("filename: %(0)s\nl: %(1)s" % {"0":file_anno.name,"1":l})
-                sys.exit("UnboundLocalError")
+            if r_g_offs[0] == "Synonym-of":
+                ent1_spl = ent1.split("_")
+                ent2_spl = ent2.split("_")
+                if ent1_spl[1] > ent2_spl[1]:
+                    ent1_old = copy.copy(ent1)
+                    ent1 = copy.copy(ent2)
+                    ent2 = ent1_old
+
+            spans_anno.append(" ".join([ent1, ent2]))
             res_anno.append(" ".join([r_g_offs[0], ent1, ent2]))
             rels_anno.append(" ".join([r_g_offs[0], ent1, ent2]))
 
@@ -154,9 +211,8 @@ def normaliseAnnotations(file_anno, remove_anno):
 
 
 if __name__ == '__main__':
-    logging.basicConfig(level=logging.INFO)
     folder_gold = "/data/jxw394/semeval2017/data/dev/"
-    folder_pred = "/data/jxw394/semeval2017/out/scix_eke-2.0/dev/"
+    folder_pred = "/data/jxw394/semeval2017/out/scix_eke-3.0/dev/"
     remove_anno = "types"  # "", "rel" or "types"
     if len(sys.argv) >= 2:
         folder_gold = sys.argv[1]
