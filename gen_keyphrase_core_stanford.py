@@ -7,6 +7,8 @@
 # Modified: 2016-10-12: output to SemEval 2017 format
 # Jian Wu <fanchyna@gmail.com>
 # Modified: 2016-10-25: use Stanford CoreNLP Tag parser instead of NLTK 
+# Jian Wu <fanchyna@gmail.com>
+# Modified:2017-01-28: change POS tags of "[" to "X" rather than "NN"
 
 
 from __future__ import absolute_import
@@ -108,13 +110,23 @@ def gen_keyphrases(text):
     # old way of tokenization
     #toks = nltk.regexp_tokenize(text, sentence_re)
     st = StanfordPOSTagger(config.stanford_bidirectional_tagger_path,config.stanford_postagger_jar_path,encoding="utf8",java_options="-mx8g")
-    postoks = st.tag(toks)
-
+    _postoks = st.tag(toks)
+    # examine the postags, if "[", then change the tag to "X", create a new list
+    postoks = []
+    for pt in _postoks:
+        if pt[0] == "[":
+            postoks.append(('[','X'))
+        elif pt[0] == "]":
+            postoks.append((']','X'))
+        else:
+            postoks.append(pt)
+    logger.info(postoks)
+    
     # NLTK POS Tagger
     #postoks = nltk.tag.pos_tag(toks)
     logger.debug("postoks: %(1)d"%{"1":len(postoks)})
     tree = chunker.parse(postoks)
-    # case a Tree into a ParentedTree
+    # cast a Tree into a ParentedTree
     ptree = nltk.ParentedTree.convert(tree)
     # for each token, record its tree position
     pos_map = generate_pos_map(ptree,span_toks)

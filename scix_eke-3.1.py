@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-# basically the same as scix_eke-3.0.py except that I replace the NLTK POS tagger 
-# with the Stanford's
-# usage
+# basically the same as scix_eke-3.0.py except that "[" and "]" are tagged as "X", 
+# instead of "NN" 
+# Compared with EKE2.0, I replace the NLTK POS tagger with the Stanford's 
 # run python3 scix_eke-3.0.py -h to see the usage
 # make sure to change the output dir if you want to preserve the previous results
 import argparse
