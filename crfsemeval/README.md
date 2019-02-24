@@ -7,6 +7,7 @@
 ## Description
 
 1. Traindata from SemEval was converted to mallet format by Agnese. The original files are at `semevaltrainingdata`. Mallet formatted files are at `malletformatfeatures`.
+To convert data from semeval to BIO-style tags for classification, the `semeval_to_BIO.py` script can be used (example outputs can be found under malletformatfeaturesBIO, which can also be given as input to `convert.py`, similarly to what explained in the next step).  
 
 2. The data was split randomly into train and test data. The file lists are in `training.txt` and `test.txt`. Also, for each original file, three fields were taken, the word (token), the tag (`B_KP`, `I_KP`) and the index. The files are in `malletformat/training` and `malletformat/test`. `convert.py` was used.
 
